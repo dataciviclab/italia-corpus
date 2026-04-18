@@ -1,0 +1,19 @@
+REGIO DECRETO 23 settembre 1906 n. CCCCLXVII
+
+
+REGIO DECRETO 23 settembre 1906 n. CCCCLXVII
+============================================
+
+Approvazione di statuto. (0600467R)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 24/01/1907
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro di agricoltura, industria e commercio:   
+  
+N. CCCCLXVII (Dato a Racconigi, il 23 settembre 1906), col quale si approva il nuovo statuto organico del Monte di pieta' di Montegiorgio.   
+  

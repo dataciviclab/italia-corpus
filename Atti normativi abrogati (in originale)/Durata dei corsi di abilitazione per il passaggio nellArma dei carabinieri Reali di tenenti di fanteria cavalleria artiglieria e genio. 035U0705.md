@@ -1,0 +1,46 @@
+REGIO DECRETO 29 aprile 1935 n. 705
+
+
+REGIO DECRETO 29 aprile 1935 n. 705
+===================================
+
+Durata dei corsi di abilitazione per il passaggio nell'Arma dei carabinieri Reali di tenenti di fanteria, cavalleria, artiglieria e genio. (035U0705)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/06/1935
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il R. decreto 22 maggio 1927, riguardante i corsi di abilitazione per il passaggio nell'Arma dei carabinieri Reali di tenenti di fanteria, cavalleria, artiglieria e genio;
+
+Sulla
+-----
+
+proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto col Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I corsi di abilitazione di cui all'art. 4 del R. decreto 22 maggio 1927, avranno, normalmente, la durata di mesi tre, compreso il periodo degli esami finali.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 aprile 1935 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 21 maggio 1935 - Anno XIII   
+Atti del Governo, registro 360, foglio 110. - Mancini.   
+  
+  

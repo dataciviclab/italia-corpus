@@ -1,0 +1,57 @@
+REGIO DECRETO 06 ottobre 1921 n. 1619
+
+
+REGIO DECRETO 06 ottobre 1921 n. 1619
+=====================================
+
+Che estende le disposizioni del testo unico delle leggi sull'Agro Romano, alla zona costituita da parte dei territori dei comuni di Terralba, Marrubiu e Santa Giusta in provincia di Cagliari. (021U1619)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/12/1921
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il testo unico delle leggi sul bonificamento dell'Agro Romano, approvato con [R. decreto del 10 novembre 1905, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-11-10;647);   
+  
+Vista la [legge 17 luglio 1910, n. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491), concernente provvedimenti per estendere il bonificamento e la colonizzazione dell'Agro romano;   
+  
+Visto il [R. decreto-legge 28 novembre 1919, n. 2405](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-28;2405);   
+  
+Vista la domanda 19 giugno 1920 della Societa' bonifiche Sarde, anonima con sede in Milano;   
+  
+Vista la deliberazione del Comitato speciale pei lavori contro la disoccupazione del 25 giugno 1921;   
+  
+Vista la [legge 20 agosto 1921, n. 1177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-20;1177), portante provvedimenti per combattere la disoccupazione;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, di concerto coi ministri dei lavori pubblici e del lavoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Le disposizioni degli articoli 20, 21, 22, 24, 25, 28, 29, 30 del testo unico delle leggi sull'Agro romano del 10 novembre 1905, n. 647, degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491~art2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491~art3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491~art4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491~art5), [8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491~art8), [13 della legge 17 luglio 1910, n. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491~art13), e quella dell'art. 2 del decreto Reale 9 novembre 1919, n. 2297, sono estese alla zona costituita da parte dei territori dei comuni di Terralba, Marrubiu e Santa Giusta, in provincia di Cagliari, la quale zona, della superficie di circa ettari 10,400, comprende lo stagno di Sassu ed i terreni ad ovest, a sud-ovest ed a sud del medesimo; ed e' delimitato:   
+  
+a nord, dalla sponda dello stagno di Sassu, sulla linea di confine tra i comuni di Terralba e Santa Giusta e quindi nuovamente dalla sponda dello stagno predetto;   
+  
+ad est, dal limite orientale dello stagno di Sassu e dal ramo piu' orientale del rio di Mogoro e quindi dal seguito del corso di detto rio, fino all'abitato di Terralba;   
+  
+a sud, dalla strada che, partendo dal Rio Mogoro e toccando l'abitato di Terralba nella parte occidentale, raggiunge l'estremo nord della palude di Sa Ussa, quindi dal limite occidentale di detta palude, dalla strada che muove dall'estremo sud di questa e che sviluppandosi fra le regioni Linnas e Fossadeddu raggiunge lo stagno di S. Giovanni e di Marceddi';   
+  
+ad ovest, dal mare Mediterraneo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 16 ottobre 1921.   
+  
+VITTORIO EMANUELE.   
+  
+Mauri - Micheli - Beneduce.   
+  
+Visto, Il guardasigilli: Rodino'.   
+  

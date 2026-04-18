@@ -1,0 +1,36 @@
+LEGGE 27 novembre 1954 n. 1440
+
+
+LEGGE 27 novembre 1954 n. 1440
+==============================
+
+Modificazione dell'art. 31 del testo unico della legge sull'emigrazione.
+------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+Il terzo comma dell'art. 31 del testo unico della legge sull'emigrazione e' sostituito dal seguente:  
+"Il vettore che non sia soddisfatto del nolo determinato dalla Direzione generale della emigrazione ha facolta' di ricorrere ad una Commissione speciale cosi' costituita di volta in volta: presidente, un presidente di sezione della Corte di cassazione, designato dal Primo presidente della Corte medesima; membri: un esperto in materia di emigrazione, non appartenente alla Amministrazione dello Stato, scelto dal Primo presidente della Corte di cassazione entro una terna di nomi proposta dal Ministro per il lavoro e la previdenza sociale; un componente del Consiglio superiore della marina mercantile che non sia rappresentante degli armatori, designate dal Presidente del Consiglio stesso. Due funzionari di grado non inferiore al 6°, uno della Direzione generale dell'emigrazione ed uno del Ministero della marina mercantile interverranno nella Commissione come esperti senza diritto di voto. Fungeranno la segretari un funzionario del Ministero della marina mercantile ed uno della Direzione generale dell'emigrazione di grado non superiore al 9°".  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 27 novembre 1954
+
+EINAUDI SCELBA - MARTINO - GAVA - TAMBRONI
+
+Visto, il Guardasigilli: DE PIETRO

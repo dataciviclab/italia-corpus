@@ -1,0 +1,18 @@
+DECRETO LUOGOTENENZIALE 08 marzo 1945 n. 253
+
+
+DECRETO LUOGOTENENZIALE 08 marzo 1945 n. 253
+============================================
+
+Approvazione del nuovo statuto della Societa' nazionale di previdenza, con sede in Roma. (045U0253)
+---------------------------------------------------------------------------------------------------
+
+Art. 1
+------
+
+N.
+
+253. Decreto Luogotenenziale 8 marzo 1945, col quale, sulla proposta del Ministro per l'industria, il commercio e il lavoro, di concerto con i Ministri per la guerra, per la marina, per l'aeronautica e per le finanze, viene approvato il nuovo statuto della Societa' nazionale di previdenza, con sede in Roma, secondo il testo annesso al decreto stesso composto di 55 articoli.   
+  
+Visto, il Guardasigilli: TUPINI   
+Registrato alla Corte dei conti, addi' 28 maggio 1945

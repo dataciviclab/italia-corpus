@@ -1,0 +1,39 @@
+LEGGE 18 aprile 1940 n. 378
+
+
+LEGGE 18 aprile 1940 n. 378
+===========================
+
+Conferimento al generale di corpo d'armata nella riserva Cattaneo Giovanni del rango di generale di corpo d'armata designato per il comando d'armata. (040U0378)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/06/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Al generale di corpo d'armata Cattaneo Giovanni e' conferito, dal giorno della sua iscrizione nella riserva, il rango di generale di corpo d'armata designato per il comando d'armata, ai soli effetti del R. decreto 16 dicembre 1927-VI, n. 2210, e successive modificazioni.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare, come legge dello Stato.   
+  
+Data a Roma, addi' 18 aprile 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI   
+  
+Visto, il Guardasigilli: GRANDI   

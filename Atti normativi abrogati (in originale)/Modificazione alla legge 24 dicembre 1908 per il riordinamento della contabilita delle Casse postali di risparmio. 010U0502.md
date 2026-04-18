@@ -1,0 +1,47 @@
+LEGGE 17 luglio 1910 n. 502
+
+
+LEGGE 17 luglio 1910 n. 502
+===========================
+
+Modificazione alla legge 24 dicembre 1908, per il riordinamento della contabilita' delle Casse postali di risparmio. (010U0502)
+-------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/08/1910
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+La ripartizione della somma di L. 1,412,000 assegnata dalla [legge 24 dicembre 1908, n. 719](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;719), per il riordinamento della contabilita' delle Casse postali di risparmio, a carico degli esercizi 1909-910, 1910-911, 1911-912, e' variata come segue:   
+  
+Esercizio 1909-910 . . . L. 746,000   
+  
+» 1910-911 . . . » 546,000   
+  
+» 1911-912 . . . » 120,000   
+  
+In relazione a tale ripartizione saranno inscritte nello stato di previsione dell'entrata (parte straordinaria) le corrispondenti quote annuali di rimborso dovute dalla Cassa depositi e prestiti, a carico della gestione delle Casse postali di risparmio.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Racconigi, addi' 17 luglio 1910.   
+  
+VITTORIO EMANUELE.   
+  
+Luzzatti - Tedesco - Ciuffelli.   
+  
+Visto, Il guardasigilli: Fani.   
+  

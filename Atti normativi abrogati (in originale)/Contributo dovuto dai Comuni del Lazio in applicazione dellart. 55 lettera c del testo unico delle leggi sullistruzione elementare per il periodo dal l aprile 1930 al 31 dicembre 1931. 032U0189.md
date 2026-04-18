@@ -1,0 +1,52 @@
+REGIO DECRETO 18 gennaio 1932 n. 189
+
+
+REGIO DECRETO 18 gennaio 1932 n. 189
+====================================
+
+Contributo dovuto dai Comuni del Lazio in applicazione dell'art. 55, lettera c), del testo unico delle leggi sull'istruzione elementare, per il periodo dal l° aprile 1930 al 31 dicembre 1931. (032U0189)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/04/1932
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+  
+RE D'ITALIA   
+  
+Veduto il R. decreto 18 ottobre 1927, che stabilisce le sedi dei Provveditorati agli studi e le relative circoscrizioni, ed il R. decreto 2 dicembre 1928 che lo modifica;   
+Veduto l'[art. 19 del R. decreto-legge 4 settembre 1925, n. 1722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722~art19);   
+Veduti gli articoli 55 e 56 del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);   
+Veduti gli elenchi dei posti d'insegnante di scuole classificate, legalmente istituiti ed esistenti al 1° aprile 1930 nei Comuni delle provincie di Frosinone, Rieti, Roma e Viterbo: elenchi compilati dal Regio provveditorato agli studi per il Lazio;   
+Veduto l'[art. 2 del R. decreto 14 settembre 1931, n. 1175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175~art2); Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze;   
+Abbiamo decretato e decretiamo:   
+E' approvata la liquidazione del contributo che ciascun Comune delle provincie di Frosinone, Rieti, Roma e Viterbo deve versare annualmente alla Regia tesoreria dello Stato in applicazione dell'art. 55, lettera c), del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), il cui ammontare rimane stabilito, per il periodo 1° aprile 1930-31 dicembre 1931, nella somma indicata nell'elenco che, d'ordine Nostro, viene annesso al presente decreto.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetta di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 18 gennaio 1932 - Anno X   
+  
+VITTORIO EMANUELE.   
+  
+  
+Giuliano - Mosconi   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 16 marzo 1932 - Anno X   
+Atti del Governo, registro 318, foglio 72 - Ferzi.   
+  
+
+Elenco
+
+ ELENCO delle somme che i sottoindicati Comuni debbono versare annualmente alla regia tesoreria dello Stato, per il periodo 1° aprile 1930-31 dicembre 1931, in applicazione dell'art. 55, lettera c) del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n.577](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577)
+  
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=032U018900100010110001&dgu=1932-03-24&art.dataPubblicazioneGazzetta=1932-03-24&art.codiceRedazionale=032U0189)
+  
+  

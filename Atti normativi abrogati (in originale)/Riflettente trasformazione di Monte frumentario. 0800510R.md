@@ -1,0 +1,19 @@
+REGIO DECRETO 16 novembre 1908 n. DX
+
+
+REGIO DECRETO 16 novembre 1908 n. DX
+====================================
+
+Riflettente trasformazione di Monte frumentario. (0800510R)
+-----------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/01/1909
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro dell'interno:   
+  
+N. DX (Dato a San Rossore, il 16 novembre 1908), col quale si provvede alla parziale trasformazione del Monte frumentario comunale di Montefano a favore del locale asilo infantile, alla erezione dell'asilo medesimo in ente morale ed alla approvazione dello statuto organico relativo.   
+  

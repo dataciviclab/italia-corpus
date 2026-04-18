@@ -1,0 +1,43 @@
+REGIO DECRETO 30 giugno 1889 n. 6240
+
+
+REGIO DECRETO 30 giugno 1889 n. 6240
+====================================
+
+Che modifica il quadro organico del Corpo del Genio navale. (089U6240)
+----------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/08/1889
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la legge 3 dicembre 1878 sul riordinamento del personale della R. Marina;   
+  
+Visto il [R. decreto in data 1° luglio 1888, N. 5529](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-07-01;5529) (Serie 3ª), che stabilisce il quadro organico del Corpo del Genio navale;   
+  
+Vista la legge in data 29 giugno 1889, che approva lo stato di previsione della spesa del Ministero della Marina per l'esercizio finanziario dal 1° luglio 1889 al 30 giugno 1890;   
+  
+Sulla proposta del Nostro Ministro della Marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il numero degli ingegneri di 1ª classe nel Corpo del Genio navale e' portato da ventiquattro a trenta, e quello degli allievi ingegneri, e' ridotto da otto a sei.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 giugno 1889.   
+  
+UMBERTO.   
+  
+B. Brin.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

@@ -1,0 +1,50 @@
+REGIO DECRETO 11 luglio 1909 n. 880
+
+
+REGIO DECRETO 11 luglio 1909 n. 880
+===================================
+
+Che aumenta il contributo annuo governativo pei lavori di rimboscamento e rinsaldamento da eseguirsi in provincia di Belluno. (009U0880)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/07/1910
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il [R. decreto 25 settembre 1903, n. 415](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-09-25;415), col quale veniva costituito un Consorzio fra lo Stato e la provincia di Belluno per procedere, ai termini dell'articolo 11 della vigente legge forestale 20 giugno 1877, n. 3917 (serie 2ª), al rimboscamento e consolidamento, col concorso del Governo, dei terreni di quella Provincia, che, per la loro natura e situazione influiscono a disordinare il corso delle acque e ad alterare la consistenza del suolo;
+
+Visto che col precitato R. decreto si stabiliva che il Governo concorresse per la meta' delle spese occorrenti nei lavori di rimboscamento su indicati e fino alla somma annua di L. 5000 e che l'altra meta' rimanesse a carico della Provincia interessata;
+
+Vista la deliberazione presa dal Consiglio provinciale di Belluno nell'adunanza del 28 aprile 1909, colla quale viene aumentato fino a L. 6000 il contributo annuo della Provincia nelle spese su ricordate;
+
+Visti gli articoli 5 e 11 della vigente legge forestale 20 giugno 1877, n. 3917 (serie 2ª);
+
+Sulla
+-----
+
+proposta del Nostro ministro per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il contributo annuo del Governo nei lavori di rimboscamento e rinsaldimento da eseguirsi nella provincia di Belluno, a cura di quel Comitato forestale, determinato fino alla somma di L. 5000 col [R. decreto 25 settembre 1903, n. 415](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-09-25;415), e' aumentato, a decorrere dall'esercizio 1909-910 fino alla somma di L. 6000, corrispondente al contributo stabilito dalla Provincia interessata.   
+  
+La somma di L. 6000 anzidetta sara' prelevata dal fondo stanziato nel bilancio passivo del Ministero di agricoltura, industria e commercio al capitolo n. 73, per l'esercizio finanziario 1909-910 ed ai capitoli corrispondenti dei bilanci per gli esercizi successivi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 11 luglio 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Cocco-Ortu.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

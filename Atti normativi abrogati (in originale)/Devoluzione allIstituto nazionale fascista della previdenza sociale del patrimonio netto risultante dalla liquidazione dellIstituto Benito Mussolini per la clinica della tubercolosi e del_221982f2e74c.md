@@ -1,0 +1,21 @@
+REGIO DECRETO 25 luglio 1936 n. 1849
+
+
+REGIO DECRETO 25 luglio 1936 n. 1849
+====================================
+
+Devoluzione all'Istituto nazionale fascista della previdenza sociale del patrimonio netto risultante dalla liquidazione dell'Istituto «Benito Mussolini» per la clinica della tubercolosi e delle malattie dell'apparato respiratorio. (036U1849)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/11/1936
+
+Art. 1
+------
+
+N.
+
+1849. R. decreto 25 luglio 1936, col quale, sulla proposta del Ministro per le corporazioni, il patrimonio netto risultante dalla liquidazione dell'Istituto «Benito Mussolini» per la clinica della tubercolosi e delle malattie dell'apparato respiratorio, viene devoluto all'Istituto nazionale fascista della previdenza sociale.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 20 ottobre 1936 - Anno XIV.

@@ -1,0 +1,47 @@
+REGIO DECRETO 13 novembre 1890 n. 7272
+
+
+REGIO DECRETO 13 novembre 1890 n. 7272
+======================================
+
+Che inscrive fra le strade provinciali di Bologna, il tratto dalla provinciale Lughese presso Mordano al Santerno. (090U7272)
+-----------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/12/1890
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA,   
+  
+Vista la deliberazione colla quale il Consiglio comunale di Bologna, nell'adunanza del 31 maggio 1889, stabili' di inscrivere nell'elenco delle provinciali, il tratto di strada da Mordano al confine della provincia di Ravenna;   
+  
+Visti gli atti della seguita pubblicazione della deliberazione suddetta in tutti i comuni della provincia, senza che sieno state presentate opposizioni;   
+  
+Visto il Nostro decreto 16 febbraio p. p. che ha dichiarato inscritto nello elenco delle strade provinciali di Ravenna il tratto dal confine della provincia di Bologna a Bagnara;   
+  
+Visto il voto 25 ottobre 1890 del Consiglio superiore dei Lavori Pubblici;   
+  
+Visto l'art. 14 della legge sulle Opere pubbliche;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il tratto di strada dalla provinciale Lughese presso Mordano al Santerno, confine della provincia di Ravenna, e' inscritto nell'elenco delle strade provinciali di Bologna.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 13 novembre 1890.   
+  
+UMBERTO.   
+  
+G. Finali.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

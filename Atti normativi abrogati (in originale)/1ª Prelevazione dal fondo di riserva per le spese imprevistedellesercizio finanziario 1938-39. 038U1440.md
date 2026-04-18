@@ -1,0 +1,73 @@
+REGIO DECRETO 31 agosto 1938 n. 1440
+
+
+REGIO DECRETO 31 agosto 1938 n. 1440
+====================================
+
+1ª Prelevazione dal fondo di riserva per le spese impreviste 
+dell'esercizio finanziario 1938-39. (038U1440)
+------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/10/1938
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Visto l'[art. 42 del R. decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+
+Ritenuto che sul fondo di riserva per le spese impreviste dell'esercizio finanziario 1938-39 sono disponibili lire 40.000.000;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 290 dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1938-39, e' autorizzata una prima prelevazione nella somma di lire centotrentaseimila (L. 136.000) da assegnarsi, ripartitamente, ai seguenti capitoli dello stato di previsione medesimo:   
+  
+  
+  
+Cap. n. 295-ter (di nuova istituzione) -  
+Contributo straordinario nelle spese  
+dell'Istituto internazionale del risparmio . . . . . . . . . L. 18.000  
+Cap. n. 340-bis (di nuova Istituzione) -  
+Contributo straordinario nelle speso di  
+funzionamento del Gruppo medaglie d'oro . . . . . . . . . . .» 18.000  
+Cap. n. 349-ter (di nuova istituzione) -  
+Sovvenzione per la Casa di ricovero dei  
+garibaldini in Gaeta . . . . . . . . . . . . . . . . . . . . » 50.000  
+Cap. n. 353 - Contributo a favore  
+dell'Associazione nazionale dei  
+mutilati e degli invalidi di guerra, per  
+i servizi di assistenza, ecc. . . . . . . . . . . . . . . .» 50.000  
+  
+Totale . . . . . . . . . . .L. 136.000  
+  
+  
+  
+  
+Questo decreto sara' presentato al Parlamento per la sua convalidazione, restando il Ministro proponente autorizzato alla presentazione del relativo disegno di legge.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 31 agosto 1938 - Anno XVI   
+  
+VITTORIO EMANUELE   
+  
+DI REVEL   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato Corte dei Conti, addi' 17 settembre 1938 - Anno XVI   
+  
+Atti del Governo, registro 401, foglio 102. - MANCINI.   

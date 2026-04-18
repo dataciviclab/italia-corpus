@@ -1,0 +1,52 @@
+REGIO DECRETO 03 aprile 1881 n. 167
+
+
+REGIO DECRETO 03 aprile 1881 n. 167
+===================================
+
+Che modifica la tabella d'armamento del regio avviso Staffetta. (081U0167)
+--------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/06/1881
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il [R. decreto 5 ottobre 1878, n. 4633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1878-10-05;4633), per l'armamento del Regio naviglio;
+
+Sentito il parere del Consiglio superiore di Marina;
+
+Sulla
+-----
+
+proposta del Nostro Ministro per la Marina, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il personale della categoria cannonieri, assegnato dalla tabella A, annessa al [R. decreto 5 ottobre 1878, n. 4633](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1878-10-05;4633), per il R. avviso Staffetta, e' aumentato di   
+  
+Un sottocapo cannoniere;   
+Un cannoniere di 1a classe;   
+Due cannonieri di 2a classe.   
+  
+Il numero dei marinai di 3a classe, assegnato dalla tabella medesima alla detta nave, e' invece ridotto da 34 a 30.   
+  
+Il presente decreto avra' effetto dal 16 corrente mese.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 3 aprile 1881.   
+  
+UMBERTO.   
+  
+F. Acton.   
+  
+Visto, il Guardasigilli: T. Villa.   
+  

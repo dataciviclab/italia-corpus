@@ -1,0 +1,21 @@
+REGIO DECRETO 27 gennaio 1895 n. CCLXXVII
+
+
+REGIO DECRETO 27 gennaio 1895 n. CCLXXVII
+=========================================
+
+Che costituisce in corpo morale la cucina per i poveri malati in Milano. (9500277R)
+-----------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/12/1895
+
+Art. 1
+------
+
+  
+Che costituisce in corpo morale la cucina per i poveri malati in Milano sotto l'amministrazione di un consiglio composto di 5 membri eletti nel proprio seno dall'assemblea dei soci perpetui e triennali e l'autorizza ad accettare i legati disposti dai furono Ernesta Franzini-Bellani e comm. dott. Cesare Todeschini. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
+  
+Registrato alla Corte dei conti addi' 22 novembre 1895.   
+  
+Reg. 201. Atti del Governo a f. 39.   
+  

@@ -1,0 +1,50 @@
+REGIO DECRETO 15 gennaio 1863 n. 1115
+
+
+REGIO DECRETO 15 gennaio 1863 n. 1115
+=====================================
+
+Col quale sono devolute ai Prefetti di Napoli e di Palermo le attribuzioni gia' esercitate dai rispettivi Alti Commissari straordinari. (063U1115)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/02/1863
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il Nostro Decreto del 9 ottobre 1862, n.° 875, con cui le funzioni gia' proprie dei Commissari straordinari instituiti con precedenti Decreti del 9 ottobre 1861, n.° 271, e 5 gennaio 1862, n.° 415, vennero rispettivamente affidate agli Alti Commissari straordinari per le Provincie Napolitane e Siciliane;
+
+Veduti i successivi Nostri Decreti del 16 novembre 1862, n.° 954, e dell'11 corrente mese, n.° 1111, pei quali e' cessato nelle dette Provincie l'ufficio di Alto Commissario straordinario;
+
+Sulla proposizione del Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
+
+Sentito
+-------
+
+il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le attribuzioni devolute agli Alti Commissari straordinari per le Provincie Napolitane e Siciliane col Nostro Decreto del 9 ottobre 1862, n.° 875, saranno esercitate rispettivamente dai Prefetti di Napoli e Palermo.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 15 gennaio 1863.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 27 gennaio 1863   
+  
+Reg.° 22 Atti del Governo a c. 38. Wehrlin.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
+  
+U. Peruzzi.   
+  

@@ -1,0 +1,48 @@
+REGIO DECRETO 05 giugno 1890 n. 6886
+
+
+REGIO DECRETO 05 giugno 1890 n. 6886
+====================================
+
+Sulle obbligazioni della 5ª quota (anno 1889-90) della terza serie dei lavori per la sistemazione del Tevere. (090U6886)
+------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/07/1890
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto l'art. 4 del Nostro decreto in data 1° agosto 1889, n. 6346 (serie 3ª), col quale si disponeva che le obbligazioni della 5ª quota - anno 1889-90 - della terza serie dei lavori per la sistemazione del Tevere, la cui emissione fu autorizzata col decreto stesso, portassero impressa a stampa mediante fac-simile la firma di E.
+
+Cattaneo, quale direttore capo dell'Ufficio di riscontro della Corte dei conti presso la Direzione Generale del Debito Pubblico;
+
+Ritenuto che il suddetto funzionario e' stato collocato a riposo e gli e' succeduto il cav. avv. Pietro Leris;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le preindicate obbligazioni, invece di portare il fac-simile della firma «E. Cattaneo», quale direttore capo dell'Ufficio di Riscontro della Corte dei conti, porteranno il fac-simile della firma di «Leris».   
+  
+Il fac-simile di detta firma sara' identico a quello apposto al modello del titolo da depositarsi negli Archivi Generali del Regno, visto d'ordine Nostro, dal Ministro del Tesoro, assieme al presente decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Ragno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 5 giugno 1890.   
+  
+UMBERTO.   
+  
+Giolitti.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

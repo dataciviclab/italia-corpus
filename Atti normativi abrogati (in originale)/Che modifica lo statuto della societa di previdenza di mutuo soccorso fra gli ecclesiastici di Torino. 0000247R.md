@@ -1,0 +1,21 @@
+REGIO DECRETO 01 luglio 1900 n. CCXLVII
+
+
+REGIO DECRETO 01 luglio 1900 n. CCXLVII
+=======================================
+
+Che modifica lo statuto della societa' di previdenza di mutuo soccorso fra gli ecclesiastici di Torino. (0000247R)
+------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/09/1900
+
+Art. 1
+------
+
+  
+Che approva le modificazioni che la Societa' di previdenza e di mutuo soccorso fra gli ecclesiastici, avente sede in Torino, ha apportato agli articoli 9, 11, 18 e 28 del suo statuto. - Firmato UMBERTO - Controfirmato Carcano - Visto E. Gianturco.   
+  
+Registrato alla Corte dei conti addi' 11 settembre 1900.   
+  
+Reg. 225. Atti del Governo a f. 59.   
+  

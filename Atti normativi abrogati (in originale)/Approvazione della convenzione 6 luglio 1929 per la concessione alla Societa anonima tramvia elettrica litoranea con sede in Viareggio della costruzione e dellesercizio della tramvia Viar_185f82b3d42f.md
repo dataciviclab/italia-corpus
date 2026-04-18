@@ -1,0 +1,45 @@
+REGIO DECRETO 16 giugno 1939 n. 1462
+
+
+REGIO DECRETO 16 giugno 1939 n. 1462
+====================================
+
+Approvazione della convenzione 6 luglio 1929 per la concessione alla «Societa' anonima tramvia elettrica litoranea», con sede in Viareggio, della costruzione e dell'esercizio della tramvia Viareggio Forte dei Marmi con diramazione Fiumetto Pietrasanta. (039U1462)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/10/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con il Nostro decreto 9 maggio 1912, n. 1447;   
+  
+Sentito il Consiglio superiore dei lavori pubblici:   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione stipulata il 6 luglio 1929-VII fra il delegato del Ministro per le comunicazioni, in rappresentanza dello Stato, ed il rappresentante della «Societa' anonima tramvia elettrica litoranea» con sede in Viareggio per la concessione a quest'ultima della costruzione e dell'esercizio della tramvia extraurbana a trazione elettrica Viareggio-Forte dei Marmi, con diramazione Fiumetto-Pietrasanta.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 16 giugno 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+BENNI   
+  
+Visto, il Guardasigilli: SOLMI   
+  
+Registrato alla Corte dei conti, addi' 3 ottobre 1939-XVII   
+  
+Atti del Governo, registro 414, foglio 2. - MANCINI   

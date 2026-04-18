@@ -1,0 +1,41 @@
+REGIO DECRETO 31 agosto 1895 n. 572
+
+
+REGIO DECRETO 31 agosto 1895 n. 572
+===================================
+
+Attribuzioni del Commissario capo dell'ufficio dei personali e servizi vari presso ogni Direzione di commissariato militare marittimo. (095U0572)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/10/1895
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il R. decreto 17 settembre 1876, riguardante le attribuzioni delle direzioni di commissariato militare della R. marina;   
+  
+Vista la legge 1° agosto 1895, che approva lo stato di previsione della spesa del Ministero della marina, per l'esercizio finanziario dal 1° luglio 1895 al 30 giugno 1896;   
+  
+Sulla proposta del Nostro Ministro della marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il commissario capo dell'ufficio dei personali e servizi vari, instituito con l'articolo 2 del suaccennato Nostro decreto, presso ogni Direzione di commissariato militare marittimo, assumera' il titolo di vice direttore, continuando ad esercitare le funzioni di servizio che ora gli sono affidate, e surrogando il direttore, in caso di assenza o di legittimo impedimento, in tutte le sue attribuzioni ed in tutti i suoi doveri.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato ad Aquila, addi' 31 agosto 1895.   
+  
+UMBERTO.   
+  
+E. Morin.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   
+  

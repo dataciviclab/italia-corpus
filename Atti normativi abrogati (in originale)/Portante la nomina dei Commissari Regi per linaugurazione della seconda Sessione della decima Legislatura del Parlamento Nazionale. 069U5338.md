@@ -1,0 +1,52 @@
+REGIO DECRETO 17 novembre 1869 n. 5338
+
+
+REGIO DECRETO 17 novembre 1869 n. 5338
+======================================
+
+Portante la nomina dei Commissari Regi per l'inaugurazione della seconda Sessione della decima Legislatura del Parlamento Nazionale. (069U5338)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/12/1869
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Non potendo, con Nostro rammarico, inaugurare di Persona la Sessione delle Camere, convocate col Nostro Reale Decreto del 31 ottobre 1869;   
+  
+Sulla proposta del Ministro dell'Interno;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Nominiamo a Nostri Commissari per l'inaugurazione della seconda Sessione della decima Legislatura del Parlamento Nazionale, unitamente al Nostro Ministro Segretario di Stato per gli Affari di Grazia, Giustizia e dei Culti:   
+  
+Il Cavaliere Luigi Des Ambrois di Nevache, Cavaliere dell'Ordine Supremo della SS. Annunziata, Senatore del Regno, Ministro di Stato, Presidente del Consiglio di Stato;   
+  
+Il Conte Luigi Cibrario, Cavaliere dell'Ordine Supremo della SS.  
+Annunziata, Senatore del Regno, Ministro di Stato;   
+  
+Il Cavaliere Raffaele Conforti, Senatore del Regno, Procuratore generale presso la Corte di cassazione di Firenze;   
+  
+Il Cavaliere Augusto Duchoque', Senatore del Regno, Presidente della Corte dei conti.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato in San Rossore addi' 17 del mese di novembre 1869, vigesimo-primo del Nostro Regno.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 22 novembre 1869   
+  
+Reg. 49 Atti del Governo a c. 49. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli Vigliani.   
+  
+Rudini'.   
+  

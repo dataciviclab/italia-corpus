@@ -1,0 +1,48 @@
+LEGGE 22 aprile 1880 n. 5397
+
+
+LEGGE 22 aprile 1880 n. 5397
+============================
+
+Che approva gli stati di prima previsione della spesa del Ministero degli affari esteri per l'anno 1880. (080U5397)
+-------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/05/1880
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato,   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Sino all'approvazione del bilancio definitivo di previsione per l'anno 1880, il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie del Ministero degli Affari Esteri, in conformita' allo stato di prima previsione annesso alla presente legge.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 22 aprile 1880.   
+  
+UMBERTO.   
+  
+A. Magliani.   
+  
+Visto - il Guardasigilli   
+T. Villa.   
+  
+
+Tabella
+
+  
+STATO di prima previsione della spesa del Ministero degli Affari Esteri per l'anno 1880.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=080U539700100010110001&dgu=1880-04-24&art.dataPubblicazioneGazzetta=1880-04-24&art.codiceRedazionale=080U5397)
+  

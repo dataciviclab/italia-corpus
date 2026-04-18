@@ -1,0 +1,49 @@
+REGIO DECRETO 12 settembre 1929 n. 2089
+
+
+REGIO DECRETO 12 settembre 1929 n. 2089
+=======================================
+
+Disciplina dell'impianto e del collocamento nel Regno dei depositi e serbatoi di olii minerali. (029U2089)
+----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/01/1930
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la [legge 29 novembre 1928, n. 2859](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-11-29;2859), con la quale e' convertito in legge il [decreto-legge 26 agosto 1927, n. 1774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-08-26;1774), recante norme per il disciplinamento della costruzione, dell'impianto e del collocamento nel Regno dei depositi e serbatoi di olii minerali e di apparecchi per la distribuzione automatica della benzina e dei carburanti in genere;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'economia nazionale; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I depositi e serbatoi di olii minerali appresso indicati si intendono non compresi nelle disposizioni dell'[art. 1 del decreto-legge 26 agosto 1927, n. 1774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1927-08-26;1774~art1):   
+  
+a) depositi e serbatoi, a qualsiasi uso destinati, aventi capacita' non superiore a cinque metri cubi;   
+  
+b) depositi e serbatoi per usi privati, agricoli e industriali aventi capacita' non superiore a venticinque metri cubi, destinati a funzionare temporaneamente, ed in ogni caso non oltre un anno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 12 settembre 1929 - Anno VII   
+  
+VITTORIO EMANUELE.   
+  
+Martelli.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 14 dicembre 1929 - Anno VIII   
+  
+Atti del Governo, registro 291, foglio 62. - Mancini.   

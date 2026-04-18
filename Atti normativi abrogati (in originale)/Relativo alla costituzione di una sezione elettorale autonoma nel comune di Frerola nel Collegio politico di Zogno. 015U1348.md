@@ -1,0 +1,53 @@
+DECRETO LUOGOTENENZIALE 29 luglio 1915 n. 1348
+
+
+DECRETO LUOGOTENENZIALE 29 luglio 1915 n. 1348
+==============================================
+
+Relativo alla costituzione di una sezione elettorale autonoma nel comune di Frerola nel Collegio politico di Zogno. (015U1348)
+------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/09/1915
+
+Art. 1
+------
+
+  
+TOMASO DI SAVOIA DUCA DI GENOVA   
+  
+Luogotenente Generale di Sua Maesta'   
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+In virtu' dell'autorita' a Noi delegata;   
+  
+Sulla proposta del ministro segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri;   
+  
+Veduti gli articoli 41 e 42 della legge elettorale politica, [testo unico 26 giugno 1913, n. 821](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1913-06-26;821);   
+  
+Veduta la tabella delle circoscrizioni dei Collegi elettorali, annessa al testo unico sopracitato;   
+  
+Visto il [R. decreto 13 luglio 1913, n. 896](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-13;896), col quale gli elettori del comune di Frerola vennero aggregati a quelli di Costa di Serina, per costituire la sezione avente sede nel detto comune di Costa di Serina;   
+  
+Veduta la deliberazione adottata dalla Commissione elettorale del comune di Frerola, che approva la lista per l'anno 1915 nel numero di 105 elettori, e chiede che questi vengano separati dagli elettori del comune di Costa di Serina per essere costituiti in sezione autonoma.   
+  
+Veduta la decisione della Commissione elettorale provinciale di Bergamo, in data 30 aprite 1915, con la quale si stabilisce, in conformita' dell'art. 42 della legge, che gli elettori del comune di Frerola costituiscano sezione autonoma;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' revocato il citato [R. decreto 13 luglio 1913, numero 896](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-07-13;896), in quanto esso disponeva che gli elettori del comune di Frerola, nel collegio elettorale politico di Zogno, venissero aggregati a quelli del comune di Costa di Serina.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 luglio 1915.   
+  
+TOMASO DI SAVOIA.   
+  
+Salandra.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

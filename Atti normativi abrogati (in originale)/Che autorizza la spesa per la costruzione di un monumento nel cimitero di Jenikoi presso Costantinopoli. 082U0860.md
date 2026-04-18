@@ -1,0 +1,42 @@
+LEGGE 05 luglio 1882 n. 860
+
+
+LEGGE 05 luglio 1882 n. 860
+===========================
+
+Che autorizza la spesa per la costruzione di un monumento nel cimitero di Jenikoi presso Costantinopoli. (082U0860)
+-------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/08/1882
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato,   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata la spesa di lire 60,000 per la costruzione di un monumento presso Costantinopoli onde raccogliervi i resti mortali dei soldati italiani morti cola' per la guerra di Crimea negli anni 1855 e 1856.   
+  
+La suddetta somma verra' aggiunta al capitolo n. 150 del bilancio del Tesoro per l'anno 1882, al quale sara' data la seguente denominazione: Spese di costruzione di un cimitero in Crimea e di un monumento presso Costantinopoli per raccogliere le spogli e degli italiani morti nella guerra di Crimea del 1855-1856.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 5 luglio 1882.   
+  
+UMBERTO.   
+  
+A. Magliani.   
+Ferrero.   
+  
+Visto, il Guardasigilli: G. Zanardelli.   
+  

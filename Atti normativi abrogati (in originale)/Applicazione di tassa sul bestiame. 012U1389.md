@@ -1,0 +1,19 @@
+REGIO DECRETO 22 dicembre 1912 n. 1389
+
+
+REGIO DECRETO 22 dicembre 1912 n. 1389
+======================================
+
+Applicazione di tassa sul bestiame. (012U1389)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 30/01/1913
+
+Art. 1
+------
+
+  
+N. 1389   
+  
+Regio Decreto 22 dicembre 1912, col quale, sulla proposta del ministro delle finanze, viene data facolta' al comune di Preci di applicare nel 1912 la tassa sul bestiame col limite massimo deliberato il 15 ottobre 1911.   
+  

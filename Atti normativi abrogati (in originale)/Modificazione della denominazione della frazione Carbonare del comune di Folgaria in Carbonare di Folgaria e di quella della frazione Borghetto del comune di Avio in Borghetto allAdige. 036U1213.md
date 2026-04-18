@@ -1,0 +1,45 @@
+REGIO DECRETO 02 marzo 1936 n. 1213
+
+
+REGIO DECRETO 02 marzo 1936 n. 1213
+===================================
+
+Modificazione della denominazione della frazione Carbonare del comune di Folgaria in «Carbonare di Folgaria» e di quella della frazione Borghetto del comune di Avio in «Borghetto all'Adige». (036U1213)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/07/1936
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Ritenuta l'opportunita' di modificare, allo scopo di assicurare il regolare svolgimento del servizio postale e telegrafico, la denominazione della frazione Carbonare, del comune di Folgaria, in «Carbonare di Folgaria» e quella della frazione Borghetto, del comune di Avio, in «Borghetto all'Adige»;   
+  
+Vedute le deliberazioni 9 e 22 novembre 1935-XIV, dei Commissari prefettizi preposti rispettivamente ai comuni di Folgaria e di Avio e 28 dicembre successivo del Rettorato provinciale di Trento;   
+  
+Veduto l'art. 266 del testo unico della legge comunale e provinciale, approvato con Nostro decreto 3 marzo 1934-XII, n. 383;   
+  
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Le denominazioni delle frazioni Carbonare del comune di Folgaria e Borghetto del comune di Avio sono modificate rispettivamente in «Carbonare di Folgaria» e «Borghetto all'Adige».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 marzo 1936 - Anno XIV   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 24 giugno 1936 - Anno XIV   
+  
+Atti del Governo, registro 374, foglio 164. - MANCINI.   

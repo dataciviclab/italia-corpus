@@ -1,0 +1,40 @@
+LEGGE 09 aprile 1922 n. 516
+
+
+LEGGE 09 aprile 1922 n. 516
+===========================
+
+Concernente la conversione in legge del R. decreto 7 aprile 1921, n. 641, che abbrevia il corso di istruzione per i vincitori del concorso, bandito con decreto ministeriale 25 ottobre 1919, per sotto-ispettore aggiunto nel corpo Reale delle foreste. (022U0516)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/04/1922
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il [R. decreto 7 aprile 1921, n. 641](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-04-07;641), che abbrevia il corso d' istruzione per i vincitori del concorso, bandito con decreto Ministeriale 25 ottobre 1919, per sotto-ispettore aggiunto nel corpo Reale delle foreste.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla o di farla osservare, come legge   
+  
+dello Stato.   
+  
+Data a Roma, addi' 9 aprile 1922.   
+  
+VITTORIO EMANUELE.   
+  
+BERTINI - ANILE - PEANO.   
+  
+Visto, il guardasigilli: LUIGI ROSSI.   

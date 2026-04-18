@@ -1,0 +1,27 @@
+DECRETO LUOGOTENENZIALE 18 luglio 1915 n. 1208
+
+
+DECRETO LUOGOTENENZIALE 18 luglio 1915 n. 1208
+==============================================
+
+Soppressioni ed istituzioni di posti di vice console, di addetto consolare e di interprete di 1a categoria (015U1208)
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/08/1915
+
+Art. 1
+------
+
+  
+N. 1208   
+  
+Decreta Luogotenenziale 18 luglio 1915, col quale, sulla proposta del ministro degli affari esteri, nei seguenti Uffici consolari sono istituiti posti di interprete di 1a categoria con l'assegno annuo per ciascuna di essi indicato, a datare dal 1° luglio 1915:   
+  
+Adrianopoli (vice consolato), con assegno di L. 4200.   
+  
+Casablanca (consolato), id. L. 5000.   
+  
+Durazzo (consolato), id. L. 5000.   
+  
+Gianina (consolato), id. L. 4000.   
+  

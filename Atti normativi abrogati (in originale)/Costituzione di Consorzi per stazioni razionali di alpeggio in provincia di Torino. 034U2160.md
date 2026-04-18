@@ -1,0 +1,56 @@
+REGIO DECRETO 18 ottobre 1934 n. 2160
+
+
+REGIO DECRETO 18 ottobre 1934 n. 2160
+=====================================
+
+Costituzione di Consorzi per stazioni razionali di alpeggio in provincia di Torino. (034U2160)
+----------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/02/1935
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la [legge 6 luglio 1912, n. 832](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-07-06;832), recante provvedimenti a tutela e ad incremento della produzione zootecnica nazionale, ed il relativo regolamento di esecuzione, approvato con Nostro decreto 19 febbraio 1929, n. 331;
+
+Visto il [R. decreto 31 gennaio 1929, n. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-31;200);
+
+Visto l'[art. 1 della legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art1);
+
+Visto il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le foreste, di concerto con il Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, e col Ministro per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Fra le Provincie per le quali il [R. decreto 31 gennaio 1929, n. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-01-31;200), prevede la costituzione di Consorzi permanenti per le stazioni razionali di alpeggio viene compresa quella di Torino.   
+  
+La direzione tecnica della stazione razionale di alpeggio, da costituire nella provincia predetta, spetta al direttore dell'Istituto sperimentale zootecnico e caseario per il Piemonte.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a, chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 18 ottobre 1934 - Anno XII.   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - ACERBO - JUNG   
+  
+Visto, il Guardasigilli DE FRANCISCI.   
+  
+Registrato alla Corte dei conti, addi' 19 gennaio 1935 - Anno XIII   
+Atti del Governo, registro 355, foglio 97. - MANCINI.   
+  
+  

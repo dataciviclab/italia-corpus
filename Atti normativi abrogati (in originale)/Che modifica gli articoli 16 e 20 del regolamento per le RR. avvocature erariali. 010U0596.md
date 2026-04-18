@@ -1,0 +1,58 @@
+REGIO DECRETO 09 agosto 1910 n. 596
+
+
+REGIO DECRETO 09 agosto 1910 n. 596
+===================================
+
+Che modifica gli articoli 16 e 20 del regolamento per le RR. avvocature erariali. (010U0596)
+--------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/09/1910
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il regolamento per le RR. avvocature erariali, approvato col [R. decreto 9 febbraio 1908, n. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-02-09;30);
+
+Sentito il Consiglio di Stato;
+
+Udito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Gli articoli 16 e 20 del regolamento per le RR. avvocature erariali approvato col [R. decreto 9 febbraio 1908, n. 30](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-02-09;30), sono modificati come segue:   
+  
+Art. 16 - comma 1°.   
+  
+Sono titoli per concorrere ai posti di sostituto avvocato aggiunto:   
+  
+a) la qualita' di uditore giudiziario;   
+  
+b) la qualita' di avvocato con effettivo esercizio professionale per un anno almeno dalla data della iscrizione nell'albo degli avvocati.   
+  
+Art. 20 - comma 2°.   
+  
+Saranno approvati e dichiarati vincitori, nel limite dei posti stabiliti e in ordine di merito, i candidati che risulteranno classificati i primi negli esami, a condizione che abbiano conseguito non meno di otto punti in media nelle prove scritte e di sette in ciascuna di esse, e non meno di otto punti nella prova orale.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 9 agosto 1910.   
+  
+VITTORIO EMANUELE.   
+  
+LUZZATTI - TEDESCO.   
+  
+Visto, Il guardasigilli: FANI.   
+  

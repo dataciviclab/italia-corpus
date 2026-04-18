@@ -1,0 +1,38 @@
+DECRETO LUOGOTENENZIALE 09 dicembre 1917 n. 1969
+
+
+DECRETO LUOGOTENENZIALE 09 dicembre 1917 n. 1969
+================================================
+
+Che aumenta a L. 50 milioni l'assegnazione straordinaria, autorizzata dal decreto Luogotenenziale 27 giugno 1915, n. 988, ed elevata poi dai successivi decreti 18 maggio 1916, n. 743 e 5 luglio 1917, n. 1162, concernente i prestiti ai Comuni piu' gravemente danneggiati da operazioni guerresche di forze nemiche. (017U1969)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/01/1918
+
+Art. 1
+------
+
+  
+  
+  
+E' aumentata a L. 50 milioni l'assegnazione straordinaria autorizzata con l'[art. 1 del decreto Luogotenenziale 27 giugno 1915, n. 988](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1915-06-27;988~art1) ed elevata a L. 30 milioni coi successivi decreti 18 maggio 1916, n. 743 e 5 luglio 1917, n. 1162.   
+  
+Il ministro del tesoro e' autorizzato a mutuare dalla Cassa depositi e prestiti la somma relativa a detta maggiore assegnazione e ad iscriverla al competente capitolo della parte straordinaria dello stato di previsione della spesa del Ministero dell'interno per l'esercizio 1917-918.   
+
+Art. 2
+------
+
+  
+  
+  
+Il presente decreto avra' effetto dal giorno della sua pubblicazione nella Gazzetta ufficiale.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 9 dicembre 1917.   
+  
+TOMASO DI SAVOIA.   
+  
+Orlando - Nitti - Meda.   
+  
+Visto, Il guardasigilli: Sacchi.   

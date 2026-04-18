@@ -1,0 +1,17 @@
+REGIO DECRETO 18 gennaio 1923 n. 415
+
+
+REGIO DECRETO 18 gennaio 1923 n. 415
+====================================
+
+Erezione in Ente morale. (023U0415)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 12/04/1923
+
+Art. 1
+------
+
+N.
+
+415. Regio decreto 18 gennaio 1923 col quale, sulla proposta del Ministro per le terre liberate, di concerto con quello dell'interno, Presidente del Consiglio dei ministri, viene eretto in Ente morale l'Istituto autonomo per la lotta antimalarica nelle Venezie, con sede a Venezia, e si approva il relativo statuto deliberato dal Consiglio provvisorio il 29 gennaio 1922.

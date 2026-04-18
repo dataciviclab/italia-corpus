@@ -1,0 +1,20 @@
+REGIO DECRETO 26 giugno 1902 n. CCXXII
+
+
+REGIO DECRETO 26 giugno 1902 n. CCXXII
+======================================
+
+Col quale e' data facolta' al comune di Ortona di applicare nel triennio 1902-904 la tassa di famiglia col limite massimo di lire 250 (duecentocinquanta). (0200222R)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/08/1902
+
+Art. 1
+------
+
+  
+Col quale e' data facolta' al comune di Ortona di applicare nel triennio 1902-904 la tassa di famiglia col limite massimo di lire 250 (duecentocinquanta). - Firmato VITTORIO EMANUELE - Controfirmato Carcano - Visto F. Cocco-Ortu.   
+  
+Registrato alla Corte dei conti addi' 14 luglio 1902.   
+  
+Reg. 4. Atti del Governo a f. 95.   

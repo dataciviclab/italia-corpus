@@ -1,0 +1,19 @@
+REGIO DECRETO 22 febbraio 1914 n. 119
+
+
+REGIO DECRETO 22 febbraio 1914 n. 119
+=====================================
+
+Applicazione di tassa di famiglia. (014U0119)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 25/03/1914
+
+Art. 1
+------
+
+  
+N. 119   
+  
+Regio Decreto 22 febbraio 1914, col quale, sulla proposta del ministro delle finanze, e' data facolta' al Comune di Strona di applicare nell'anno 1913 la tassa di famiglia col limite massimo di L. 300.   
+  

@@ -1,0 +1,48 @@
+REGIO DECRETO 03 maggio 1923 n. 1217
+
+
+REGIO DECRETO 03 maggio 1923 n. 1217
+====================================
+
+Che sopprime il Commissariato civile per le opere pubbliche e per i rimboschimenti nella Basilicata. (023U1217)
+---------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/06/1923
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge 31 marzo 1904, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140), con la quale fu istituito il Commissariato civile per la esecuzione delle opere pubbliche e per i rimboschimenti nella Basilicata;   
+  
+Vista la [legge 9 luglio 1908, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445), con cui le funzioni di commissario civile furono deferite al prefetto di Potenza, coadiuvato da un Consiglio di Commissariato e da un ufficio amministrativo;   
+  
+In virtu' della delegazione dei poteri conferiti al Governo con la [legge 3 dicembre 1922, n. 1601](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-12-03;1601);   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta del Ministro dei lavori pubblici, di concerto col presidente del Consiglio dei ministri, Ministro dell'interno, e con i ministri delle finanze e dell'agricoltura;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Con decorrenza dal 16 maggio 1923 il Commissariato civile per le opere pubbliche e per i rimboschimenti nella Basilicata, e' soppresso.   
+  
+Ai compiti ad esso attribuiti provvederanno direttamente, secondo la rispettiva competenza, i ministri per i lavori pubblici e per l'agricoltura, i quali cureranno la liquidazione della gestione del Commissariato anche nei riguardi dei terzi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 3 maggio 1923.   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Carnazza - De Stefani   
+- De Capitani D'Arzago.   
+  
+Visto, il Guardasigilli: Oviglio.   
+  

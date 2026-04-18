@@ -1,0 +1,43 @@
+REGIO DECRETO 10 gennaio 1889 n. 5893
+
+
+REGIO DECRETO 10 gennaio 1889 n. 5893
+=====================================
+
+Col quale il Senato del Regno e la Camera dei Deputati sono riconvocati per il giorno 28 gennaio. (089U5893)
+------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/01/1889
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto in data 4 gennaio 1889, col quale e' stata chiusa la sessione legislativa 1887-1888;   
+  
+Visto l'art. 9 dello Statuto fondamentale del Regno;   
+  
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il Senato del Regno e la Camera dei Deputati sono riconvocati per il giorno 28 gennaio corrente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 10 gennaio 1889.   
+  
+UMBERTO.   
+  
+Crispi.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

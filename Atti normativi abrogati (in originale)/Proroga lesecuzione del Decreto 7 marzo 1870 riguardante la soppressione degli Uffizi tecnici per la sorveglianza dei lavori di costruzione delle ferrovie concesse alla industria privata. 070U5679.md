@@ -1,0 +1,50 @@
+REGIO DECRETO 29 maggio 1870 n. 5679
+
+
+REGIO DECRETO 29 maggio 1870 n. 5679
+====================================
+
+Proroga l'esecuzione del Decreto 7 marzo 1870, riguardante la soppressione degli Uffizi tecnici per la sorveglianza dei lavori di costruzione delle ferrovie concesse alla industria privata. (070U5679)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/06/1870
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il Nostro Decreto 7 marzo 1870, n. 5606, che sopprime gli Uffizi tecnici per la vigilanza dei lavori di costruzione delle ferrovie concesse alla industria privata;
+
+Ritenuta la necessita' di differire l'eseguimento delle disposizioni in esso Decreto contenute sino a che siano compiuti i provvedimenti in corso per regolare il passaggio dei servizi in modo da non turbarne l'andamento;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+In deroga all'articolo 4 del Nostro Decreto 7 marzo 1870, n. 5606, le disposizioni del Decreto medesimo andranno in vigore al primo del prossimo luglio.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 29 maggio 1870.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 4 giugno 1870   
+  
+Reg. 51 Atti del Governo a c. 102. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
+  
+G. Gadda.   
+  

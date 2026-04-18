@@ -1,0 +1,108 @@
+REGIO DECRETO 28 maggio 1899 n. 211
+
+
+REGIO DECRETO 28 maggio 1899 n. 211
+===================================
+
+Modificante gli articoli 11 e 16 dell'Ordinamento della R. Scuola Macchinisti. (099U0211)
+-----------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/07/1899
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il [R. decreto 13 marzo 1898, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-03-13;138), che approva l'Ordinamento della R. Scuola Macchinisti;
+
+Visti gli articoli 11 e 16 dell'Ordinamento stesso;
+
+Sentito il parere del Consiglio Superiore di Marina;
+
+Sulla proposta del Nostro Ministro per la Marina;
+
+Abbiamo decretato e decretiamo:
+
+Gli articoli 11 e 16 dell'Ordinamento della R. Scuola Macchinisti, approvato col [R. decreto 13 marzo 1898, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-03-13;138), sono sostituiti dai seguenti:
+
+Art. 11.
+
+Gli individui del Corpo R. Equipaggi, che si trovano nelle condizioni indicate nell'articolo 9, possono concorrere all'ammissione al 1° corso della Scuola in unione ai giovani borghesi.
+
+Inoltre, nel numero che di anno in anno sara' stabilito dal Ministero, potranno concorrervi gli allievi licenziati dalle Scuole specialisti delle Direzioni d'Artiglieria ed Armamenti ed i garzoni dei Regi Arsenali che si siano dimostrati i migliori per condotta, intelligenza ed abilita', che abbiano compiuto con ottimo risultato il corso complementare della Scuola garzoni delle Direzioni dei lavori e che si trovino nei voluti limiti d'eta'.
+
+I militari, i quali conseguono l'ammissione alla 1° classe, cessano dal percepire qualunque avere, e, nei riguardi amministrativi, sono trattati alla stessa stregua dei provenienti dai borghesi.
+
+Art. 16.
+
+Con la riserva delle concessioni considerate dall'articolo 17, tutti gli allievi della Scuola sono obbligati al pagamento di una pensione annua di L. 250. Inoltre gli allievi ammessi alla 1ª classe debbono pagare, per spese di corredo, L. 200, e quelli ammessi alla 3ª classe L. 170.
+
+La pensione si paga per trimestri anticipati e decorre dal giorno in cui comincia l'ascrizione alla Scuola fino a quello in cui questa ascrizione cessa.
+
+La somma per spese di corredo si paga, per gli allievi ammessi alla 1ª classe, in due rate: una di lire 125 all'atto dell'ammissione, l'altra di lire 75 al principio del secondo anno di permanenza nella Scuola; per gli allievi ammessi alla 3ª classe si paga intiera all'atto dell'ammissione.
+
+Speciali norme amministrative regolano il pagamento della pensione per i militari del Corpo R. Equipaggi ammessi alla 3ª classe.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 28 maggio 1899.
+
+UMBERTO.
+
+BETTOLO.
+--------
+
+Visto, Il Guardasigilli: A. BONASI.
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto 13 marzo 1898, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-03-13;138), che approva l'Ordinamento della R. Scuola Macchinisti;   
+  
+Visti gli articoli 11 e 16 dell'Ordinamento stesso;   
+  
+Sentito il parere del Consiglio Superiore di Marina;   
+  
+Sulla proposta del Nostro Ministro per la Marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Gli articoli 11 e 16 dell'Ordinamento della R. Scuola Macchinisti, approvato col [R. decreto 13 marzo 1898, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-03-13;138), sono sostituiti dai seguenti:   
+  
+Art. 11.   
+  
+Gli individui del Corpo R. Equipaggi, che si trovano nelle condizioni indicate nell'articolo 9, possono concorrere all'ammissione al 1° corso della Scuola in unione ai giovani borghesi.   
+  
+Inoltre, nel numero che di anno in anno sara' stabilito dal Ministero, potranno concorrervi gli allievi licenziati dalle Scuole specialisti delle Direzioni d'Artiglieria ed Armamenti ed i garzoni dei Regi Arsenali che si siano dimostrati i migliori per condotta, intelligenza ed abilita', che abbiano compiuto con ottimo risultato il corso complementare della Scuola garzoni delle Direzioni dei lavori e che si trovino nei voluti limiti d'eta'.   
+  
+I militari, i quali conseguono l'ammissione alla 1° classe, cessano dal percepire qualunque avere, e, nei riguardi amministrativi, sono trattati alla stessa stregua dei provenienti dai borghesi.   
+  
+Art. 16.   
+  
+Con la riserva delle concessioni considerate dall'articolo 17, tutti gli allievi della Scuola sono obbligati al pagamento di una pensione annua di L. 250. Inoltre gli allievi ammessi alla 1ª classe debbono pagare, per spese di corredo, L. 200, e quelli ammessi alla 3ª classe L. 170.   
+  
+La pensione si paga per trimestri anticipati e decorre dal giorno in cui comincia l'ascrizione alla Scuola fino a quello in cui questa ascrizione cessa.   
+  
+La somma per spese di corredo si paga, per gli allievi ammessi alla 1ª classe, in due rate: una di lire 125 all'atto dell'ammissione, l'altra di lire 75 al principio del secondo anno di permanenza nella Scuola; per gli allievi ammessi alla 3ª classe si paga intiera all'atto dell'ammissione.   
+  
+Speciali norme amministrative regolano il pagamento della pensione per i militari del Corpo R. Equipaggi ammessi alla 3ª classe.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 28 maggio 1899.   
+  
+UMBERTO.   
+  
+BETTOLO.   
+  
+Visto, Il Guardasigilli: A. BONASI.   

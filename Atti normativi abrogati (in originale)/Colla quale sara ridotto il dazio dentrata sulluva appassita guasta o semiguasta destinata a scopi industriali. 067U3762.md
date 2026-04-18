@@ -1,0 +1,39 @@
+LEGGE 30 giugno 1867 n. 3762
+
+
+LEGGE 30 giugno 1867 n. 3762
+============================
+
+Colla quale sara' ridotto il dazio d'entrata sull'uva appassita, guasta o semiguasta, destinata a scopi industriali. (067U3762)
+-------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/07/1867
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il dazio d'entrata sull'uva appassita, guasta o semiguasta, destinata a scopi industriali, sara' in tutto il Regno ridotto ad una lira ogni 100 chilogrammi, sotto l'osservanza delle discipline che saranno determinate dal Ministro delle Finanze.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato.   
+  
+Data a Firenze addi' 30 giugno 1867.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del sigillo. V. Il Guardasigilli Tecchio.   
+  
+Ferrara.   
+  

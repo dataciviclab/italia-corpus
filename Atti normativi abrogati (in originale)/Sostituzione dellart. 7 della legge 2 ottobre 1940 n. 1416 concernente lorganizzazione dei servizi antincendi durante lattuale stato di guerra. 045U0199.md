@@ -1,0 +1,59 @@
+DECRETO LEGISLATIVO LUOGOTENENZIALE 12 aprile 1945 n. 199
+
+
+DECRETO LEGISLATIVO LUOGOTENENZIALE 12 aprile 1945 n. 199
+=========================================================
+
+Sostituzione dell'art. 7 della legge 2 ottobre 1940, n. 1416, concernente l'organizzazione dei servizi antincendi durante l'attuale stato di guerra. (045U0199)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UMBERTO DI SAVOIA
+-----------------
+
+PRINCIPE DI PIEMONTE
+
+LUOGOTENENTE GENERALE DEL REGNO
+
+In virtu' dell'autorita' a Noi delegata;
+
+Vista la [legge 2 ottobre 1940, n. 1416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-02;1416);
+
+Vista la [legge 19 gennaio 1942, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;101);
+
+Visto l'[art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151~art4);
+
+Visto il [decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-02-01;58);
+
+Vista la deliberazione del Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Ministro per l'interno, di concerto col Ministro per il tesoro; Abbiamo sanzionato e promulghiamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+L'[art. 7 della legge 2 ottobre 1940, n. 1416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-10-02;1416~art7), modificato dall'[art. 3 della legge 19 gennaio 1942, n. 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1942-01-19;101~art3), e' sostituito dal seguente:   
+«Per i fini di cui agli articoli 4, 5 e 6 della presente legge, il Ministero dell'interno corrispondera' alla Cassa sovvenzioni antincendi i seguenti fondi:   
+a) L. 130.000.000 una volta tanto per le spese di cui all'art. 6;   
+b) L. 1.085.350 al mese dal 1° aprile 1941 al 30 giugno 1941; L. 1.228.730 al mese dal 1° luglio 1941 al 31 ottobre 1941; L. 1.312.610 al mese dal 1° novembre 1941 al 31 ottobre 1942; L. 2.853.857 al mese dal 1° novembre 1942 al 31 ottobre 1943; L. 3.906.267 al mese dal 1° novembre 1943 al 15 agosto 1944; L. 4.901.212 al mese dal 16 agosto 1944 in poi per ogni mille uomini richiamati in servizio durante l'intero mese ai sensi dell'art. 1, per le spese inerenti agli articoli 4 e 5 e per la manutenzione dei materiali di cui all'art. 6;   
+c) i fondi per la requisizione degli automezzi, in numero non superiore a 700 e dei locali necessari alla costituzione delle unita' antincendi di cui all'art. 6.   
+  
+Il Ministro per il tesoro provvedera' con propri decreti alle variazioni del bilancio occorrenti per gli stanziamenti delle somme di cui alle lettere a), b) e c)».   
+  
+Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.   
+  
+Dato a Roma, addi' 12 aprile 1945   
+  
+UMBERTO DI SAVOIA   
+  
+BONOMI - SOLERI   
+  
+Visto, il Guardasigilli: TUPINI   
+Registrato alla Corte dei conti, addi' 12 maggio 1945   
+Atti del Governo, registro n. 4, foglio n. 39. - FRASCA   

@@ -1,0 +1,18 @@
+DECRETO LUOGOTENENZIALE 12 ottobre 1945 n. 859
+
+
+DECRETO LUOGOTENENZIALE 12 ottobre 1945 n. 859
+==============================================
+
+Autorizzazione alla Regia universita' di Firenze ad accettare una donazione.
+----------------------------------------------------------------------------
+
+Art. 1
+------
+
+N.
+
+859. Decreto Luogotenenziale 12 ottobre 1945, col quale, sulla proposta del Ministro per la pubblica istruzione, la Regia universita' di Firenze viene autorizzata ad accettare la donazione della somma di L. 30.000 nominali in buoni del Tesoro 5 %, disposta in suo favore dai professori Giovanni Poggi e Mario Salmi e dal sig. Mario Nobili in rappresentanza del Comitato per le onoranze al dott. Nello Tarchiani, per la istituzione di un premio biennale da intitolarsi al nome dello stesso.  
+  
+Visto, il Guardasigilli: TOGLIATTI  
+Registrato alla Corte dei conti, addi' 25 gennaio 1946

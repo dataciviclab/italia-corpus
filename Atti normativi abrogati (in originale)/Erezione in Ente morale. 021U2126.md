@@ -1,0 +1,17 @@
+REGIO DECRETO 22 dicembre 1921 n. 2126
+
+
+REGIO DECRETO 22 dicembre 1921 n. 2126
+======================================
+
+Erezione in Ente morale. (021U2126)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 06/04/1922
+
+Art. 1
+------
+
+N.
+
+2126. Regio decreto 22 dicembre 1921, col quale, sulla proposta del ministro per l'industria ed il commercio, l'Istituto autonomo per le case popolari di Girgenti viene eretto in Ente morale ed approvato lo statuto organico relativo.

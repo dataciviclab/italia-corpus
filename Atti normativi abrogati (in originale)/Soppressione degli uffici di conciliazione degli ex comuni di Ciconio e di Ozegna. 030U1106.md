@@ -1,0 +1,39 @@
+REGIO DECRETO 10 luglio 1930 n. 1106
+
+
+REGIO DECRETO 10 luglio 1930 n. 1106
+====================================
+
+Soppressione degli uffici di conciliazione degli ex comuni di Ciconio e di Ozegna. (030U1106)
+---------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/09/1930
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto 28 marzo 1929, n. 732](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-03-28;732), col quale i comuni di Ciconio e di Ozegna sono stati soppressi ed i rispettivi territori aggregati a quello di Aglie';   
+Vista la deliberazione del podesta' di Aglie' rivolta ad ottenere la soppressione degli uffici di conciliazione degli ex comuni di Ciconio e Ozegna;   
+Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte d'appello di Torino;   
+Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728;   
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giustizia e gli affari di culto;   
+Abbiamo decretato e decretiamo:   
+Gli uffici di conciliazione esistenti negli ex comuni di Ciconio e di Ozegna sono soppressi.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a San Rossore, addi' 10 luglio 1930 - Anno VIII   
+  
+VITTORIO EMANUELE.   
+  
+Rocco.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 19 agosto 1930 - Anno VIII   
+Atti del Governo, registro 299, foglio 83. - Mancini.   
+  

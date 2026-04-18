@@ -1,0 +1,41 @@
+REGIO DECRETO 15 febbraio 1894 n. 66
+
+
+REGIO DECRETO 15 febbraio 1894 n. 66
+====================================
+
+Che sopprime il servizio dei sali presso il Magazzino di deposito in Alessandria. (094U0066)
+--------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/03/1894
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto l'art. 63 del regolamento approvato con [R. decreto 14 luglio 1887 n. 4809](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-07-14;4809), serie 3ª, per la esecuzione della legge sulla privativa dei sali e tabacchi;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Col 30 giugno 1894 e' soppresso il servizio dei sali presso il Magazzino di deposito in Alessandria.   
+  
+Gli uffici di vendita ad esso aggregati preleveranno i sali dal Magazzino di deposito in Genova, fatta eccezione per quello di Biella, che viene invece aggregato al deposito di Novara.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 15 febbraio 1894.   
+  
+UMBERTO.   
+  
+Sidney Sonnino.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   
+  

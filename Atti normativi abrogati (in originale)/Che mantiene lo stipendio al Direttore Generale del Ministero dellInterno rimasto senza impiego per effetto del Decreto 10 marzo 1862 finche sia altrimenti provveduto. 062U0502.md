@@ -1,0 +1,47 @@
+REGIO DECRETO 13 marzo 1862 n. 502
+
+
+REGIO DECRETO 13 marzo 1862 n. 502
+==================================
+
+Che mantiene lo stipendio al Direttore Generale del Ministero dell'Interno rimasto senza impiego per effetto del Decreto 10 marzo 1862, finche' sia altrimenti provveduto. (062U0502)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/04/1862
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il Nostro Decreto in data 10 marzo 1862, n.° 482, mediante il quale furono soppresse la Direzione Generale centrale e la Direzione Generale d'amministrazione del Ministero dell'Interno, e venne in loro vece ristabilito il Segretariato Generale;   
+  
+Ritenuto che pel fatto di tale cambiamento uno dei due Direttori Generali; cui erano rispettivamente affidate le anzidette Direzioni Generali, rimane senza impiego;   
+  
+Sulla proposta del Presidente del Consiglio, Ministro dell'Interno;   
+  
+Sentito il Consiglio medesimo;   
+  
+Abbiamo ordinato ed ordiniamo:   
+  
+Il Direttore Generale del Ministero dell'Interno, che per effetto del Nostro Decreto sovra indicato si trova senza impiego, continuera' a percepire lo stipendio di cui gode attualmente, fino a che non sia altrimenti provveduto.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 13 marzo 1862.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 27 marzo 1862   
+  
+Reg.° 19 Atti del Governo a c. 138. Wehrlin.   
+  
+Luogo del Sigillo. V. Il Guardasigilli Cordova.   
+  
+U. Rattazzi.   
+  

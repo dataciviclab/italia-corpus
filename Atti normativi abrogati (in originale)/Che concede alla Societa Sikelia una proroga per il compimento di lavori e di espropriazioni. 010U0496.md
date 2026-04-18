@@ -1,0 +1,47 @@
+REGIO DECRETO 07 luglio 1910 n. 496
+
+
+REGIO DECRETO 07 luglio 1910 n. 496
+===================================
+
+Che concede alla Societa' «Sikelia» una proroga per il compimento di lavori e di espropriazioni. (010U0496)
+-----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/08/1910
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto 1° luglio 1909, n. 545, col quale fu approvato, anche agli effetti della dichiarazione di pubblica utilita', il progetto 3 dicembre 1907, presentato dalla ditta Trewhella Baller e C., ora Societa' Sikelia, per l'impianto e l'esercizio di una ferrovia privata di 2ª categoria tra le miniere zolfifere Pagliarello, Respica e Candrilli e la stazione di Villarosa delle ferrovie dello Stato, assegnando il termine di un anno, dalla data del decreto, per il compimento dei lavori;   
+  
+Vista la domanda in data 6 maggio 1910, con la quale il consigliere delegato della «Sikelia, Societa' anonima esercizio miniere ed industrie zolfi» chiede una proroga di sei mesi per la ultimazione dei lavori e per espletare la procedura di espropriazione forzata di alcuni tratti di terreno di ragione privata;   
+  
+Vista la nota 21 maggio 1910, n. 18,454/7810, del Ministero di agricoltura, industria e commercio, con la quale quel dicastero dichiara che da sua parte nulla si oppone alla concessione della proroga richiesta;   
+  
+Viste le [leggi 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248) (all. F) sui lavori pubblici; 25 giugno 1865, n. 2359, sulle espropriazioni per causa di pubblica utilita'; 30 giugno 1906, n. 272, riguardante la costruzione e l'esercizio delle strade ferrate; 2 luglio 1896, n. 302, relativa alle espropriazioni e Consorzi minerari; 27 dicembre 1896, n. 561, sulle ferrovie a trazione meccanica, e 12 luglio 1908, n. 444;   
+  
+Sulla proposta dei Nostri ministri, segretari di Stato per i lavori pubblici e per l'agricoltura, industria e commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+E' concessa alla «Sikelia, Societa' anonima esercizio miniere ed industrie zolfi» con sede in Catania, una proroga di sei mesi a partire dal 1° luglio corr., per il compimento dei lavori e delle espropriazioni occorrenti per la esecuzione del progetto 3 dicembre 1907, sopraricordato, approvato con Nostro decreto 1° luglio 1909, n. 545.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 7 luglio 1910.   
+  
+VITTORIO EMANUELE.   
+  
+SACCHI - RAINERI.   
+  
+Visto, Il guardasigilli: FANI.   
+  

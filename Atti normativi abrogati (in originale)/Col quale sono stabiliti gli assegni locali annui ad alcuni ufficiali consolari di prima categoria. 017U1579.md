@@ -1,0 +1,31 @@
+DECRETO LUOGOTENENZIALE 30 agosto 1917 n. 1579
+
+
+DECRETO LUOGOTENENZIALE 30 agosto 1917 n. 1579
+==============================================
+
+Col quale sono stabiliti gli assegni locali annui ad alcuni ufficiali consolari di prima categoria. (017U1579)
+--------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/11/1917
+
+Articolo unico
+--------------
+
+  
+  
+A datare dal 1° luglio 1917 gli assegni locali annui agli ufficiali consolari di 1ª categoria nelle residenze sottoindicate sono fissati come segue:   
+  
+Aden, al console, L. 15.400 - Alessandria, al console, L. 30.300, al vice console, L. 5.800 - Algeri, al console, L. 23.000 - Algeri (Bona), al vice console, L. 8.400 - Barcellona, al console, lire 22.200, al vice console, 6.500 - Barcellona (Alicante), al vice console, L. 300 - Barcellona (Malaga), al vice console, L. 8.400 - Bastia, al console, L. 18.000 - Boston, al console, L. 26.900 - Buenos Ayres, al console, L. 41.400, al vice console, L. 10.600 - Calcutta, al console, L. 37.400 - Canea, al console, L. 20.200 - Caracas, al console, L. 32.250 - Cardiff, al console, L. 25.000 - Casablanca, al console, L. 20.400 - Cette, al console, L. 11.500 - Cettigne, al console, L. 11.500 - Cettigne (Antivari), al vice console, L. 9.000 - Corfu', al console, L. 17.400 - Dakar, al console, L. 24.600 - Dublino, al console, L. 10.800 - Filadelfia, al console, L. 31.500 - Galatz, al console, L. 21.500 - Galatz (Braila), al vice console L. 9.500 - Gianina, al console, L. 17.250 - Gibilterra, al console, L. 14.200 - Havre, al console, L. 15.500 - Hong-Kong, al console, L. 31.200 - La Plata, al console, L. 23.000 - Liverpool, al console, L. 25.200 - Londra, al console, L. 31.000 - Malta, al console, L. 19.000 - Marsiglia, al console, L. 37.500 - al vice console, L. 6.500 - Melbourne, al console, L. 30.800 - Mombasa, al console, L. 20.500 - Monaco (Principato), id., L. 15.200 - Montevideo, al console, L. 15.200, al vice console, L. 9.200 - Montreal, al console, L. 29.000 - Nizza, al console, L. 26.200, al vice console, L. 4.000 - Nuova Orleans, al console, L. 33.000 - Nuova York, al console, L. 52.500, al vice console, L. 12.500 - Odessa, al console, L. 26.900 - Panama, al console, L. 30.300 - Patrasso, al console, L. 16.000 - Pernambuco, al console, L. 30.400 - Pireo, al console, L. 23.000 - Porto Said, al console, L. 17.600, al vice console, L. 5.000 - Rio De Janeiro, al console, L. 37.300 - Rio De Janeiro (Bahia), al vice console, L. 20.200 - Rosario, al console, L. 31.700 - Rosario, (Santa Fe'), al vice console, L. 18.600 - Salonicco, al console, L. 20.000 - San Paulo, al console, L. 40.300 - San Paulo (Santos), al vice console, L. 17.100 - Santander, al console, L. 14.500 - Tangeri, al console, L. 24.200, al vice console, lire 5.100 - Tiflis, al console, L. 12.600 - Tolone, al console, L. 9.400 - Trebisonda, al console, L. 18.800 - Tunisi, al console, L. 41.000, al vice console, L. 7.500 - Tunisi (Biserta), al vice console, lire 8.500 - Tunisi (Sfax), al vice console, L. 10.600 - Tunisi (Susa), al vice console, L. 8.500 - Valparaiso, al console, L.  
+21.000.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 agosto 1917.   
+  
+TOMASO DI SAVOIA.   
+  
+SONNINO.   
+  
+Visto, il guardasigilli: SACCHI.   
+  

@@ -1,0 +1,21 @@
+REGIO DECRETO 27 gennaio 1941 n. 93
+
+
+REGIO DECRETO 27 gennaio 1941 n. 93
+===================================
+
+Istituzione di un Consolato in Budapest e di un Vice consolato in Timisoara, in Bucarest. (041U0093)
+----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/03/1941
+
+Art. 1
+------
+
+N.
+
+93. R. decreto 27 gennaio 1941, col quale sulla proposta del Ministro per gli affari esteri, viene istituito un Nostro Consolato in Budapest, ed e' fissato per il titolare l'assegno base annuo lordo di L. 60.000, aumentato del 30% e del 50%, diminuito del 5%; viene soppresso l'assegno stabilito per il vice console in Cluj e viene istituito un Nostro Vice consolalo in Timisoara alle dipendenze del Nostro Consolato in Bucarest, e viene fissato per il titolare l'assegno base annuo lordo di L. 44.000, aumentato del 40%, diminuito del 5%.   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei, conti, addi' 5 marzo 1941-XIX

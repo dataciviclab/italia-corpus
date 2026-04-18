@@ -1,0 +1,54 @@
+REGIO DECRETO 13 febbraio 1898 n. 78
+
+
+REGIO DECRETO 13 febbraio 1898 n. 78
+====================================
+
+che sostituisce con altro l'articolo 108 del Regolamento per il servizio metrico e per il saggio delle monete e dei metalli preziosi. (098U0078)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/04/1898
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la [legge 2 maggio 1872 n. 806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1872-05-02;806) (serie 2ª), sulla fabbricazione ed il commercio degli oggetti d'oro e d'argento di qualunque titolo;
+
+Visto il [R. decreto 7 novembre 1890 n. 7249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-11-07;7249) (serie 3ª), che approva il Regolamento per il servizio metrico e per il saggio delle monete e de metalli preziosi;
+
+Visto il [R. decreto 20 febbraio 1896, n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-20;46), che modifica gli articoli 101, 108, 109 del Regolamento predetto;
+
+Sentito il parere del Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Ministro d'Agricoltura, Industria e Commercio, di concerto con quello delle Finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+All'art. 108 del Regolamento sul servizio metrico, in data 7 novembre 1890 n. 7249 (serie 3ª), modificato col [R. decreto 20 febbraio 1896 n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-02-20;46) e', a datare dal 1° di aprile 1898, sostituito il seguente:   
+  
+«Art. 108. I diritti da pagarsi pel saggio e marchio dei lavori d'oro e d'argento sono stabiliti nella proporzione di L. 170 per ogni chilogramma d'oro e di L. 12 per ogni chilogramma d'argento o d'argento dorato.   
+  
+Il diritto di solo saggio sui lavori pei quali il presentatore non richiede e non consente il marchio, o per quelli riconosciuti inferiori al piu' basso dei titoli legali, 8 stabilito nella proporzione di L. 10 per ogni chilogramma di lavori d'oro e di L. 1 per ogni chilogramma di lavori d'argento o d'argento dorato.   
+  
+Pero' il diritto non potra' essere, in verun caso, inferiore a centesimi 20».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 13 febbraio 1898.   
+  
+UMBERTO.   
+  
+Cocco-Ortu.   
+Branca.   
+  
+Visto, Il Guardasigilli: Zanardelli.   

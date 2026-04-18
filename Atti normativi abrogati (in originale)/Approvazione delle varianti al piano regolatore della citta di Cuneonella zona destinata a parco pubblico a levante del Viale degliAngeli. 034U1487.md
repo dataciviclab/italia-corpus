@@ -1,0 +1,65 @@
+REGIO DECRETO 27 luglio 1934 n. 1487
+
+
+REGIO DECRETO 27 luglio 1934 n. 1487
+====================================
+
+Approvazione delle varianti al piano regolatore della citta' di Cuneo 
+nella zona destinata a parco pubblico a levante del Viale degli 
+Angeli. (034U1487)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/10/1934
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il vigente piano regolatore della citta' di Cuneo, con le relative norme di esecuzione, approvato con [legge 26 giugno 1913, n. 807](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;807), e successive modificazioni;   
+  
+Vista la domanda in data 20 novembre 1933 con la quale il comune di Cuneo chiede che siano approvate alcune varianti al piano stesso e le conseguenti modifiche al 1° comma dell'art. 15 delle norme sancite con la legge su citata 26 giugno 1913, n. 807;   
+  
+Considerato che tali varianti consistenti nella riduzione della superficie del grandioso parco previsto nel piano ed est del Viale degli Angeli, sono state suggerite dalle esigenze edilizie della zona, e dal fatto che la vita cittadina si e' spostata verso la nuova stazione ferroviaria presso la quale e' stato predisposto un grandioso parco su area di proprieta' comunale;   
+  
+Ritenuto che il procedimento seguito e' regolare e che durante le pubblicazioni non furono presentati reclami;   
+  
+Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);   
+  
+Uditi i pareri del Consiglio superiore dei lavori pubblici, e del Consiglio di Stato;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Sono approvate le varianti al vigente piano regolatore di Cuneo, quali risultano dalla planimetria in scala 1:2000, vista, d'ordine Nostro, dal Ministro proponente, e le seguenti modifiche del primo comma dell'art. 15 delle norme approvate con la [legge 26 giugno 1913, n. 807](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;807), le quali modificazioni, adottate con la deliberazione podestarile in data 31 maggio 1933-XI, sono in questi termini:   
+  
+« L'area ad est del Viale degli Angeli, segnata in verde ed estendentesi fino al piede della ripa, e' destinata a parco pubblico e non e' fabbricabile.   
+  
+Il limite nord del parco e' stabilito da una linea retta congiungente la facciata sud della Villa Cassin col Viale degli Angeli.   
+  
+L'area costituente la Villa Cassin nella parte non vincolata dal piano, sara' fabbricabile ad edifici aventi non meno di tre piani fuori terra, ed una fronte verso le pubbliche vie non minore di metri venticinque.   
+  
+Le aree libere dovranno essere chiuse con cancellate in ferro; parimenti mediante cancellate dovranno essere eseguite le suddivisioni interne del terreno quando comunque risultino visibili dalle pubbliche vie.   
+  
+E' soppresso il prolungamento oltre il Viale degli Angeli della Via Massimo d'Azeglio, nel tratto compreso tra il Viale stesso ed il Corso Cigliare (Corso Solaro) ».   
+  
+Resta fermo il tempo stabilito per l'attuazione del piano con il [R. decreto 1° marzo 1928, n. 612](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-01;612), e tutte le disposizioni della [legge 26 giugno 1913, n. 807](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-26;807), e successive modificazioni.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a S. Anna di Valdieri, addi' 27 luglio 1934 - Anno XII   
+  
+VITTORIO EMANUELE   
+  
+Di Crollalanza   
+  
+Visto, li Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 15 settembre 1934 - Anno XII   
+  
+Atti del Governo, registro 351, foglio 63. - Mancini.   

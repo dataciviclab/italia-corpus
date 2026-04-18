@@ -1,0 +1,23 @@
+REGIO DECRETO 12 gennaio 1896 n. XXVI
+
+
+REGIO DECRETO 12 gennaio 1896 n. XXVI
+=====================================
+
+Che autorizza la biblioteca nazionale (Braidenese) di Milano ad accettare il legato disposto in favore di essa dal nob. dott. 
+Giovanni Battista De Capitani d'Arzago nel suo testamento del 27 novembre 1893. (9600026R)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/02/1896
+
+Art. 1
+------
+
+  
+Che autorizza la biblioteca nazionale (Braidenese) di Milano ad accettare il legato disposto in favore di essa dal nob. dott.  
+Giovanni Battista De Capitani d'Arzago nel suo testamento del 27 novembre 1893. - Firmato UMBERTO - Contrassegnato Baccelli - Visto Calenda.   
+  
+Registrato alla Corte dei Conti addi' 8 febbraio 1896.   
+  
+Reg. 204. Atti del Governo a f. 112.   
+  

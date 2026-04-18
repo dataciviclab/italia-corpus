@@ -1,0 +1,50 @@
+REGIO DECRETO 13 gennaio 1927 n. 190
+
+
+REGIO DECRETO 13 gennaio 1927 n. 190
+====================================
+
+Approvazione dell'atto 16 dicembre 1926 aggiuntivo alla convenzione 25 maggio 1921 per la concessione della ferrovia Santo Spirito-Bitonto. (027U0190)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/03/1927
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto 19 giugno 1921, n. 966, mediante il quale fu approvata e resa esecutoria la convenzione 25 maggio 1921 per la concessione, alla Societa' anonima ferroviaria di Bitonto, della costruzione e dell'esercizio della ferrovia elettrica Santo Spirito-Bitonto;   
+  
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447;   
+  
+Visti i [decreti-legge 23 febbraio 1919, n. 303; 8 luglio 1919, n. 1327; 23 gennaio 1921, n. 56; 31 agosto 1921, n. 1222; 6 febbraio 1923, n. 431; 23 maggio 1924, nn. 998 e 996; 31 dicembre 1925, n. 2525; 3 aprile 1926, n. 757, e 16 agosto 1926, n. 1595](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1926-08-16;1595);   
+  
+Sentita la Commissione istituita con l'art. 7 del citato [decreto-legge 23 febbraio 1919, n. 303](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1919-02-23;303);   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta dei Nostri Ministri Segretari di Stato per i lavori pubblici e per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvato e reso esecutorio l'atto stipulato il 16 dicembre 1926 fra i delegati dei Ministri per i lavori pubblici e per le finanze, in rappresentanza dello Stato, e i rappresentanti della Societa' anonima ferroviaria di Bitonto, a parziale modificazione e completamento dei patti contenuti nella convenzione 25 maggio 1921 per la concessione della ferrovia Santo Spirito-Bitonto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 13 gennaio 1927 - Anno V   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Giuriati - Volpi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 23 febbraio 1927 - Anno V   
+Atti del Governo, registro 257, foglio 216. - Ferretti.   
+  

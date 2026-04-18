@@ -1,0 +1,69 @@
+REGIO DECRETO 09 dicembre 1940 n. 1835
+
+
+REGIO DECRETO 09 dicembre 1940 n. 1835
+======================================
+
+Disposizioni transitorie per il conferimento di posti nel grado iniziale del ruolo della carriera amministrativa dell'Amministrazione centrale delle finanze. (040U1835)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/02/1941
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il R. decreto 11 novembre 1923-II, n. 2395, e successive modificazioni, sull'ordinamento gerarchico delle Amministrazioni dello Stato;
+
+Visto il R. decreto 30 dicembre 1923-II, n. 2960, e successive modificazioni, sullo stato giuridico degli impiegati civili dello Stato;
+
+Visto l'art. 4 del R. decreto-legge 4 marzo 1937-XV, numero 304, convertito nella legge 7 giugno 1937-XV, n. 911,
+
+con il quale fu stabilito che al grado iniziale nella carriera amministrativa dell'Amministrazione centrale delle finanze si accede mediante concorso per esami;
+
+Visti i Regi decreti 14 luglio 1937-XV, n. 1357, e 15 novembre 1937-XVI, n. 2066, con i quali furono rispettivamente determinate e modificate le modalita' ed il programma del predetto concorso per esami;
+
+Vista la legge 25 gennaio 1940-XVIII, n. 4, sul riordinamento dei ruoli del personale dell'Amministrazione finanziaria;
+
+Visto l'art. 1, n. 3, della legge 31 gennaio 1926-IV, numero 100;
+
+Vista la legge 4 settembre 1940-XVIII, n. 1547, che modifica l'art. 1 della legge 31 gennaio 1926-IV, n. 100;
+
+Ritenuta la necessita' di emanare apposite norme pel conferimento dei posti disponibili nel grado iniziale della carriera amministrativa dell'Amministrazione centrale delle finanze a seguito dell'applicazione della legge 25 gennaio 1940-XVIII, n. 4;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I posti che, nella prima applicazione della legge 25 gennaio 1940-XVIII, n. 4, sul riordinamento dei ruoli del personale dell'Amministrazione finanziaria risultano disponibili nel grado iniziale della carriera amministrativa dell'Amministrazione centrale delle finanze di cui alla tabella A dell'allegato 1 alla legge medesima, possono essere conferiti mediante concorso per titoli da indire fra il personale dei ruoli dei gruppi A e B del Ministero delle finanze, che rivesta il grado undecimo o decino, che possieda una delle lauree all'uopo prescritte e che abbia compiuto almeno un anno di servizio in uno dei predetti ruoli, compreso il periodo di prova e quello di richiamo alle armi per esigenze militari di carattere eccezionale.   
+  
+La composizione della Commissione giudicatrice sara' stabilita col bando di concorso.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 9 dicembre 1940-XIX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 10 gennaio 1941-XIX   
+  
+Atti del Governo, registro 429, foglio 82. - MANCINI   

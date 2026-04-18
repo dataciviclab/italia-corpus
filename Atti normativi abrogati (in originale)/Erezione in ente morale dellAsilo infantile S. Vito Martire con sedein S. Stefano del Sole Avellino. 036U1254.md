@@ -1,0 +1,22 @@
+REGIO DECRETO 04 maggio 1936 n. 1254
+
+
+REGIO DECRETO 04 maggio 1936 n. 1254
+====================================
+
+Erezione in ente morale dell'Asilo infantile S. Vito Martire con sede 
+in S. Stefano del Sole (Avellino). (036U1254)
+--------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/07/1936
+
+Art. 1
+------
+
+N.
+
+1254. R. decreto 4 maggio 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di stato, Ministro per l'interno, l'Asilo infantile S. Vito Martire, con sede in S. Stefano del Sole (Avellino), viene eretto in ente morale sotto amministrazione autonoma e ne viene approvato il relativo statuto organico.   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 24 giugno 1936 - Anno XIV

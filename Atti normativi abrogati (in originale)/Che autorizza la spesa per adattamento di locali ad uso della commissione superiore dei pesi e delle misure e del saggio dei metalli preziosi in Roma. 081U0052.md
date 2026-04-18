@@ -1,0 +1,42 @@
+LEGGE 17 febbraio 1881 n. 52
+
+
+LEGGE 17 febbraio 1881 n. 52
+============================
+
+Che autorizza la spesa per adattamento di locali ad uso della commissione superiore dei pesi e delle misure e del saggio dei metalli preziosi in Roma. (081U0052)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/03/1881
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato,   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata la spesa di lire 87,936 per adattamento delle casette annesse al convento dei Santi Domenico e Sisto in Roma ad uso degli uffici della Commissione superiore dei pesi e misure e del saggio dei metalli preziosi.   
+  
+Per far fronte alla spesa anzidetta e' iscritta la somma di lire 35,000 in apposito capitolo portante il n. 45 quinquies della parte straordinaria del bilancio del Ministero di Agricoltura, Industria e Commercio del corrente anno, ed altra somma di lire 52,936 sara' inscritta in speciale capitolo del bilancio del Ministero medesimo per l'anno 1882.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 17 febbraio 1881.   
+  
+UMBERTO.   
+  
+L. Miceli.   
+  
+Visto - Il Guardasigilli   
+T. Villa.   
+  

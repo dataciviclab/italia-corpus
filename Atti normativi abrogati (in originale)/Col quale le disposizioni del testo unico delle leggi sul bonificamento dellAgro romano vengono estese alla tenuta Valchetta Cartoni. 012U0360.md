@@ -1,0 +1,45 @@
+REGIO DECRETO 04 aprile 1912 n. 360
+
+
+REGIO DECRETO 04 aprile 1912 n. 360
+===================================
+
+Col quale le disposizioni del testo unico delle leggi sul bonificamento dell'Agro romano vengono estese alla tenuta Valchetta Cartoni. (012U0360)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/05/1912
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la domanda in data 14 aprile 1911 del signor Gino Cartoni, anche in nome degli altri coeredi del fu Erminio Cartoni, proprietari della tenuta Valchetta in territorio dell'Agro romano;   
+  
+Visti i documenti alla domanda stessa allegati;   
+  
+Visto l'[art. 1 comma 2° della legge 17 luglio 1910, n. 491](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;491~art1-com2), concernente provvedimenti per estendere il bonificamento e la colonizzazione nell'Agro romano;   
+  
+Vista la deliberazione in data 8 febbraio 1912 della Commissione di vigilanza per l'Agro romano;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria e il commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Le disposizioni tutte contenute nel testo unico delle leggi sul bonificamento dell'Agro romano, approvato con [R. decreto 10 novembre 1905, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-11-10;647), sono estese alla intera tenuta di Valchetta, intestata ai signori Cartoni Gino, Galdino, Matilde e Silvia, fratelli e sorelle fu Erminio, inscritta in catasto ai numeri particellari 14 parte, 46 sub 1 parte, 47 parte a 50 parte, 51 a 54, 51 1/2, 55 parte, 56, 56 sub 1, 57, 57 sub 1, 58 a 60, 62, 75 a 81, 82 parte, 83, 84 parte, 86 a 107, 111, 116, 123, 125, 126, 130, 134 parte, 136, 138 parte, 139 parte, 140, della mappa 80; per una superficie di tavole censuarie 4255,12 pari ad ettari 425,51,20, confinante ad est col fiume Cremera, a sud con la parte della stessa tenuta, di ettari 68, gia' soggetta all'obbligo del bonificamento; ad ovest con la tenuta di Tor Vergata e Vaccareccia; a nord con le tenute di Monte Oliviero e Valchetta, Piacentini Alessandro e col fiume Cremera.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e farlo osservare.   
+  
+Dato a Roma, addi' 4 aprile 1912.   
+  
+VITTORIO EMANUELE.   
+  
+Nitti.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   
+  

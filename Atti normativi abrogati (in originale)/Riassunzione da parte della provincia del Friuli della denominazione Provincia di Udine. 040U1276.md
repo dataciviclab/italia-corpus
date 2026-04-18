@@ -1,0 +1,51 @@
+REGIO DECRETO 09 agosto 1940 n. 1276
+
+
+REGIO DECRETO 09 agosto 1940 n. 1276
+====================================
+
+Riassunzione da parte della provincia del Friuli della denominazione «Provincia di Udine». (040U1276)
+-----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/10/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduto l'art. 4 del Nostro decreto 18 gennaio 1923, n. 53, col quale, mentre furono aggregati alla provincia di Udine i mandamenti di Gorizia, Gradisca, Cormons, Cervignano, Comeno, Aidussina, Vipacco, Canale, Circhina, Tolmino, Idria, Caporetto, Plezzo e Tarvisio, la denominazione della Provincia stessa venne mutata in «Provincia del Friuli»;   
+  
+Ritenuto che con la costituzione della provincia di Gorizia, disposta col R. decreto-legge 2 gennaio 1927-V, n. 1, sono venute a cessare le ragioni che avevano suggerito il suddetto mutamento della denominazione della provincia di Udine e che pertanto conviene ripristinare la sua denominazione originaria;   
+  
+Sentito il Rettorato provinciale in seduta del 28 maggio 1940-XVIII;   
+  
+Veduto l'art. 266 del testo unico della legge comunale e provinciale approvato con il Nostro decreto 3 marzo 1934-XII, n. 383;   
+  
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+La provincia del Friuli riassume la denominazione «Provincia di Udine».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 9 agosto 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 15 settembre 1940-XVIII   
+  
+Atti del Governo, registro 425, foglio 54. - Mancini   
+  
+  

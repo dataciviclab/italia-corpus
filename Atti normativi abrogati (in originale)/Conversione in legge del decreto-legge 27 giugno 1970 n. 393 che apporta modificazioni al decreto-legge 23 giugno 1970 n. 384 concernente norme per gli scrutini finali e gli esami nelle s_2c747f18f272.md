@@ -1,0 +1,35 @@
+LEGGE 26 luglio 1970 n. 573
+
+
+LEGGE 26 luglio 1970 n. 573
+===========================
+
+Conversione in legge del decreto-legge 27 giugno 1970, n. 393, che apporta modificazioni al decreto-legge 23 giugno 1970, n. 384, concernente norme per gli scrutini finali e gli esami nelle scuole e negli istituti di istruzione secondaria ed artistica.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+E' convertito in legge il [decreto-legge 27 giugno 1970, n. 393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-06-27;393), che apporta modificazioni al [decreto-legge 23 giugno 1970, n. 384](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1970-06-23;384), recante norme per gli scrutini finali e gli esami nelle scuole e negli istituti di istruzione secondaria ed artistica.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 26 luglio 1970
+
+SARAGAT RUMOR - MISASI - COLOMBO
+
+Visto, il Guardasigilli: REALE

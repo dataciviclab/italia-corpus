@@ -1,0 +1,36 @@
+LEGGE 13 giugno 1964 n. 486
+
+
+LEGGE 13 giugno 1964 n. 486
+===========================
+
+Modifica dell'art. 29 della legge 2 giugno 1961, n. 454, recante il piano quinquennale per lo sviluppo dell'agricoltura.
+------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+L'[articolo 29 della legge 2 giugno 1961, n. 454](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-06-02;454~art29), e' cosi' modificato:  
+"Tra i materiali esenti dalla imposta di consumo, ai sensi dell'articolo 30, n. 6, del testo unico della finanza locale, approvato con [regio decreto 14 settembre 1931, n. 1175](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-09-14;1175), rientrano anche quelli impiegati nella costruzione e riparazione, da parte di agricoltori o di allevatori singoli o associati, di impianti e di attrezzature per la conservazione, lavorazione e trasformazione dei prodotti agricoli e degli allevamenti ed impianti e attrezzature per stabulare, parcare e far pascolare gli animali e gli uccelli nonche' quelli impiegati per la costruzione e riparazione di abitazioni e di uffici e servizi, annessi alle aziende agrarie e agli allevamenti".  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 13 giugno 1964
+
+SEGNI MORO - FERRARI AGGRADI
+
+Visto, il Guardasigilli: REALE

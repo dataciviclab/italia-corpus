@@ -1,0 +1,43 @@
+REGIO DECRETO 05 agosto 1877 n. 4025
+
+
+REGIO DECRETO 05 agosto 1877 n. 4025
+====================================
+
+Che estende la dispensa dalle tasse del primo anno di corso universitario agli studenti che negli esami della licenza liceale riportarono nove decimi di punti. (077U4025)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/09/1877
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduta la disposizione dell'art. 35 del regolamento generale universitario, approvato col Nostro decreto 8 ottobre 1876, n. 3434, per la quale la dispensa dalle tasse del primo anno di corso universitario non puo' accordarsi se non agli studenti segnalati nell'esame di licenza liceale;
+
+Ritenuto che anche gli studenti i quali nell'insieme delle prove del detto esame di licenza ottennero nove decimi di punti possono certamente noverarsi, cosi' per lo ingegno, come per la diligenza, fra i meritevoli di dispensa, sebbene non siano stati in qualche particolare materia segnalati;
+
+Sentito il Consiglio superiore della Pubblica Istruzione;
+
+Sulla
+-----
+
+proposizione del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La dispensa dalle tasse del primo anno di corso universitario potra' essere accordata non solo agli studenti segnalati nell'esame di licenza liceale, ma anche a coloro che ottennero nove decimi dei punti nell'insieme delle prove dell'esame medesimo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Valsavaranche, addi' 5 agosto 1877.   
+  
+VITTORIO EMANUELE.   
+  
+M. Coppino.   

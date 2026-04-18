@@ -1,0 +1,47 @@
+REGIO DECRETO 12 novembre 1883 n. 1671
+
+
+REGIO DECRETO 12 novembre 1883 n. 1671
+======================================
+
+Che aumenta l'interesse dei buoni del tesoro. (083U1671)
+--------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/12/1883
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduta la [legge 22 aprile 1869, n. 5026](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1869-04-22;5026);
+
+Veduto l'art. 554 del regolamento per l'amministrazione del patrimonio dello Stato e per la Contabilita' generale, approvato con [R. decreto del 4 settembre 1870, n. 5852](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-09-04;5852);
+
+Veduto il [R. decreto del 1° marzo 1883, numero 1222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1883-03-01;1222) (Serie 3ª), col quale fu fissato l'interesse dei Buoni del Tesoro, a decorrere dallo stesso giorno 1° marzo 1883;
+
+Veduto l'[art. 4 della legge 29 aprile 1883, numero 1297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1883-04-29;1297~art4) (Serie 3ª);
+
+Sulla
+-----
+
+proposta del Ministro Segretario di Stato per le Finanze, incaricato dell'interina del Ministero del Tesoro, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+A cominciare dal 21 novembre 1883 e' aumentato del mezzo per cento l'interesse dei Buoni del Tesoro, fissato col suddetto Nostro decreto del 1° marzo 1883, n. 1222 (Serie 3ª).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 12 novembre 1883.   
+  
+UMBERTO.   
+  
+A. Magliani.   
+  
+Visto, Il Guardasigilli: Savelli.   

@@ -1,0 +1,19 @@
+REGIO DECRETO 22 marzo 1908 n. CIV
+
+
+REGIO DECRETO 22 marzo 1908 n. CIV
+==================================
+
+Riflettente applicazione di tassa sul bestiame. (0800104R)
+----------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/04/1908
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro delle finanze:   
+  
+N. CIV (Dato a Roma, il 22 marzo 1908), col quale si approva il regolamento per l'applicazione della tassa sul bestiame, deliberato dalla Giunta provinciale amministrativa di Cosenza nelle adunanze in data 10 ottobre e 20 novembre 1907, e 5 marzo 1908, in sostituzione del regolamento approvato con R. decreto 13 dicembre 1890, n. DXXXIX.   
+  

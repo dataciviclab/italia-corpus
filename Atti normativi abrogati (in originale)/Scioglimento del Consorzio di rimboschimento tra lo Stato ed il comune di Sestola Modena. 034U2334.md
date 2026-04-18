@@ -1,0 +1,47 @@
+REGIO DECRETO 31 dicembre 1934 n. 2334
+
+
+REGIO DECRETO 31 dicembre 1934 n. 2334
+======================================
+
+Scioglimento del Consorzio di rimboschimento tra lo Stato ed il comune di Sestola (Modena). (034U2334)
+------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/03/1935
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto 30 gennaio 1910, n. 314, col quale veniva istituito un Consorzio tra lo Stato ed il comune di Sestola (provincia di Modena), allo scopo di provvedere al rimboschimento di terreni nudi esistenti nel territorio di quel Comune, giusta il disposto dell'[art. 11 della legge 20 giugno 1877, n. 3917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-06-20;3917~art11);   
+  
+Considerato che i compiti devoluti al detto Consorzio, vennero successivamente a far carico ad altro consimile Consorzio istituito tra lo Stato e la provincia di Modena;   
+  
+Ritenuto pertanto che i fondi a tal uopo impegnati col detto Nostro decreto possono utilmente erogarsi per maggiore finanziamento di altro consimile Consorzio;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per le foreste;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il Consorzio di rimboschimento tra lo Stato ed il comune di Sestola (provincia di Modena), istituito con Nostro decreto 30 gennaio 1910, n. 314, giusta il disposto dell'[art. 11 della legge 20 giugno 1877, n. 3917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-06-20;3917~art11), e' sciolto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 31 dicembre 1934 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+Acerbo   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 21 febbraio 1935 - Anno XIII   
+  
+Atti del Governo, registro 356, foglio 142. - Mancini.   
+  
+  

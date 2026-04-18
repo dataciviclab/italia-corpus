@@ -1,0 +1,23 @@
+REGIO DECRETO 19 aprile 1923 n. 1827
+
+
+REGIO DECRETO 19 aprile 1923 n. 1827
+====================================
+
+Contributo scolastico del comune di Martiniana Po. (023U1827)
+-------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/09/1923
+
+Art. 1
+------
+
+N.
+
+1827. R. decreto 19 aprile 1923, col quale, sulla proposta del Ministro della pubblica istruzione, di concerto col Ministro delle finanze, il contributo scolastico che il comune di Martiniana Po, della provincia di Cuneo, deve annualmente versare alla R. tesoreria dello Stato in applicazione dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), gia' fissato in L. 2357.92, col [R. decreto 17 gennaio 1915, n. 277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-17;277), e' elevato a L. 3629.92, a decorrere dal 1° ottobre 1921.   
+  
+Visto, il Guardasigilli: Oviglio.   
+  
+Registrato alla Corte dei conti, addi' 28 agosto 1923.   
+  
+Atti del Governo, registro 215, foglio 213. - Gisci.

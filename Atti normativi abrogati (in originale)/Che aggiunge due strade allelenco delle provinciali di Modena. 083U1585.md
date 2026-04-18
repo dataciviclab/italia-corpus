@@ -1,0 +1,54 @@
+REGIO DECRETO 27 agosto 1883 n. 1585
+
+
+REGIO DECRETO 27 agosto 1883 n. 1585
+====================================
+
+Che aggiunge due strade all'elenco delle provinciali di Modena. (083U1585)
+--------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/10/1883
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333);
+
+Vista la deliberazione 4 dicembre 1882 del Consiglio provinciale di Modena;
+
+Visti gli atti di pubblicazione della deliberazione medesima;
+
+Visto il parere emesso dal Consiglio superiore dei lavori pubblici nell'adunanza del 21 luglio p. p.;
+
+Visto l'articolo 14 della legge 20 marzo 1865, sulle opere pubbliche;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+All'elenco delle strade provinciali della provincia di Modena sono aggiunte, per la parte che riguarda la provincia stessa, quelle segnate coi numeri 42 e 157 dell'elenco III annesso alla tabella B della legge sopraccitata 23 luglio 1881, cioe':   
+  
+N. 42. Strada Zocca-Vergato.   
+  
+N. 157. Continuazione della strada di serie delle Radici per il Saltello alla provinciale di Borga.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 27 agosto 1883.   
+  
+UMBERTO.   
+  
+Genala.   
+  
+Visto, Il Guardasigilli: Savelli.   
+  

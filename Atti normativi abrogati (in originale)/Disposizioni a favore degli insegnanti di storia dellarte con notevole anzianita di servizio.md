@@ -1,0 +1,35 @@
+LEGGE 30 gennaio 1962 n. 27
+
+
+LEGGE 30 gennaio 1962 n. 27
+===========================
+
+Disposizioni a favore degli insegnanti di storia dell'arte con notevole anzianita' di servizio.
+-----------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+Agli insegnanti di ruolo di storia dell'arte che, in possesso della abilitazione specifica, abbiano prestato, anteriormente all'entrata in vigore del [decreto legislativo 7 maggio 1948, n. 1188](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1948-05-07;1188), servizio presso i licei classici statali come incaricati di tale insegnamento e' valutato, ai fini giuridici, tutto il servizio da essi prestato fino alla loro assunzione in ruolo.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 30 gennaio 1962
+
+GRONCHI FANFANI -BOSCO - TAVIANI
+
+Visto, il Guardasigilli: GONELLA

@@ -1,0 +1,43 @@
+LEGGE 29 luglio 1975 n. 392
+
+
+LEGGE 29 luglio 1975 n. 392
+===========================
+
+Modifica della legge 12 novembre 1955, n. 1137, per quanto concerne il ruolo dell'Arma dei carabinieri.
+-------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+  
+I capitani dell'Arma dei carabinieri, inseriti nei primi 35, 35 e 34 posti della graduatoria di merito dei dichiarati idonei e non prescelti nell'avanzamento ordinario per ciascuno degli anni 1974, 1975 e 1976, sono promossi - mediante la formazione di appositi quadri suppletivi - al grado di maggiore a decorrere rispettivamente dal 1 gennaio 1975, 1 gennaio 1976 e 1 gennaio 1977.  
+Le necessarie vacanze nel grado di maggiore sono formate mediante promozioni al grado di tenente colonnello, in eccedenza all'organico di tale grado.  
+La temporanea eccedenza determinata nel grado di tenente colonnello per effetto di dette promozioni verra' riassorbita con le vacanze derivanti da cause diverse da quelle indicate nelle [lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137~art44-com1-leta) e [d) del primo comma dell'articolo 44 della legge 12 novembre 1955, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137~art44-com1-letd).  
+Di tale eccedenza non si tiene conto nelle determinazioni delle aliquote di ruolo dei tenenti colonnelli da valutare per l'avanzamento.  
+
+Art. 2
+------
+
+  
+Alla copertura del maggior onere finanziario derivante dall'attuazione della presente legge, valutato in lire 15 milioni per ciascuno degli anni 1975, 1976 e 1977, si provvedera' con i normali stanziamenti di bilancio del Ministero della difesa - Arma dei carabinieri (capitolo 4501).  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 29 luglio 1975
+
+LEONE MORO - FORLANI - COLOMBO
+
+Visto, il Guardasigilli: REALE

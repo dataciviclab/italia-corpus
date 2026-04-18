@@ -1,0 +1,46 @@
+REGIO DECRETO 10 febbraio 1936 n. 282
+
+
+REGIO DECRETO 10 febbraio 1936 n. 282
+=====================================
+
+Protezione temporanea delle invenzioni che figureranno nella Fiera Campionaria di Padova. (036U0282)
+----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/03/1936
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la [legge 16 luglio 1905, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-16;423), sulla protezione temporanea delle invenzioni industriali e dei modelli e disegni di fabbrica che figurano nelle esposizioni;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Capo del Governo, Primo Ministro Segretarie di Stato, Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le invenzioni industriali e i modelli e i disegni di fabbrica relativi ad oggetti che figureranno nella Fiera che si terra' a Padova dal 9 al 24 giugno 1936-XIV, godranno della protezione temporanea stabilita dalla [legge 16 luglio 1905, n. 423](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-16;423).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserito nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 10 febbraio 1936 - Anno XIV   
+  
+VITTORIO EMANUELE   
+  
+Mussolini.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 27 febbraio 1936 - Anno XIV   
+Atti del Governo, registro 369, foglio 130. - Mancini.   

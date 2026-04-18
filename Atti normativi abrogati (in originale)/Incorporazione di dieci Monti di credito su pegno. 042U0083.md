@@ -1,0 +1,69 @@
+REGIO DECRETO 29 gennaio 1942 n. 83
+
+
+REGIO DECRETO 29 gennaio 1942 n. 83
+===================================
+
+Incorporazione di dieci Monti di credito su pegno. (042U0083)
+-------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/03/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduto l'art. 47, comma 1°, del R. decreto-legge 12 marzo 1936-XIV, n. 375, sulla difesa del risparmio e sulla disciplina della funzione creditizia, modificato con le leggi 7 marzo 1938-XVI, n. 141, 7 aprile 1938-XVI, n. 636, e 10 giugno 1940-XVIII, n. 933;   
+  
+Veduta la legge 10 maggio 1938-XVI, n. 745, sull' ordinamento dei Monti di credito su pegno, e il R. decreto 25 maggio 1939-XVII, n. 1279, per l'attuazione di essa;   
+  
+Vedute le deliberazioni degli organi amministrativi del Monte di credito su pegno di Catanzaro in data 23 novembre 1941-XX e dei commissari dei Monti dl credito su pegno di Crotone, Tropea,Petilia Policastro, Squillace, Strongoli e Mileto, rispettivamente in data 6, 16, 18, 25 e 15 novembre 1940-XIX e 6 gennaio 1941-XIX;   
+  
+Vedute le deliberazioni degli organi amministrativi dei Monti di credito su pegno di Novara, Cosenza, Trapani e Pietraperzia, rispettivamente in data 2 aprile 1941-XIX, 8 dicembre 1940-XIX, 13 maggio e 4 settembre 1941-XIX e dei commissari dei Monti di credito su pegno di Borgomanero, Rende, Alcamo e Nicosia, rispettivamente in data 25 settembre 1940-XVIII, 2 dicembre e 9 novembre 1940-XIX e 20 settembre 1940-XVIII;   
+  
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito;   
+  
+Abbiamo decretato e decretiamo:   
+  
+1. Il Monte di credito su pegno di Crotone, con sede in Crotone (Catanzaro), e' incorporato nel Monte di credito su pegno di Catanzaro, con sede in Catanzaro;   
+  
+2. Il Monte di credito su pegno di Tropea, con sede in Tropea (Catanzaro), e' incorporato nel Monte di credito su pegno di Catanzaro, con sede in Catanzaro;   
+  
+3. Il Monte di credito su pegno di Petilia Policastro, con sede in Petilia Policastro (Catanzaro), e' incorporato nel Monte di credito su pegno di Catanzaro, con sede in Catanzaro;   
+  
+4. Il Monte di credito su pegno di Squillace, con sede in Squillace (Catanzaro), e' incorporato nel Monte di eredito su pegno di Catanzaro, con sede in Catanzaro;   
+  
+5. li Monte di credito su pegno di Strongoli, con sede in Strongoli (Catanzaro), e' incorporato nel Monte di credito su pegno di Catanzaro, con sede in Catanzaro;   
+  
+6. Il Monte di credito su pegno di Mileto, con sede in Mileto (Catanzaro), e' incorporato nel Monte di credito su pegno di Catanzaro, con sede in Catanzaro;   
+  
+7. Il Monte dl credito su pegno di Borgomanero, con sede in Borgomanero (Novara), e' incorporato nel Monte di credito su pegno di Novara, con sede in Novara;   
+  
+8. Il Monte di credito su pegno di Rende, con sede in Rende (Cosenza), e' incorporato nei Monte di credito su pegno di Cosenza, con sede in Cosenza;   
+  
+9. Il Monte di credito su pegno di Alcamo, con sede in Alcamo (Trapani), e' incorporato nel Monte di credito su pegno di Trapani, con sede in Trapani;   
+  
+10. Il Monte di credito su pegno di Nicosia, con sede in Nicosia (Enna), e' incorporato nel Monte di credito su pegno di Pietraperzia, con sede in Pietraperzia (Enna).   
+  
+Le modalita' della incorporazione e le nuove norme statutarie da adottarsi eventualmente dagli Istituti incorporanti saranno approvate con decreto del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito, a norma dell'art. 47, comma 1°, del R. decreto-legge 12 marzo 1936-XIV, n. 375, modificato con le leggi 7 marzo 1938-XVI, n. 141, 7 aprile 1938-XVI, n. 636, e 10 giugno 1940-XVIII, n. 933.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 gennaio 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 24 febbraio 1942-XX   
+  
+Atti del Governo, registro 442, foglio 76. - MANCINI   

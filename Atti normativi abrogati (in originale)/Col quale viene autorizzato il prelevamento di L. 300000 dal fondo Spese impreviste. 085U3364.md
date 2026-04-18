@@ -1,0 +1,46 @@
+REGIO DECRETO 18 settembre 1885 n. 3364
+
+
+REGIO DECRETO 18 settembre 1885 n. 3364
+=======================================
+
+Col quale viene autorizzato il prelevamento di L. 300,000 dal fondo Spese impreviste. (085U3364)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/10/1885
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto l'art. 38 del testo unico della legge sull'amministrazione e sulla Contabilita' generale dello Stato, approvato col [R. decreto 17 febbraio 1884, n. 2016](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016);   
+  
+Visto che sul fondo di lire 4,000,000, inscritto per le Spese impreviste nello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario 1885-86 conseguenza della prelevazione di lire 1,000,000 fatta con precedente decreto Reale, rimane disponibile la somma di lire 3,000,000;   
+  
+Sentito, il Consiglio dei Ministri;   
+  
+Sulla proposta del Nostro Segretario di Stato per le Finanze ed incaricato degli affari del Tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+Dal fondo di riserva per le Spese impreviste inscritto al capitolo num. 84 dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario 1885-86, approvato colla [legge 28 giugno 1885, numero 3172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-06-28;3172) (Serie 3ª), e' autorizzata una 2ª prelevazione nella somma di lire trecentomila (lire 300,000) da iscriversi al nuovo capitolo n. 90-bis: Lavori di costruzione del carcere giudiziario cellulare di Regina Coeli in Roma, dello stato di previsione della spesa del Ministero dell'interno per l'esercizio medesimo.   
+  
+Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 18 settembre 1885.   
+  
+UMBERTO.   
+  
+A. Magliani.   
+  
+Visto, Il Guardasigilli: Tajani.   

@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 04 luglio 1918 n. 967
+
+
+DECRETO LUOGOTENENZIALE 04 luglio 1918 n. 967
+=============================================
+
+Applicazione di tassa sul bestiame. (018U0967)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 07/08/1918
+
+Art. 1
+------
+
+N.
+
+967. Decreto Luogotenenziale 4 luglio 1918, col quale sulla proposta del ministro delle finanze, e' data facolta' al comune di Ferrara di applicare, nell'anno 1918, la tassa sul bestiame, con eccedenza dei limiti massimi normali, in base alla tariffa approvata nell'adunanza consiliare 21 dicembre 1917.

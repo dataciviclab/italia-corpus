@@ -1,0 +1,50 @@
+REGIO DECRETO 11 agosto 1884 n. 2575
+
+
+REGIO DECRETO 11 agosto 1884 n. 2575
+====================================
+
+Sul promiscuo conferimento dei posti vacanti nella Giunta di censimento di Lombardia e nel personale tecnico di finanza. (084U2575)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/09/1884
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto il Nostro decreto del 15 giugno di quest'anno, n. 2419, che stabilisce un nuovo ordinamento del personale tecnico di finanza;
+
+Veduto il Nostro decreto del 29 luglio 1882, n. 253, che regola le nomine e gli avanzamenti del detto personale;
+
+Ritenuto che gli impiegati del personale stesso hanno, quanto ai servizi tecnici del catasto, comuni le attribuzioni con il personale tecnico della Giunta del censimento di Lombardia, la quale adempie il proprio compito col concorso degli impiegati del personale tecnico di finanza;
+
+Ritenuto essere quindi utile per il servizio e di vantaggio per la carriera dei due personali la promiscuita' nel concorrere ai posti superiori che si rendono vacanti nei due organici;
+
+Sulla
+-----
+
+proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I posti di direttore, di consigliere, di capo del Collegio dei periti, di perito e di segretario capo nel ruolo organico della Giunta del censimento di Lombardia, di direttore, ispettore capo e d'ispettore nel ruolo organico del personale tecnico di finanza, saranno, in caso di vacanza, promiscuamente conferiti, a scelta, ad impiegati della Giunta e del personale tecnico.   
+  
+E' abrogata ogni disposizione contraria al presente decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 11 agosto 1884.   
+  
+UMBERTO.   
+  
+A. Magliani.   
+  
+Visto, Il Guardasigilli: Ferracciu'.   
+  

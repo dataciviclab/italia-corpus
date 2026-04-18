@@ -1,0 +1,47 @@
+REGIO DECRETO 28 novembre 1912 n. 1273
+
+
+REGIO DECRETO 28 novembre 1912 n. 1273
+======================================
+
+Col quale viene approvata la convenzione stipulata il 14 novembre 1912 con la «Societe' Franco-Italienne du Chemin de fer Metropolitain de Naples» a parziale modificazione di quella stipulata il 18 gennaio 1912 per la concessione della ferrovia Metropolitana di Napoli. (012U1273)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/12/1912
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto 21 gennaio 1912, n. 37, con cui venne approvata e resa esecutoria la convenzione stipulata il 18 gennaio 1912 per la concessione, alla «Societe' Franco-Italienne du Chemin de fer Metropolitain de Naples», della costruzione dello esercizio della ferrocia Metropolitana di Napoli, a trazione elettrica e a scartamento ridotto;   
+  
+Ritenuto che con domanda 22 gennaio 1912 la Societa' concessionaria, fatta presente la necessita' d'impiantare, nelle vetture automotrici elettriche, motori di forte potenza, di maggiori dimensioni di quelli previsti nel progetto di massima della ferrovia, ha chiesto di poter adottare sulla rete arbana lo scartamento ordinario, riservandosi di decidere circa l'adozione dello scartamento normale anche sulla rete suburbana;   
+  
+Che l'accoglimento di tale istanza implica una modifica dei patti di concessione;   
+  
+Sentito il Consiglio superiore dei lavori pubblici e il Consiglio di Stato;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione stipulata il 14 novembre 1912 fra il predetto Nostro ministro, segretario di Stato per i lavori pubblici, in rappresentanza dello Stato, e i legali rappresentanti della «Societe' Franco-Italienne du Chemin de fer Metropolitain de Naples» a parziale modificazione della convenzione stipulata con detta Societa' il 18 gennaio 1912 per la concessione della ferrovia Metropolitana di Napoli.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 28 novembre 1912.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Sacchi.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   
+  

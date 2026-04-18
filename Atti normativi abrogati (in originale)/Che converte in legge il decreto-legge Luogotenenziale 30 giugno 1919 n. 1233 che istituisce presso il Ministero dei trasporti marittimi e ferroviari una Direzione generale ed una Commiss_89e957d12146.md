@@ -1,0 +1,40 @@
+LEGGE 28 maggio 1922 n. 812
+
+
+LEGGE 28 maggio 1922 n. 812
+===========================
+
+Che converte in legge il decreto-legge Luogotenenziale 30 giugno 1919, n. 1233, che istituisce presso il Ministero dei trasporti marittimi e ferroviari una Direzione generale ed una Commissione consultiva per l'aeronautica, determinando le loro rispettive attribuzioni e recando inoltre altri provvedimenti nell'interesse dei servizi aeronautici. (022U0812)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/06/1922
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato o promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il [decreto-legge Luogotenenziale 30 giugno 1919, n. 1233](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1919-06-30;1233), che istituisce presso il Ministero dei trasporti marittimi e ferroviari una Direzione generale ed una Commissione consultiva per l'aeronautica, determinando le loro rispettive attribuzioni e recando inoltre altri provvedimenti nell'interesse dei servizi aeronautici.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 28 maggio 1922.   
+  
+VITTORIO EMANUELE.   
+  
+FACTA - P. LANZA DI SCALEA - PEANO DE VITO   
+- AMENDOLA - FULCI.   
+  
+Visto, il guardasigilli: LUIGI ROSSI.   
+  

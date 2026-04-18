@@ -1,0 +1,48 @@
+REGIO DECRETO 28 giugno 1863 n. 1333
+
+
+REGIO DECRETO 28 giugno 1863 n. 1333
+====================================
+
+Di convocazione del Collegio elettorale di Ortona. (063U1333)
+-------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/07/1863
+
+VITTORIO EMANUELE II
+--------------------
+
+PIM GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il Messaggio in data del 22 cadente giugno, col quale l'Ufficio di Presidenza della Camera dei Deputati notifico' essere vacante il Collegio elettorale di Ortona, n.° 3;
+
+Veduto l'articolo 63 della legge per le elezioni politiche 17 dicembre 1860, n.° 4513;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il Collegio elettorale di Ortona, n.° 3, e' convocato pel giorno 19 luglio p. v. affinche' proceda alla elezione del proprio Deputato.   
+  
+Occorrendo una seconda votazione, essa avra' luogo il giorno 26 luglio predetto.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato in Torino addi' 28 giugno 1863.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 7 luglio 1863   
+Reg.° 24 Atti del Governo a c. 78. Ayres.   
+Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
+  
+U. Peruzzi.   
+  

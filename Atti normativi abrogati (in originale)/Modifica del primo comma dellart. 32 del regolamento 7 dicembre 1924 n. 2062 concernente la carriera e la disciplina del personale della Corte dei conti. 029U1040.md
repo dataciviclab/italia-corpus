@@ -1,0 +1,50 @@
+REGIO DECRETO 17 giugno 1929 n. 1040
+
+
+REGIO DECRETO 17 giugno 1929 n. 1040
+====================================
+
+Modifica del primo comma dell'art. 32 del regolamento 7 dicembre 1924, n. 2062, concernente la carriera e la disciplina del personale della Corte dei conti. (029U1040)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/07/1929
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la [legge 14 agosto 1862, n. 800](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-08-14;800);   
+  
+Visto l'art. 14, comma 3°, del Nostro decreto 11 novembre 1923, n. 2395, modificato dall'art. 8 dell'altro Nostro decreto 30 dicembre 1923, n. 3084;   
+  
+Visto il Nostro decreto 7 dicembre 1924, n. 2062, che approva il regolamento concernente la carriera e la disciplina del personale della Corte dei conti;   
+  
+Vista la deliberazione 27 maggio 1929 delle Sezioni unite della Corte dei conti;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Nel primo comma dell'art. 32 del regolamento concernente la carriera e la disciplina del personale della Corte dei conti, approvato con [R. decreto 7 dicembre 1924, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-07;2062), sono soppresse le parole «per ciascun nome, a votazione segreta».   
+  
+Il presente decreto entrera' in vigore dal giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 17 giugno 1929 - Anno VII   
+  
+VITTORIO EMANUELE.   
+  
+Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 27 giugno 1929 - Anno VII   
+Atti del Governo, registro 285, foglio 175. - Ferzi.   
+  

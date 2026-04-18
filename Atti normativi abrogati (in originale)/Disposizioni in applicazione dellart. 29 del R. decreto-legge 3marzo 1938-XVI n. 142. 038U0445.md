@@ -1,0 +1,22 @@
+REGIO DECRETO 29 aprile 1938 n. 445
+
+
+REGIO DECRETO 29 aprile 1938 n. 445
+===================================
+
+Disposizioni in applicazione dell'art. 29 del R. decreto-legge 3 
+marzo 1938-XVI, n. 142. (038U0445)
+----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/05/1938
+
+Art. 1
+------
+
+N.
+
+445. R. decreto 29 aprile 1938, col quale, sulla proposta del Duce, Primo Ministro Segretario di Stato, di concerto col Ministro per le finanze, sono adottate disposizioni in relazione all'[art. 29 del R. decreto-legge 3 marzo 1938, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1938-03-03;142~art29).   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 5 maggio 1939 - Anno XVI

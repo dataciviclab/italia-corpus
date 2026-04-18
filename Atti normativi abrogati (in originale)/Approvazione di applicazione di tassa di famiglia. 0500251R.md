@@ -1,0 +1,19 @@
+REGIO DECRETO 12 agosto 1905 n. CCLI
+
+
+REGIO DECRETO 12 agosto 1905 n. CCLI
+====================================
+
+Approvazione di applicazione di tassa di famiglia. (0500251R)
+-------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/10/1905
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro delle finanze:   
+  
+N. CCLI (Dato a Sant'Anna di Valdieri, il 12 agosto 1905), col quale si approva il regolamento per l'applicazione della tassa di famiglia nei comuni della provincia di Cuneo deliberato da quella Giunta provinciale amministrativa nelle adunanze in data 16 settembre 1903, 27 dicembre 1904, 13 febbraio, 13 marzo, 19 giugno e 17 luglio 1905, in sostituzione del regolamento approvato con R. decreto 19 aprile n. CXVIII.   
+  

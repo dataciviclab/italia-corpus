@@ -1,0 +1,41 @@
+REGIO DECRETO 17 giugno 1906 n. 295
+
+
+REGIO DECRETO 17 giugno 1906 n. 295
+===================================
+
+Proroga a tutto il 31 dicembre 1906 agli agenti del personale ferroviario per la rappresentanza delle Reti Mediterranea, Adriatica e Sicula presso i Comitati amministratori delle Casse pensioni e dei Consorzi di mutuo soccorso. (006U0295)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/07/1906
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto 11 marzo 1906, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-03-11;80), col quale sono stati prorogati fino al 30 giugno 1906 i poteri degli agenti nominati nell'anno 1903 dal personale ferroviario delle ex Reti Mediterranea, Adriatica e Sicula, per rappresentare il personale medesimo nei Comitati amministratori delle Casse pensioni e dei Consorzi di mutuo soccorso;   
+  
+Sentito il Consiglio di Stato;   
+  
+Sulla proposta del Nostro ministro segretario di Stato pei lavori pubblici.   
+  
+Abbiamo decretato e decretiamo:   
+  
+Gli agenti nominati nell'anno 1903 dal personale ferroviario delle ex Reti Mediterranea, Adriatica e Sicula continueranno fino al 31 dicembre 1906 a rappresentare il personale medesimo nei Comitati amministratori delle Casse pensioni e dei Consorzi di mutuo soccorso.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 17 giugno 1906.   
+  
+VITTORIO EMANUELE.   
+  
+E. Gianturco.   
+  
+Visto, Il guardasigilli: Gallo.   
+  

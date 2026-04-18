@@ -1,0 +1,19 @@
+REGIO DECRETO 10 agosto 1922 n. 1231
+
+
+REGIO DECRETO 10 agosto 1922 n. 1231
+====================================
+
+Accettazione di legato. (022U1231)
+----------------------------------
+
+Entrata in vigore del provvedimento: 30/09/1922
+
+Art. 1
+------
+
+N.
+
+1231. Regio decreto 10 agosto 1922, col quale, sulla proposta del ministro dell'istruzione pubblica, il presidente del Collegio Carlo Alberto di Torino viene autorizzato ad accettare a favore del Collegio medesimo il legato disposto della signora Albertella Speranza per la istituzione di due posti di studio intitolati «Posti di fondazione avv. Saverio Branca».   
+  
+Con detto decreto la Fondazione viene eretta in Ente morale e ne e' approvato lo statuto.

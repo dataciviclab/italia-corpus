@@ -1,0 +1,36 @@
+REGIO DECRETO 17 novembre 1932 n. 1525
+
+
+REGIO DECRETO 17 novembre 1932 n. 1525
+======================================
+
+Approvazione della convenzione stipulata il 24 ottobre 1932-X con la Societa' Trazione Elettrica Lombarda per la concessione alla medesima della costruzione e dell'esercizio del tronco tramviario extraurbano a trazione elettrica da Affori a Bruzzano in diramazione della tramvia Milano-Affori-Mombello. (032U1525)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/12/1932
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+RE D'ITALIA   
+  
+Visto il testo unico delle disposizioni di legge, per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447, e successive modificazioni;   
+Sentito il Consiglio superiore dei lavori pubblici;   
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni;   
+Abbiamo decretato e decretiamo:   
+E' approvata e resa esecutoria la convenzione stipulata il 24 ottobre 1932-X fra il delegato del Ministro per le comunicazioni, in rappresentanza dello Stato, ed il rappresentante della "Societa' Trazione Elettrica Lombarda" con sede in Milano, per la concessione a quest'ultima della costruzione e dell'esercizio del tronco tramviario extraurbano, a trazione elettrica, da Affori a Bruzzano, in diramazione della tramvia Milano-Affori-Mombello.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 17 novembre 1932 - Anno XI   
+  
+VITTORIO EMANUELE.   
+  
+  
+CIANO.   
+  
+Visto, il Guardasigilli: DE FRANCISCI.   
+Registrato alla Corte dei conti, addi' 28 novembre 1932 - Anno XI   
+Atti del Governo, registro 326, foglio 123. - MANCINI.   
+  

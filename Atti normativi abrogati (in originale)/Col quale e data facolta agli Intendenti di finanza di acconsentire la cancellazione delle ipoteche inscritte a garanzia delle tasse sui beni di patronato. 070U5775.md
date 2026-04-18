@@ -1,0 +1,48 @@
+REGIO DECRETO 28 luglio 1870 n. 5775
+
+
+REGIO DECRETO 28 luglio 1870 n. 5775
+====================================
+
+Col quale e' data facolta' agli Intendenti di finanza di acconsentire la cancellazione delle ipoteche inscritte a garanzia delle tasse sui beni di patronato. (070U5775)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/08/1870
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visti i Nostri Decreti 26 settembre 1869, n. 5286, e 18 dicembre 1869, n. 5397;
+
+Visto l'[articolo 5 della Legge 15 agosto 1867, n. 3848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1867-08-15;3848~art5);
+
+Sulla
+-----
+
+proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' delegata agli Intendenti di finanza la facolta' di acconsentire la cancellazione delle ipoteche inscritte a favore del Demanio dello Stato a garanzia delle tasse di rivendicazione o di svincolo di beni di patronato, operate a sensi dell'[articolo 5 della Legge 15 agosto 1867, n. 3848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1867-08-15;3848~art5), quando risulti del seguito integrale pagamento della tassa dovuta ed accessori legali.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 28 luglio 1870.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 6 agosto 1870   
+  
+Reg. 52. Atti del Governo a c. 13. Ayres   
+  
+Luogo del sigillo. V. Il Guardasigilli M Raeli.   
+  
+Quintino Sella.   
+  

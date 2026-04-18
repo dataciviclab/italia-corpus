@@ -1,0 +1,39 @@
+LEGGE 04 marzo 1958 n. 163
+
+
+LEGGE 04 marzo 1958 n. 163
+==========================
+
+Provvedimenti diretti ad agevolare finanziamenti occorrenti all'Istituto nazionale per il finanziamento della ricostruzione.
+----------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+----------------------------------------------------------
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+Per ulteriore svolgimento dell'attivita' dell'Istituto nazionale per il finanziamento della ricostruzione, la Cassa depositi e prestiti e' autorizzata, a decorrere dall'esercizio finanziario 1958-59 e fino all'esercizio 1961-62, a concedere all'Istituto predetto mutui della durata di 30 anni, fino alla concorrenza di 4 miliardi di lire all'anno, alle condizioni e con le modalita' previste dalla [legge 9 agosto 1954, n. 656](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-08-09;656).   
+Il Ministro per il tesoro e' autorizzato ad accordare la garanzia dello Stato per il pagamento del capitale e degli interessi dei detti mutui. Agli stessi mutui si applicano le disposizioni di cui al [secondo](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-06-25;409~art36-com2) e [terzo comma dell'art. 36 della legge 25 giugno 1949, n. 409](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-06-25;409~art36-com3).   
+All'Istituto nazionale per il finanziamento della ricostruzione continuano ad applicarsi tutte le disposizioni di legge che, secondo l'ordinamento precedente, erano applicabili alla Seconda Giunta del C.A.S.A.S., in quanto ad esse non deroghi espressamente e specificamente la [legge 5 gennaio 1953, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-01-05;1).   
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica Italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 4 marzo 1958
+
+GRONCHI ZOLI - MEDICI - TOGNI
+
+Visto, il Guardasigilli: GONELLA

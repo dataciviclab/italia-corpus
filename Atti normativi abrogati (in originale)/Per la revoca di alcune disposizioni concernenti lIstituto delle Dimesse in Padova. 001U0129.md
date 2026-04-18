@@ -1,0 +1,41 @@
+REGIO DECRETO 24 marzo 1901 n. 129
+
+
+REGIO DECRETO 24 marzo 1901 n. 129
+==================================
+
+Per la revoca di alcune disposizioni concernenti l'«Istituto delle Dimesse» in Padova. (001U0129)
+-------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/05/1901
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il [R. decreto 1° novembre 1872, n. 1113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1872-11-01;1113) (serie 2ª), col quale l'Istituto delle Dimesse in Padova fu dichiarato Istituto pubblico educativo e come tale sottoposto alle disposizioni che regolano gl'Istituti femminili di pubblica istruzione del Regno;   
+  
+Veduta la sentenza 15 maggio-[1º giugno 1900 della Corte d'appello](https://e-justice.europa.eu/ecli/ECLI::::) di Venezia, passata in rejudicata, colla quale, in seguito alla causa promossa da Ronzali Maria Teresa per se' e quale rappresentante della Congregazione delle Dimesse in Padova e delle facentivi parte, contro il Nostro Ministro della Pubblica Istruzione, fu riconosciuto che il detto Istituto e' laicale educativo, di fondazione e di ragione privata, e che esso debba quindi essere ristabilito in quelle condizioni in cui trovavasi nel tempo anteriore all'attivazione del R. decreto 1° novembre 1872 precitato; salvo sempre al Governo il diritto conseguente alle leggi vigenti in materia di pubblica istruzione e specialmente la potesta' di invigilare in tutto cio' che concerne l'insegnamento, l'ordine, la disciplina e l'utilita' delle scuole, e salvo gli obblighi che alle Sig.re Dimesse sono imposti dalle regole preesistenti quanto all'amministrazione del loro patrimonio;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' revocato il [R. decreto 1° novembre 1872, n. 1113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1872-11-01;1113) (serie 2ª), col quale l'Istituto delle Dimesse in Padova era stato dichiarato Istituto pubblico educativo e sottoposto alle disposizioni del Regolamento per gl'Istituti femminili, approvato col [R. decreto 6 ottobre 1867, n. 1940](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-10-06;1940) (parte supplementare), e sono conseguentemente revocate tutte le disposizioni date a riguardo di detto Istituto in conseguenza del decreto 1° novembre 1872 predetto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a. Roma, addi' 24 marzo 1901.   
+  
+VITTORIO EMANUELE.   
+  
+N. Nasi.   
+  
+Visto, Il Guardasigilli: Cocco-Ortu.   
+  

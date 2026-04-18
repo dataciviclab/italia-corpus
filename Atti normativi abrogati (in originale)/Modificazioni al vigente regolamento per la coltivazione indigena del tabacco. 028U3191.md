@@ -1,0 +1,90 @@
+REGIO DECRETO 05 dicembre 1928 n. 3191
+
+
+REGIO DECRETO 05 dicembre 1928 n. 3191
+======================================
+
+Modificazioni al vigente regolamento per la coltivazione indigena del tabacco. (028U3191)
+-----------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/02/1929
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti 12 ottobre 1924, n. 1590](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), [17 marzo 1927, n. 389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-17;389), e [23 ottobre 1927, n. 1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-23;1998);
+
+Vista la [legge 3 aprile 1926, n. 563](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;563), sulla disciplina giuridica dei rapporti collettivi del lavoro;
+
+Sentito il Consiglio di amministrazione dei monopoli di Stato;
+
+Udito il parere del Consiglio di Stato in adunanza generale;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Ministro per le corporazioni; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+Gli articoli 58, 59 e 61 del regolamento per la coltivazione indigena del tabacco, approvato con i [Regi decreti n. 1590 del 12 ottobre 1924](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-12;1590), [n. 389 del 17 marzo 1927](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-03-17;389) e [n. 1998 del 23 ottobre 1927](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-23;1998), sono abrogati e sono sostituiti dai seguenti:   
+  
+Art. 58. - Per ciascuna campagna, e' nominata una Commissione di perizia, la quale procede, nei magazzini di ricevimento, alla classificazione dei prodotti ed all'assegnazione delle tare.   
+  
+Essa e' costituita:   
+  
+a) di un membro che la presiede, nominato, almeno un mese prima del termine stabilito per l'apertura del magazzino di ricevimento, dal presidente del Tribunale avente giurisdizione nel territorio ove esiste il magazzino di consegna, e che abbia riconosciuta competenza in materia, sia preferibilmente laureato in scienze agrarie e non risulti interessato direttamente nelle coltivazioni autorizzate con manifesto;   
+  
+b) di un funzionario delegato dal Ministero delle finanze;   
+  
+c) di un delegato dei concessionari, distintamente per ciascuno dei Comuni autorizzati alla coltivazione;   
+  
+d) di un segretario, senza diritto a voto, scelto dal Ministero delle finanze.   
+  
+Ogni membro della Commissione deve avere un supplente, che entra in funzioni solo nell'assenza del membro effettivo.   
+  
+Art. 59. - La designazione del delegato dei concessionari pei vari Comuni viene fatta, nella prima decade di luglio, dalle Confederazioni interessate, attraverso il Ministero delle corporazioni, il quale provvede a trasmettere, entro lo stesso mese di luglio, le relative liste alle competenti Prefetture del Regno ed alla Direzione generale dell'Amministrazione autonoma dei monopoli di Stato.   
+  
+Qualora non vi sia accordo nella nomina, questa viene dal Ministero delle corporazioni deferita al prefetto della Provincia, il quale ne da comunicazione alla Direzione generale anzidetta nel termine indicato al comma precedente.   
+  
+Art. 61. - La Commissione di perizia e' convocata dal direttore del Compartimento.   
+  
+Essa decide a maggioranza di voti, e le sue deliberazioni sono valide anche se tutti e tre i membri intervenuti siano supplenti.   
+  
+L'assenza non giustificata o l'abbandono delle perizie da' parte di qualche membro della Commissione costituisce motivo di decadenza dall'incarico ricevuto; in questo caso, si provvede alla nuova nomina del presidente o del suo supplente nei modi indicati all'art. 58, mentre, per il delegato dei concessionari o per il suo supplente, la nomina e' fatta dal prefetto della Provincia.   
+  
+In caso di simultaneo impedimento, per giustificati motivi, del presidente e del suo supplente, si provvede dal presidente del Tribunale alla nomina di uno speciale delegato a presiedere la Commissione fino al ritorno in carica di uno dei due assenti.   
+  
+Se eguale impedimento si verifichi per il delegato dei concessionari e per il suo supplente, il presidente della Commissione provvede seduta stante alla nomina di uno speciale delegato, che fara' parte della Commissione stessa fino al ritorno in carica di uno dei due assenti.   
+  
+
+Art. 2
+------
+
+Il presente decreto ha effetto dalla campagna di coltivazione
+
+1928. 
+  
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 5 dicembre 1928 - Anno VII   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 17 gennaio 1929 - Anno VII   
+  
+Atti del Governo, registro 280, foglio 152. - Sirovich.

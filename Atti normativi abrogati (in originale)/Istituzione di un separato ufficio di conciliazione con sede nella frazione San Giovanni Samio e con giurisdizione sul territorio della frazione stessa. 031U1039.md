@@ -1,0 +1,40 @@
+REGIO DECRETO 24 luglio 1931 n. 1039
+
+
+REGIO DECRETO 24 luglio 1931 n. 1039
+====================================
+
+Istituzione di un separato ufficio di conciliazione con sede nella frazione San Giovanni Samio e con giurisdizione sul territorio della frazione stessa. (031U1039)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/09/1931
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+  
+RE D'ITALIA   
+  
+Vista la deliberazione 3 novembre 1930 del podesta' del comune di Samo di Calabria, con la quale si chiede la istituzione di un separato ufficio di conciliazione con sede nella frazione San Giovanni Samio e con giurisdizione sul territorio della frazione stessa;   
+Visto il rapporto 24 gennaio 1931 del primo presidente della Corte di appello di Catanzaro, il quale su conforme parere di quel procuratore generale propone la istituzione di detto ufficio;   
+Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728;   
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la giustizia e gli affari di culto;   
+Abbiamo decretato e decretiamo:   
+E' istituito in San Giovanni Samio, frazione del comune di Samo di Calabria, un separato ufficio di conciliazione con giurisdizione sul territorio della frazione stessa.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a S. Anna di Valdieri, addi' 24 luglio 1931 - Anno IX   
+  
+VITTORIO EMANUELE.   
+  
+  
+Rocco.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 29 agosto 1931 - Anno IX Atti del Governo, registro 311, foglio 85. - Ferzi   
+  

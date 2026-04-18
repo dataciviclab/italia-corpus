@@ -1,0 +1,45 @@
+REGIO DECRETO 10 maggio 1891 n. 245
+
+
+REGIO DECRETO 10 maggio 1891 n. 245
+===================================
+
+Con il quale e' approvata l'aggiunta all'elenco delle provinciali della provincia di Avellino della strada Bisaccia-Aquilonia-Monteverde-Provinciale di Melfi. (091U0245)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/06/1891
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto le deliberazioni 21 ottobre 1885 e 7 settembre 1889, con le quali il Consiglio Provinciale di Avellino classifico' fra le provinciali la strada Bisaccia-Aquilonia-Monteverde Provinciale di Melfi di lunghezza chilometri 27,060;   
+  
+Visto che l'Elenco suppletivo contenente la strada predetta e' stato pubblicato in tutti i Comuni di quella Provincia senza che siano insorti reclami;   
+  
+Visto l'articolo 14 della legge 20 marzo 1865, allegato F;   
+  
+Sentito il Consiglio Superiore dei lavori pubblici in adunanza 11 aprile 1891;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata l'aggiunta all'Elenco delle provinciali della Provincia di Avellino della strada Bisaccia Aquilonia Monteverde-Provinciale di Melfi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 10 maggio 1891.   
+  
+UMBERTO.   
+  
+Branca.   
+  
+Visto, Il Guardasigilli: L. Ferraris.   
+  

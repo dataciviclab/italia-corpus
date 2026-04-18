@@ -1,0 +1,21 @@
+REGIO DECRETO 27 maggio 1940 n. 988
+
+
+REGIO DECRETO 27 maggio 1940 n. 988
+===================================
+
+Autorizzazione al Ministro per le finanze ad accettare una donazione fatta allo Stato. (040U0988)
+-------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/08/1940
+
+Art. 1
+------
+
+N.
+
+988. R. decreto 27 maggio 1940, col quale, sulla proposta del Ministro per le finanze, il Ministro proponente viene autorizzato ad accettare la donazione fatta allo Stato, da parte dei coniugi Satta Francesco e Fiori Maria, di un tratto di terreno, della superficie di ettari 0.02.88 e del valore di L. 150, sito nel comune di Torralba, e riportato nel nuovo catasto col mappale 3 del foglio 29, da servire come zona di rispetto della costruzione preistorica costituente il Nuraghe S. Antino.   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 20 giugno 1940-XVIII

@@ -1,0 +1,21 @@
+REGIO DECRETO 29 aprile 1937 n. 888
+
+
+REGIO DECRETO 29 aprile 1937 n. 888
+===================================
+
+Autorizzazione alla Regia scuola tecnica industriale di S. Giovanni a Teduccio ad accettare una donazione. (037U0888)
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/07/1937
+
+Art. 1
+------
+
+N.
+
+888. R. decreto 29 aprile 1937, col quale, sulla proposta del Ministro per l'educazione nazionale, il presidente del Consiglio di amministrazione della Regia scuola tecnica industriale di S. Giovanni a Teduccio viene autorizzato ad accettare la donazione della somma di lire cinquemila fatta dalla Societa' anonima metallurgica Giacomo Corradini con sede in Napoli, in favore della Cassa scolastica della Scuola stessa.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 29 maggio 1937 - Anno XV

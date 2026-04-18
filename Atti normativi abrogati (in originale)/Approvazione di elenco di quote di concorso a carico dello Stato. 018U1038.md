@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 30 giugno 1918 n. 1038
+
+
+DECRETO LUOGOTENENZIALE 30 giugno 1918 n. 1038
+==============================================
+
+Approvazione di elenco di quote di concorso a carico dello Stato. (018U1038)
+----------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/08/1918
+
+Art. 1
+------
+
+N.
+
+1038. Decreto Luogotenenziale 30 giugno 1918, col quale, sulla proposta del ministro delle finanze, e' approvato l'elenco delle quote di concorso a carico dello Stato, per gli anni dal 1913 al 1917, concesse a vari Comuni del Mezzogiorno continentale, della Sicilia e della Sardegna, per la integrazione provvisoria delle deficienze di bilancio, causate dall'applicazione delle disposizioni sui tributi locali, contenute nelle leggi 25 giugno e 15 luglio 1906, nn. 255 e 383.

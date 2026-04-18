@@ -1,0 +1,39 @@
+LEGGE 25 marzo 1943 n. 288
+
+
+LEGGE 25 marzo 1943 n. 288
+==========================
+
+Norma integrativa del Regio decreto-legge 13 febbraio 1939-XVII, n. 325, riguardante il piano regolatore di Vercelli. (043U0288)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/05/1943
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Le agevolazioni tributarie consentite per l'attuazione del piano regolatore di Vercelli dall'art. 11 dei R. decreto-legge 13 febbraio 1939-XVII, n. 325, convertito nella legge 2 giugno 1939-XVII, n. 739, si applicano agli atti di trasferimento di immobili occorrenti per l'esecuzione della parte del piano avente carattere di risanamento anche a favore di enti o privati che in relazione ad apposite convenzioni aventi data certa provvedano alle ricostruzioni in luogo e vece del Comune.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge delle Stato.   
+  
+Data a Roma, addi' 25 marzo 1943-XXI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - BENINI - DE MARSICO - ACERBO - BIGGINI   
+  
+Visto, il Guardasigilli: DE MARSICO   

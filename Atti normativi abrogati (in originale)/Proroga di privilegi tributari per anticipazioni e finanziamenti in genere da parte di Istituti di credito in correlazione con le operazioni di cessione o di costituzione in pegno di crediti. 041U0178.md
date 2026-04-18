@@ -1,0 +1,49 @@
+LEGGE 11 marzo 1941 n. 178
+
+
+LEGGE 11 marzo 1941 n. 178
+==========================
+
+Proroga di privilegi tributari per anticipazioni e finanziamenti in genere da parte di Istituti di credito, in correlazione con le operazioni di cessione o di costituzione in pegno di crediti. (041U0178)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/04/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+L'efficacia delle disposizioni concernenti agevolazioni contenute nel R. decreto-legge 19 dicembre 1936-XV, n. 2170, convertito in legge con la legge 8 aprile 1937-XV, 631, gia' prorogata al 31 dicembre 1939-XVIII, in virtu' del R. decreto-legge 3 gennaio 1939-XVII, n. 27, convertito nella legge 2 giugno 1939-XVII, n. 739, e successivamente al 31 dicembre 1940-XIX, con la legge 23 marzo 1940-XVIII, n. 286, e' ulteriormente prorogata al 31 dicembre 1942-XXI.   
+  
+Qualora la cessione o la costituzione in pegno di crediti risultino da corrispondenza commerciale o da scrittura, in carta libera ai sensi dell'ultimo comma dell'art. 1 del R. decreto-legge 3 gennaio 1939-XVII, n. 27, convertito nella legge 2 giugno 1939-XVII, n. 739, detti documenti devono essere autenticati da notaio col pagamento degli onorari ridotti a meta'.   
+  
+Le dette autenticazioni sono esenti da tassa di bollo non sono soggette a registrazione.   
+  
+Le cessioni di crediti vantati verso le Amministrazioni della marina e della guerra in dipendenza di forniture belliche, di cui alla legge 6 luglio 1940-XVIII, n. 922, sono soggette all'imposta fissa di registro di L. 20, anche quando siano compiute a favore del Consorzio per sovvenzioni su valori industriali dall'Ente finanziario costituito ai sensi della legge 20 novembre 1939-XVIII, n. 1710.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 11 marzo 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - LISSIA - PUTZOLU   
+  
+Visto:   
+  
+(ai sensi del R. decreto 20 febbraio 1941-X1X, n. 76)   
+  
+MUSSOLINI   

@@ -1,0 +1,19 @@
+REGIO DECRETO 28 agosto 1931 n. 1264
+
+
+REGIO DECRETO 28 agosto 1931 n. 1264
+====================================
+
+Autorizzazione al Convitto nazionale di Arpino ad accettare una donazione. (031U1264)
+-------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/11/1931
+
+Art. 1
+------
+
+N.
+
+1264. R. decreto 28 agosto 1931, con il quale, sulla proposta del Ministro per l'educazione nazionale, il Convitto nazionale di Arpino e' autorizzato ad accettare una donazione di autografi fatta al Convitto stesso dalla signora Lisa Cicco di Cola.   
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 20 ottobre 1931 - Anno IX

@@ -1,0 +1,45 @@
+REGIO DECRETO 19 gennaio 1888 n. 5184
+
+
+REGIO DECRETO 19 gennaio 1888 n. 5184
+=====================================
+
+Col quale si stabilisce che il tempo passato a bordo delle RR. navi destinate alla difesa marittima locale e' calcolato come utile per l'avanzamento al grado superiore. (088U5184)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/02/1888
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la legge 4 dicembre 1858, n. 3092;   
+  
+Visto il R. decreto 28 febbraio 1886 circa il tempo di servizio a bordo utile per conseguire avanzamento;   
+  
+Visti i RR. decreti 25 settembre 1862, n. 887 e 23 e 31 dicembre 1876, n. 3605 e 3613 (Serie 2ª) e 16 giugno 1887, n. 4639 (Serie 3ª);   
+  
+Udito il Consiglio superiore di Marina;   
+  
+Sulla proposta del Nostro Ministro della Marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il tempo passato a bordo delle regie navi destinate alla difesa marittima locale e' calcolato come utile per l'avanzamento al grado superiore.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 19 gennaio 1888.   
+  
+UMBERTO.   
+  
+B. Brin.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

@@ -1,0 +1,45 @@
+REGIO DECRETO 21 giugno 1883 n. 1510
+
+
+REGIO DECRETO 21 giugno 1883 n. 1510
+====================================
+
+Concernente la nomina degli scrivani locali ad ufficiali d'ordine nelle amministrazioni dello Stato. (083U1510)
+---------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/08/1883
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il Nostro decreto in data 22 novembre 1882, col quale venne approvato il regolamento per la nomina degli scrivani locali dipendenti dal Ministero della Guerra ad ufficiali d'ordine nelle varie Amministrazioni dello Stato;
+
+Ritenuto essersi erroneamente indicati alla lettera e) dell'art. 1 di detto regolamento gli impiegati di economi magazzinieri nell'Amministrazione delle gabelle, anziche' gli impieghi di economi magazzinieri delle Intendenze di finanza;
+
+Sulla
+-----
+
+proposizione del Presidente del Consiglio dei Ministri, Ministro dell'Interno, di concerto con quello della Guerra, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Alle parole: Gli economi magazzinieri nell'Amministrazione delle gabelle, inserto alla lettera e), articolo 1 del regolamento approvato col Nostro decreto 22 novembre 1882, per la nomina degli scrivani locali dipendenti dal Ministero della Guerra ad ufficiali d'ordine nelle varie Amministrazioni dello Stato, sono sostituite le seguenti: Gli economi magazzinieri delle Intendenze di finanza.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 21 giugno 1883.   
+  
+UMBERTO.   
+  
+Ferrero.   
+Depretis.   
+  
+Visto, Il Guardasigilli: Savelli.   
+  

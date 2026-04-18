@@ -1,0 +1,50 @@
+REGIO DECRETO 07 marzo 1870 n. 5567
+
+
+REGIO DECRETO 07 marzo 1870 n. 5567
+===================================
+
+Autorizza la frazione Le Grange di Lucedio a tenere il proprio patrimonio e le spese separate da quelle del Comune di Trino. (070U5567)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/04/1870
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
+
+Veduta la domanda della maggioranza dei contribuenti della frazione delle Grange di Lucedio, per ottenere che la frazione stessa sia autorizzata a tenere il proprio patrimonio e le spese separate da quelle del rimanente del Comune di Trino (Novara);
+
+Vista la deliberazione del Consiglio comunale di Trino, in data 29 novembre 1869;
+
+Visto
+-----
+
+l'articolo 16 della Legge comunale e provinciale 20 marzo 1865, allegato A; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La frazione Le Grange di Lucedio e' autorizzata a tenere il proprio patrimonio e le spese separate da quelle del rimanente del Comune di Trino (Novara).   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 7 marzo 1870.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 22 marzo 1870   
+  
+Reg. 50 Atti del Governo a c. 150. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
+  
+G. Lanza.   
+  

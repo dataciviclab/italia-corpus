@@ -1,0 +1,45 @@
+REGIO DECRETO 01 novembre 1883 n. 1662
+
+
+REGIO DECRETO 01 novembre 1883 n. 1662
+======================================
+
+Concernente la classificazione dei fuochisti di 1.ª classe o graduati fuochisti nella nomina a macchinisti di 3.ª classe. (083U1662)
+------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/12/1883
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto 25 settembre 1862, n. 887](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1862-09-25;887);   
+  
+Visto il [R. decreto 9 marzo 1882, n. 668](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-03-09;668) (Serie 3ª);   
+  
+Udito il Consiglio superiore di marina;   
+  
+Sulla proposta del Nostro Ministro della Marina,   
+  
+Abbiamo decretato e decretiamo:   
+  
+I fuochisti di 1ª classe o graduati fuochisti stati ammessi all'ultimo corso della R. Scuola macchinisti, ottenendo la nomina a macchinisti di 3ª classe, saranno classificati a seconda del risultato conseguito nell'esame sostenuto in concorrenza con gli allievi interni che contemporaneamente ad essi saranno dichiarati idonei al grado suddetto.   
+  
+Restano in tal senso modificate le precedenti disposizioni contrarie alla presente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 1° novembre 1883.   
+  
+UMBERTO.   
+  
+F. Acton.   
+  
+Visto, Il Guardasigilli: Savelli.   
+  

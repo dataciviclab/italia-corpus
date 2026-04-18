@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 26 maggio 1918 n. 865
+
+
+DECRETO LUOGOTENENZIALE 26 maggio 1918 n. 865
+=============================================
+
+Applicazione di tassa di famiglia (018U0865)
+--------------------------------------------
+
+Entrata in vigore del provvedimento: 25/07/1918
+
+Art. 1
+------
+
+N.
+
+865. Decreto Luogotenenziale 26 maggio 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Mantova di applicare, nell'anno 1918, la tassa di famiglia col limite massimo di L. 2000, giusta le deliberazioni consiliari 11 ottobre e 15 dicembre 1917.

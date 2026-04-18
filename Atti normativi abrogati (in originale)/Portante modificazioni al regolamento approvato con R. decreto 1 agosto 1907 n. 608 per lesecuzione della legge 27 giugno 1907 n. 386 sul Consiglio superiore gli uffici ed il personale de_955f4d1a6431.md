@@ -1,0 +1,65 @@
+REGIO DECRETO 11 aprile 1915 n. 723
+
+
+REGIO DECRETO 11 aprile 1915 n. 723
+===================================
+
+Portante modificazioni al regolamento approvato con R. decreto 1° agosto 1907, n. 608, per l'esecuzione della legge 27 giugno 1907, n. 386, sul Consiglio superiore, gli uffici ed il personale delle antichita' e belle arti. (015U0723)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/06/1915
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il [R. decreto in data 1° agosto 1907, n. 608](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-01;608), che approva il regolamento per la esecuzione della [legge 27 giugno 1907, n. 386](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-27;386), sul Consiglio superiore, sugli uffici e il personale delle antichita' e belle arti;
+
+Vista la deliberazione della sezione III del Consiglio superiore per le antichita' e per le belle arti, in data 2 luglio 1914, in merito ai titoli per essere ammessi all'elettorato del predetto Consiglio;
+
+Sentito il parere del Consiglio di Stato nella sua adunanza generale in data 29 ottobre 1914;
+
+Sentito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+All'articolo 24 del predetto regolamento, approvato con [R. decreto 1° agosto 1907, n. 608](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-08-01;608), e' sostituito il seguente:   
+  
+Art. 24. - Sono elettori per il Consiglio superiore di antichita' e belle arti gli artisti italiani compresi nelle categorie seguenti:   
+  
+a) artisti le opere dei quali figurano nelle gallerie dello Stato e dei municipi;   
+  
+b) artisti accademici e professori di discipline artistiche nelle R. Accademie e Istituti di belle arti e nella R. scuola dell'arte della medaglia in Roma;   
+  
+c) coloro che hanno goduto o godano il pensionato artistico nazionale e la borsa di perfezionamento istituita presso la R. scuola dell'arte della medaglia in Roma;   
+  
+d) artisti ammessi ad esporre nelle mostre di belle arti nazionali e internazionali con opere di pittura, scultura, architettura ed arte applicata;   
+  
+e) autori di opere pubbliche per conto dello Stato in architettura, pittura, scultura ed arte applicata;   
+  
+f) insegnanti ordinari e straordinari di disegno nelle R. scuole tecniche e Istituti tecnici e nelle Regie scuole normali del Regno;   
+  
+g) licenziati dai corsi superiori delle R. accademie o dei R. istituti di belle arti e architetti civili;   
+  
+h) coloro i quali abbiano eseguito importanti opere nelle arti del disegno, secondo il giudizio del Ministero della pubblica istruzione su parere conforme della terza sezione del Consiglio superiore di antichita' e belle arti.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 11 aprile 1915.   
+  
+VITTORIO EMANUELE.   
+  
+Salandra - Grippo.   
+  
+Visto, Il guardasigilli: Orlando.   

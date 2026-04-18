@@ -1,0 +1,22 @@
+REGIO DECRETO 26 giugno 1936 n. 1865
+
+
+REGIO DECRETO 26 giugno 1936 n. 1865
+====================================
+
+Autorizzazione al Dopolavoro rionale «Circolo San Bernardino» di Bagnella di Omegna ad accettare una donazione. (036U1865)
+--------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/11/1936
+
+Art. 1
+------
+
+N.
+
+1865. R. decreto 26 giugno 1936, col quale, sulla proposta dei Ministro per le corporazioni, l'Opera Nazionale dopolavoro viene autorizzata ad accettare la donazione disposta dal sig. Galbiati Massimiliano fu Giuseppe, quale presidente del Dopolavoro rionale di Bagnella di Omegna «Circolo San Bernadino», di tutta la proprieta' immobiliare costituente la sede sociale del Dopolavoro rionale predetto, disposta in suo favore con atto 14 dicembre 1935 del dott.  
+Mario Rinaldi, Regio notaio residente in Omegna.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 20 ottobre 1936 - Anno XIV

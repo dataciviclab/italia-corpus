@@ -1,0 +1,39 @@
+LEGGE 05 giugno 1913 n. 554
+
+
+LEGGE 05 giugno 1913 n. 554
+===========================
+
+Che approva la proroga di concessione di locali demaniali in uso gratuito al comune di Mantova. (013U0554)
+----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/06/1913
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue;   
+  
+Articolo unico.   
+  
+E' approvato il contratto 30 settembre 1911, ricevuto in Mantova, in forma pubblica amministrativa, dal primo segretario nella Intendenza di finanza, dott. Clinio Cottafavi, col quale e' prorogato per un triennio, dal 14 maggio 1911, l'uso gratuito concesso al comune di Mantova, col contratto 16 gennaio 1880, pel notar Giovanni Niccolini di Mantova, dei locali inservienti alla Biblioteca ed al Museo archeologico in quella citta'.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 5 giugno 1913.   
+  
+VITTORIO EMANUELE.   
+  
+Facta.   
+  
+Visto, il guardasigilli: Finocchiaro-Aprile.   
+  

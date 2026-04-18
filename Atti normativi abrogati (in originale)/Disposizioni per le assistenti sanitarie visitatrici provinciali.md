@@ -1,0 +1,35 @@
+LEGGE 21 febbraio 1963 n. 84
+
+
+LEGGE 21 febbraio 1963 n. 84
+============================
+
+Disposizioni per le assistenti sanitarie visitatrici provinciali.
+-----------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+Per un periodo di anni due dalla data di entrata in vigore della presente legge, la promozione alla qualifica di prima assistente sanitaria della carriera di concetto del Ministero della sanita' si consegue esclusivamente mediante scrutinio per merito comparativo, tra le assistenti sanitarie visitatrici provinciali delle qualifiche inferiori che siano state assunte comunque in servizio anteriormente al 31 dicembre 1949.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 21 febbraio 1963
+
+SEGNI FANFANI - JERVOLINO - TREMELLONI
+
+Visto, il Guardasigilli: BOSCO

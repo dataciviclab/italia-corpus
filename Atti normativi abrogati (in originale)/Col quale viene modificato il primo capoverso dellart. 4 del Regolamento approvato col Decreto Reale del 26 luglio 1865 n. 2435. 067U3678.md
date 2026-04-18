@@ -1,0 +1,54 @@
+REGIO DECRETO 25 aprile 1867 n. 3678
+
+
+REGIO DECRETO 25 aprile 1867 n. 3678
+====================================
+
+Col quale viene modificato il primo capoverso dell'art. 4 del Regolamento approvato col Decreto Reale del 26 luglio 1865, n. 2435. (067U3678)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/05/1867
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'[articolo 7 della Legge 25 aprile 1865, n. 2252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-04-25;2252~art7);
+
+Visto l'articolo 4 del Regolamento approvato col Reale Decreto del 26 luglio 1865, n. 2435;
+
+Considerato che il disposto del citato articolo 4 non puo' ritenersi obbligatorio per le Provincie della Sardegna in quanto riguarda il ricevimento nelle loro casse delle somme anticipate dai Comuni cessionari dei terreni ademprivili, ed essere necessario che tali somme siano invece versate nelle Tesorerie dello Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposizione del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, di concerto con quello delle Finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il primo capoverso dell'articolo 4 del Regolamento approvato col Decreto Reale del 26 luglio 1865, n. 2435, resta modificato nel seguente modo;   
+  
+«I Comuni cessionari anticiperanno le spese mentovate nel precedente articolo in due rate eguali, facendone versamento nelle casse delle Regie Tesorerie provinciali.»   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 25 aprile 1867.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 8 maggio 1867   
+  
+Reg. 40 Atti del Governo a c. 13. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli Tecchio.   
+  
+F. De Blasiis.   
+  

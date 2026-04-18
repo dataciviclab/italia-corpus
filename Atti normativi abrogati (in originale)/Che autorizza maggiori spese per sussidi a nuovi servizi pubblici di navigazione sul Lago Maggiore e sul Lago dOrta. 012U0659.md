@@ -1,0 +1,39 @@
+LEGGE 23 giugno 1912 n. 659
+
+
+LEGGE 23 giugno 1912 n. 659
+===========================
+
+Che autorizza maggiori spese per sussidi a nuovi servizi pubblici di navigazione sul Lago Maggiore e sul Lago d'Orta. (012U0659)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/07/1912
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' data facolta' al Governo del Re di accordare all'impresa di navigazione sul Lago Maggiore una sovvenzione annua fino a L. 45.000 a partire dal 1° luglio 1912, per maggiori servizi pubblici di trasporto sulla sponda lombarda fra Laveno e Sesto Calende, con traversata ad Arona ed altra da precisare, e di stabilire, dalla data medesima, pe la navigazione con trazione meccanica, in servizio pubblico, in corrispondenza con le ferrovie, da costituirsi sul Lago d'Orta, una sovvenzione annua fino a L. 20.000, in base a regolari da approvarsi, sul conforme parere del Consiglio superiore dei lavori pubblici e del Consiglio di Stato, con decreto Reale promosso dai ministri dei lavori pubblici e del tesoro.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 23 giugno 1912.   
+  
+VITTORIO EMANUELE.   
+  
+Tedesco - Sacchi.   
+  
+Visto, il guardasigilli: Finocchiaro-Aprile.   
+  

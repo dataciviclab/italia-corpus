@@ -1,0 +1,62 @@
+REGIO DECRETO 04 dicembre 1890 n. 7311
+
+
+REGIO DECRETO 04 dicembre 1890 n. 7311
+======================================
+
+Che affida al comune di Monteleone di Calabria la riscossione dei dazi di consumo nel suo territorio e in quello dei comuni contermini di San Gregorio d'Ippona, Stefanaconi e Piscopio. (090U7311)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/01/1891
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro ad interim per le Finanze;
+
+Veduto l'art. 4 dell'allegato L alla [legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784);
+
+Veduto il Regolamento generale sui dazi interni di consumo, approvato con [R. decreto 25 agosto 1870 n. 5840](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-08-25;5840);
+
+Vista la deliberazione 19 luglio 1890, colla quale la Giunta municipale di Monteleone di Calabria in esecuzione alla precedente 3 maggio del Consiglio comunale, domando' l'abbonamento pel quinquennio 1891-1895, comprendente il dazio di consumo tanto in quel territorio, quanto in quello dei comuni aperti contermini di S. Gregorio d'Ippona, Stefanaconi e Piscopio;
+
+Vedute le deliberazioni 1, 2 e 3 agosto 1890 dei Consigli comunali, la prima di S. Gregorio d'Ippona, la seconda di Piscopio e l'ultima di Stefanaconi;
+
+Veduta la deliberazione presa d'urgenza dalla Deputazione provinciale di Catanzaro il giorno 14 agosto stesso;
+
+Veduta la deliberazione 14 ottobre 1890 del Consiglio comunale di Monteleone Calabro, colla quale venne convenuto l'abbonamento per la riscossione del dazio di consumo durante il quinquennio 1891-1895;
+
+Udito
+-----
+
+il parere del Consiglio di Stato; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+E' affidata al comune chiuso di Monteleone di Calabria la riscossione del dazio di consumo, tanto nel suo territorio quanto in quello dei comuni aperti contermini di S. Gregorio d'Ippona, Stefanaconi e Piscopio dal 1° gennaio 1891 a tutto l'anno 1895.   
+  
+
+Art. 2
+------
+
+  
+  
+E' approvata e resa esecutoria la deliberazione 14 ottobre 1890 emessa dal Consiglio comunale di Monteleone di Calabria per l'abbonamento alla riscossione del dazio di consumo in quel comune e nei comuni aperti contermini anzi accennati per il suindicato quinquennio, dietro corresponsione dell'annuo canone di lire quarantanovemila (49,000) da parte di esso comune di Monteleone.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 dicembre 1890.   
+  
+UMBERTO.   
+  
+Giolitti.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

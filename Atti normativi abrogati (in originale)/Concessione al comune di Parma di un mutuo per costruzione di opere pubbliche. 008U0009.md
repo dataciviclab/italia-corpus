@@ -1,0 +1,42 @@
+LEGGE 02 gennaio 1908 n. 9
+
+
+LEGGE 02 gennaio 1908 n. 9
+==========================
+
+Concessione al comune di Parma di un mutuo per costruzione di opere pubbliche. (008U0009)
+-----------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/02/1908
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il senato e la camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+La Cassa dei Depositi e prestiti e' autorizzata a concedere al comune di Parma per la costruzione delle opere di fognatura, di un foro boario e per l'ampliamento e completamento del macello pubblico, un mutuo di L. 2,750,000 all'interesse di favore del 3.50 per cento, estinguibile in 50 anni.   
+  
+Lo stato corrispondera' alla Cassa la differenza fra l'interesse posto a carico del comune e quello normale stabilito per i prestiti conceduti dal menzionato Istituto, e la relativa somma sara' stanziata nel bilancio del tesoro.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 2 gennaio 1908.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+Carcano.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

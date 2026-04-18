@@ -1,0 +1,40 @@
+LEGGE 29 ottobre 1878 n. 4566
+
+
+LEGGE 29 ottobre 1878 n. 4566
+=============================
+
+Che approva la maggiore spesa pel concorso governativo nella costruzione del ponte sul Pescara. (078U4566)
+----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/11/1878
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato,   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata la maggiore spesa di lire centodiecimila quattrocentoquarantotto e centesimi cinquantatre' (Lire 110,448 53), come definitivo ed invariabile complemento del concorso dello Stato, accordato alle provincie di Chieti e di Teramo per la costruzione del ponte sul Pescara presso Villanova, rimanendo ad esclusivo carico delle provincie stesse anche le conseguenze di possibili liti coll'Impresa per la costruzione medesima.   
+  
+Per questa maggiore spesa sara' instituito apposito capitolo nel bilancio del Ministero dei Lavori Pubblici pel 1878.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Monza, addi' 29 ottobre 1878.   
+  
+UMBERTO.   
+  
+A. Baccarini.   
+F. Seismit-Doda.   
+  

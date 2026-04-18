@@ -1,0 +1,45 @@
+LEGGE 09 ottobre 1942 n. 1358
+
+
+LEGGE 09 ottobre 1942 n. 1358
+=============================
+
+Proroga per l'anno 1942 delle facolta' concesse al Ministro per 
+l'aeronautica delle leggi 13 luglio 1939-XVII, n. 1190, e 6 giugno 
+1940-XVIII, n. 730, per il reclutamento di sottotenenti in servizio 
+permanente effettivo in taluni ruoli della Regia aeronautica. 
+(042U1358)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/12/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+per grazia di dio e per volonta' della nazione   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Le facolta' concesse al Ministro per l'aeronautica dall'articolo unico della legge 13 luglio 1939-XVII, n. 1190, e dall'art. 5 della legge 6 giugno 1940-XVIII, n. 730, a bandire concorsi interni, per titoli e per esami, per la nomina a sottotenente in servizio permanente effettivo, in taluni ruoli della Regia aeronautica, fra marescialli in servizio permanente, prescindendo dai prescritti limiti di eta', sono prorogate fino a tutto l'anno 1942.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 9 ottobre 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+  

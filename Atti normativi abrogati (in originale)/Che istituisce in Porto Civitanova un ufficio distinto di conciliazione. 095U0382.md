@@ -1,0 +1,43 @@
+REGIO DECRETO 30 giugno 1895 n. 382
+
+
+REGIO DECRETO 30 giugno 1895 n. 382
+===================================
+
+Che istituisce in Porto Civitanova un ufficio distinto di conciliazione. (095U0382)
+-----------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/07/1895
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione del Consiglio comunale di Civitanova Marche, in data 15 maggio 1894, con la quale si chiese l'istituzione di un distinto ufficio di conciliazione nella frazione di Porto Civitanova;   
+  
+Visto il rapporto del Primo Presidente della Corte di Appello di Ancona, in data 5 maggio corrente anno;   
+  
+Visti gli [articoli 1 della legge 16 giugno 1892 numero 267 e 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;1~art1) del regolamento 26 dicembre stesso anno n. 728;   
+  
+Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per gli Affari di Grazia, Giustizia e dei Culti;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Dal 1° settembre 1895 in Porto Civitanova, frazione del Comune di Civitanova Marche, e' istituito un ufficio distinto di conciliazione con giurisdizione sull'infiero caseggiato della frazione stessa.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 giugno 1895.   
+  
+UMBERTO.   
+  
+Calenda.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   
+  

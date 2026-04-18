@@ -1,0 +1,51 @@
+REGIO DECRETO 14 novembre 1882 n. DCCLXIII
+
+
+REGIO DECRETO 14 novembre 1882 n. DCCLXIII
+==========================================
+
+Che erige in corpo morale l'opera pia Ferreri in Valdieri e ne approva lo statuto. (8200763R)
+---------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/01/1883
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;   
+  
+Veduto il testamento 23 marzo 1753 e il codicillo 22 giugno successivo, coi quali atti fu dal defunto sacerdote Onorato Ferreri istituita un'opera pia a favore di figlie povere vergognose di Valdieri (Cuneo) e per la distribuzione di doti di lire 100 in occasione del loro matrimonio;   
+  
+Veduta la domanda dell'amministratore vescovo di Cuneo per la costituzione in ente morale della suddetta opera pia e per l'approvazione dello statuto organico;   
+  
+Visto il voto della deputazione provinciale;   
+  
+Udito il consiglio di Stato;   
+  
+Veduta la legge 3 agosto 1862;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'opera pia fondata come sopra in Valdieri (Cuneo) dal defunto Onorato Ferreri, e' costituita in ente morale, sotto l'amministrazione del vescovo di quella diocesi e ne e' approvato lo statuto organico, composto di dodici articoli, visto e sottoscritto d'ordine nostro dal ministro proponente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 14 novembre 1882.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 28 novembre 1882   
+  
+Reg. 124 Atti del Governo a f. 82 Pellizzoli.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli.   
+  
+Depretis.   
+  

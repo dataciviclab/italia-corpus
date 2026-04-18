@@ -1,0 +1,46 @@
+REGIO DECRETO 10 dicembre 1865 n. 2691
+
+
+REGIO DECRETO 10 dicembre 1865 n. 2691
+======================================
+
+Relativo alla cauzione da prestarsi dai Cassieri degli Uffizi postali di Torino e di Alessandria. (065U2691)
+------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/01/1866
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il Nostro Decreto del 18 settembre ultimo scorso, col quale venne approvato il Regolamento per l'esecuzione del R. Decreto 25 giugno 1865
+
+Visto che nel quadro C annesso ai Regolamento predetto, fra gli Uffizi postali di 1.ª classe i di cui Cassieri sono tenuti a dare una straordinaria cauzione di L. 300 di rendita, e' stato per errore sostituito l'Uffizio di Alessandria a quello di Torino;
+
+Sulla
+-----
+
+proposizione del Nostro Ministro pei Lavori pubblici; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Agli Uffizi postali di 1.ª classe indicati nel quadro C del Regolamento approvato con R. Decreto del 18 settembre ultimo scorso, i di cui Cassieri sono tenuti a prestare una cauzione straordinaria di L. 6,000 in denaro oppure di L. 300 di rendita dello Stato, vuol essere aggiunto l'Uffizio di Torino cancellando quello di Alessandria il di cui Cassiere dovra' prestare la cauzione stabilita per gli altri in L. 4,000 in denaro ovvero in L. 200 di rendita.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze il 10 dicembre 1865.   
+  
+VITTORIO EMANUELE.   
+  
+Registrato alla Corte dei conti addi' 26 dicembre 1865   
+Reg.° 34 Atti del Governo a c. 159. Ayres.   
+Luogo del sigillo. V. Il Guardasigilli: Cortese.   
+  
+S. JACINI.   
+  

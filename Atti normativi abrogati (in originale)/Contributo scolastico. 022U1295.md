@@ -1,0 +1,17 @@
+REGIO DECRETO 09 marzo 1922 n. 1295
+
+
+REGIO DECRETO 09 marzo 1922 n. 1295
+===================================
+
+Contributo scolastico. (022U1295)
+---------------------------------
+
+Entrata in vigore del provvedimento: 28/10/1922
+
+Art. 1
+------
+
+N.
+
+1295. Regio decreto 9 marzo 1922, col quale, sulla proposta del ministro per la istruzione pubblica, il contributo scolastico che il comune di Treppo Carnico (Udine), deve annualmente versare alla tesoreria dello Stato, in applicazione dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), gia' fissato in L. 5586,80, col [R. decreto 17 gennaio 1915, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-17;252), viene elevato a L. 6856,80 a decorrere dal 27 novembre 1921.

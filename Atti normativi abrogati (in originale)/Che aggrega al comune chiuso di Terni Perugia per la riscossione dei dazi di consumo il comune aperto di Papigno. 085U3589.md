@@ -1,0 +1,54 @@
+REGIO DECRETO 03 dicembre 1885 n. 3589
+
+
+REGIO DECRETO 03 dicembre 1885 n. 3589
+======================================
+
+Che aggrega al comune chiuso di Terni (Perugia), per la riscossione dei dazi di consumo, il comune aperto di Papigno. (085U3589)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/01/1886
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto l'art. 4 dell'allegato L alla legge delli 11 agosto 1870, n. 5784;
+
+Visto il regolamento sui dazi interni di consumo, approvato con [R. decreto del 25 agosto 1870, n. 5840](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-08-25;5840);
+
+Veduta la deliberazione emessa dal Consiglio comunale di Terni (Perugia) nel giorno 19 maggio 1885, colla quale si chiede che il comune aperto con termine di Papigno sia aggregato allo stesso comune chiuso di Terni per la riscossione dei dazi di consumo durante il quinquennio dal 1886 a tutto il 1890;
+
+Vista la deliberazione emessa dal Consiglio comunale di Papigno del 14 maggio stesso; nonche' quella emessa di urgenza dalla Deputazione provinciale nel successivo giorno 31 sulla convenienza dell'aggregazione medesima;
+
+Veduta la deliberazione del Consiglio comunale di Terni del 28 agosto 1885, per l'abbonamento col governo durante il suddetto quinquennio;
+
+Sentito il Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+Art. 2
+------
+
+  
+centoquindicimila) da parte dello stesso comune di Terni.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 3 dicembre 1885.   
+  
+UMBERTO.   
+  
+A. Magliani.   
+  
+Visto, Il Guardasigilli: Tajani.   
+  

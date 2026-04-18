@@ -1,0 +1,43 @@
+LEGGE 25 agosto 1940 n. 1290
+
+
+LEGGE 25 agosto 1940 n. 1290
+============================
+
+Modificazione all'art. 61 della legge 11 marzo 1926-IV, n. 397, sullo stato degli ufficiali della Regia marina e della Regia aeronautica. (040U1290)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/10/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+L'art. 61 della legge 11 marzo 1926-IV, n. 397, e' abrogato e sostituito dal seguente con effetto dall'11 giugno 1940-XVIII:   
+  
+«In tempo di guerra gli articoli 36, 37, 47, 51 e 53 della presente legge continuano ad aver vigore salvo che, per casi particolari, esigenze di servizio non richiedano di sospenderne l'applicazione».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare conte legge dello Stato.   
+  
+San Rossore, addi' 25 agosto 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel   
+  
+Visto, il Guardasigilli: Grandi   
+  
+  

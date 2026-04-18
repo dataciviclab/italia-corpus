@@ -1,0 +1,17 @@
+REGIO DECRETO 21 agosto 1921 n. 1392
+
+
+REGIO DECRETO 21 agosto 1921 n. 1392
+====================================
+
+Quota di concorso governativo a vari Comuni. (021U1392)
+-------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/11/1921
+
+Art. 1
+------
+
+N.
+
+1392. Regio decreto 21 agosto 1921, col quale, sulla proposta del ministro delle finanze, vengono assegnate a vari comuni del Mezzogiorno continentale e della Sicilia le quote di concorso governativo per gli anni dal 1913 al 1920, per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle [leggi 31 marzo 1904, n. 140, 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;25) giugno e 15 luglio 1906, nn. 255 e 383.

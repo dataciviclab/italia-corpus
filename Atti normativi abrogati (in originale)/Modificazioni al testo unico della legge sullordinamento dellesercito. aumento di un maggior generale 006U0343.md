@@ -1,0 +1,44 @@
+LEGGE 12 luglio 1906 n. 343
+
+
+LEGGE 12 luglio 1906 n. 343
+===========================
+
+Modificazioni al testo unico della legge sull'ordinamento dell'esercito. (aumento di un maggior generale) (006U0343)
+--------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/08/1906
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e por volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Al testo unico delle leggi sull'ordinamento dell'esercito e dei servizi dipendenti dall'amministrazione della guerra, approvato con [R. decreto n. 525 del 14 luglio 1898](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;525) e modificato con [leggi n. 285 del 7 luglio 1901, n. 303 del 21 luglio 1902, n. 216 del 2 giugno 1904, n. 300 del 3 luglio 1904 e n. 347 del 9 luglio 1905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-07-09;347), sono apportate le seguenti modificazioni:   
+  
+a) nell'articolo 14: ad «un ufficiale generale addetto (maggiore generale)» sostituire: «due ufficiali generali addetti (maggiori generali)»;   
+  
+b) nella tabella n. 1 degli ufficiali dello stato maggiore generale; ad «88 maggiori generali» sostituire: «89 maggiori generali»; a «141 totale» sostituire: «142 totale».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Racconigi, addi' 12 luglio 1906.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+Vigano'.   
+  
+Visto, Il guardasigilli: Gallo.   
+  

@@ -1,0 +1,21 @@
+REGIO DECRETO 12 giugno 1897 n. CLXXX
+
+
+REGIO DECRETO 12 giugno 1897 n. CLXXX
+=====================================
+
+Che erige in ente morale la fondazione Granello in Rapallo. (9700180R)
+----------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/07/1897
+
+Art. 1
+------
+
+  
+Col quale si erige in ente morale la fondazione Michele Granello, con sede nel comune di Rapallo (Genova) avente per scopo di mantenere e far educare nella locale pia casa della Divina Provvidenza, od in altro istituto, due figlie povere preferibilmente orfane della parrocchia Rapallo e se ne approva lo statuto organico in data 18 marzo 1892 nel numero di 15 articoli. - Firmato UMBERTO - Controfirmato Rudini' - Visto G. Costa.   
+  
+Registrato alla Corte dei conti addi' 1° luglio 1897.   
+  
+Reg. 211. Atti del Governo a f. 55.   
+  

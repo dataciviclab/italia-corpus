@@ -1,0 +1,49 @@
+REGIO DECRETO 15 luglio 1923 n. 1714
+
+
+REGIO DECRETO 15 luglio 1923 n. 1714
+====================================
+
+Aggiunta all'art. 12 del testo unico delle disposizioni concernenti le case popolari ed economiche e l'industria edilizia. (023U1714)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/08/1923
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduto il [R. decreto-legge del 30 novembre 1919, n. 2318](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-11-30;2318), concernente il testo unico delle disposizioni legislative per le case popolari ed economiche e per l'industria edilizia;   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'industria, il commercio e il lavoro, di concerto coi Ministri per l'interno e per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+All'art. 12 del testo unico delle disposizioni concernenti le case popolari ed economiche e l'industria edilizia e' aggiunto il seguente comma:   
+  
+«Con le stesse modalita' possono essere legalmente riconosciuti sia istituti autonomi per le case economiche, sia sezioni per case economiche presso istituti autonomi per le case popolari. Dove gia' esiste un istituto per case popolari, esso potra' prendere l'iniziativa o di istituire nel proprio seno una sezione autonoma o di creare un separato istituto per le case economiche. In questo secondo caso ha facolta' di concorrere, anche sotto forma di mutui e sovvenzioni e nei limiti delle proprie disponibilita', alla formazione dei mezzi necessari al funzionamento e di avere la propria rappresentanza in seno al Consiglio di amministrazione».   
+  
+Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno e sara' presentato al Parlamento per essere convertito in legge.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 15 luglio 1923.   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Teofilo Rossi - De' Stefani.   
+  
+Visto, il Guardasigilli: Oviglio.   
+  
+Registrato alla Corte dei conti, con riserva, addi' 10 agosto 1923.   
+  
+Atti del Governo, registro 215, foglio 100. - Gisci.   
+  

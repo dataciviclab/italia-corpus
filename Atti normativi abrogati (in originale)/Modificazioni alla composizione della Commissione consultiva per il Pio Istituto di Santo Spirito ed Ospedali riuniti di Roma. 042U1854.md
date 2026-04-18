@@ -1,0 +1,50 @@
+LEGGE 30 dicembre 1942 n. 1854
+
+
+LEGGE 30 dicembre 1942 n. 1854
+==============================
+
+Modificazioni alla composizione della Commissione consultiva per il Pio Istituto di Santo Spirito ed Ospedali riuniti di Roma. (042U1854)
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/04/1943
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+L'art. 2 del R. decreto-legge 21 aprile 1927-V, n. 625, convertito nella legge 31 maggio 1928-VI, n. 1450, e' sostituito dal seguente:   
+«Il presidente delibera su tutti gli affari che interessano l'amministrazione del Pio Istituto.   
+  
+Per gli affari soggetti all'approvazione dell'autorita' tutoria il presidente delibera sentito il parere di una Commissione consultiva, da lui presieduta, composta di sei membri, di cui tre da nominarsi tra funzionari governativi, rispettivamente dal Ministro per l'interno, da quello per le finanze e da quello per le corporazioni, uno dal Ministro per i lavori pubblici, tra gli ispettori superiori o ingegneri capi del Genio civile, uno dal Ministro per l'agricoltura e le foreste, fra gli ispettori superiori di agricoltura ed uno dal Governatore di Roma.   
+  
+«I membri della Commissione consultiva durano in carica quattro anni e possono essere confermati. Ad essi sono applicabili le incompatibilita' stabilite dalla [legge 17 luglio 1890, n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), per gli amministratori delle istituzioni pubbliche di assistenza e beneficenza.   
+  
+«In caso di assenza o di impedimento del presidente ne fa le veci un membro della Commissione consultiva da delegarsi dal presidente stesso.   
+  
+«Il presidente puo' anche delegare ai membri della Commissione la direzione di determinati servizi e la sopraintendenza sui vari ospedali, fermo il disposto dei commi precedenti.   
+  
+«Alla scadenza di ogni semestre il presidente deve presentare ai Ministri per l'interno e per le finanze una relazione sull'andamento amministrativo e finanziario del Pio Istituto».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare Come legge dello stato.   
+  
+Data a Modica, addi' 30 dicembre 1942-XXI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL - GORLA - PARESCHI - RICCI   
+  
+Visto, il Guardasigilli: DE MARSICO   

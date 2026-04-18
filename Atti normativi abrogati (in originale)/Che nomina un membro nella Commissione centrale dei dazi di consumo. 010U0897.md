@@ -1,0 +1,42 @@
+REGIO DECRETO 22 dicembre 1910 n. 897
+
+
+REGIO DECRETO 22 dicembre 1910 n. 897
+=====================================
+
+Che nomina un membro nella Commissione centrale dei dazi di consumo. (010U0897)
+-------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/01/1911
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduti gli articoli 101 del testo unico delle leggi sui dazi di consumo approvato con Nostro decreto 7 maggio 1908, n. 248 e 383 del relativo regolamento approvato con Nostro decreto 17 giugno 1909, n. 455;   
+  
+Veduto il Nostro decreto in data 16 ottobre 1910, n. 733;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A partire dal primo gennaio 1911 in sostituzione del comm. dott.  
+Francesco Giammarino, direttore capo di divisione nel Ministero delle finanze, e' chiamato a far parte della Commissione centrale dei dazi di consumo il comm. Emilio Guglieri, vice direttore generale nel Ministero predetto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 22 dicembre 1910.   
+  
+VITTORIO EMANUELE.   
+  
+Facta.   
+  
+Visto, Il guardasigilli: Fani.   
+  

@@ -1,0 +1,52 @@
+REGIO DECRETO 15 agosto 1930 n. 1267
+
+
+REGIO DECRETO 15 agosto 1930 n. 1267
+====================================
+
+Emissione di speciali cartoline postali semplici da cent. 15, 30 e 75 gravate del sopraprezzo di cent. 10 da devolversi a favore dell'Opera di previdenza della M.V.S.N. (030U1267)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/09/1930
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 18 del testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501);
+
+Visto l'art. 137 del regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-10;120), e modificato con [R. decreto 7 giugno 1923, n. 1257](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-07;1257);
+
+Riconosciuto opportuno di emettere speciali cartoline postali gravate di un sopraprezzo da devolversi a favore dell'Opera di previdenza della Milizia volontaria per la sicurezza nazionale;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' autorizzata l'emissione di speciali cartoline postali semplici da centesimi 15, 30 e 75 gravate del sopraprezzo di centesimi 10 e le cui caratteristiche tecniche saranno indicate con successivo Nostro decreto.   
+  
+Le cartoline stesse non saranno ammesse al cambio.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a S. Anna di Valdieri, addi' 15 agosto 1930 - Anno VIII   
+  
+VITTORIO EMANUELE.   
+  
+Ciano - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 11 settembre 1930 - Anno VIII   
+  
+Atti del Governo, registro 300, foglio 38. - Mancini.   
+  

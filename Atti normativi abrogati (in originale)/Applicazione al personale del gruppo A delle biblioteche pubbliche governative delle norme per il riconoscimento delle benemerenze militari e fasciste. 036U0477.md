@@ -1,0 +1,55 @@
+REGIO DECRETO 09 marzo 1936 n. 477
+
+
+REGIO DECRETO 09 marzo 1936 n. 477
+==================================
+
+Applicazione al personale del gruppo A delle biblioteche pubbliche governative delle norme per il riconoscimento delle benemerenze militari e fasciste. (036U0477)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/04/1936
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto l'art. 1, n. 3, della legge 31 gennaio 1926-IV, n. 100;
+
+Veduti gli articoli 104 del R. decreto 30 dicembre 1923-II, n. 3084 e 4 del R. decreto-legge 13 dicembre 1933-XII, n. 1706;
+
+Veduto l'art. 5 del R. decreto 11 aprile 1935-XIII, n. 575;
+
+Sentito il Consiglio di Stato;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Nella determinazione dell'anzianita' richiesta, ai termini dell'art. 5 del R. decreto 11 aprile 1935-XIII, n. 575, per le promozioni dal grado decimo al grado nono del personale di gruppo A delle biblioteche pubbliche governative, sono valutati i benefici riconosciuti a favore del personale civile ex-combattente e iscritto ai Fasci di combattimento anteriormente al 28 ottobre 1922, per le promozioni dal grado undecimo al grado decimo dei personali del gruppo A delle Amministrazioni statali, dagli articoli 104 del R. decreto 30 dicembre 1923-II, n. 3084, e 4 del R. decreto-legge 13 dicembre 1933-XIII, n. 1706.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 9 marzo 1936 - Anno XIV   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel - De Vecchi di Val Cismon   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 26 marzo 1936 - Anno XIV.   
+  
+Atti del Governo, registro 370, foglio 166. - Mancini.   
+  
+  

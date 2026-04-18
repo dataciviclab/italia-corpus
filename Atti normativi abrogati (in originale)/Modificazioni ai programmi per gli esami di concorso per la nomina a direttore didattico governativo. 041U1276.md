@@ -1,0 +1,71 @@
+REGIO DECRETO 24 ottobre 1941 n. 1276
+
+
+REGIO DECRETO 24 ottobre 1941 n. 1276
+=====================================
+
+Modificazioni ai programmi per gli esami di concorso per la nomina a direttore didattico governativo. (041U1276)
+----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/12/1941
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Veduto il regolamento generale sui servizi dell'istruzione elementare approvato con R. decreto 26 aprile 1928-VI, n. 1297, modificato dal R. decreto 5 febbraio 1934-XII, n. 439;
+
+Veduto l'art. 1, n. 1, della legge 31 gennaio 1926-IV, n. 100;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+All'art. 53 del regolamento generale sui servizi dell'istruzione elementare, approvato con R. decreto 26 aprile 1928-VI, n. 1297, gia' sostituito con l'art. 4 del R. decreto 5 febbraio 1934-XII, n. 439, e' sostituito il seguente:   
+  
+«Per gli esami di concorso per la nomina a posti di direttore didattico governativo sono stabilite due prove scritte e una orale.   
+  
+Le prove scritte consistono:   
+  
+1) nello svolgimento di un tema di cultura filosofico-pedagogica con particolare riguardo ai principi affermati ed attuati dal Fascismo nel campo dell'educazione;   
+  
+2) nella soluzione di uno o piu' quesiti di legislazione scolastica dell'ordine elementare.   
+  
+La prova orale concerne le seguenti materie:   
+  
+a) cultura generale; cultura latina ed italiana; storia mondiale dal Congresso di Berlino; storia dell'arte dagli albori del Rinascimento; statistica; geografia economica dell'Europa;   
+  
+b) cultura speciale; cultura filosofico-pedagogica; diritto e legislazione; educazione fisica.   
+  
+Le prove scritte hanno luogo nelle sedi di Provveditorato agli studi che saranno stabilite dal Ministero dell'educazione nazionale.   
+  
+La prova orale ha luogo in Roma».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 24 ottobre 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Bottai - Di Revel   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 26 novembre 1941-XX   
+  
+Atti del Governo, registro 439, foglio 101. - Mancini   

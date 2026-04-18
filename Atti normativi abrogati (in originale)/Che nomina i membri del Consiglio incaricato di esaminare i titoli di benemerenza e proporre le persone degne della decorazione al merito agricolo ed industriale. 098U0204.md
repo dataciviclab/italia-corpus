@@ -1,0 +1,45 @@
+REGIO DECRETO 19 maggio 1898 n. 204
+
+
+REGIO DECRETO 19 maggio 1898 n. 204
+===================================
+
+Che nomina i membri del Consiglio incaricato di esaminare i titoli di benemerenza e proporre le persone degne della decorazione al merito agricolo ed industriale. (098U0204)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/06/1898
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il R. decreto in data 1° maggio 1898, che istituisce una decorazione al merito agricolo ed industriale ed una medaglia d'onore per coloro che abbiano titoli di segnalate benemerenze nell'Agricoltura, nell'Industria e nel Commercio;   
+  
+Sulla proposta del Nostro Ministro d'Agricoltura, Industria e Commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Sono chiamati a far parte del Consiglio, di cui all'art. 5° del R. decreto 1° maggio 1898, per il triennio 1898, 1899 e 1900 i signori:   
+  
+Comm. Giuseppe Pavoncelli, Deputato al Parlamento, membro del Consiglio dell'Agricoltura;   
+  
+Dott. comm. Pietro Vacchelli, Senatore del Regno, membro del Consiglio dell'Industria e del Commercio.   
+  
+Il prof. comm. Gherardo Callegari, direttore della divisione Industria e Commercio, avra' l'ufficio di segretario del Consiglio predetto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 19 maggio 1898.   
+  
+UMBERTO.   
+  
+F. Cocco-Ortu.   
+  
+Visto, Il Guardasigilli: Bonacci.   
+  

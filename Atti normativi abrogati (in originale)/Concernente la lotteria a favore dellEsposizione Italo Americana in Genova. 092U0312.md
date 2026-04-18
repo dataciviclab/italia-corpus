@@ -1,0 +1,43 @@
+LEGGE 28 giugno 1892 n. 312
+
+
+LEGGE 28 giugno 1892 n. 312
+===========================
+
+Concernente la lotteria a favore dell'Esposizione Italo Americana in Genova. (092U0312)
+---------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/07/1892
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D' ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Al Comitato istituito per l'esposizione Italo-Americana in Genova e' concesso di tenere una lotteria nazionale, secondo il disegno che dovra' essere approvato dal Ministro delle finanze.   
+  
+Tale lotteria sara' esente dalla tassa del 10 per cento, di cui all'articolo 1° della [legge 2 aprile 1886 num. 3754](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1886-04-02;3754) (serie 3ª) allegato C.   
+  
+L'emissione dei biglietti dovra' essere esaurita entro l'anno corrente.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Monza, addi' 28 giugno 1892.   
+  
+UMBERTO.   
+  
+Giolitti.   
+  
+Visto, Il Guardasigilli: Bonacci.   
+  

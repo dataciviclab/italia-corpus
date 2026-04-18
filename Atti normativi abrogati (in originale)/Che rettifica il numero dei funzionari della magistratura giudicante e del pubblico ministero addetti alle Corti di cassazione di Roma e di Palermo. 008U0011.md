@@ -1,0 +1,45 @@
+REGIO DECRETO 02 gennaio 1908 n. 11
+
+
+REGIO DECRETO 02 gennaio 1908 n. 11
+===================================
+
+Che rettifica il numero dei funzionari della magistratura giudicante e del pubblico ministero addetti alle Corti di cassazione di Roma e di Palermo. (008U0011)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/02/1908
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visti gli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-14;511~art1) e [46 della legge 14 luglio 1907, n. 511](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-14;511~art46);   
+  
+Visto il Nostro decreto 21 novembre 1907, n. 785;   
+  
+Sulla proposta del Nostro guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti;   
+  
+Sentito il Consiglio dei ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il numero dei funzionari della magistratura giudicante e del pubblico ministero, addetti alle Corti di cassazione di Roma e di Palermo, erroneamente indicato dalla tabella A annessa al suddetto Nostro decreto del 21 novembre 1907, n. 785, e' rettificato come segue:   
+  
+Parte di provvedimento in formato grafico   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 gennaio 1908.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+Orlando.   
+  
+Visto, Il guardasigilli: Orlando.   

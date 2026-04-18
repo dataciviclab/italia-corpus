@@ -1,0 +1,17 @@
+REGIO DECRETO 24 agosto 1922 n. 1275
+
+
+REGIO DECRETO 24 agosto 1922 n. 1275
+====================================
+
+Istituzioni e soppressioni di R. vice consolati. (022U1275)
+-----------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/10/1922
+
+Art. 1
+------
+
+N.
+
+1275. Regio decreto 24 agosto 1922, col quale, sulla proposta del ministro degli affari esteri viene istituito un R. vice consolato di prima categoria in Cluy alla dipendenza del R. consolato in Bucarest con l'annuo assegno di L. 9500; soppresso il Regio vice consolato in Braila alla dipendenza del Regio consolato in Galatz, ed istituito un R. consolato di seconda categoria in Braila con giurisdizione sul distretto di Braila che viene distaccato da quella del consolato in Galatz.

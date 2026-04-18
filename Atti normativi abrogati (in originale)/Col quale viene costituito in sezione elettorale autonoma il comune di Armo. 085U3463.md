@@ -1,0 +1,45 @@
+REGIO DECRETO 29 settembre 1885 n. 3463
+
+
+REGIO DECRETO 29 settembre 1885 n. 3463
+=======================================
+
+Col quale viene costituito in sezione elettorale autonoma il comune di Armo. (085U3463)
+---------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/12/1885
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Veduta la domanda del comune di Armo per la sua separazione dalla sezione elettorale di Pieve di Teco e per la sua aggregazione alla sezione elettorale di Moano;   
+  
+Veduta la tabella generale delle sezioni dei Collegi elettorali, approvata col [R. decreto del 24 settembre 1882, n. 997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-09-24;997) (Serie 3ª);   
+  
+Visti gli articoli 47 e 48 della legge elettorale politica 22 gennaio 1882;   
+  
+Ritenuto che il comune di Armo ha 71 elettori politici; che da Armo a Pieve di Teco vi sono piu' di 5 chilometri di strada mulattiera in pessimo stato, per cui agli elettori di Armo e' reso difficile l'esercizio del diritto elettorale in Pieve di Teco, mentre minore e' la distanza chilometrica da Armo a Moano e quindi piu' facile agli elettori di Armo l'esercizio del diritto elettorale in Moano,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il comune di Armo e' separato dalla sezione elettorale di Pieve di Teco ed e' aggregato alla sezione elettorale di Moano, Collegio di Porto Maurizio.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 settembre 1885.   
+  
+UMBERTO.   
+  
+Depretis.   
+  
+Visto, Il Guardasigilli: Tajani.   
+  

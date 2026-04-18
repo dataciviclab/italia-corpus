@@ -1,0 +1,19 @@
+REGIO DECRETO 02 aprile 1909 n. CXLIII
+
+
+REGIO DECRETO 02 aprile 1909 n. CXLIII
+======================================
+
+Riflettente approvazione di statuto. (0900143R)
+-----------------------------------------------
+
+Entrata in vigore del provvedimento: 13/06/1909
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro di agricoltura, industria e commercio:   
+  
+N. CXLIII (Dato a Roma, il 2 aprile 1909), col quale si approva lo statuto della Cassa agraria di Stigliano.   
+  

@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 28 gennaio 1917 n. 218
+
+
+DECRETO LUOGOTENENZIALE 28 gennaio 1917 n. 218
+==============================================
+
+Applicazione di tassa di esercizio. (017U0218)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 14/03/1917
+
+Art. 1
+------
+
+  
+N. 218   
+  
+Decreto Luogotenenziale 28 gennaio 1917, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Pozzuoli (Napoli) di applicare la tassa di esercizio nella misura massima di L. 2000 dal 1° giugno 4916 al 31 dicembre dell'anno in cui cessera' la guerra.   
+  

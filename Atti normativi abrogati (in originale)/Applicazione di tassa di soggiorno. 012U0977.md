@@ -1,0 +1,19 @@
+REGIO DECRETO 02 agosto 1912 n. 977
+
+
+REGIO DECRETO 02 agosto 1912 n. 977
+===================================
+
+Applicazione di tassa di soggiorno. (012U0977)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 08/10/1912
+
+Art. 1
+------
+
+  
+N. 977   
+  
+Regio Decreto 2 agosto 1912, col quale, sulla proposta del ministro dell'interno, di concerto col ministro delle finanze, viene autorizzato il comune di Terra del Sole e Castrocaro (Firenze) ad applicare la tassa di soggiorno nella frazione di Castrocaro e ne e' approvato il regolamento.   
+  

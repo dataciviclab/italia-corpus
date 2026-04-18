@@ -1,0 +1,45 @@
+REGIO DECRETO 25 giugno 1899 n. 273
+
+
+REGIO DECRETO 25 giugno 1899 n. 273
+===================================
+
+Col quale i Comuni di Monterone, Ballabio Superiore e Ballabio Inferiore sono distaccati dalla Sezione elettorale di Laorca, del Collegio di Lecco, e vengono costituiti in Sezione unica, con sede in Ballabio Inferiore. (099U0273)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/07/1899
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Visto il testo unico della legge elettorale politica, approvato con Nostro decreto 28 marzo 1895, n. 83;   
+  
+Veduta la tabella generale delle Sezioni elettorali politiche;   
+  
+Veduta la proposta del Prefetto di Cuneo per il distacco dei Comuni di Monterone, Ballabio Superiore e Ballabio Inferiore, dalla Sezione elettorale di Laorca, e la costituzione in Sezione unica, con sede in Ballabio Inferiore;   
+  
+Ritenuto che i Comuni riuniti di Monterone, Ballabio Superiore e Ballabio Inferiore hanno 136 elettori politici, e che il Comune di Laorca resta con 82 elettori;   
+  
+Abbiamo decretato e decretiamo:   
+  
+I Comuni di Monterone, Ballabio Superiore e Ballabio Inferiore sono distaccati dalla Sezione elettorale di Laorca, del Collegio di Lecco, e vengono costituiti in Sezione unica, con sede in Ballabio Inferiore.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 giugno 1899.   
+  
+UMBERTO.   
+  
+Pelloux.   
+  
+Visto, Il Guardasigilli: A. Bonasi.   
+  

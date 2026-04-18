@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 27 ottobre 1918 n. 1874
+
+
+DECRETO LUOGOTENENZIALE 27 ottobre 1918 n. 1874
+===============================================
+
+Applicazione di tasse sul bestiame (018U1874)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 12/01/1919
+
+Art. 1
+------
+
+N.
+
+1874. Decreto Luogotenenziale 27 ottobre 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Campagnatico (Grosseto) di applicare, agli effetti dell'anno 1919, la tassa sul bestiame con eccedenza dei limiti massimi normali, in base alla tariffa approvata con deliberazione consiliare 22 aprile 1918.

@@ -1,0 +1,46 @@
+REGIO DECRETO 25 maggio 1911 n. 733
+
+
+REGIO DECRETO 25 maggio 1911 n. 733
+===================================
+
+Che aggiunge altri comuni della provincia di Catanzaro all'elenco di quelli danneggiati dal terremoto del 1908. (011U0733)
+--------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/08/1911
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la [legge 13 luglio 1910, n. 466](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-13;466);
+
+Visto il Nostro decreto in data 23 settembre 1910, n. 706, col quale fu approvato, ai sensi ed agli effetti degli articoli 1° e 65 della legge predetta, l'elenco dei comuni danneggiati dal terremoto del 28 dicembre 1908 nelle provincie di Catanzaro, Reggio Calabria e Messina;
+
+Ritenuto che, accertamenti posteriormente eseguiti, hanno dimostrato l'esistenza di danni pure nei comuni di Argusto, Badolato, Chiaravalle Centrale, Cotrone, Isca sull'Jonio, Santa Caterina sull'Jonio, Satriano, Sersale, Squillace, tutti della provincia di Catanzaro;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato pei lavori pubblici, di concerto col presidente del Consiglio dei ministri, ministro dell'interno, coi ministri delle finanze, del tesoro e di agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+All'elenco approvato col Nostro decreto del 23 settembre 1910, n. 706, sono aggiunti i comuni di Argusto, Badolato, Chiaravalle Centrale, Cotrone, Isca sull'Jonio, Santa Caterina sull'Jonio, Satriano, Sersale e Squillace, della provincia di Catanzaro.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 maggio 1911.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Sacchi - Facta - Tedesco - Nitti.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   
+  

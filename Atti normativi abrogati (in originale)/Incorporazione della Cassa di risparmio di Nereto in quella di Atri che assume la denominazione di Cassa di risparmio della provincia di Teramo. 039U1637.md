@@ -1,0 +1,51 @@
+REGIO DECRETO 12 ottobre 1939 n. 1637
+
+
+REGIO DECRETO 12 ottobre 1939 n. 1637
+=====================================
+
+Incorporazione della Cassa di risparmio di Nereto in quella di Atri che assume la denominazione di «Cassa di risparmio della provincia di Teramo». (039U1637)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/11/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduti gli articoli 12 e 14 del testo unico delle leggi sull'ordinamento delle Casse di risparmio e dei Monti di credito su pegno di prima categoria, approvato con R. decreto 25 aprile 1929-VII, n. 967, e gli articoli 11 e 12 del regolamento per l'esecuzione del testo unico predetto, approvato con R. decreto 5 febbraio 1931-IX, n. 225;   
+  
+Veduto l'art. 47 del R. decreto-legge 12 marzo 1936-XIV, n. 375, sulla difesa del risparmio e sulla disciplina della funzione creditizia, modificato con le leggi 7 marzo 1938-XVI, n. 141, e 7 aprile 1938-XVI, n. 636;   
+  
+Veduta la deliberazione in data 20 luglio 1939-XVII, del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito, in ordine all'incorporazione della Cassa di risparmio di Nereto nella Cassa di risparmio di Atri;   
+  
+Veduta la lettera n. 3876, in data 24 settembre 1939-XVII, della Federazione nazionale fascista delle Casse di risparmio, relativa ai provvedimenti atti ad assicurare la sistemazione economico-patrimoniale delle Casse di risparmio di Nereto e di Atri;   
+  
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Presidente del Comitato dei Ministri anzidetto;   
+  
+Abbiamo decretato e decretiamo:   
+  
+La Cassa di risparmio di Nereto e' incorporata nella Cassa di risparmio di Atri, la cui denominazione e' modificata in quella di «Cassa di risparmio della provincia di Teramo», e la cui sede centrale e' trasferita in Teramo.   
+  
+Le modalita' dell'incorporazione e le nuove norme statutarie saranno stabilite con decreto del DUCE del Fascismo, capo del Governo, Presidente del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito, a norma dell'art. 47, comma 1°, del R. decreto-legge 12 marzo 1936-XIV, n. 375, modificato con le leggi 7 marzo 1938-XVI, n. 141, e 7 aprile 1938-XVI, n. 636.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 12 ottobre 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 7 novembre 1939-XVIII   
+  
+Atti del Governo, registro 415, foglio 14. - MANCINI   

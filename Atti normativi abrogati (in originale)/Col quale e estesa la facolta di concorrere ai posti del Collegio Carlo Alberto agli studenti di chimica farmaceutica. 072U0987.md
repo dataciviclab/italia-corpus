@@ -1,0 +1,55 @@
+REGIO DECRETO 24 agosto 1872 n. 987
+
+
+REGIO DECRETO 24 agosto 1872 n. 987
+===================================
+
+Col quale e' estesa la facolta' di concorrere ai posti del Collegio Carlo Alberto agli studenti di chimica farmaceutica. (072U0987)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/10/1872
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduta la legge 3 agosto 1857, relativa ai posti di fondazione regia nel R. Collegio Carlo Alberto per gli studenti delle provincie in Torino;
+
+Veduto il regolamento per gli esami di concorso ai posti suddetti, approvato con Nostro decreto 10 maggio 1858, n. 2844;
+
+Veduta la legge 13 novembre 1859, la quale all'art. 114 stabilisce che per essere iscritti a titolo di studenti in una Facolta' conviene aver superato la prova degli esami di ammissione che aprono l'adito alla medesima;
+
+Veduto che gli studenti di farmacia, come quelli degli altri corsi universitari, sono tenuti di premunirsi della licenza liceale, prima di poter essere iscritti alla rispettiva scuola;
+
+Veduto il Nostro decreto dell'11 aprile 1859, relativo all'ammissione degli alunni degli Istituti tecnici o Istituti industriali e professionali al concorso dei posti gratuiti del R.
+
+Collegio Carlo Alberto;
+
+Ritenuto che lo scopo della istituzione dei posti gratuiti nel Collegio Carlo Alberto per gli studenti delle provincie in Torino e' quello di dare ai giovani di eletto ingegno i mezzi di imprendere una carriera universitaria qualsiasi senza eccezione;
+
+Sentito il parere del Consiglio Superiore di Pubblica Istruzione;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La facolta' di concorrere ai posti del Collegio Carlo Alberto per gli studenti delle provincie in Torino e' estesa agli studenti di chimica farmaceutica, sempre che si uniformino alle condizioni stabilite dalla legge 3 agosto 1857, e dal regolamento 10 maggio 1858, superiormente citati.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino, addi' 24 agosto 1872.   
+  
+VITTORIO EMANUELE.   
+  
+A. Scialoja.   
+  
+  

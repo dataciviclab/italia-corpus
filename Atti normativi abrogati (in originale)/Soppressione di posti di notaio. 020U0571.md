@@ -1,0 +1,17 @@
+REGIO DECRETO 29 aprile 1920 n. 571
+
+
+REGIO DECRETO 29 aprile 1920 n. 571
+===================================
+
+Soppressione di posti di notaio. (020U0571)
+-------------------------------------------
+
+Entrata in vigore del provvedimento: 06/06/1920
+
+Art. 1
+------
+
+N.
+
+571. Regio decreto 29 aprile 1920, col quale, sulla proposta del ministro della giustizia e degli affari di culto, vengono soppressi uno dei due posti di notaro assegnati al comune di Bagni di Lucca ed i posti notarili assegnati a Chiesina Uzzanese, frazione del comune di Uzzano, ed a Ruosina, frazione del comune di Stazzema, nel distretto notarile di Lucca.

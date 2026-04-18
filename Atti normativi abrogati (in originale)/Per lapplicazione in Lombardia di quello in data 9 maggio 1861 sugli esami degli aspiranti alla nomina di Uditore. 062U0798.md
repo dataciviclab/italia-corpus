@@ -1,0 +1,46 @@
+REGIO DECRETO 31 agosto 1862 n. 798
+
+
+REGIO DECRETO 31 agosto 1862 n. 798
+===================================
+
+Per l'applicazione in Lombardia di quello in data 9 maggio 1861 sugli esami degli aspiranti alla nomina di Uditore. (062U0798)
+------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/09/1862
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la legge 27 marzo 1862, n.° 516;
+
+Sulla
+-----
+
+proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il R. Decreto in data 9 maggio 1861, n.° 15, che determina le norme per gli esami degli aspiranti alla nomina di Uditore, avra' vigore anche nelle Provincie di Lombardia.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 31 agosto 1862.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 4 settembre 1862   
+  
+Reg.° 20 Atti del Governo a c. 236. Wehrlin.   
+  
+Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
+  
+Raffaele Conforti.   
+  

@@ -1,0 +1,40 @@
+REGIO DECRETO 11 agosto 1861 n. 152
+
+
+REGIO DECRETO 11 agosto 1861 n. 152
+===================================
+
+Con cui il termine stabilito per la cessazione del corso legale delle monete erose in Lombardia e' prorogato a lutto il 31 agosto 1861. (061U0152)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/08/1861
+
+VITTORIO EMANUELE II
+--------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il Regio Decreto 17 luglio 1861;
+
+Sulla
+-----
+
+proposizione del Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio, di concerto con quello per le Finanze; Abbiamo ordinato ed ordiniamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+Il termine stabilito dall'art. 3 del Decreto Reale 17 luglio 1861 per la circolazione legale delle monete nello stesso articolo menzionate e per l'ammissione delle medesime nelle pubbliche casse in pagamento od al cambio contro equivalente moneta di bronzo e' prorogato a tutto il giorno 31 agosto 1861.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dat. a Torino addi' 11 agosto 1861.   
+  
+VITTORIO EMANUELE.   
+  
+CORDOVA.   
+  

@@ -1,0 +1,71 @@
+REGIO DECRETO 01 marzo 1885 n. 2988
+
+
+REGIO DECRETO 01 marzo 1885 n. 2988
+===================================
+
+Che modifica l'elenco delle strade provinciali di Livorno. (085U2988)
+---------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/04/1885
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione 26 gennaio 1882 del Consiglio provinciale di Livorno, con cui rifiutava di classificare tra le provinciali le due strade iscritte ai numeri 155 e 156 dell'elenco III, tabella B, annesso alla [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333).   
+  
+Visti i ricorsi dei comuni dell'isola d'Elba e del comune di Livorno contro la deliberazione stessa ed il rifiuto in essa contenuto;   
+  
+Visti i voti del Consiglio superiore dei lavori pubblici in data 11 agosto 1883 e 22 novembre 1884;   
+  
+Visti tutti gli atti che all'affare in parola si riferiscono;   
+  
+Ritenuto in fatto:   
+  
+Che eccitato il Consiglio provinciale di Livorno a deliberare sulla provincialita' delle due strade iscritte ai numeri 155 e 156 della tabella annessa alla legge del 1881 entro il termine prefissogli a norma del regolamento emanato in esecuzione della stessa, delibero' di non ammetterle nell'elenco delle provinciali;   
+  
+Che cio' stante e' necessario dar corso ai provvedimenti d'ufficio ordinati dal regolamento medesimo; e quindi riconoscere anzitutto se nelle due strade in parola concorrono i caratteri di provincialita';   
+  
+Considerando:   
+  
+Che a proposito della strada iscritta al n. 155 come Completamento della strada marina di Marciana e quella di Portoferraio, Porto Longone e di Rio Marina, gli argomenti addotti dai comuni dell'Isola d'Elba per propugnarne la dichiarazione di provincialita' sono stati pienamente accettati cosi' dal Consiglio superiore dei lavori pubblici che dal Consiglio di Stato, e quindi e' evidente che nulla debba opporsi alla reclamata classificazione, contro cui non si hanno da parte del Consiglio provinciale argomenti bastevoli per contrastarla;   
+  
+Che quanto alla strada n. 156, Strada di Popogna completamento della strada traversa Livornese tra la via Emilia e Livorno, il comune di Livorno, nel gravarsi del deliberato del Consiglio provinciale, insiste precipuamente nella importanza degli interessi agricoli e commerciali di una notevole parte della provincia Livornese cui si verrebbe con essa strada a soddisfare; e nella dimostrazione di cio' data dalla provincia di Pisa, la quale classifico' il tronco di tale strada, solcante il proprio territorio.   
+  
+Che parimenti la strada di Popogna provvede al riconosciuto bisogno di facilitare le comunicazioni cosi' interne della provincia di Livorno, come quelle con Volterra (capoluogo di circondario) e colla provinciale di Siena; e oltre a cio' costituisce il piu' comodo e breve transito fra la via Emilia e Livorno risparmiando ai passeggieri ed ai carichi le forti pendenze della strada provinciale del litorale;   
+  
+Che tali interessi essendo oggi insoddisfatti, il voler supplire con nuove strade al loro difetto non puo' che giovare grandemente al territorio della provincia di Livorno;   
+  
+Che cio' posto, deve evidentemente riconoscersi che nelle due strade nn. 155 e 156 concorrono i caratteri di provincialita';   
+  
+Visti l'articolo 14 della legge 20 marzo 1865, allegato F, l'[articolo 4 della legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333~art4), e l'articolo 1 del regolamento 20 marzo 1884 per l'esecuzione di questa ultima legge;   
+  
+Sentito il Consiglio di Stato nel suo parere 11 febbraio 1885;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Sono aggiunte all'elenco delle strade provinciali di Livorno le due seguenti iscritte nell'elenco III annesso alla tabella B della legge 23 luglio 1881, sotto i numeri 155 e 156:   
+  
+a) Completamento della strada della Marina di Marciana e quella di Portoferraio, Porto Longone e di Rio Marina;   
+  
+b) (Comune con Pisa) Strada di Popogna, completamento della strada traversa Livornese tra la via Emilia e Livorno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 1° marzo 1885.   
+  
+UMBERTO.   
+  
+GENALA.   
+  
+Visto, Il Guardasigilli: PESSINA.   
+  

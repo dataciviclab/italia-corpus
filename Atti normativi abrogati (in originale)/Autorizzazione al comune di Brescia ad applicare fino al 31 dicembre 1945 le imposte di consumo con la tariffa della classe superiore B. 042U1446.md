@@ -1,0 +1,53 @@
+REGIO DECRETO 26 novembre 1942 n. 1446
+
+
+REGIO DECRETO 26 novembre 1942 n. 1446
+======================================
+
+Autorizzazione al comune di Brescia ad applicare, fino al 31 dicembre 1945, le imposte di consumo con la tariffa della classe superiore B. (042U1446)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/01/1943
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Vista la domanda con la quale il comune di Brescia, appartenente agli effetti dell'applicazione delle imposte di consumo alla classe C, chiede l'autorizzazione ad applicare le predette imposte di consumo con la tariffa della classe superiore B, sino al 31 dicembre 1945;
+
+Udita la Commissione centrale per la finanza fiscale che nell'adunanza del 25 settembre 1942 ha espresso parere favorevole alla chiesta autorizzazione;
+
+Visto l'art. 27 del testo unico per la finanza locale 14 settembre 1931, n. 1175;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il comune di Brescia e' autorizzato ad applicare fino al 31 dicembre 1945 le imposte di consumo con la tariffa della classe superiore B.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 26 novembre 1942-XXI   
+  
+VITTORIO EMANUELE   
+  
+Di Revel   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 18 dicembre 1942-XXI   
+  
+Atti del Governo, registro 452, foglio 65. - Mancini   
+  
+  

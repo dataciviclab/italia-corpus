@@ -1,0 +1,19 @@
+REGIO DECRETO 23 aprile 1908 n. CLXXXII
+
+
+REGIO DECRETO 23 aprile 1908 n. CLXXXII
+=======================================
+
+Riflettente approvazione di statuto. (0800182R)
+-----------------------------------------------
+
+Entrata in vigore del provvedimento: 14/06/1908
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro di agricoltura, industria e commercio:   
+  
+N. CLXXXII (Dato a Roma, il 23 aprile 1908), col quale si approva il nuovo statuto della Cassa di risparmio di San Miniato.   
+  

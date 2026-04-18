@@ -1,0 +1,68 @@
+REGIO DECRETO 15 dicembre 1872 n. 1178
+
+
+REGIO DECRETO 15 dicembre 1872 n. 1178
+======================================
+
+concernente il grado e numero degli Uffiziali di Vascello dello Stato Maggiore della Nave d'istruzione dei mozzi. (072U1178)
+----------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/01/1873
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il Regio Decreto 14 agosto 1872, col quale viene istituita una Scuola di mozzi nella sede del 3° Dipartimento marittimo;
+
+Sulla proposta del Nostro Ministro della Marina;
+
+Sentito
+-------
+
+il parere del Consiglio superiore di Marina; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Gli Uffiziali di Vascello, facienti parte dello Stato Maggiore della Nave d'istruzione dei mozzi, saranno del grado e del numero seguenti:   
+  
+Grado   
+  
+Capitano di fregata . . . . . . . . . . . . . . . .N° 1   
+  
+Luogotenente di vascello - Uffiziale in 2° . . . . » 1   
+  
+Sottotenenti di vascello (\*) . . . . . . . . . . . » 3   
+  
+(\*) Dei sottotenenti di vascello uno dovra' essere incaricato delle scuole elementari; gli altri nue dell'istruzione pratica.   
+  
+E' assegnato:   
+  
+Al Comandante il supplemento mensile di L. 15,   
+  
+All'Uffiziale in 2° id. » 36,   
+  
+A ciascuno dei Sottotenenti   
+di vascello id. » 30.   
+  
+Sono in questo senso modificati gli Specchi B e C, che fanno seguito al citato Decreto 11 agosto 1872.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma addi' 15 dicembre 1872.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 30 dicembre 1872   
+  
+Vol. 65 Atti del Governo a c. 72. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli De Falco   
+  
+A. Riboty.   

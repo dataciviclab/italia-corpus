@@ -1,0 +1,51 @@
+REGIO DECRETO 27 aprile 1942 n. 484
+
+
+REGIO DECRETO 27 aprile 1942 n. 484
+===================================
+
+Prelevamento dal fondo di riserva per le spese impreviste dell'Azienda sali per l'esercizio finanziario 1941-42. (042U0484)
+---------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/06/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto l'art. 15 della legge 21 giugno 1941-XIX, n. 566, che approva lo stato di previsione dell'entrata e quello della spesa dell'Amministrazione dei monopoli di Stato per l'esercizio finanziario 1941-42;   
+  
+Visto l'art. 10 del R. decreto-legge 8 dicembre 1927-VI, n. 2258, convertito nella legge 6 dicembre 1928-VII, n. 3174, riguardante la costituzione dell'Amministrazione dei monopoli di Stato, modificato dall'art. 1 della legge 17 agosto 1941-XIX, n. 957;   
+  
+Considerato che il fondo di riserva per le spese impreviste dell'Azienda sali presenta una disponibilita' di L. 6.000.000 nell'apposito conto corrente presso la Tesoreria centrale del Regno;   
+  
+Sentito il Consiglio di amministrazione dei monopoli di Stato;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' autorizzato il prelevamento di L. 800.000 dal fondo di riserva per le spese impreviste dell'Azienda sali, da versarsi all'Amministrazione dei monopoli di Stato con imputazione al capitolo 17 dello stato di previsione dell'entrata del bilancio dell'Amministrazione medesima per l'esercizio 1941-42 e da inscriversi alla competenza del capitolo 33 della spesa dello stesso bilancio, ed esercizio «Compra dei sali, compresi i canoni e le spese per i pozzi saliferi di Volterra, ecc.».   
+  
+Questo decreto sara' comunicato alle Assemblee legislative unitamente al rendiconto consuntivo dell'Amministrazione dei monopoli di Stato per l'esercizio 1941-42.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 27 aprile 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alta Corte dei conti, addi' 20 maggio 1942-XX   
+  
+Atti del Governo, registro 445, foglio 59. - MANCINI   

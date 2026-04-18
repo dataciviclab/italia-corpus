@@ -1,0 +1,51 @@
+LEGGE 23 maggio 1940 n. 548
+
+
+LEGGE 23 maggio 1940 n. 548
+===========================
+
+Stato di previsione della spesa del Ministero per gli scambi e le 
+valute per l'esercizio finanziario dal 1° luglio 1940-XVIII al 30 
+giugno 1941-XIX. (040U0548)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/06/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie del Ministero per gli scambi e per le valute, per l'esercizio finanziario dal 1° luglio 1940-XVIII al 30 giugno 1941-XIX, in conformita' dello stato di previsione annesso alla presente legge.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 23 maggio 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel   
+  
+Visto, il Guardasigilli: Grandi   
+  
+  
+
+Stato di previsione
+
+ Stato di previsione   
+  
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=040U054800100010110001&dgu=1940-06-13&art.dataPubblicazioneGazzetta=1940-06-13&art.codiceRedazionale=040U0548)
+  

@@ -1,0 +1,17 @@
+REGIO DECRETO 10 dicembre 1922 n. 1785
+
+
+REGIO DECRETO 10 dicembre 1922 n. 1785
+======================================
+
+Passaggio di Comune chiuso ad aperto. (022U1785)
+------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/02/1923
+
+Art. 1
+------
+
+N.
+
+1785. Regio decreto 10 dicembre 1922, col quale, sulla proposta del Ministro delle finanze, viene assegnato al comune di Acireale (Provincia di Catania) il sussidio dello Stato di annue L. 20.930,53, dal giorno 1° gennaio 1921 in poi, per il passaggio del Comune medesimo dalla categoria dei Comuni chiusi a quella degli aperti.

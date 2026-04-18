@@ -1,0 +1,51 @@
+REGIO DECRETO 23 aprile 1931 n. 459
+
+
+REGIO DECRETO 23 aprile 1931 n. 459
+===================================
+
+Soppressione degli uffici del Genio civile di Ariano di Puglia e di Melfi. (031U0459)
+-------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/05/1931
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il decreto Reale 3 agosto 1930 che istituiva gli uffici del Genio civile di Ariano di Puglia e di Melfi per i servizi dipendenti dal terremoto del 23 luglio 1930;   
+  
+Visto il decreto Reale 22 agosto 1930 col quale veniva determinata la competenza territoriale degli uffici di Ariano di Puglia e di Melfi;   
+  
+Visto il decreto Reale 2 ottobre 1930 che estendeva la competenza territoriale dell'ufficio del Genio civile di Melfi;   
+  
+Ritenuta l'opportunita' di sopprimere gli uffici di cui sopra in considerazione che essi hanno quasi ultimato il loro compito e che al disbrigo delle rimanenti pratiche puo' essere provveduto dagli uffici di Avellino e di Potenza, Servizio generale;   
+  
+Visto il testo unico delle leggi sull'ordinamento del Genio civile 3 settembre 1906, n. 522, ed il regolamento per il servizio del Genio civile 2 marzo 1931, n. 287;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A decorrere dal 21 aprile 1931-IX sono soppressi gli uffici del Genio civile di Ariano di Puglia e di Melfi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 23 aprile 1931 - Anno IX   
+  
+VITTORIO EMANUELE.   
+  
+Di Crollalanza.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 6 maggio 1931 - Anno IX   
+  
+Atti del Governo, registro 308, foglio 41. - Ferzi.   
+  

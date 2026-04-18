@@ -1,0 +1,50 @@
+REGIO DECRETO 24 aprile 1921 n. 564
+
+
+REGIO DECRETO 24 aprile 1921 n. 564
+===================================
+
+Che modifica il regolamento 26 novembre 1908, n. 804, circa la concessione dei biglietti per viaggi sulle ferrovie dello Stato a favore di direttori, redattori e corrispondenti dall'Italia di giornali esteri. (021U0564)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/05/1921
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il Nostro decreto 26 novembre 1908, n. 804, che approvava il regolamento per la concessione delle carte di libera circolazione e dei biglietti per viaggi gratuiti ed a prezzo ridotto in applicazione della [legge 9 luglio 1908, n. 406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;406);
+
+Visto il Nostro decreto 7 febbraio 1915, n. 159 che modifica il terz'ultimo capoverso dell'art. 22 del regolamento approvato col [R. decreto 26 novembre 1908, n. 804](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-26;804);
+
+Udito il parere del Consiglio di amministrazione delle ferrovie dello Stato;
+
+Udito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro segretario di Stato pei lavori pubblici, di concerto col ministro del tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il terz'ultimo capoverso dell'art. 22 del regolamento approvato col [R. decreto 26 novembre 1908, n. 804](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-11-26;804), e' modificato come segue:   
+  
+«Le domande dei biglietti a favore di direttori, di redattori e di corrispondenti dall'Italia di giornali esteri, con le notizie e documenti giustificativi, devono essere rivolte alla Direzione generale delle ferrovie dello Stato, cui spetta di decidere in merito all'accoglimento delle domande stesse, sopra parere di una Commissione composta di due funzionari delle ferrovie, del segretario generale del Ministero degli affari esteri, di un funzionario delegato annualmente dal ministro degli affari esteri, e di un rappresentante della stampa, nominato ogni triennio dai sodalizi della stampa italiana».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 24 aprile 1921.   
+  
+VITTORIO EMANUELE.   
+  
+GIOLITTI - PEANO - BONOMI.   
+  
+Visto: Il guardasigilli: FERA.   
+  

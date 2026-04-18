@@ -1,0 +1,21 @@
+REGIO DECRETO 19 giugno 1924 n. 1148
+
+
+REGIO DECRETO 19 giugno 1924 n. 1148
+====================================
+
+Determinazione dell'assegno annuo per il titolare del Regio consolato generale in Odessa. (024U1148)
+----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/08/1924
+
+Art. 1
+------
+
+N.
+
+1148. R. decreto 29 giugno 1924, col quale, sulla proposta del Ministro ad interim per gli affari esteri, l'assegno annuo per il titolare del Regio consolato generale in Odessa viene fissato in L. 30,000 ed il rimborso di un ammontare massimo di spesa di cancelleria in L. 18,000 oro.   
+  
+Visto, il Guardasigilli: Oviglio.   
+  
+Registrato alla Corte dei conti, addi' 23 luglio 1924.

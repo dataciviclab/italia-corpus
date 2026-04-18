@@ -1,0 +1,62 @@
+REGIO DECRETO 23 gennaio 1930 n. 123
+
+
+REGIO DECRETO 23 gennaio 1930 n. 123
+====================================
+
+Liquidazione del contributo scolastico suppletivo dovuto dal comune di Olba, per il periodo 1° luglio 1929-31 dicembre 1933. (030U0123)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/03/1930
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il R. decreto 18 ottobre 1927, che stabilisce le sedi dei Provveditorati agli studi e le relative circoscrizioni, ed il R. decreto 2 dicembre 1928 che lo modifica;
+
+Veduto l'[art. 18 del R. decreto-legge 4 settembre 1925, n. 1722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-09-04;1722~art18);
+
+Veduti gli articoli 55 e 56 del testo unico delle leggi sull'istruzione elementare approvato con [R. decreto 5 febbraio 1928, n. 577](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+
+Veduto il R. decreto 8 luglio 1929 col quale, a decorrere dal 1° luglio 1929, fu revocato il decreto Luogotenenziale 22 marzo 1917 che concesse l'autonomia scolastica al comune di Olba;
+
+Veduto l'elenco dei posti d'insegnante di scuole classificate e non classificate, legalmente istituiti ed esistenti al 1° luglio 1929 nel Comune predetto: elenco compilato dal Regio provveditore agli studi di Genova;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' approvata la liquidazione del contributo che il comune di Olba, della provincia di Savona, deve versare annualmente alla Regia tesoreria dello Stato in applicazione dell'art. 55, lettera b), del testo unico delle leggi sull'istruzione elementare approvato con [R. decreto 5 febbraio 1928, n. 577](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), il cui ammontare rimane stabilito, per il periodo 1° luglio 1929-31 dicembre 1933, nella somma di L. 800, indicata nell'elenco che, d'ordine Nostro, viene annesso al presente decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 23 gennaio 1930 - Anno VIII   
+  
+VITTORIO EMANUELE.   
+  
+Giuliano - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alta Corte dei conti, addi' 12 marzo 1930 - Anno VIII   
+  
+Atti del Governo, registro 294, foglio 78. - Ferzi   
+  
+
+Elenco
+
+  
+ELENCO delle somme che i sottoindicati Comuni devono annualmente versare nella R. Tesoreria dello Stato, in applicazione dell'art. 55, lettera b, del testo unico delle leggi sull'istruzione elementare, approvato con [R. decreto 5 febbraio 1928, n. 577](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577), per il periodo 1° luglio 1929-31 dicembre 1933.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=030U012300100010110001&dgu=1930-03-15&art.dataPubblicazioneGazzetta=1930-03-15&art.codiceRedazionale=030U0123)
+  

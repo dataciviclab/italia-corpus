@@ -1,0 +1,43 @@
+LEGGE 23 novembre 1939 n. 1870
+
+
+LEGGE 23 novembre 1939 n. 1870
+==============================
+
+Convalidazione dei Regi decreti 9 maggio 1939-XVII, n. 725, 19 maggio 
+1939-XVII, n. 751, 29 maggio 1939-XVII, n. 763, 16 giugno 1939-XVII, 
+n. 882, e 23 giugno 1939-XVII, n. 883, relativi a prelevamenti dal 
+fondo di riserva per le spese impreviste dell'esercizio finanziario 
+1938-39. (039U1870)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/01/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA.   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico   
+  
+Sono convalidati i decreti Reali 9 maggio 1939-XVII, n. 725, 19 maggio 1939-XVII, n. 754, 29 maggio 1939-XVII, n. 763, 16 giugno 1939-XVII, n. 882, e 23 giugno 1939-XVII, n. 883, con i quali sono stati autorizzati prelevamenti dal fondo di riserva per le spese impreviste, inscritto nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1938-39.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 23 novembre 1939-XVIII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: Grandi   

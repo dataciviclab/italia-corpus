@@ -1,0 +1,47 @@
+REGIO DECRETO 29 luglio 1885 n. 3343
+
+
+REGIO DECRETO 29 luglio 1885 n. 3343
+====================================
+
+Che modifica l'elenco delle strade provinciali di Campobasso. (085U3343)
+------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/10/1885
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione 11 ottobre 1884 del Consiglio provinciale di Campobasso con cui si stabiliva di dichiarare provinciale la strada, ora consortile, Palata-Guglionesi-Termoli;   
+  
+Visti i certificati di eseguita pubblicazione della deliberazione anzidetta, da cui risulta che nessuna opposizione o reclamo vennero contro di essa sollevati dai comuni della provincia medesima;   
+  
+Visto il rapporto 27 giugno 1885 del locale ufficio del Genio civile;   
+  
+Visto il voto 18 luglio 1885 del Consiglio superiore dei lavori pubblici;   
+  
+Visti gli articoli 13 e 14 della legge 20 marzo 1865, allegato F;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici,   
+  
+Abbiamo decretato e decretiamo:   
+  
+La strada Palata-Guglionesi-Termoli e' aggiunta all'elenco delle provinciali per la provincia di Campobasso.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Milano, addi' 29 luglio 1885.   
+  
+UMBERTO.   
+  
+Genala.   
+  
+Visto, Il Guardasigilli: Tajani.   
+  

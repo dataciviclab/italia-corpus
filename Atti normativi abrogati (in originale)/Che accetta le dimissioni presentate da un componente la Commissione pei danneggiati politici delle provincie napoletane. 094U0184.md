@@ -1,0 +1,46 @@
+REGIO DECRETO 22 aprile 1894 n. 184
+
+
+REGIO DECRETO 22 aprile 1894 n. 184
+===================================
+
+Che accetta le dimissioni presentate da un componente la Commissione pei danneggiati politici delle provincie napoletane. (094U0184)
+------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/06/1894
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge 8 luglio 1883 n. 1496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1883-07-08;1496) (serie 3ª);   
+  
+Veduto il Nostro decreto 4 settembre dello stesso anno n. 1575 (serie 3ª);   
+  
+Ritenuto che le ragioni per le quali il comm. Giacomo Racioppi insiste per essere esonerato dall'incarico di componente la Commissione istituita per l'esecuzione della citata legge, sono meritevoli di considerazione;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta dei Nostri Ministri Segretari di Stato, i Ministro dell'Interno, Presidente del Consiglio dei Ministri e il Ministro del Tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Sono accettate le dimissioni presentate dal comm. Giacomo Racioppi, da componente della Commissione di cui all'art 3 della legge 8 luglio n. 1883 n. 1496 (serie 3ª), relativa ai provvedimenti per i danneggiati politici delle provincie napoletane.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 22 aprile 1894.   
+  
+UMBERTO.   
+  
+Crispi.   
+Sidney Sonnino.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   
+  

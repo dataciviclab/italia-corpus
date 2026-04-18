@@ -1,0 +1,45 @@
+REGIO DECRETO 04 marzo 1883 n. 1246
+
+
+REGIO DECRETO 04 marzo 1883 n. 1246
+===================================
+
+Che aggiunge una strada all' elenco delle provinciali di Cuneo. (083U1246)
+--------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/04/1883
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione del Consiglio provinciale di Cuneo in seduta del 19 settembre 1882, colla quale ad unanimita' di voti venne accolta la domanda del Consorzio, che ha sistemata la strada da Canale a Sommariva Bosco, ed ammessa la inscrizione di essa fra le strade provinciali di Cuneo;   
+  
+Visti gli atti dai quali risulta che furono puntualmente eseguite le pubblicazioni prescritte dalla legge sui lavori pubblici, senza che venissero presentate opposizioni o ricorsi contro la precitata deliberazione;   
+  
+Visto il piano dimostrativo del percorso della strada in parola;   
+  
+Visto il voto 10 febbraio 1882 del Consiglio superiore dei lavori pubblici, che ha riconosciuta la grandissima importanza commerciale della detta strada, la quale riunendo per via piu' breve la provincia di Cuneo a quella di Alessandria e' destinata specialmente a facilitare gli scambi dei prodotti fra Canale e San Damiano d'Asti e fra le pianure di Saluzzo e Pinerolo, per cui riveste i caratteri voluti dall'articolo 13 della legge sui lavori pubblici;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici,   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' autorizzata l'aggiunta all'elenco delle strade provinciali di Cuneo, di quella da Canale a Sommariva Bosco, la quale diramandosi dalla provinciale Alba-Torino, nell'abitato di Canale, e passando per Monteu Roero si collega all'altra strada provinciale da Alba a Carmagnola, ed attraversando quindi il rivo Ricciardo presso Ceresole fa capo a Sommariva Bosco.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 marzo 1883.   
+  
+UMBERTO.   
+  
+A. Baccarini.   
+  
+Visto, Il Guardasigilli: G. Zanardelli.   
+  

@@ -1,0 +1,39 @@
+LEGGE 02 aprile 1936 n. 628
+
+
+LEGGE 02 aprile 1936 n. 628
+===========================
+
+Attribuzione di un annuo contributo a favore del Regio istituto italiano per la storia antica. (036U0628)
+---------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/05/1936
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+A decorrere dall'esercizio finanziario 1936-37 e' assegnato, a favore del Regio Istituto italiano per la storia antica, l'annuo contributo di 50.000 lire per il funzionamento dell'Istituto stesso e dell'annessa Scuola di storia antica, da iscriversi su apposito capitolo della parte ordinaria dello stato di previsione per la spesa del Ministero dell'educazione nazionale.   
+  
+Il Ministro per le finanze e' autorizzato ad introdurre, con suo decreto, nello stato di previsione predetto, le occorrenti variazioni.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 2 aprile 1936 - Anno XIV   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - De Vecchi di Val Cismon - Di Revel   
+  
+Visto, il Guardasigilli Solmi.   

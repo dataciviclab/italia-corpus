@@ -1,0 +1,49 @@
+REGIO DECRETO 16 febbraio 1922 n. 210
+
+
+REGIO DECRETO 16 febbraio 1922 n. 210
+=====================================
+
+Che modifica e coordina il regolamento comunale di Pola. (022U0210)
+-------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/03/1922
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D' ITALIA   
+  
+Veduto il [R. decreto-legge 31 agosto 1921, n. 1269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-08-31;1269);   
+  
+Veduto il [R. decreto 7 ottobre 1921, n. 1393](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-10-07;1393);   
+  
+Vista la proposta della Giunta provinciale straordinaria per l'Istria;   
+  
+Udito il Consiglio dei ministri;   
+  
+Su proposta del presidente del Consiglio dei ministri, ministro segretario di Stato per gli affari dell'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' abrogata la legge 20 agosto 1908 (Bollettino leggi provinciali n. 52), con la quale venivano modificati, nei riguardi del comune di Pola, il regolamento comunale e il regolamento elettorale comunale, valevoli per la provincia d'Istria.   
+  
+Sono conseguentemente ripristinate per il comune medesimo le relative norme dei suddetti regolamenti, per quanto non siano state gia' abrogate o modificate dai RR. decreti 7 ottobre 1921, n. 1393, e 29 gennaio 1922, n. 26.   
+  
+Il presente decreto entra in vigore con la sua pubblicazione nella Gazzetta ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 febbraio 1922.   
+  
+VITTORIO EMANUELE.   
+  
+BONOMI.   
+  
+Visto, il guardasigilli: RODINO'.   
+  

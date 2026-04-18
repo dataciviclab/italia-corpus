@@ -1,0 +1,56 @@
+REGIO DECRETO 21 marzo 1915 n. 441
+
+
+REGIO DECRETO 21 marzo 1915 n. 441
+==================================
+
+Che contiene speciali disposizioni a favore del personale delle ricevitorie postali e telegrafiche dei paesi colpiti dal terremoto del 13 gennaio 1915. (015U0441)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/04/1915
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visti i RR. decreti 22 dicembre 1910, n. 936, 30 giugno 1912, n. 857, 11 luglio 1913, n. 1317, e 8 novembre 1914, n. 1273, il primo dei quali approva e gli altri modificano le disposizioni contenute nel regolamento speciale per il personale degli uffici postali, telegrafici e fonotelografici di 1a, 2a e 3a classe e per gli agenti rurali dell'Amministrazione delle poste e dei telegrafi;
+
+Riconosciuta l'opportunita' di soccorrere, con adeguate facilitazioni, il personale delle ricevitorie postali telegrafiche dei paesi colpiti dal terremoto del 13 gennaio 1915;
+
+Sentito il parere del Consiglio di amministrazione del Ministero delle poste e dei telegrafi;
+
+Sentito il parere del Consiglio di Stato;
+
+Udito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per le poste e per i telegrafi; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+A parziale deroga delle norme contenute negli articoli 6 e 7 del regolamento speciale approvato con [R. decreto 22 dicembre 1910, n. 936](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-12-22;936) e' accordata a coloro che al 13 gennaio 1915 erano titolari delle ricevitorie postali-telegrafiche nelle localita' colpite dal terremoto, ed indicate negli elenchi ufficiali che sono pubblicati a cura del Ministero dell'interno, la preferenza su tutti i concorrenti per il conferimento delle ricevitorie aventi retribuzione inferiore o uguale a quella assegnata all'ufficio che coprono nel momento del concorso calcolala con l'ultima liquidazione per gli esercizi 1914-917.   
+  
+Uguale preferenza e' accordata per i concorsi a ricevitorie con retribuzione superiore entro i limiti che l'art. 4 del regolamento speciale assegna ai cambi di residenza.   
+  
+Ai supplenti in servizio noi detti uffici al 13 gennaio 1915 aventi una anzianita' non inferiore ad un anno, e' accordata la preferenza su tutti i concorrenti per il conferimento delle ricevitorie con retribuzione non superiore a L. 1500.   
+  
+Questo diritto alla preferenza e' concesso sia ai ricevitori che ai supplenti fino al 30 giugno 1917 e non potra' 'essere fatto valere in ogni caso che una sola volta. Il ricevitore ed il supplente che usando del diritto di preferenza, hanno vinto il concorso ad una ricevitoria, ne hanno preso possesso, e poi vi rinunziano, decadono percio' dal loro diritto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 21 marzo 1915.   
+  
+VITTORIO EMANUELE.   
+  
+Salandra - Riccio.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

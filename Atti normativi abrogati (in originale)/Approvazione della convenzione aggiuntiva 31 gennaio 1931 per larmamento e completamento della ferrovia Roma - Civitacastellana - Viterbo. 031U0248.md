@@ -1,0 +1,43 @@
+REGIO DECRETO 19 febbraio 1931 n. 248
+
+
+REGIO DECRETO 19 febbraio 1931 n. 248
+=====================================
+
+Approvazione della convenzione aggiuntiva 31 gennaio 1931 per l'armamento e completamento della ferrovia Roma - Civitacastellana - Viterbo. (031U0248)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/04/1931
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+RE D'ITALIA   
+  
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447;   
+Viste le [leggi 27 giugno 1912, n. 638; 14 luglio 1912, numero 835; 29 dicembre 1912, n. 1365; 8 giugno 1913, n. 631; 23 luglio 1914, n. 742](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-07-23;742); ed il Nostro decreto 8 marzo 1914, n. 428;   
+Visti i Nostri decreti 23 febbraio 1919, n. 303; 8 luglio 1919, n. 1327; 23 gennaio 1921, n. 56; 31 agosto 1921, n. 1222; 6 febbraio 1923, n. 431; 23 maggio 1924, nn. 996 e 998; 29 luglio 1925, n. 1509; 31 dicembre 1925, n. 2525; 16 agosto 1926, n. 1595, e 2 agosto 1929, n. 2150, convertito in [legge 22 dicembre 1930, n. 1752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-12-22;1752);   
+Visto il [decreto Luogotenenziale 5 aprile 1916, n. 700](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-04-05;700), con il quale venne approvata la convenzione 14 marzo 1916 per la concessione alla Societa' anonima tramvie e ferrovie Roma Nord della costruzione e dell'esercizio della ferrovia a scartamento ridotto ed a trazione elettrica Roma - Civitacastellana - Viterbo;   
+Visto il [decreto Luogotenenziale 8 maggio 1919, n. 860](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-05-08;860), con il quale fu approvata la convenzione addizionale 4 aprile 1919 concernente la proroga del termine per l'inizio dei lavori di costruzione della ferrovia suddetta;   
+Visto il Nostro decreto 31 maggio 1923, n. 1485, con il quale fu approvata la convenzione addizionale 23 maggio 1923 per la scissione del piano finanziario e per la determinazione della sovvenzione chilometrica complementare per il primo gruppo di opere (sede stradale e fabbricati);   
+Vista la domanda 14 luglio 1928-VI con la quale la Societa' romana per le ferrovie del Nord sostituitasi alla Societa' anonima tramvie e ferrovie Roma Nord ha proposto l'adozione dello scartamento normale, e la revisione del piano finanziario per entrambi i gruppi di opere;   
+Sentito il Consiglio superiore dei lavori pubblici e la Commissione per la revisione dei piani finanziari di ferrovie e tramvie;   
+Udito il Consiglio dei Ministri;   
+Sulla proposta dei Nostri Ministri Segretari di Stato per le comunicazioni e le finanze;   
+Abbiamo decretato e decretiamo:   
+E' approvata e resa esecutoria la convenzione stipulata il 31 gennaio 1931-IX tra i delegati dei Ministri per le comunicazioni e per le finanze, in rappresentanza dello Stato, ed il legale rappresentante della Societa' romana per le ferrovie del Nord, aggiuntiva alla convenzione 14 marzo 1916 per la concessione della ferrovia Roma - Civitacastellana - Viterbo.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 19 febbraio 1931 - Anno IX   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Ciano - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 26 marzo 1931 - Anno IX   
+Atti del Governo, registro 306, foglio 105. - Mancini.   
+  

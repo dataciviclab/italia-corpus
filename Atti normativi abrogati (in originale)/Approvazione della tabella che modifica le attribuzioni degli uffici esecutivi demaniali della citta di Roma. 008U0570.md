@@ -1,0 +1,47 @@
+REGIO DECRETO 07 settembre 1908 n. 570
+
+
+REGIO DECRETO 07 settembre 1908 n. 570
+======================================
+
+Approvazione della tabella che modifica le attribuzioni degli uffici esecutivi demaniali della citta' di Roma. (008U0570)
+-------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/11/1908
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro ministro segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Le attribuzioni degli uffici esecutivi demaniali della citta' di Roma sono modificate come nella unita tabella vista d'ordine Nostro dal ministro segretario di Stato per le finanze.   
+  
+Il presente decreto andra' in vigore il 1° novembre 1908.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Spezia, addi' 7 settembre 1908.   
+  
+VITTORIO EMANUELE.   
+  
+Lacava.   
+  
+Visto, Il guardasigilli: Orlando.   
+  
+
+Tabella
+
+  
+Tabella che modifica le attribuzioni degli Uffici esecutivi demaniali della citta' di Roma.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=008U057000100010110001&dgu=1908-10-12&art.dataPubblicazioneGazzetta=1908-10-12&art.codiceRedazionale=008U0570)
+  

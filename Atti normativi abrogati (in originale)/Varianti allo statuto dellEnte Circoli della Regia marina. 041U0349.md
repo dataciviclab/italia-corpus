@@ -1,0 +1,25 @@
+REGIO DECRETO 27 marzo 1941 n. 349
+
+
+REGIO DECRETO 27 marzo 1941 n. 349
+==================================
+
+Varianti allo statuto dell'Ente «Circoli della Regia marina». (041U0349)
+------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/06/1941
+
+Art. 1
+------
+
+N.
+
+349. R. decreto 27 marzo 1941, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la marina, sono apportate alcune varianti allo statuto dell'Ente «Circoli della Regia marina», approvato con Regio decreto 27 ottobre 1937-XV, n. 1935.   
+  
+Visto:   
+  
+(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
+  
+MUSSOLINI   
+  
+Registrato alla Corte dei conti, addi' 8 maggio 1941-XIX

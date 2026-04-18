@@ -1,0 +1,49 @@
+REGIO DECRETO 21 novembre 1909 n. 747
+
+
+REGIO DECRETO 21 novembre 1909 n. 747
+=====================================
+
+Che fissa le indennita' di missione al personale delle Amministrazioni provinciali dipendenti dal Ministero di agricoltura, industria e commercio. (009U0747)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/12/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto in data 10 giugno 1909, n. 371, col quale sono state fissate le indennita' di missione a favore degli ispettori dei servizi tecnici dell'Amministrazione centrale del Ministero d'agricoltura, industria e commercio e degli impiegati dell'Amministrazione centrale stessa;   
+  
+Ritenuta l'opportunita' di estendere le disposizioni del predetto decreto al personale appartenente ai ruoli organici dell'Amministrazione forestale e dell'Amministrazione metrica e del saggio, nonche' al personale dell'ufficio centrale di meteorologia e di geodinamica e degli osservatori meteorici e geodinamici;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria e il commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A decorrere dal 1° gennaio 1910:   
+  
+Le disposizioni del sopracitato decreto Reale sono estese:   
+  
+a) agli ispettori superiori, ispettori, sottoispettori ed al personale subalterno appartenenti al ruolo organico dell'Amministrazione forestale, per le missioni e le trasferte ch'essi eseguiscono nell'interesse del servizio forestale;   
+  
+b) agli ispettori centrali, ai verificatori ed al personale subalterno appartenenti al ruolo organico dell'Amministrazione metrica e del saggio, per le missioni nell'interesse del servizio metrico e altresi' per le trasferte che eseguiscono fuori Comune nei casi contemplati dall'art. 136 del regolamento sul servizio metrico approvato con decreto Reale 31 gennaio 1909, n. 242:   
+  
+c) al personale dell'Ufficio centrale di meteorologia e di geodinamica e degli osservatori meteorici o geodinamici, nominato con decreto Reale o Ministeriale, per le gite che esegue nell'interesse del servizio dello Stato.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 21 novembre 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Cocco-Ortu.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

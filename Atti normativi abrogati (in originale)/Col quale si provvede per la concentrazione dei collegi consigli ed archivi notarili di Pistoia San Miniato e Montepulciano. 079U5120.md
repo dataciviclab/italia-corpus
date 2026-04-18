@@ -1,0 +1,47 @@
+REGIO DECRETO 13 ottobre 1879 n. 5120
+
+
+REGIO DECRETO 13 ottobre 1879 n. 5120
+=====================================
+
+Col quale si provvede per la concentrazione dei collegi, consigli ed archivi notarili di Pistoia, San Miniato e Montepulciano. (079U5120)
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/11/1879
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 3, alinea 3 del testo unico delle leggi sul riordinamento del Notariato, approvato col Nostro decreto 25 maggio 1879, n. 4900 (Serie 2ª), il quale dispone che, dove circostanze speciali lo consiglino, potra' con decreto Reale, previo il parere della Corte di appello, essere ordinata la riunione di uno o piu' Collegi, Consigli ed Archivi notarili a quello del capoluogo della provincia o di altro vicino distretto, e cio' sebbene i distretti a riunirsi raggiungano o superino il numero di quindici notari;
+
+Ritenuto che le summentovate speciali circostanze concorrono per i distretti notarili di Pistoia, San Miniato e Montepulciano, e che la Corte di appello di Firenze con suo parere del 19 luglio 1879 ha opinato per la concentrazione di tutti e tre i distretti notarili medesimi;
+
+Considerato che i distretti di Pistoia, San Miniato e Montepulciano debbono essere necessariamente riuniti ai distretti dei rispettivi capiluoghi delle provincie di Firenze e di Siena, perche' nei territori delle provincie stesse non esistono altri distretti notarili;
+
+Sulla
+-----
+
+proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I Collegi, i Consigli e gli Archivi notarili di Pistoia, di San Miniato e di Montepulciano sono soppressi e riuniti rispettivamente ai distretti notarili dei capiluoghi delle provincie di Firenze i due primi e di Siena il terzo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 13 ottobre 1879.   
+  
+UMBERTO.   
+  
+Vare'.   
+  
+Visto - Il Guardasigilli   
+Vare'.   
+  

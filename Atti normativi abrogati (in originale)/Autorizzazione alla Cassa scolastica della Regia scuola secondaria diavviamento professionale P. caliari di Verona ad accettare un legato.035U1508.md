@@ -1,0 +1,23 @@
+REGIO DECRETO 16 luglio 1935 n. 1508
+
+
+REGIO DECRETO 16 luglio 1935 n. 1508
+====================================
+
+Autorizzazione alla Cassa scolastica della Regia scuola secondaria di 
+avviamento professionale «P. caliari» di Verona ad accettare un legato. 
+(035U1508)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/09/1935
+
+Art. 1
+------
+
+N.
+
+1508. R. decreto 16 luglio 1935, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica della Regia scuola secondaria di avviamento professionale «P. Caliari» di Verona viene autorizzata ad accettare un legato di L. 1000 (mille) disposto dalla defunta signorina Maria Frizzo fu Giacomo con testamento olografo del 20 marzo 1929.   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 8 agosto 1935 - Anno XIII

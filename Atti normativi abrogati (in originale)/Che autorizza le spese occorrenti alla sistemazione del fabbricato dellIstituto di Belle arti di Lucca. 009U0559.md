@@ -1,0 +1,39 @@
+LEGGE 25 luglio 1909 n. 559
+
+
+LEGGE 25 luglio 1909 n. 559
+===========================
+
+Che autorizza le spese occorrenti alla sistemazione del fabbricato dell'Istituto di Belle arti di Lucca. (009U0559)
+-------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/08/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Nella parte straordinaria del bilancio del Ministero della pubblica istruzione per l'esercizio 1908-909 e' autorizzata una maggiore assegnazione di L. 11,000 per provvedere con essa, in aggiunta alla somma di lire 12,500 stanziata nel bilancio 1906-907 e di L. 16,500 stanziata nel bilancio 1907-908, al compimento dei lavori di ampliamento e sistemazione dell'edificio dell'Istituto di Belle arti in Lucca.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Racconigi, addi' 25 luglio 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Rava.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

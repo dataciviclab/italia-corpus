@@ -1,0 +1,59 @@
+REGIO DECRETO 24 marzo 1921 n. 403
+
+
+REGIO DECRETO 24 marzo 1921 n. 403
+==================================
+
+Che approva una variante al piano regolatore e di ampliamento della citta' di Genova. (021U0403)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/05/1921
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge 20 giugno 1877, n. 3908](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-06-20;3908), con cui fu approvato il piano regolatore e di ampliamento della citta' di Genova dal lato orientale nella parte piana delle frazioni suburbane, assegnandosi per il suo compimento il termine di anni quaranta;   
+  
+Visto il Nostro decreto 2 agosto 1912, col quale, fermo mantenendosi il suddetto termine, furono approvate alcune varianti relative alla zona situata a nord di via Buenos Ayres ed a levante del torrente Bisagno;   
+  
+Vista la [legge 27 aprile 1916, n. 484](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-27;484), mediante la quale fu prorogato di dieci anni il termine fissato con la [legge 20 giugno 1877, n. 3908](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-06-20;3908);   
+  
+Vista la domanda 15 dicembre 1919 del comune di Genova diretta ad ottenere l'approvazione di una lieve modificazione al progetto approvato con Nostro decreto 2 agosto 1912, modificazione che riguarda la zona compresa fra la piazza Romagnosi, la via Canevari e la nuova strada da aprirsi lungo la sponda destra del Bisagno, e che consiste nel raggruppare due aree attualmente distinte e nel crearne una nuova.   
+  
+Visto il progetto relativo a tale modificazione, redatto dall'Ufficio tecnico del Comune;   
+  
+Ritenuto che le pubblicazioni seguite sono regolari e che, durante le stesse, venne presentato un solo reclamo da parte di certi signori Figari, i quali, peraltro, hanno poi dichiarato di recedere dalla loro opposizione;   
+  
+Considerato che la lieve modificazione della quale si tratta, progettata dal Comune in connessione con una convenzione colla ditta Bocciardo, proprietario di alcuni degli stabili lungo il primo tronco della via Canevari, consentira' una pronta sistemazione della localita' e l'immediata formazione della nuova strada sulla destra del Bisagno;   
+  
+Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);   
+  
+Visto il parere del Consiglio superiore dei lavori pubblici;   
+  
+Udito il Consiglio di Stato;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+1. E' approvata la variante al piano regolatore e di ampliamento della citta' di Genova dal lato orientale nella parte piana delle frazioni suburbane, giusta l'annessa planimetria in iscala 1 : 1000, vista, d'ordine Nostro, del ministro proponente;   
+  
+2. Per l'attuazione della variante resta fermo il termine fissato colle leggi 20 giugno 1877 e 27 aprile 1916.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 24 marzo 1921.   
+  
+VITTORIO EMANUELE.   
+  
+Peano.   
+  
+Visto, Il guardasigilli: Fera.   
+  

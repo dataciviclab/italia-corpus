@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 12 agosto 1915 n. 1380
+
+
+DECRETO LUOGOTENENZIALE 12 agosto 1915 n. 1380
+==============================================
+
+Trasformazione di Opera pia. (015U1380)
+---------------------------------------
+
+Entrata in vigore del provvedimento: 06/10/1915
+
+Art. 1
+------
+
+  
+N. 1380   
+  
+Decreto Luogotenenziale 12 agosto 1915, col quale sulla proposta del ministro dell'interno, l'opera pia Colonia agricola romana, con sede in Roma, viene trasformata in una fondazione per borse di studi e sussidi per pratica agraria ai giovani poveri del circondario di Roma, sotto il titolo di Pia fondazione Franchetti Hallgarten, e viene approvato lo statuto organico pel governo della stessa.   
+  

@@ -1,0 +1,57 @@
+REGIO DECRETO 19 novembre 1885 n. 3529
+
+
+REGIO DECRETO 19 novembre 1885 n. 3529
+======================================
+
+che modifica l'elenco delle strade provinciali di Trapani (085U3529)
+--------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/12/1885
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione 23 agosto 1884 del Consiglio provinciale di Trapani, colla quale, ritenuto che la strada da Poggioreale sulla provinciale di Serie pei pressi di Roccamena alla provinciale di Corleone presso la contrada delle Patrie, non ha alcuna importanza per quella provincia, sviluppandosi tutta in territorio dell'altra di Palermo, si rifiutava d'iscrivere la strada stessa nell'elenco dalle provinciali pel tratto scorrente nel proprio territorio;   
+  
+Visti i certificati da cui risulta che, contro la deliberazione anzidetta, debitamente pubblicata a norma di legge, non venne elevata opposizione alcuna dai comuni interessati;   
+  
+Vista la legge 23 luglio 1881, in cui la strada in parola figura iscritta a carico delle due provincie di Palermo e Trapani sotto il num. 182 dell'elenco III annesso alla tabella B;   
+  
+Visto il R. decreto 12 ottobre 1882, con cui il tratto della strada medesima, scorrente in provincia di Palermo, fu dichiarato provinciale;   
+  
+Considerando:   
+  
+Che la strada n. 182 e' destinata a porre in comunicazione diretta i comuni di Poggioreale, Salaparuta, Gibellina, Santa Ninfa, Partanno e Castelvetrano, aventi insieme una popolazione di 50 mila abitanti, col capoluogo di circondario Corleone e con la ferrovia Palermo-Corleone;   
+  
+Che, cio' posto, arrecando esso grande vantaggio ad una considerevole parte della provincia di Trapani, ha certo i caratteri voluti dall'articolo 13, lettera d, della legge sulle opere pubbliche;   
+  
+Che d'altronde tale vantaggio e' senza dubbio rilevante e da tenersi in debito conto, ove anche si consideri l'esiguita' della quota di spesa da sopportarsi dalla provincia di Trapani, derivante dalla brevita' del rispettivo tratto di strada;   
+  
+Visti gli articoli 13 e 14 della legge 20 marzo 1865, allegato F, l'articolo 4 della legge 23 luglio 1881 e l'articolo 1° del regolamento 20 marzo 1884 per l'esecuzione di quest'ultima legge;   
+  
+Udito il Consiglio di Stato;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici,   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' aggiunta all'elenco delle provinciali di Trapani, pel tratto scorrente in quella provincia, la strada da Poggioreale sulla provinciale di Serie pei pressi di Roccamena alla provinciale di Corleone presso la conceda delle Patrie.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 19 novembre 1885.   
+  
+UMBERTO.   
+  
+Genala.   
+  
+Visto, Il Guardasigilli: Tajani.   
+  

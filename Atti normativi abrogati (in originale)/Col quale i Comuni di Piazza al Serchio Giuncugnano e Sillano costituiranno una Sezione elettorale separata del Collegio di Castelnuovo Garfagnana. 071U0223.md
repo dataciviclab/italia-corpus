@@ -1,0 +1,53 @@
+REGIO DECRETO 16 maggio 1871 n. 223
+
+
+REGIO DECRETO 16 maggio 1871 n. 223
+===================================
+
+Col quale i Comuni di Piazza al Serchio, Giuncugnano e Sillano costituiranno una Sezione elettorale separata del Collegio di Castelnuovo Garfagnana. (071U0223)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/06/1871
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduti gli articoli 63, 64, 65 e 66 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513, e la Tabella annessavi della circoscrizione territoriale dei Collegi elettorali;
+
+Vedute le istanze dei Comuni di Piazza al Serchio, Giuncugnano e Sillano, ond'essere costituiti Sezione del Collegio elettorale di Castelnuovo Garfagnana, n. 218, separatamente da quella del Collegio stesso, detta di Minucciano, cui furono sino ad ora uniti;
+
+Considerando che per la distanza e la difficolta' delle strade, che intercedono tra i detti tre Comuni e la sede dell'attuale Sezione, riesce malagevole sempre, e talora impossibile a quegli elettori l'esercizio del loro diritto;
+
+Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I Comuni di Piazza al Serchio, Giuncugnano e Sillano costituiranno d'ora in poi una Sezione elettorale separata del Collegio di Castelnuovo Garfagnana, n. 218, con sede nel capoluogo del Comune di Piazza al Serchio, ferma rimanendo la Sezione di Minucciano per gli elettori di quel Comune.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 16 maggio 1871.   
+  
+VITTORIO EMANUELE.   
+  
+Registrato alla Corte dei conti addi' 25 maggio 1871   
+Reg. 56 Atti del Governo a c. 16. Ayres.   
+Luogo del sigillo. V. Il Guardasigilli DE FALCO.   
+  
+G. LANZA.   
+  
+  

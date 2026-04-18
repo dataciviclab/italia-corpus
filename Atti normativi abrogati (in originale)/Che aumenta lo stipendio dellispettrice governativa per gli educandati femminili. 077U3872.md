@@ -1,0 +1,42 @@
+REGIO DECRETO 20 maggio 1877 n. 3872
+
+
+REGIO DECRETO 20 maggio 1877 n. 3872
+====================================
+
+Che aumenta lo stipendio dell'ispettrice governativa per gli educandati femminili. (077U3872)
+---------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/07/1877
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il Nostro decreto del 21 marzo 1875, col quale furono istituiti quattro posti di ispettrici governative per gli educandati femminili con lo stipendio annuo di lire millecinquecento;
+
+Visto lo stanziamento fatto nel bilancio passivo del Ministero della Pubblica Istruzione per l'anno 1877;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Lo stipendio annuo, stabilito per l'ufficio di ispettrice governativa per gli educandati femminili dall'articolo 1 del Nostro decreto sopracitato, e' portato da lire millecinquecento a lire milleottocento.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 maggio 1877.   
+  
+VITTORIO EMANUELE.   
+  
+M. Coppino.   
+  

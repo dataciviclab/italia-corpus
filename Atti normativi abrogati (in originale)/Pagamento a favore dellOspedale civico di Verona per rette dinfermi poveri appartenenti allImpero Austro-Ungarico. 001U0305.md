@@ -1,0 +1,42 @@
+LEGGE 07 luglio 1901 n. 305
+
+
+LEGGE 07 luglio 1901 n. 305
+===========================
+
+Pagamento a favore dell'Ospedale civico di Verona per rette d'infermi poveri appartenenti all'Impero Austro-Ungarico. (001U0305)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/07/1901
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzato il pagamento di L. 36548,90 a favore dell'Ospedale Civico di Verona per rette d'infermi poveri appartenenti all' Impero Austro Ungarico.   
+  
+La detta somma verra' inscritta in apposito capitolo da instituirsi nella parte straordinaria del bilancio del Ministero dell'Interno per l'esercizio 1900-1901, insieme a quello che risultera' dovuto dal computo tanto degl'interessi relativi, dalla data della citazione, al giorno in cui potra' avvenire il pagamento del debito, quanto delle spese di giudizio poste a carico dello Stato.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 7 luglio 1901.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+E. Di Broglio.   
+  
+Visto, Il Guardasigilli: Cocco-Ortu.   
+  

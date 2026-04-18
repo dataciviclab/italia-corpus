@@ -1,0 +1,21 @@
+REGIO DECRETO 25 luglio 1902 n. CCLXXVI
+
+
+REGIO DECRETO 25 luglio 1902 n. CCLXXVI
+=======================================
+
+Che autorizza la cassa di risparmio di Milano a prorogare di 10 anni il termine per la vendita di due immobili da essa posseduti, denominati: l'uno Caselle, posto in provincia di Mantova, e l'altro Mornico, situato in provincia di Bergamo. (0200276R)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/09/1902
+
+Art. 1
+------
+
+  
+Che autorizza la cassa di risparmio di Milano a prorogare di 10 anni il termine per la vendita di due immobili da essa posseduti, denominati: l'uno Caselle, posto in provincia di Mantova, e l'altro Mornico, situato in provincia di Bergamo. - Firmato VITTORIO EMANUELE - Controfirmato G. Baccelli - Visto F. Cocco-Ortu.   
+  
+Registrato alla Corte dei conti addi' 26 agosto 1902.   
+  
+Reg. 5. Atti del Governo a f. 37.   
+  

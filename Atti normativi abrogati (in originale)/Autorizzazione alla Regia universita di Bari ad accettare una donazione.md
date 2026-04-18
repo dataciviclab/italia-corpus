@@ -1,0 +1,16 @@
+DECRETO LUOGOTENENZIALE 12 ottobre 1945 n. 861
+
+
+DECRETO LUOGOTENENZIALE 12 ottobre 1945 n. 861
+==============================================
+
+Autorizzazione alla Regia universita' di Bari ad accettare una donazione.
+-------------------------------------------------------------------------
+
+Art. 1
+------
+
+N. 861 Decreto Luogotenenziale 12 ottobre 1945, col quale, sulla proposta del Ministro per la pubblica istruzione, la Regia universita' di Bari viene autorizzata ad accettare la donazione della somma di L. 10.000, disposta in suo favore dal comm. ragioniere Edgardo Monetti e figli germani Luigi, Giovanni ed Angela, per la istituzione di un premio intitolato "Linda Monetti".  
+  
+Visto, il Guardasigilli: TOGLIATTI  
+Registrato alla Corte dei conti, addi' 25 gennaio 1946  

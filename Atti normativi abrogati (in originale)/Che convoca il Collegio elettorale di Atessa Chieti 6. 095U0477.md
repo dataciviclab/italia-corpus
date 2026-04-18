@@ -1,0 +1,41 @@
+REGIO DECRETO 18 luglio 1895 n. 477
+
+
+REGIO DECRETO 18 luglio 1895 n. 477
+===================================
+
+Che convoca il Collegio elettorale di Atessa (Chieti 6°). (095U0477)
+--------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/08/1895
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Messaggio in data del 10 luglio 1895, col quale l'Ufficio di Presidenza della Camera dei Deputati ha notificato aver la Camera deliberato che nel Collegio di Atessa (Chieti 6°) si addivenga ad una nuova votazione di ballottaggio fra i due candidati Vizioli Francesco e Giampietro Emilio;   
+  
+Visto l'art. 80 del testo unico della legge elettorale politica, approvato col [R. decreto 28 marzo 1895 n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-03-28;83);   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il Collegio elettorale di Atessa (Chieti 6°) e' convocato pel giorno 25 agosto p. v. affinche' proceda alla votazione di ballottaggio fra i candidati Vizioli Francesco e Giampietro Emilio.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Data a Roma, addi' 18 luglio 1895.   
+  
+UMBERTO.   
+  
+Crispi.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   
+  

@@ -1,0 +1,19 @@
+REGIO DECRETO 24 ottobre 1907 n. DI
+
+
+REGIO DECRETO 24 ottobre 1907 n. DI
+===================================
+
+Scioglimento di Cassa di risparmio. (0700501R)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 01/01/1908
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro d'agricoltura, industria e commercio:   
+  
+N. DI (Dato a Roma, il 24 ottobre 1907), col quale si scioglie il Consiglio di amministrazione della Cassa di risparmio di Orte e si pone in liquidazione l'Istituto.   
+  

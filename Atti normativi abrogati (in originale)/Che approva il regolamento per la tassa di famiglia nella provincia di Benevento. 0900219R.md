@@ -1,0 +1,19 @@
+REGIO DECRETO 01 luglio 1909 n. CCXIX
+
+
+REGIO DECRETO 01 luglio 1909 n. CCXIX
+=====================================
+
+Che approva il regolamento per la tassa di famiglia nella provincia di Benevento. (0900219R)
+--------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/08/1909
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro delle finanze:   
+  
+N. CCXIX (Dato a Roma, il 1° luglio 1909), col quale e' approvato il regolamento per l'applicazione della tassa di famiglia, deliberato dalla Giunta provinciale amministrativa di Benevento nelle adunanze in data 31 dicembre 1907, 4 febbraio, 4 marzo, 10 giugno, 11 luglio, 21 settembre 1908 o 24 febbraio 1909, in sostituzione del regolamento approvato con R. decreto 14 luglio 1907, n. CCCVI.   
+  

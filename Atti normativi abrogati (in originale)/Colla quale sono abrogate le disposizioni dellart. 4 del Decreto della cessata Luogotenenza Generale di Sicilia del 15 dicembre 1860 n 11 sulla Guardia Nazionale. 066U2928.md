@@ -1,0 +1,42 @@
+LEGGE 13 maggio 1866 n. 2928
+
+
+LEGGE 13 maggio 1866 n. 2928
+============================
+
+Colla quale sono abrogate le disposizioni dell'art. 4 del Decreto della cessata Luogotenenza Generale di Sicilia del 15 dicembre 1860, n° 11, sulla Guardia Nazionale. (066U2928)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/06/1866
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Sono abrogate le disposizioni dell'art. 4 del Decreto della cessata Luogotenenza Generale di Sicilia del 15 dicembre 1860 n° 11.   
+  
+Colla pubblicazione della presente Legge avranno piena esecuzione nelle Provincie Siciliane le disposizioni di che negli articoli 2 e 19 della Legge 4 marzo 1848 sulla Guardia Nazionale.   
+  
+Ordiniamo che la presente munita del Sigillo dello Stato, sia inserta nella raccolta, ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato.   
+  
+Data a Firenze addi' 13 maggio 1866.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del Sigillo. V. Il Guardasigilli De Falco.   
+  
+Chiaves.   
+  
+  

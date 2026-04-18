@@ -1,0 +1,51 @@
+REGIO DECRETO 03 marzo 1938 n. 206
+
+
+REGIO DECRETO 03 marzo 1938 n. 206
+==================================
+
+Riconoscimento della cessione dell'esercizio della tramvia Camaiore-Viareggio in favore della ditta Massagli e Berrettini. (038U0206)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/04/1938
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il Nostro decreto 8 gennaio 1931, n. 47, col quale venne approvata e resa esecutoria la convenzione 2 dicembre 1930 per la concessione al comune di Camaiore dell'esercizio della tramvia estraurbana a trazione a vapore Camaiore-Viareggio;   
+  
+Visto l'atto 5 febbraio 1938, n. 13617 di repertorio, per notar Luigi Masi di Camaiore, regolarmente approvato dall'autorita' tutoria e registrato all'Ufficio atti pubblici di Viareggio l'8 febbraio stesso anno al n. 718, vol. 75, col quale il comune di Camaiore ha ceduto alla ditta Massagli e Berrettini, con sede in Camaiore, la concessione dell'esercizio della predetta tramvia subordinatamente alla osservanza delle condizioni contenute nell'atto stesso;   
+  
+Viste le due domande in data 9 febbraio 1938 con le quali il commissario prefettizio del comune di Camaiore ed il legale rappresentante della ditta Massagli e Berrettini hanno chiesto che venga provveduto al riconoscimento dell'avvenuta cessione;   
+  
+Visto il testo unico delle disposizioni di legge sulle ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni;   
+  
+Abbiamo decretato e decretiamo:   
+  
+La ditta Massagli e Berrettini e' riconosciuta concessionaria dell'esercizio della tramvia Camaiore-Viareggio, intendendosi subingredita al comune di Camaiore nelle condizioni tutte stabilite nell'atto di concessione 2 dicembre 1930, approvato con [R. decreto 8 gennaio 1931, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-01-08;47), nonche' nel contratto 5 febbraio 1938, n. 13617 di repertorio, a rogito notaio Luigi Masi di Camaiore.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 3 marzo 1938 - Anno XVI   
+  
+VITTORIO EMANUELE   
+  
+Benni.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 25 marzo 1933 - Anno XVI   
+  
+Atti del Governo, registro 395, foglio 142. - Mancini.   
+  
+  

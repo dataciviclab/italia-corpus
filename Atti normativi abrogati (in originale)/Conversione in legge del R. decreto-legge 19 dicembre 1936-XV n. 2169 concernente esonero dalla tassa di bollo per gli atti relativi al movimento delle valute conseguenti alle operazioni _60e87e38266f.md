@@ -1,0 +1,39 @@
+LEGGE 08 aprile 1937 n. 632
+
+
+LEGGE 08 aprile 1937 n. 632
+===========================
+
+Conversione in legge del R. decreto-legge 19 dicembre 1936-XV, n. 2169, concernente esonero dalla tassa di bollo per gli atti relativi al movimento delle valute conseguenti alle operazioni importazione e di esportazione di merci, nonche' ai servizi relativi posti in essere dall'Istituto nazionale per i cambi con l'estero. (037U0632)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/05/1937
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il R. decreto-legge 19 dicembre 1936-X V, n. 2169, concernente esonero dalla tassa di bollo per gli atti relativi al movimento delle valute conseguenti alle operazioni di importazione e di esportazione di merci, nonche' ai servizi relativi posti in essere dall'Istituto nazionale per i cambi con l'estero.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 8 aprile 1937 - Anno XV   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL.   
+  
+Visto, il Guardasigilli: SOLMI.   

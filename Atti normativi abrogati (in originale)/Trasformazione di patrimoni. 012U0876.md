@@ -1,0 +1,19 @@
+REGIO DECRETO 25 luglio 1912 n. 876
+
+
+REGIO DECRETO 25 luglio 1912 n. 876
+===================================
+
+Trasformazione di patrimoni. (012U0876)
+---------------------------------------
+
+Entrata in vigore del provvedimento: 06/09/1912
+
+Art. 1
+------
+
+  
+N. 876   
+  
+Regio Decreto 25 luglio 1912, col quale, sulla proposta del ministro dell'interno, venne trasformato il fine inerente ai patrimoni della Confraternita del Sacramento e della Pia Unione (oratorio) del suffragio di Bieda, a favore del locale ospedale per gli infermi.   
+  

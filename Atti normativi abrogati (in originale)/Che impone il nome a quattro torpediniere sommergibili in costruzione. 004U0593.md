@@ -1,0 +1,38 @@
+REGIO DECRETO 31 ottobre 1904 n. 593
+
+
+REGIO DECRETO 31 ottobre 1904 n. 593
+====================================
+
+Che impone il nome a quattro torpediniere sommergibili in costruzione. (004U0593)
+---------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/12/1904
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro della Marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Alle quattro torpediniere sommergibili in costruzione nel R.  
+Arsenale di Venezia, e provvisoriamente indicate colle lettere A, B, C e D, sono imposti rispettivamente i nomi di Squalo, Narvalo, Otaria e Tricheco.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 31 ottobre 1904.   
+  
+VITTORIO EMANUELE.   
+  
+C. Mirabello.   
+  
+Visto, Il Guardasigilli: Ronchetti.   
+  

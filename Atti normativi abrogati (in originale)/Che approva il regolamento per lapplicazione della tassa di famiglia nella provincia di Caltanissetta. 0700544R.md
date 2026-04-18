@@ -1,0 +1,19 @@
+REGIO DECRETO 19 dicembre 1907 n. DXLIV
+
+
+REGIO DECRETO 19 dicembre 1907 n. DXLIV
+=======================================
+
+Che approva il regolamento per l'applicazione della tassa di famiglia nella provincia di Caltanissetta. (0700544R)
+------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/02/1908
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro delle finanze:   
+  
+N. DXLIV (Dato a Roma, il 19 dicembre 1907), col quale e' approvato il regolamento per l'applicazione della tassa di famiglia, deliberato dalla Giunta provinciale amministrativa di Caltanissetta, nelle adunanze in data 13 e 14 novembre 1906, 22 aprile e 21 ottobre 1907, in sostituzione del regolamento approvato con decreto del ministro commissario civile per la Sicilia in data 1° aprile 1897.   
+  

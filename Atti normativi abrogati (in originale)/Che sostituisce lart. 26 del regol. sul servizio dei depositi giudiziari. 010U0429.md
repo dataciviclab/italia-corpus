@@ -1,0 +1,52 @@
+REGIO DECRETO 26 giugno 1910 n. 429
+
+
+REGIO DECRETO 26 giugno 1910 n. 429
+===================================
+
+Che sostituisce l'art. 26 del regol. sul servizio dei depositi giudiziari. (010U0429)
+-------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/08/1910
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il Nostro decreto 10 marzo 1910, n. 149, con il quale fu approvato il regolamento sul servizio dei depositi giudiziari;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro guardasigilli, ministro, segretario di Stato per gli affari di grazia e giustizia e dei culti, di concerto con il ministro delle poste e dei telegrafi; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+All'art. 26 del regolamento sul servizio dei depositi giudiziari, approvato con il Nostro decreto 10 marzo 1910, n. 149, sara' sostituito il seguente:   
+  
+Il presente regolamento andra' in vigore dal 1° agosto 1910.   
+  
+Per la liquidazione dei depositi fatti anteriormente, seguiteranno ad osservarsi le norme fin ora vigenti.   
+  
+E' dato tuttavia facolta' al Ministero di grazia e giustizia e dei culti di impartire disposizioni generali per accelerare la liquidazione dei suddetti depositi facendoli, occorrendo, anche convertire in altrettanti libretti a favore degli interessati.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 26 giugno 1910.   
+  
+VITTORIO EMANUELE.   
+  
+LUZZATTI - FANI - CIUFFELLI.   
+  
+Visto, Il guardasigilli: FANI.   
+  

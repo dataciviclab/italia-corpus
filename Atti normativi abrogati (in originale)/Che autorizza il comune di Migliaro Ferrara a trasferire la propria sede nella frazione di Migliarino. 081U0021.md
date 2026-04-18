@@ -1,0 +1,45 @@
+REGIO DECRETO 02 gennaio 1881 n. 21
+
+
+REGIO DECRETO 02 gennaio 1881 n. 21
+===================================
+
+Che autorizza il comune di Migliaro (Ferrara) a trasferire la propria sede nella frazione di Migliarino. (081U0021)
+-------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/02/1881
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposizione del Nostro Ministro Segretario di Stato per gli affari dell'Interno,
+
+Vedute le deliberazioni del Consiglio comunale di Migliaro e del Consiglio provinciale di Ferrara relative al trasferimento della sede di detto comune nella frazione di Migliarino;
+
+Veduta
+------
+
+la legge sull'ordinamento comunale e provinciale 20 marzo 1865, allegato A, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La sede del comune di Migliaro e' trasferita nella frazione di Migliarino.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 gennaio 1881.   
+  
+UMBERTO.   
+  
+Depretis.   
+  
+Visto - Il Guardasigilli   
+T. Villa.   
+  

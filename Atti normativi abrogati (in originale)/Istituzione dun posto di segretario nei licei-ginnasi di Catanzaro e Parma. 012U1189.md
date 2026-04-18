@@ -1,0 +1,19 @@
+REGIO DECRETO 10 ottobre 1912 n. 1189
+
+
+REGIO DECRETO 10 ottobre 1912 n. 1189
+=====================================
+
+Istituzione d'un posto di segretario nei licei-ginnasi di Catanzaro e Parma. (012U1189)
+---------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/12/1912
+
+Art. 1
+------
+
+  
+N. 1189   
+  
+Regio decreto 10 ottobre 1912, col quale, sulla proposta del ministro dell'istruzione pubblica, dal 1° ottobre 1912, viene istituito il posto di segretario di ruolo, con lo stipendio di L. 1300, nei RR. licei-ginnasi di Catanzaro e di Parma.   
+  

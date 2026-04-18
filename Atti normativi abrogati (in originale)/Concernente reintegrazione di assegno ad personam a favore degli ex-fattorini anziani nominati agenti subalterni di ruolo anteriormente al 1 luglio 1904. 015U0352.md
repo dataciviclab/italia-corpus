@@ -1,0 +1,43 @@
+LEGGE 28 marzo 1915 n. 352
+
+
+LEGGE 28 marzo 1915 n. 352
+==========================
+
+Concernente reintegrazione di assegno «ad personam» a favore degli ex-fattorini anziani nominati agenti subalterni di ruolo anteriormente al 1° luglio 1904. (015U0352)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/04/1915
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Le disposizioni contenute nell'[art. 9 della legge 11 luglio 1904, n. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;344~art9), relative al pagamento dell'assegno di anzianita' agli ex-fattorini telegrafici nominati agenti subalterni di ruolo nell'Amministrazione delle poste e dei telegrafi, sono applicabili agli ex-fattorini anziani, promossi in ruolo anteriormente al 1° luglio 1904 e contemplati nell'art. 10 della su citata [legge 11 luglio 1904, n. 344](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;344).   
+  
+E' applicabile altresi' ai medesimi il disposto dell'[articolo 36 della legge 19 luglio 1907, n. 515](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-19;515~art36).   
+  
+A tal uopo e' approvata la maggiore assegnazione di lire 22.758 sul capitolo 3, articolo 1° dello stato di previsione della spesa dal Ministero delle poste e dei telegrafi per l'esercizio finanziario 1914-915.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella l'accolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 28 marzo 1915.   
+  
+VITTORIO EMANUELE.   
+  
+Riccio - Carcano.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

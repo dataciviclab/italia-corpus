@@ -1,0 +1,40 @@
+LEGGE 28 maggio 1942 n. 656
+
+
+LEGGE 28 maggio 1942 n. 656
+===========================
+
+Varianti alla legge 25 gennaio 1934-XII, n. 190, concernente promozioni di ufficiali della Milizia nazionale forestale sprovvisti del titolo di studio professionale. (042U0656)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/07/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Le vacanze verificatesi per cessazione dal servizio permanente effettivo, nell'aliquota dei centurioni promossi in forza della legge 25 gennaio 1934-XII, n. 190, danno luogo a promozioni con le modalita' stabilite dalla legge stessa.   
+  
+Oltre quelle suddette, sono da considerarsi vacanze, agli effetti del precedente comma, anche quelle che si verificano nel grado di centurione per il collocamento fuori ruolo a norma delle leggi 18 novembre 1929-VIII, n. 2071, e 30 maggio 1940-XVIII, n. 760, nella misura massima di tre unita'.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella Raccolta affidale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 28 maggio 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - PARESCHI - DI REVEL - GRANDI - BOTTAI   
+Visto, il Guardasigilli: GRANDI   

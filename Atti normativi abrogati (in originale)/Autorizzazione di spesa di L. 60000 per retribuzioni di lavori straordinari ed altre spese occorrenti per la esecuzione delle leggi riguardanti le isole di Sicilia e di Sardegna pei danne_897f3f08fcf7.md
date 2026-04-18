@@ -1,0 +1,41 @@
+LEGGE 24 dicembre 1908 n. 736
+
+
+LEGGE 24 dicembre 1908 n. 736
+=============================
+
+Autorizzazione di spesa di L. 60,000 per retribuzioni di lavori straordinari ed altre spese occorrenti per la esecuzione delle leggi riguardanti le isole di Sicilia e di Sardegna, pei danneggiati dall'eruzione del Vesuvio e a favore della Calabria e della Basilicata. (008U0736)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/01/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata la spesa di L. 60,000 per retribuzioni di lavori straordinari ed altre spese occorrenti per l'esecuzione delle [leggi 15 luglio 1906, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383) riguardante le provincie meridionali e le isole di Sicilia e Sardegna, 19 luglio 1906, n. 390 a favore dei danneggiati dall'eruzione del Vesuvio del 1906, 25 giugno 1908, n. 355 a favore della Calabria, 31 marzo 1904, n. 140 a favore della Basilicata, 2 luglio 1908, n. 368 sulle volture catastali, e 9 luglio 1908, n. 434 sulle case dei contadini.   
+  
+La somma suddetta sara' inscritta in apposito capitolo della parte straordinaria dello stato di previsione della spesa del Ministero delle finanze, per L. 30,000 nell'esercizio 1908-909, e per la rimanente somma nell'esercizio 1909-910.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 24 dicembre 1908.   
+  
+VITTORIO EMANUELE.   
+  
+Carcano.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

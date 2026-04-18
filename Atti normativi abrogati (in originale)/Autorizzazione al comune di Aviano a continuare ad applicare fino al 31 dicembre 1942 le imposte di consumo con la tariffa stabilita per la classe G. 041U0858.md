@@ -1,0 +1,53 @@
+REGIO DECRETO 08 agosto 1941 n. 858
+
+
+REGIO DECRETO 08 agosto 1941 n. 858
+===================================
+
+Autorizzazione al comune di Aviano a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa stabilita per la classe G. (041U0858)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/09/1941
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il Nostro decreto 21 agosto 1937-XV, n. 1587, con il quale il comune di Aviano venne autorizzato ad applicare fino al 31 dicembre 1940 le imposte di consumo con la tariffa della classe superiore G;
+
+Vista la domanda prodotta dal Comune per ottenere la proroga della accennata autorizzazione;
+
+Visto il parere della Commissione centrale per la finanza locale espresso nella seduta del 15 luglio 1941-XIX;
+
+Visto l'art. 26 del testo unico sulla finanza locale, approvato con Nostro decreto 14 settembre 1931, n. 1175;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il comune di Aviano e' autorizzato a continuare ad applicare, fino al 31 dicembre 1942, le imposte di consumo con la tariffa stabilita per la classe G.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Sant'Anna di Valdieri, addi' 8 agosto 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI.   
+  
+Registralo alla Corte dei conti, addi' 26 agosto 1941-XIX   
+  
+Atti del Governo, registro 436, foglio 90. - MANCINI   

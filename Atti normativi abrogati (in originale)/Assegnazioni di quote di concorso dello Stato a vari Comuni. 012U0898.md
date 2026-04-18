@@ -1,0 +1,19 @@
+REGIO DECRETO 02 agosto 1912 n. 898
+
+
+REGIO DECRETO 02 agosto 1912 n. 898
+===================================
+
+Assegnazioni di quote di concorso dello Stato a vari Comuni. (012U0898)
+-----------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/09/1912
+
+Art. 1
+------
+
+  
+N. 898   
+  
+Regio Decreto 2 agosto 1912, col quale, sulla proposta del ministro delle finanze, vengono assegnate a vari comuni delle provincie del Mezzogiorno continentale, della Sicilia e della Sardegna, le quote di concorso governativo per gli anni 1907, 1908, 1909, 1910, 1911 e 1912 per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle [leggi 31 marzo 1904, n. 140, 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;25) giugno e 15 luglio 1906, nn. 255 e 383.   
+  

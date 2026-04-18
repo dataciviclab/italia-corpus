@@ -1,0 +1,23 @@
+REGIO DECRETO 08 ottobre 1936 n. 1970
+
+
+REGIO DECRETO 08 ottobre 1936 n. 1970
+=====================================
+
+Riconoscimento, agli effetti civili, della istituzione dell'ufficio 
+di vicario cooperatore nella parrocchia di S. Carlo Borromeo, in 
+Gaeta a Portosalvo (Littoria). (036U1970)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/12/1936
+
+Art. 1
+------
+
+N.
+
+1970. R. decreto 8 ottobre 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Gaeta in data 1° marzo 1936, relativo alla istituzione dell'ufficio di vicario cooperatore nella parrocchia di S. Carlo Borromeo, in Gaeta a Portosalvo (Littoria).   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 2 novembre 1936 - Anno XV.

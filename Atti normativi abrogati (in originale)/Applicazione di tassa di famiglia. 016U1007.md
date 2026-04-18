@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 16 luglio 1916 n. 1007
+
+
+DECRETO LUOGOTENENZIALE 16 luglio 1916 n. 1007
+==============================================
+
+Applicazione di tassa di famiglia. (016U1007)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 07/08/1916
+
+Art. 1
+------
+
+  
+N. 1007   
+  
+Decreto Luogotenenziale 16 luglio 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Dovadola (Firenze) di applicare nel 1916 la tassa di famiglia col limite massimo di L. 300, in base alla nuova tariffa deliberata il 29 agosto 1915.   
+  

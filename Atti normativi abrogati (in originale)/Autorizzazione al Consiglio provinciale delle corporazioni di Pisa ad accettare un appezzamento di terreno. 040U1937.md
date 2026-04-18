@@ -1,0 +1,21 @@
+REGIO DECRETO 19 dicembre 1940 n. 1937
+
+
+REGIO DECRETO 19 dicembre 1940 n. 1937
+======================================
+
+Autorizzazione al Consiglio provinciale delle corporazioni di Pisa ad accettare un appezzamento di terreno. (040U1937)
+----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/02/1941
+
+Art. 1
+------
+
+N.
+
+1937. R. decreto 19 dicembre 1940, col quale, sulla proposta del Ministro per le corporazioni, il Consiglio provinciale delle corporazioni di Pisa viene autorizzato ad accettare, a titolo gratuito, dal comune di Vecchiano un appezzamento di terreno sito in Migliarino Pisano per provvedere alla costruzione di un mercato all'ingrosso delle frutta o della verdura.   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 25 gennaio 1941-XIX

@@ -1,0 +1,41 @@
+REGIO DECRETO 29 febbraio 1920 n. 991
+
+
+REGIO DECRETO 29 febbraio 1920 n. 991
+=====================================
+
+Che approva la convenzione 26 febbraio 1920 per il finanziamento dell' Ente portuale di Livorno. (020U0991)
+-----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/08/1920
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto 29 gennaio 1920, n.119 con il quale si da' facolta' al tesoro dello Stato di concedere all' Ente portuale di Livorno anticipazioni allo interesse annuo del 3 %, per eseguire le opere comprese nel suo programma;   
+  
+Vista la convenzione all'uopo stipulata il 26 febbraio 1920 fra il rappresentante del Ministero del tesoro ed il presidente dell'Ente autonomo predetto;   
+  
+Sulla proposta dei Nostro ministro segretario di Stato per il tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione stipulata 26febbraio 1920 fra il rappresentante del Ministero del tesoro ed il presidente dell'Ente autonomo portuale di Livorno per la somministrazione all'Ente stesso delle anticipazioni autorizzate con il Nostro decreto 29 gennaio 1920, n.119.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 febbraio 1920.   
+  
+VITTORIO EMANUELE.   
+  
+Schanzer.   
+  
+Visto, Il guardasigilli: Fera.   
+  

@@ -1,0 +1,45 @@
+REGIO DECRETO 08 febbraio 1923 n. 295
+
+
+REGIO DECRETO 08 febbraio 1923 n. 295
+=====================================
+
+Che demanda al Consiglio unico, istituito con l'art. 1 del Regio decreto 11 gennaio 1923, n. 25, anche le attribuzioni del soppresso Consiglio di amministrazione dell'azienda del Demanio forestale di Stato. (023U0295)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/03/1923
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D' ITALIA
+
+Visto il Nostro decreto 31 dicembre 1922, n. 1795, col quale si sopprimono tutti i corpi consultivi, Commissioni, Comitati e Consigli esistenti presso l'Amministrazione centrale dell'agricoltura;
+
+Visto il Nostro decreto 11 gennaio 1923, n. 25, col quale si provvede nei riguardi delle funzioni consultive del Ministero per l'agricoltura;
+
+Udito il Consiglio dei ministri;
+
+Su proposta del Nostro Ministro segretario di Stato per l'agricoltura, di concerto col Ministro delle finanze; Abbiamo decretato o decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Al Consiglio unico, istituito con l'art. 1 del Nostro decreto 11 gennaio 1923, n. 25, ai fini della consulenza tecnica per i servizi del Ministero di agricoltura, oltre che le funzioni del soppresso Consiglio superiore delle foreste e del relativo Comitato tecnico, sono demandate anche le attribuzioni del soppresso Consiglio di amministrazione dell'azienda del Demanio forestale di Stato.   
+  
+Il ministro per l'agricoltura e' autorizzato a scegliere due dei membri per la sezione dei servizi forestali anche tra gli ispettori superiori dell'Amministrazione forestale.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 8 febbraio 1923.   
+  
+VITTORIO EMANUELE.   
+  
+MUSSOLINI - DE CAPITANI - DE STEFANI.   
+  
+Visto, il guardasigilli: OVIGLIO.   
+  

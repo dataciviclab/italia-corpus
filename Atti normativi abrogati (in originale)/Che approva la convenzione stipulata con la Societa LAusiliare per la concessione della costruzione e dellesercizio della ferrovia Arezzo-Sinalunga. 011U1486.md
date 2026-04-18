@@ -1,0 +1,43 @@
+REGIO DECRETO 24 dicembre 1911 n. 1486
+
+
+REGIO DECRETO 24 dicembre 1911 n. 1486
+======================================
+
+Che approva la convenzione stipulata con la Societa' «L'Ausiliare» per la concessione della costruzione e dell'esercizio della ferrovia Arezzo-Sinalunga. (011U1486)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/03/1912
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Viste le [leggi 29 luglio 1879, n. 5002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-07-29;5002) (serie 3ª) e 24 luglio 1887, n. 4785 (serie 3ª), il Nostro decreto 25 dicembre 1887, n. 5162-bis (serie 3ª) convertito in [legge 30 giugno 1889, n. 6183](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-30;6183) (serie 3ª), e le [leggi 30 aprile 1899, n. 168, 4 dicembre 1902, n. 506, 22 aprile 1905, n. 137, 9 luglio 1905, n. 413, 30 giugno 1906, n. 272, 16 giugno 1907, n. 540, 7 luglio 1907, n. 429, 12 luglio 1908, n. 444, 15 luglio 1909, n. 524, 21 luglio 1910, n. 580 e 21 luglio 1911, n. 848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-21;848);   
+  
+Sentito il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta dei Nostri ministri, segretari di Stato pei lavori pubblici e pel tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione stipulata in data 22 novembre 1911 fra il ministro del tesoro ed il Sottosegretario di Stato per i lavori pubblici, per conto dell'amministrazione dello Stato e il legale rappresentante della societa' anonima «L'Ausiliare» locazione di vagoni, imprese ferroviarie e tramviarie, per la concessione della costruzione e dell'esercizio della ferrovia a trazione a vapore ed a scartamento normale da Arezzo a Sinalunga.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 24 dicembre 1911.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Tedesco - Sacchi.   
+  
+Visto, li guardasigilli: Finocchiaro-Aprile.   
+  

@@ -1,0 +1,48 @@
+REGIO DECRETO 21 dicembre 1862 n. 1055
+
+
+REGIO DECRETO 21 dicembre 1862 n. 1055
+======================================
+
+Che instituisce un Consolato nella Citta' di Danzica (Prussia). (062U1055)
+--------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/01/1863
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 3 della legge Consolare del 15 agosto 1858 e gli articoli 1 e 2 del regolamento approvato col Real Decreto 16 febbraio 1859;
+
+Vista la tabella A annessa al succitato regolamento ed il Regio Decreto 7 settembre p. p.;
+
+Sulla
+-----
+
+proposizione del Nostro Ministro per gli Affari Esteri; Abbiamo decretato e decretiamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+E' instituito un Nostro Consolato nella Citta' di Danzica (Prussia) con giurisdizione nei Circoli governativi di Danzica e Marienwerder, che vengono percio' separati dal Distretto del Consolato di Konigsberg.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 21 dicembre 1862.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 27 dicembre 1862   
+  
+Reg.° 21 Atti del Governo a c. 264. Wehrlin.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
+  
+G. Pasolini.   
+  

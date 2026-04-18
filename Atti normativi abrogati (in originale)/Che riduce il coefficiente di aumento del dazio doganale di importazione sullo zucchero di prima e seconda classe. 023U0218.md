@@ -1,0 +1,47 @@
+REGIO DECRETO 28 gennaio 1923 n. 218
+
+
+REGIO DECRETO 28 gennaio 1923 n. 218
+====================================
+
+Che riduce il coefficiente di aumento del dazio doganale di importazione sullo zucchero di prima e seconda classe. (023U0218)
+-----------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/03/1923
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto l'[art. 4 del R. decreto-legge 9 giugno 1921, numero 806](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-06-09;806~art4);
+
+Visti il [R. decreto-legge 23 marzo 1922, n. 434](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1922-03-23;434) e il decreto del Ministro delle finanze in data 12 luglio 1922;
+
+Sulla proposta del Nostro Ministro segretario di Stato per le finanze, di concerto con quelli per l'industria e il commercio e per l'agricoltura;
+
+Sentito
+-------
+
+il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Per la campagna saccarifera 1923-1924, e cioe' a partire dal 1° agosto 1923 fino al 31 luglio 1924, il coefficiente di aumento del dazio doganale di importazione sullo zucchero di prima e di seconda classe e' ridotto a 0,2.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 28 gennaio 1923.   
+  
+VITTORIO EMANUELE.   
+  
+MUSSOLINI - DE STEFANI - TEOFILO ROSSI -   
+DE CAPITANI D'ARZAGO.   
+  
+Visto, Il Guardasigilli: OVIGLIO.   
+  

@@ -1,0 +1,343 @@
+REGIO DECRETO 26 ottobre 1933 n. 2401
+
+
+REGIO DECRETO 26 ottobre 1933 n. 2401
+=====================================
+
+Modifiche allo statuto della Regia universita' di Parma. (033U2401)
+-------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/04/1934
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduto lo statuto della Regia universita' di Parma, approvato con [R. decreto 13 ottobre 1927, n. 2797](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-10-13;2797), e modificato con [Regi decreti 30 ottobre 1930, n. 1772](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-30;1772), e [1° ottobre 1931, n. 1380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-01;1380);   
+  
+Vedute le nuove proposte di modifiche avanzate dalle autorita' accademiche della Regia universita' predetta;   
+  
+Veduti gli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102~art1), [80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102~art80) e [86 del R. decreto 30 settembre 1923, n. 2102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-30;2102~art86);   
+  
+Veduto il [R. decreto-legge 28 agosto 1931, n. 1227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-28;1227) convertito nella [legge 16 giugno 1932, n. 812](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-06-16;812);   
+  
+Sentito il Consiglio superiore dell'educazione nazionale;   
+  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Lo statuto della Regia universita' di Parma, approvato e modificato con i Regi decreti sopraindicati, e' ulteriormente modificato nel modo seguente:   
+  
+E' soppresso l'art. 52. In conseguenza della detta soppressione e delle aggiunte che saranno disposte e' modificata la numerazione degli articoli successivi e dei loro riferimenti.   
+  
+Art. 24. - E' soppresso il secondo comma.   
+  
+Art. 35:   
+  
+I. La durata dell'insegnamento di patologia generale, di cui al n. 9, e' resa biennale;   
+  
+II. La denominazione dell'insegnamento di «malattie professionali», di cui al n. 29, e' modificata in quella di «medicina del lavoro», ferma restando la sua durata semestrale;   
+  
+III. E' aggiunto, col n. 30, l'insegnamento di «tisiologia» di durata semestrale.   
+  
+Dopo l'art. 39 e' inserito il nuovo Capo III «Scuole di perfezionamento in medicina e chirurgia» con i sedici articoli che lo costituiscono ed e' in conseguenza modificata la numerazione dei Capi successivi e dei loro riferimenti:   
+  
+«Art. 40. - Alla Facolta' di medicina e chirurgia sono annesse Scuole di perfezionamento le quali hanno lo scopo di conferire diplomi di specialista a norma dell'[art. 4 del R. decreto 31 dicembre 1923, n. 2909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;2909~art4).   
+  
+Art. 41. - Il direttore di ciascuna Scuola e' il professore di ruolo della cattedra alla quale si intitola la Scuola. Nel caso che il titolare di detta cattedra non sia professore di ruolo, la direzione verra' affidata dalla Facolta' ad un professore di ruolo di materia affine, confermabile di anno in anno.   
+  
+Il Consiglio di ciascuna Scuola si compone dei professori che vi tengono gli insegnamenti prescritti ed e' presieduto dal direttore.   
+  
+Art. 42. - Alle Scuole di perfezionamento possono iscriversi solamente i laureati in medicina e chirurgia.   
+  
+Non e' permesso iscriversi contemporaneamente a piu' di una Scuola di perfezionamento.   
+  
+Per ciascuna Scuola puo' essere stabilito un numero minimo di iscrizioni; qualora questo numero non venga raggiunto, il direttore della Scuola ha facolta' di non iniziare i corsi. Ma se questi verranno iniziati, dovranno essere portati a termine qualunque sia il numero degli iscritti.   
+  
+Del pari puo' essere fissato il numero massimo di iscritti, oltre il quale non saranno accettate ulteriori iscrizioni.   
+  
+Art. 43. - Il Consiglio della Scuola puo', su proposta del direttore, concedere una abbreviazione del corso di studi di perfezionamento a quegli iscritti che si presentino gia' forniti di notevoli titoli di riconosciuto valore.   
+  
+Coloro che eventualmente usufruiscano delle agevolazioni di cui sopra sono sempre tenuti a sostenere tutti gli esami di profitto e quello di diploma.   
+  
+Art. 44. - Gl'insegnamenti di ciascuna Scuola di perfezionamento sono quelli propri della Scuola stessa, ai quali possono esserne aggiunti anche altri della Facolta' di medicina e chirurgia. In ogni caso pero', per le materie proprie della Scuola, debbono essere tenuti corsi appositi.   
+  
+Gl'insegnamenti vengono conferiti dalla Facolta' di medicina e chirurgia a professori di ruolo e incaricati, a liberi docenti, ad aiuti ed assistenti ed anche a persone di riconosciuta competenza nella specialita'.   
+  
+Gl'insegnamenti si svolgono con indirizzo prevalentemente dimostrativo e con le modalita' fissate dal Consiglio dei professori delle singole Scuole.   
+  
+Art. 45. - Oltre alla frequenza dei corsi e' obbligatorio per tutti gli iscritti l'internato in uno o piu' istituti della specialita'.   
+  
+L'internato comprende la partecipazione attiva degli iscritti alle esercitazioni cliniche, semiologiche e di laboratorio.   
+  
+Art. 46. - La sorveglianza sugli iscritti, per tutto quanto riguarda la loro attivita', spetta al direttore della Scuola, mentre la frequenza ai singoli insegnamenti deve essere attestata dai rispettivi insegnanti.   
+  
+Art. 47. - Le commissioni per gli esami di profitto sono composte di tre membri, nominati dal preside della Facolta' su proposta del direttore della Scuola.   
+  
+Art. 48. - Per essere ammessi all'esame di diploma, gli iscritti devono avere superato tutti gli esami di profitto stabiliti per ciascuna Scuola. Dovranno inoltre avere pagate tutte le tasse, sopratasse e contributi.   
+  
+Art. 49. - La commissione per l'esame di diploma e' Composta di sette membri scelti dal preside della Facolta' fra gli insegnanti di ciascuna Scuola, nominati a norma dell'art. 86 del Regolamento generale universitario.   
+  
+L'esame di diploma consiste in una discussione sopra una dissertazione originale scritta, e in una prova teorica e pratica stabilita dalla commissione esaminatrice.   
+  
+A coloro che hanno superato l'esame di diploma viene rilasciato il «diploma di specialista».   
+  
+Art. 50. - Le tasse e sopratasse che gli iscritti sono tenuti a pagare sono le stesse stabilite per gli studenti della Facolta' di medicina e chirurgia; essi inoltre devono pagare la tassa di diploma in L. 200.   
+  
+La misura dei contributi per le esercitazioni pratiche e' fissata dal Consiglio di amministrazione su proposta della Facolta'.   
+  
+I. - SCUOLA DI PERFEZIONAMENTO IN PEDIATRIA.   
+  
+Art. 51. - La Scuola ha la durata di due anni.   
+  
+Le materie di insegnamento sono:   
+  
+1° anno:   
+  
+Anatomia e fisiologia del bambino dalla nascita alla puberta' (accrescimento, alimentazione, ecc.);   
+  
+Patologia, semeiotica e terapia infantile;   
+  
+Tecnica della alimentazione infantile;   
+  
+Igiene o legislazione relative all'infanzia.   
+  
+2° anno:   
+  
+Clinica ed igiene infantile;   
+  
+Ortopedia;   
+  
+Clinica delle malattie infettive dell'infanzia.   
+  
+La direzione della Scuola potra' integrare i corsi con conferenze su argomenti di altre specialita' o discipline fondamentali che offrano particolare interesse pediatrico o di attualita'.   
+  
+Art. 52. - Ogni iscritto per poter essere ammesso al secondo anno di corso, dovra' superare un esame di profitto sul gruppo di materie del primo animo.   
+  
+II. - SCUOLA DI PERFEZIONAMENTO IN IDROCLIMATOLOGIA CLINICA.   
+  
+Art. 53. - La Scuola ha la durata di due anni.   
+  
+Le materie di insegnamento sono:   
+  
+1° anno:   
+  
+a) Classificazione e caratteristiche fondamentali delle acque minerali italiane;   
+  
+b) Le acque minerali nelle loro azioni biologiche e terapeutiche generali;   
+  
+c) Le acque della regione emiliana con particolare riguardo alle acque della provincia di Parma;   
+  
+d) Le acque minerali nelle malattie interne;   
+  
+e) Le acque minerali in ginecologia;   
+  
+f) Le acque minerali in dermatologia   
+  
+2° anno:   
+  
+a) Elementi di meteorologia medica;   
+  
+b) Classificazioni e caratteristiche fondamentali dei climi italiani;   
+  
+c) I climi della regione emiliana e della provincia di Parma;   
+  
+d) Climatoterapia speciale;   
+  
+e) La dietetica nelle stazioni di cura;   
+  
+f) Le colonie climatiche di fiume e di monte;   
+  
+g) Il soggiorno nelle foreste.   
+  
+Art. 54. - Durante il corso gli iscritti dovranno compiere un periodo di internato nelle Cliniche: medica generale, chirurgica generale, ostetrico-ginecologica e dermosifilopatica secondo le disposizioni che saranno impartite dal direttore della Scuola.   
+  
+Art. 55. - Prima di essere ammessi all'esame di diploma, gli iscritti alla Scuola dovranno superare l'esame di profitto sui due gruppi di materie di cui all'art. 53».   
+  
+Le norme del Capo IV (gia' III) concernenti la Scuola di farmacia sono sostituite dalle seguenti:   
+  
+«Art. 56. - La Scuola di farmacia conferisce:   
+  
+a) la laurea in chimica e farmacia dopo un corso di studi di cinque anni;   
+  
+b) la laurea in farmacia dopo un corso di studi di quattro anni;   
+  
+c) il diploma in farmacia dopo un corso di studi di quattro anni.   
+  
+Art. 57. - Le materie d'insegnamento e le esercitazioni della scuola sono le seguenti:   
+  
+A. - Materie di insegnamento:   
+  
+1) Fisica sperimentale (biennale).   
+  
+2) Chimica generale e inorganica.   
+  
+3) Chimica organica.   
+  
+4) Matematica per i chimici.   
+  
+5) Mineralogia.   
+  
+6) Geologia generale e geologia dei petroli.   
+  
+7) Botanica.   
+  
+8) Zoologia e anatomia comparata.   
+  
+9) Chimica farmaceutica e tossicologica.   
+  
+10) Chimica fisica con esercizi.   
+  
+II) Chimica industriale ed applicata.   
+  
+12) Chimica analitica.   
+  
+13) Chimica biologica.   
+  
+14) Chimica bromatologica.   
+  
+15) Farmacologia e farmacognosia.   
+  
+16) Tecnica farmaceutica.   
+  
+17) Igiene con esercizi.   
+  
+18) Anatomia umana.   
+  
+19) Fisiologia generale.   
+  
+B. - Esercitazioni.   
+  
+1) Esercitazioni di fisica.   
+  
+2) Esercitazioni di chimica inorganica.   
+  
+3) Esercitazioni di chimica analitica qualitativa.   
+  
+4) Esercitazioni di chimica analitica quantitativa.   
+  
+5) Esercitazioni di chimica farmaceutica e tossicologica.   
+  
+6) Esercitazioni di chimica bromatologica.   
+  
+7) Esercitazioni di chimica organica.   
+  
+8) Esercitazioni di botanica.   
+  
+9) Esercitazioni di farmacognosia.   
+  
+10) Esercitazioni di mineralogia.   
+  
+11) Esercitazioni di chimica biologica.   
+  
+Art. 58. - Lo studente che non segue i piani proposti dalla Scuola deve, a norma dell'art. 7, soddisfare i seguenti obblighi:   
+  
+a) Per la laurea in chimica e farmacia prendere l'iscrizione e superare gli esami in almeno 14 materie fra tutte quelle elencate all'art. 57 o anche fuori di queste purche' tale scelta comprenda tutte quelle materie che servono a dare alla laurea la sua caratteristica ed a conservarle quell'indirizzo che la Scuola ha voluto darle. Comunque, in questi casi lo studente ha l'obbligo di sottoporre all'approvazione della Scuola, entro quindici giorni dall'inizio dell'anno accademico, il piano degli studi che desidera seguire. Lo studente deve inoltre prendere iscrizione e superare gli esami nelle esercitazioni elencate ai numeri da 1 a 10 dell'anzidetto articolo.   
+  
+b) Per la laurea in farmacia prendere l'iscrizione e superare gli esami in almeno 12 materie tra quelle elencate all'art. 57 ai numeri da l a 9, (in questo caso il corso indicato al n. 1 e' annuale), e da 12 a 19, o anche fuori di queste purche' tale scelta comprenda tutte quelle materie che servono a dare alla laurea la sua caratteristica ed a conservarle quell'indirizzo che la Scuola ha voluto darle.  
+Comunque, in questi casi lo studente ha l'obbligo di sottoporre all'approvazione della Scuola, entro quindici giorni dall'inizio dell'anno accademico, il piano degli studi che desidera seguire. Lo studente deve inoltre prendere iscrizione e superare gli esami nelle esercitazioni elencate ai numeri da 2 a 9 dell'articolo anzidetto.   
+  
+c) Per il diploma in farmacia prendere l'iscrizione e superare gli esami in almeno nove materie tra quelle elencate all'art. 57 ai numeri da 1 a 3 (in questo caso il corso indicato al n. 1 e' annuale), 5, 7, 9, 11, e da 14 a 19, o anche fuori di queste purche' tale scelta comprenda tutte quelle materie che servono a dare al diploma la sua caratteristica ed a conservargli quell'indirizzo che la Scuola ha voluto dargli. Comunque, in questi casi lo studente ha l'obbligo di sottoporre all'approvazione della Scuola, entro quindici giorni dall'inizio dell'anno accademico, il piano degli studi che desidera seguire. Lo studente deve inoltre prendere iscrizione e superare l'esame in quattro corsi di esercitazioni pratiche scelte fra quelle elencate all'articolo anzidetto, purche' fra queste siano sempre comprese quelle indicate ai numeri 3, 5 e 9.   
+  
+Art. 59. - Tanto per i corsi di laurea che per quello di diploma gli studenti devono attendere, per il complessivo periodo di 12 mesi, alla pratica farmaceutica presso una farmacia autorizzata dalla Scuola.   
+  
+Nel corso di studi per la laurea in chimica e farmacia e in quello per il diploma in farmacia l'ultimo anno e' riservato al compimento di tale pratica, la quale tuttavia puo', in parte, compiersi anche durante il penultimo anno di corso contemporaneamente alla frequenza degli insegnamenti.   
+  
+Nel corso di studi per la laurea in farmacia la pratica e' invece compiuta durante l'ultimo biennio, contemporaneamente alla frequenza degli insegnamenti.   
+  
+Art. 60. - Gli esami di laurea in chimica e farmacia e di diploma in farmacia si dividono in due parti, la seconda delle quali non puo' essere sostenuta se non dopo compiuto l'anno solare di pratica: la prima parte di esame di laurea in chimica e farmacia puo' essere sostenuta alla fine del quarto anno e la prima parte di diploma alla fine del terzo.   
+  
+Art. 61. - La commissione per l'esame di laurea in chimica e farmacia e quella per l'esame di laurea in farmacia si compone di non piu' di 9 membri di cui almeno 5 titolari e un libero docente per la prima parte; di non piu' di 11 membri di cui almeno 6 titolari e un libero docente per la seconda parte. E' presieduta dal preside della Scuola o dal professore piu' anziano.   
+  
+La commissione per la parte professionale deve comprendere anche un provetto farmacista.   
+  
+Art. 62. - Per essere ammesso all'esame di laurea o di diploma lo studente deve aver superato gli esami di profitto nelle materie alle quali si e' iscritto e quelli delle esercitazioni indicate nei precedenti articoli e inoltre deve aver compiuto i 12 mesi di pratica farmaceutica.   
+  
+Per l'esame di laurea deve inoltre presentare una dissertazione scritta come, per i vari casi, viene indicato dagli articoli 63 e 64, e sostenere un colloquio di cultura generale di ammissione dinanzi ad apposita commissione composta del preside della Scuola, del professore di chimica generale, del professore di chimica farmaceutica, e di un libero docente in chimica generale o in chimica farmaceutica.   
+  
+Art. 63. - La prima parte dell'esame di laurea in chimica e farmacia comprende:   
+  
+a) una prova pratica di analisi chimica qualitativa di almeno 4 acidi e 4 basi;   
+  
+b) una prova di analisi quantitativa;   
+  
+c) una preparazione di chimica farmaceutica, un'analisi di medicamento o una ricetta di chimica bromatologica o di chimica tossicologica, a sorte;   
+  
+d) discussione orale sulle prove pratiche e su una dissertazione scritta sopra un argomento preferibilmente sperimentale riguardante le discipline o chimiche o chimico-farmaceutiche;   
+  
+e) discussione orale su due argomenti scelti dal candidato su qualunque materia d'insegnamento della Scuola.   
+  
+La seconda parte dell'esame di laurea comprende un esame pratico sul riconoscimento e sulla proprieta' delle droghe e piante medicinali, sull'arte del ricettare, nonche' una discussione orale su questioni di tecnica e di legislazione farmaceutica.   
+  
+La votazione per ciascuna parte dell'esame di laurea si esprimera' in punti a norma dell'art. 87 del regolamento generale universitario.   
+  
+Art. 64. - L'esame di laurea in farmacia comprende:   
+  
+a) un'analisi di chimica qualitativa di almeno tre acidi e tre basi;   
+  
+b) un'analisi chimica quantitativa;   
+  
+e) una preparazione di un prodotto farmaceutico;   
+  
+d) riconoscimento e saggi di purezza di un prodotto farmaceutico;   
+  
+e) analisi bromatologica e tossicologica;   
+  
+f) una prova pratica di chimica biologica;   
+  
+g) un saggio biologico di un medicamento.   
+  
+Di queste prove il candidato deve presentare relazione scritta.  
+Inoltre il candidato dovra' sostenere:   
+  
+a) una discussione orale delle prove suddette;   
+  
+b) una discussione orale di una dissertazione di indole sperimentale o compilativa sopra un argomento d'indole chimica o farmaceutica.   
+  
+Nella seconda parte dell'esame di laurea il candidato dovra' eseguire il riconoscimento di medicamenti, droghe e piante medicinali, la lettura critica e valutazione di ricette; e rispondere ad interrogazioni di tecnica e legislazione sanitaria attinente all'esercizio della farmacia. Sull'insieme di queste prove viene dato voto unico.   
+  
+Art. 65. - La Commissione dell'esame di diploma si compone per la prima parte di 7 membri, fra i quali devono essere almeno 5 professori ufficiali e un libero docente, e per la seconda parte di 9 membri fra i quali devono essere almeno 6 professori ufficiali, un libero docente e un provetto farmacista.   
+  
+Art. 66. - La prima parte dell'esame di diploma comprende:   
+  
+a) una prova pratica di analisi chimica qualitativa;   
+  
+b) una preparazione farmaceutica;   
+  
+c) l'analisi di un prodotto farmaceutico;   
+  
+d) discussione orale sulle prove pratiche.   
+  
+La seconda parte comprende un esame pratico sul riconoscimento e sulla proprieta' delle droghe e piante medicinali, sulla lettura e discussione delle ricette, nonche' una discussione orale su questioni di tecnica e di legislazione farmaceutica.   
+  
+Art. 67. - I laureati in chimica, in chimica industriale e in ingegneria chimica sono ammessi al 5° anno per la laurea in chimica e farmacia, o al 4° anno per la laurea o per il diploma in farmacia.   
+  
+I laureati in fisica, in scienze naturali, in medicina e chirurgia, in agraria e in medicina veterinaria o coloro che sono provvisti di lauree miste, possono essere ammessi al 3° anno per la laurea in chimica e farmacia o al 3° anno per la laurea o per il diploma in farmacia.   
+  
+I diplomati in farmacia, che aspirino alla laurea in chimica e farmacia, sono ammessi al 3° anno, quelli che aspirino alla laurea in farmacia al 4° anno.   
+  
+La Scuola, tenuto conto degli studi compiuti e degli esami superati, determina il numero minimo degli insegnamenti e delle esercitazioni che, caso per caso, devono essere seguiti e formare oggetto di esame, e consiglia gli ordini degli studi.   
+  
+In ogni caso i richiedenti debbono essere forniti del diploma di maturita' classica o scientifica conseguito tanti anni prima quanti sono quelli per i quali si concede l'abbreviazione».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 26 ottobre 1933 - Anno XII   
+  
+VITTORIO EMANUELE   
+  
+Ercole.   
+  
+Visto, il Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 14 marzo 1934 - Anno XII   
+  
+Atti del Governo, registro 345, foglio 68. - Mancini.   

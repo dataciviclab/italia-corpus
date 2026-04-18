@@ -1,0 +1,39 @@
+LEGGE 11 febbraio 1864 n. 1675
+
+
+LEGGE 11 febbraio 1864 n. 1675
+==============================
+
+Inscrizione nel bilancio del Ministero dei Lavori pubblici della spesa straordinaria autorizzata con quella del 24 giugno 1863, n.° 1328. (064U1675)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/03/1864
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+La spesa straordinaria di lire 1,574,000, autorizzata sul bilancio del Ministero dei Lavori pubblici per il 1863 colla legge 24 giugno ultimo scorso, n.° 1328, sara' inscritta nel bilancio suddetto ripartitamente fra i capitoli designati nel quadro unito alla legge stessa.   
+  
+Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Torino addi' 11 febbraio 1864.   
+  
+VITTORIO EMANUELE.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli   
+  
+M. Minghetti.   
+  

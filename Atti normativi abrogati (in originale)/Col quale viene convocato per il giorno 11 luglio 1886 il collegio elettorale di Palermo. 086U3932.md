@@ -1,0 +1,42 @@
+REGIO DECRETO 20 giugno 1886 n. 3932
+
+
+REGIO DECRETO 20 giugno 1886 n. 3932
+====================================
+
+Col quale viene convocato per il giorno 11 luglio 1886 il collegio elettorale di Palermo. (086U3932)
+----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/07/1886
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Messaggio in data del 18 giugno 1886, col quale l'Ufficio di Presidenza della Camera dei deputati notifico' essere vacante uno dei seggi di deputato al Parlamento assegnati al 3° Collegio di Palermo;   
+  
+Veduto l'art. 80 della legge elettorale politica 24 settembre 1882, n. 999;   
+  
+Sulla proposizione del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno,   
+Abbiamo decretato e decretiamo:   
+  
+Il 3° Collegio elettorale di Palermo e' convocato pel giorno 11 luglio prossimo affinche' proceda alla elezione di uno dei tre deputati assegnati al detto Collegio.   
+  
+Occorrendo una seconda votazione, essa avra' luogo il giorno 18 stesso mese.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 giugno 1886.   
+  
+UMBERTO.   
+  
+Depretis.   
+  
+Visto, Il Guardasigilli: Tajani.   
+  

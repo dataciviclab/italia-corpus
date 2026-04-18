@@ -1,0 +1,69 @@
+REGIO DECRETO 30 gennaio 1890 n. 6658
+
+
+REGIO DECRETO 30 gennaio 1890 n. 6658
+=====================================
+
+Che estende al comune di Anzio le disposizioni contenute negli articoli 13, 15, 16 e 17 della legge 15 gennaio 1885, n 2892. (090U6658)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/03/1890
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Veduta la domanda 14 maggio 1889 del sindaco di Anzio intesa ad ottenere l'autorizzazione di applicare le disposizioni della [legge 15 gennaio 1885, n. 2892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892) nei lavori di risanamento ed ampliamento dell'abitato;   
+  
+Viste le deliberazioni 21 ottobre 1885, e 8 febbraio 1889 del Consiglio comunale di Anzio;   
+  
+Vista la deliberazione 7 dicembre 1885 della Deputazione provinciale di Roma;   
+  
+Vista la deliberazione 16 giugno 1889 della Giunta provinciale di amministrativa Roma;   
+  
+Visto l'[art. 18 della legge 15 gennaio 1885, n. 2892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892~art18), e 19 del regolamento approvato con [Regio decreto 1° marzo 1885, n. 3003](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-03-01;3003);   
+  
+Vista la [legge 16 giugno 1887, n. 4614](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-06-16;4614);   
+  
+Visti i pareri dell'Ufficio degli ingegneri sanitari;   
+  
+Udito il Consiglio di Stato;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Sono estese al comune di Anzio le disposizioni contenute negli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892~art13), [15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892~art15), [16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892~art16) e [17 della legge 15 gennaio 1885, n. 2892](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1885-01-15;2892~art17):   
+  
+1° per le permute Perucci e Borghese, indicate nella relazione e tipi 4 marzo e 3 maggio 1885 dell'ingegnere Giovenale;   
+  
+2° per l'espropriazione della parte A dell'arsenale;   
+  
+3° per l'espropriazione dei casotti B e C di Genesi e Breschi;   
+  
+4° della casa D di Perucci;   
+  
+5° delle murature E di Costa;   
+  
+6° delle aree demaniali F;   
+  
+le quali proprieta' sono segnate in giallo nella pianta annessa alla relazione 20 agosto 1888 dell'ingegnere Giovenale, che d'ordine Nostro sara' firmata dal Ministro proponente.   
+  
+I lavori da eseguirsi in base alla presente autorizzazione sono dichiarati di pubblica utilita', e dovranno compiersi entro due anni da oggi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 gennaio 1890.   
+  
+UMBERTO.   
+  
+Crispi.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

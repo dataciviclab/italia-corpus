@@ -1,0 +1,55 @@
+REGIO DECRETO 16 febbraio 1928 n. 596
+
+
+REGIO DECRETO 16 febbraio 1928 n. 596
+=====================================
+
+Esclusione dell'abitato di Condofuri, in provincia di Reggio Calabria, da quelli trasferibili in nuova sede a cura e spese dello Stato. (028U0596)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/04/1928
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la [legge 9 luglio 1908, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445);   
+  
+Visto il Nostro decreto 7 luglio 1925, n. 1173;   
+  
+Ritenuto che nella tabella E allegata alla [legge 9 luglio 1908, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445), l'abitato di Condofuri, in provincia di Reggio Calabria, e' stato compreso tra quelli da trasferire a cura e spese dello Stato;   
+  
+Ritenuto che da recenti accertamenti e' risultato che le condizioni geosismiche del sottosuolo sono buone e tali da garantire la stabilita' dell'abitato previa la esecuzione di poche opere di consolidamento di limitata importanza;   
+  
+Che quindi non si rende necessario il previsto trasferimento e che pertanto e' opportuno cancellare il detto abitato dalla suddetta tabella;   
+  
+Sentito il Comitato tecnico amministrativo del Provveditorato alle opere pubbliche per la Calabria;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'abitato di Condofuri (in provincia di Reggio Calabria) e' cancellato dalla tabella E degli abitati da trasferire a totale carico dello Stato, di cui alla [legge 9 luglio 1908, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445).   
+  
+Il presente decreto avra' effetto dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 febbraio 1928 - Anno VI   
+  
+VITTORIO EMANUELE.   
+  
+Giuriati.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 3 aprile 1928 - Anno VI   
+  
+Atti del Governo, registro 271, foglio 17. - Sirovich.   
+  

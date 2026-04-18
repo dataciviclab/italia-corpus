@@ -1,0 +1,45 @@
+REGIO DECRETO 02 giugno 1927 n. 836
+
+
+REGIO DECRETO 02 giugno 1927 n. 836
+===================================
+
+Fissazione per i Comuni della provincia di Napoli, per i quali non sia stato gia' provveduto, della data di cessazione delle Amministrazioni ordinarie e straordinarie e dell'inizio delle funzioni del Podesta'. (027U0836)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/06/1927
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la [legge 4 febbraio 1926, n. 237](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-02-04;237), ed il [R. decreto-legge 3 settembre 1926, n. 1910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-09-03;1910);   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari dell'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Nei Comuni della provincia di Napoli, per i quali non sia stato gia' provveduto, e' fissata al 12 giugno 1927 la data della cessazione delle Amministrazioni ordinarie e straordinarie e dell'inizio delle funzioni del Podesta'.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 giugno 1927 - Anno V   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 7 giugno 1927 - Anno V   
+  
+Atti del Governo, registro 261, foglio 22. - Ferretti.   
+  

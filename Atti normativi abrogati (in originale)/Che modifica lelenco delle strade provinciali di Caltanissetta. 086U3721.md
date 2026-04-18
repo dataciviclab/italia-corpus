@@ -1,0 +1,47 @@
+REGIO DECRETO 25 febbraio 1886 n. 3721
+
+
+REGIO DECRETO 25 febbraio 1886 n. 3721
+======================================
+
+Che modifica l'elenco delle strade provinciali di Caltanissetta. (086U3721)
+---------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/04/1886
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione 25 ottobre 1884 del Consiglio provinciale di Caltanissetta, colla quale si stabili' di aggiungere all'Elenco delle provinciali la strada da Castrogiovanni alla provinciale Palermo-Messina Montagne, presso la Misericordia;   
+  
+Visto il decreto prefettizio del 26 novembre successivo, che ordino' pubblicarsi in tutti i comuni della provincia di Caltanissetta la succitata deliberazione consiliare;   
+  
+Visti i certificati di eseguita pubblicazione, da cui risulta che niuna opposizione fu prodotta al riguardo dai comuni della provincia stessa;   
+  
+Visto il voto 13 febbraio 1886 del Consiglio Superiore dei Lavori Pubblici;   
+  
+Visti gli articoli 13 e 14 della legge 20 marzo 1865, allegato F;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici,   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' aggiunta all'Elenco delle provinciali di Caltanissetta la strada che, partendo dal comune di Castrogiovanni, va ad innestarsi alla provinciale Palermo-Messina Montagne, al punto denominato della Misericordia.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 febbraio 1886.   
+  
+UMBERTO.   
+  
+Genala.   
+  
+Visto, Il Guardasigilli: Tajani.   
+  

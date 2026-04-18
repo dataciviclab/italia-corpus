@@ -1,0 +1,44 @@
+LEGGE 15 maggio 1939 n. 776
+
+
+LEGGE 15 maggio 1939 n. 776
+===========================
+
+Autorizzazione alla Cassa di risparmio della Libia di utilizzare parte del ricavo dell'emissione delle obbligazioni previste nel R. decreto-legge 12 agosto 1937-XV, n. 1692, convertito, con modificazioni, nella legge 30 dicembre 1937-XVI, n. 2427, in operazioni di credito agrario di esercizio. (039U0776)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/06/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiano sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+La Cassa di risparmio della Libia e' autorizzata ad erogare parte delle somme di cui alla lettera a) dell'art. 6 del R. decreto 27 gennaio 1938-XVI, n. 59, in operazioni di credito agrario di esercizio, di cui all'art. 2 del R. decreto 13 maggio 1937-XV, n. 1503, garantite da firma di avallo di assoluto riposo per l'ente sovventore, a mente di quanto dispone l'ultimo capoverso dell'art. 5 del detto R. decreto 13 maggio 1937-XV, n. 1503, restando la Cassa medesima garante del buon esito dell'operazione nei confronti del Governo della Libia e dello Stato che garantiscono le obbligazioni emesse, a norma del R. decreto-legge 12 agosto 1937-XVI n. 1692, convertito nella legge 30 dicembre 1937-XVI, n. 2427.   
+  
+Le predette operazioni saranno limitate in modo che il loro ammontare non superi mai, in qualunque epoca, l'importo massimo di L.  
+10.000.000.   
+  
+La presente legge entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 15 maggio 1939-XVII&#160;   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: SOLMI   

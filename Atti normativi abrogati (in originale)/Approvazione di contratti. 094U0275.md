@@ -1,0 +1,43 @@
+LEGGE 01 luglio 1894 n. 275
+
+
+LEGGE 01 luglio 1894 n. 275
+===========================
+
+Approvazione di contratti. (094U0275)
+-------------------------------------
+
+Entrata in vigore del provvedimento: 25/07/1894
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Sono approvati i seguenti contratti:   
+  
+I. - 8 febbraio 1894, a rogiti notaro dott. Angelo Bacchetti, in Roma; mediante il quale, viene tolto il divieto di fabbricazione nelle due aree sottostanti al nuovo giardino pubblico presso il Quirinale, dal medesimo separate col prolungamento della via Parma, e viene autorizzato il comune di Roma, gia' proprietario della aree stesse, ad alienarle, per la costruzione di due villini, alle condizioni indicate nell'istrumento.   
+  
+II. - 18 gennaio 1894, stipulato in forma pubblica amministrativa presso l'Intendenza di Finanza in Treviso, portante ratizzazione in venti anni del prezzo di lire 77,837.36, convenuto col contratto 10 ottobre 1891, stipulato come sopra, per la vendita ai comuni di Cessalto e di Chiarano, in solido, dei boschi demaniali denominati Olme' e San Marco di Campagna, in provincia di Treviso.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 1° luglio 1894.   
+  
+UMBERTO.   
+  
+P. BOSELLI.   
+  
+Visto, Il Guardasigilli: V. CALENDA DI TAVANI.   
+  

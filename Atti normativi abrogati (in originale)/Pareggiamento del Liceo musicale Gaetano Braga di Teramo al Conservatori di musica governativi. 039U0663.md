@@ -1,0 +1,49 @@
+REGIO DECRETO 05 gennaio 1939 n. 663
+
+
+REGIO DECRETO 05 gennaio 1939 n. 663
+====================================
+
+Pareggiamento del Liceo musicale «Gaetano Braga» di Teramo al Conservatori di musica governativi. (039U0663)
+------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/05/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il R. decreto 15 maggio 1930-VIII, n. 1170;   
+  
+Vista la domanda del presidente del Consiglio di amministrazione del Liceo musicale «Gaetano Braga» di Teramo, eretto in ente morale con R. decreto 29 giugno 1924-II, n. 1173, diretta ad ottenere il pareggiamento del Liceo stesso;   
+  
+Vista la relazione della Commissione nominata con decreto Ministeriale 20 ottobre 1938-XVI, con l'incarico di procedere, presso il predetto Liceo, agli accertamenti di cui al citato R. decreto 15 maggio 1930-VIII, n. 1170;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A decorrere dalla prima sessione di esami dell'anno scolastico 1938-1939-XVII il Liceo musicale «Gaetano Braga» di Teramo e' pareggiato, a tutti gli effetti di legge, ai Conservatori di musica governativi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 5 gennaio 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+BOTTAI   
+  
+Visto il Guardasigilli: SOLMI   
+  
+Registrato alla Corte dei conti, addi' 4 maggio 1939-XVII   
+  
+Atti del Governo, registro 409, foglio 14. - MANCINI   
+  
+  

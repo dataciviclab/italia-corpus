@@ -1,0 +1,48 @@
+REGIO DECRETO 10 gennaio 1869 n. 4814
+
+
+REGIO DECRETO 10 gennaio 1869 n. 4814
+=====================================
+
+Per l'applicazione al Corpo Reale Fanteria Marina del Decreto 22 novembre 1868, relativo alle Commissioni di disciplina pel riassoldamento militare. (069U4814)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/02/1869
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli Affari della Marina; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Tutte le disposizioni del Nostro Decreto 22 novembre 1868, n. 4750, il quale determina le Commissioni di disciplina, e prescrive loro le norme per l'applicazione dell'[articolo 12 della Legge 7 luglio 1866, n. 3062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1866-07-07;3062~art12), ai militari dell'Esercito riassoldati con premio, sono applicate anche ai militari del Corpo Reale Fanteria Marina, salvo le seguenti modificazioni, cioe':   
+  
+1° Che le Commissioni di disciplina pei riassoldati di questo Corpo saranno formate e convocate nei modi prescritti dall'articolo 307 del Regolamento di disciplina pei Corpi della Regia Marina, in data 11 marzo 1865;   
+  
+2° Che i pareri ed i giudizi di siffatte Commissioni non diverranno esecutivi se non dopo l'approvazione del Nostro Ministro per la Marina.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 10 gennaio 1869.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 23 gennaio 1869   
+  
+Reg. 45 Atti del Governo a c. 110. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli De Filippo.   
+  
+A. Riboty.   
+  

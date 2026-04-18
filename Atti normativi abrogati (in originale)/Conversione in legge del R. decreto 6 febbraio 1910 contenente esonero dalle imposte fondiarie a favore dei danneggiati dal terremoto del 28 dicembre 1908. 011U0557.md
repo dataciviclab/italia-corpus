@@ -1,0 +1,39 @@
+LEGGE 15 giugno 1911 n. 557
+
+
+LEGGE 15 giugno 1911 n. 557
+===========================
+
+Conversione in legge del R. decreto 6 febbraio 1910 contenente esonero dalle imposte fondiarie a favore dei danneggiati dal terremoto del 28 dicembre 1908. (011U0557)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/06/1911
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il [R. decreto 6 febbraio 1910, n. 58](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-02-06;58), col quale l'esonero delle imposte fondiarie, accordato dal [R. decreto 17 novembre 1909, n. 723](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-11-17;723), ai danneggiati dal terremoto del 28 dicembre 1908 e' stato esteso alla 3ª e 4ª rata bimestrale delle imposte sui terreni e sui fabbricati, inscritte nei ruoli del 1910, a favore dei contribuenti il cui reddito imponibile complessivo non supera le lire cinquemila, nonche' alle sei rate bimestrali delle imposte o delle sovrimposte sui terreni e sui fabbricati iscritte nei ruoli del 1909 a favore dei contribuenti il cui reddito imponibile complessivo supera le lire cinquemila, con l'onere al tesoro di pagare ai comuni ed alle provincie l'ammontare delle sovrimposte che per effetto delle anzidetto disposizioni sono state abbuonate.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 15 giugno 1911.   
+  
+VITTORIO EMANUELE.   
+  
+Facta.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   
+  

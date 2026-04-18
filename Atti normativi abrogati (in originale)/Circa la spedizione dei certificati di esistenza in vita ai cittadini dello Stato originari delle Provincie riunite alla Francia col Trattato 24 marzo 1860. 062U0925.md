@@ -1,0 +1,47 @@
+REGIO DECRETO 09 ottobre 1862 n. 925
+
+
+REGIO DECRETO 09 ottobre 1862 n. 925
+====================================
+
+Circa la spedizione dei certificati di esistenza in vita ai cittadini dello Stato originari delle Provincie riunite alla Francia col Trattato 24 marzo 1860. (062U0925)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/11/1862
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 152 della legge consolare 15 agosto 1858;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri, di concerto con quello delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+Saranno spediti senza esazione di diritto dai Nostri Agenti consolari i certificati di esistenza in vita pel conseguimento della pensione di riposo ai cittadini dello Stato originari delle Provincie riunite alla Francia col Trattato 24 marzo 1860, od aventi il loro domicilio nelle Provincie stesse, e che vi continueranno a risiedere col Sovrano Nostro assenso.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato in Torino addi' 9 ottobre 1862.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 1 novembre 1862   
+  
+Reg.° 21 Atti del Governo a c. 49. Wehrlin.   
+  
+Luogo del sigillo. V. Il Guardasigilli U. Rattazzi.   
+  
+Giacomo Durando.   
+Quintino Sella.   
+  

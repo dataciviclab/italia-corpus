@@ -1,0 +1,42 @@
+REGIO DECRETO 22 novembre 1896 n. 563
+
+
+REGIO DECRETO 22 novembre 1896 n. 563
+=====================================
+
+Relativo alla dimissione del Commissario Regio dell'Istituto internazionale italiano a Torino e alla nomina del successore. (096U0563)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/01/1897
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il Nostro decreto in data 15 dicembre 1895 n. 729, col quale fu sciolto il Consiglio di tutela e di vigilanza del Regio Istituto internazionale italiano in Torino, e fu nominato Commissario Regio presso l'Istituto stesso l'avv. Alfonso Badini-Confalonieri il quale ha presentate le proprie dimissioni dall'ufficio sopraindicato;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Sono accettate le volontarie dimissioni dell'avv. Alfonso Badini-Confalonieri, deputato al Parlamento Nazionale, dall' Ufficio di Commissario Regio presso il R. Istituto internazionale italiano in Torino.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 22 novembre 1896.   
+  
+UMBERTO   
+  
+Visconti Venosta.   
+  
+Visto, Il Guardasigilli: G. Costa.   
+  

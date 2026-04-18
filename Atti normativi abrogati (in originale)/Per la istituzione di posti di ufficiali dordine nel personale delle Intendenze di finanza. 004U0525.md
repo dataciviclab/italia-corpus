@@ -1,0 +1,48 @@
+REGIO DECRETO 14 agosto 1904 n. 525
+
+
+REGIO DECRETO 14 agosto 1904 n. 525
+===================================
+
+Per la istituzione di posti di ufficiali d'ordine nel personale delle Intendenze di finanza. (004U0525)
+-------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/10/1904
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto l'[art. 3 della legge 3 marzo 1904, n. 68](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-03;68~art3);   
+  
+Ritenuto che l'organico del personale delle Intendenze di Finanza approvato colla legge suddetta assegna n. 373 posti alla classe transitoria della categoria d'ordine colla spesa complessiva di L. 373,000;   
+  
+Ritenuto che al 31 luglio 1904 nella detta classe transitoria erano vacanti 38 posti e che quindi i relativi fondi per stipendi rimasti disponibili sul capitolo 9 dello stato di previsione della spesa del Ministero delle Finanze, per l'esercizio 1904-1905, ammontano a lire 38,000;   
+  
+Ritenuto che al 31 luglio stesso, sulla somma stanziata nel detto stato di previsione al cap. II lettera A, e' rimasta disponibile la somma di L. 200, per la morte dell'ufficiale di classe transitoria, Tarabbo Luigi, e per la nomina ad ufficiale di 4ª classe dell'ufficiale della classe transitoria, Mottola Giovanni;   
+  
+Ritenuto che complessivamente e' disponibile la somma di L. 38,300 per la istituzione di nuovi posti nella carriera d'ordine delle Intendenze di Finanze;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro, interim per le Finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Con effetto dal 1° settembre 1904, nel ruolo organico del personale delle Intendenze di Finanza, sono istituiti 4 posti di ufficiale d'ordine di lª classe con l'annuo stipendio di L. 2200; 7 posti di ufficiale d'ordine di 2ª classe con l'annuo stipendio di L. 1800; 8 posti di ufficiale d'ordine di 3ª classe collo stipendio di L. 1500; 4 posti di ufficiale d'ordine di 4ª classe con lo stipendio di L.  
+1200.   
+  
+Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 14 agosto 1904.   
+  
+VITTORIO EMANUELE.   
+  
+L. Luzzatti.   
+  
+Visto, Il Guardasigilli: Ronchetti.   
+  

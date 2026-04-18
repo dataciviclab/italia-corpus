@@ -1,0 +1,41 @@
+LEGGE 25 giugno 1913 n. 810
+
+
+LEGGE 25 giugno 1913 n. 810
+===========================
+
+Che autorizza una spesa straordinaria per nuove costruzioni elper l'ampliamento e la sistemazione degli stabili demaniagi in servizio delle aziende dei tabacchi e dei sali. (013U0810)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/08/1913
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata l'assegnazione straordinaria di lire 1.500.000 delle quali L. 1.250.000 per acquisto di stabili per nuove costruzioni e per l'esecuzione di opere di ampliamento, sistemazione e miglioramento dei fabbricati in servizio dell'azienda dei tabacchi e L. 250.000 per la costruzione di un edificio in servizio dell'azienda dei sali.   
+  
+La detta somma sara' ripartita in tre rate uguali di L. 500.000 ciascuna, da inscriversi nella parte straordinaria dello stato di previsione della spesa del Ministero delle finanze per gli esercizi 1913-914, 1914-915, 1915-916.   
+  
+Ordiniamo che la presente, munita del sigillo delle Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 25 giugno 1913.   
+  
+VITTORIO EMANUELE.   
+  
+FACTA - TEDESCO.   
+  
+Visto, Il guardasigilli: FINOCCHIARO-APRILE.   
+  

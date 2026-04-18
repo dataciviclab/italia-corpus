@@ -1,0 +1,53 @@
+REGIO DECRETO 08 febbraio 1866 n. 2796
+
+
+REGIO DECRETO 08 febbraio 1866 n. 2796
+======================================
+
+Con cui sono recate alcune modificazioni allo Specchio n.° 2, relativo al Personale addetto alla Regia Militare Accademia, stato approvato con R. Decreto in data 30 dicembre 1865. (066U2796)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/03/1866
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il Nostro Decreto in data 30 dicembre 1865, con cui venivano approvati gli Specchi, le paglie ed i vantaggi del Personale addetto alla Regia Militare Accademia;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Allo Specchio n.° 2, annesso al succitato Real Decreto, relativo al Personale pel culto; per l'istruzione religiosa e per l'insegnamento presso l'anzidetta Regia Militare Accademia sono fatte le seguenti modificazioni:   
+  
+a) Soppressa la carica di Professore titolare pel disegno di paese;   
+  
+b) Ridotto a tre il numero dei Professori aggiunti per, le matematiche e soppresse le cariche di Professori aggiunti per la fisica, la chimica, le lettere italiane, il disegno architettonico e quello di paese;   
+  
+c) Sono pure soppresse le cariche de' Professori aggiunti militari.   
+  
+Tali modificazioni avranno effetto a datare dal 1° marzo venturo.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 8 febbraio 1866.   
+  
+VITTORIO EMANUELE.   
+  
+Registrato alla Corte dei conti addi' 15 febbraio 1866   
+Reg.° 33 Atti del Governo a c. 100. Ayres.   
+Luogo del Sigillo. V. Il Guardasigilli DE FALCO.   
+  
+I. PETTINENCO.   
+  
+  

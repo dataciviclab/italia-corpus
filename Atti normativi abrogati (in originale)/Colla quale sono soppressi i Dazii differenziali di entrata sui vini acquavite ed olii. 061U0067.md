@@ -1,0 +1,42 @@
+LEGGE 27 giugno 1861 n. 67
+
+
+LEGGE 27 giugno 1861 n. 67
+==========================
+
+Colla quale sono soppressi i Dazii differenziali di entrata sui vini, acquavite ed olii. (061U0067)
+---------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/07/1861
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Sono soppressi i dazii differenziali di entrata sui seguenti liquidi, compresi nella categoria prima della tariffa doganale 9 luglio 1859, ed i relativi dritti verranno quind'innanzi percetti nella misura rispettivamente sotto indicata senza riguardo alla bandiera ed alla provenienza.   
+  
+Vini ed aceto comune d'ogni specie   
+  
+Parte di provvedimento in formato grafico  
+  
+Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Dat. a Torino addi' 27 giugno 1861.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del Sigillo. V. Il Guardasigilli Miglietti.   
+  
+Pietro Bastogi.   

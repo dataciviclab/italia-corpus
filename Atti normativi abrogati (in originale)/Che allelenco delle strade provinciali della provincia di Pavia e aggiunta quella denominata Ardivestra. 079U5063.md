@@ -1,0 +1,50 @@
+REGIO DECRETO 14 agosto 1879 n. 5063
+
+
+REGIO DECRETO 14 agosto 1879 n. 5063
+====================================
+
+Che all'elenco delle strade provinciali della provincia di Pavia e' aggiunta quella denominata Ardivestra. (079U5063)
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/10/1879
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione 21 novembre 1868, colla quale il Consiglio provinciale di Pavia adotto' di aggiungere all'elenco delle strade provinciali approvato con R. decreto 15 settembre 1866 anche quella denominata Ardirestra:   
+  
+Veduto il sopracitato decreto;   
+  
+Veduti gli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art13) e [14 della legge 20 marzo 1865, numero 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248~art14), allegato F;   
+  
+Considerando che la strada sopraindicata riveste i caratteri richiesti dall'articolo 13 della sopracitata legge per essere classificata tra le provinciali;   
+  
+Che la pubblicazione della sopradetta deliberazione non ha dato luogo ad alcun reclamo;   
+  
+Udito l'avviso del Consiglio superiore dei lavori pubblici;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici,   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' aggiunta all'elenco delle strade provinciali della provincia di Pavia quella denominata Ardirestra, che dalla provinciale Voghera-Bobbio va a raggiungere l'altra provinciale di Valle di Coppa.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 14 agosto 1879.   
+  
+UMBERTO.   
+  
+A. BACCARINI.   
+  
+Visto - Il Guardasigilli   
+VARE'.   
+  

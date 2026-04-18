@@ -1,0 +1,84 @@
+REGIO DECRETO 16 febbraio 1896 n. 60
+
+
+REGIO DECRETO 16 febbraio 1896 n. 60
+====================================
+
+Riflettente le variazioni da portarsi negli stanziamenti dello stato di previsione della spesa e dell'entrata del Ministero del Tesoro (esercizio 1895-96) per effetto delle operazioni di sostituzione delle rendite del consolidato 4,50% netto a quelle dei consolidati 5 e 3% lordo possedute dalle Opere pubbliche di beneficenza. (096U0060)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/04/1896
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto l'[articolo 2, comma 4° della legge 22 luglio 1894 n. 339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339~art2-com4), che stabilisce la sostituzione dei titoli dei consolidati 5 e 3 per cento che, alla data della pubblicazione della legge medesima, erano intestati al nome delle Opere pubbliche di Beneficenza, soggette alla [legge del 17 luglio 1890 n. 6972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-17;6972), con altri titoli del consolidato 4.50 per cento netto, senza computare a loro carico l'aumento d'imposta di ricchezza mobile;
+
+Veduto l'articolo 12, comma 2° del Regolamento approvato col [Regio decreto 21 novembre 1894 n. 516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-21;516), per l'esecuzione del citato articolo 2, comma 4°, e dell'allegato L, alla legge predetta;
+
+Viste le [leggi 8 agosto 1895 nn. 484 e 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;485) di approvazione degli stati di previsione della spesa per il Ministero del Tesoro e dell'entrata per l'esercizio finanziario 1895-96;
+
+Ritenuto che durante i trimestri dal 1° luglio al 30 settembre 1895 e dal 1° ottobre a tutto il 31 dicembre detto anno, sono state compiute dalla Direzione Generale del Debito Pubblico le operazioni relative alla sostituzione delle rendite appresso indicate, cioe';
+
+Nel trimestre dal 1° luglio al 30 settembre 1895: N. 12778 iscrizioni di rendite consolidato 5 per cento, con godimento dal 1° luglio 1895, per l'ammontare complessivo di L. 6,058,760.24, cambiate in rendita consolidata 4.50 per cento netto per l'importo di L. 5,259,003 89, con godimento pure dal 1° luglio 1895;
+
+N. 921 iscrizioni di rendite consolidato 3 per cento, con godimento dal 1° aprile 1895, per l'ammontare complessivo di L. 757,699.18, cambiate in rendita consolidata 4.50 per cento netto per l'importo di lire 657,682.53 con godimento dal 1° luglio 1895;
+
+Nel trimestre dal 1° ottobre al 31 dicembre 1895. N. 16606 iscrizioni di rendite consolidato 5 per cento, con godimento dal 1° luglio 1895, per l'ammontare complessivo di L. 7,436,055.93, combiate in rendita consolidata 4.50 per cento netto per l'importo di lire 6,454,496.55, con godimento dal 1° ottobre 1895;
+
+N. 17 iscrizioni di rendite consolidato 3 per cento, con godimento dal 1° ottobre 1895, per l'ammontare complessivo L. 6840, cambiate in rendita consolidata 4.50 per cento netto per l'importo di L. 5937.13, con godimento pure dal 1° ottobre 1895;
+
+Visto l'unito prospetto (alleg. A) delle operazioni di sostituzioni delle suddette rendite consolidate 5 e 3 per cento, firmato, d'ordine Nostro, dal Ministro del Tesoro;
+
+Ritenuto che sulla rendita di annue L. 757,699.18 di consolidato 3 per cento presentata al cambio nel trimestre dal 1° luglio al 30 settembre 1895, venne pagato, con Buono a parte, l'importo del trimestre dal 1° aprile al 30 giugno 1895 in L. 189,424.79, per pareggiare la decorrenza di godimento tra la rendita 4.50 per cento netto, data in cambio, e quella 3 per cento presentata ed annullata;
+
+Che parimente sulla rendita di annue L. 7,436,055.93 di consolidato 5 per cento presentata al cambio nel trimestre dal 1° ottobre al 31 dicembre 1895 venne pagato, pure con Buono a parte, l'importo del trimestre dal 1° luglio al 30 settembre 1895 in L. 1,859,013.98 per l'oggetto di cui alla partita precedente;
+
+Ritenuto che, trattandosi di operazioni gia' definitivamente compiute, in virtu' della [legge 22 luglio 1894 n. 339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339), sovra citata, occorre ora di eseguire soltanto le variazioni ai singoli capitoli, che ai mentovati debiti consolidati si riferiscono, tanto nel Bilancio di previsione della spesa del Ministero del Tesoro, quanto nel Bilancio di previsione dell'entrata per l'esercizio finanziario 1895-96;
+
+Sulla
+-----
+
+proposta del Nostro Ministro del Tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Per effetto delle operazioni di sostituzione delle rendite del consolidato 4.50 per cento netto a quelle dei consolidati 5 e 3 per cento lordo possedute dalle Opere pubbliche di Beneficenza, eseguite nei due trimestri dal 1° luglio a tutto settembre e dal 1° ottobre al 31 dicembre 1895, di cui nell'unito prospetto (alleg. A), saranno eseguite nello stato di previsione della spesa del Ministero del Tesoro, nonche' in quello dell'entrata per l'esercizio finanziario 1895-96, ai singoli capitoli che si riferiscono ai debiti consolidati succitati, le variazioni risultanti nel prospetto (allegato B) che fa parte integrale del presente Reale decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 febbraio 1896.   
+  
+UMBERTO.   
+  
+Sidney Sonnino.   
+  
+Visto, Il Guardasigilli: V. Calenda Di Tavani.   
+  
+
+Allegato A
+
+  
+Allegato A.   
+  
+PROSPETTO delle operazioni di sostituzione delle rendite Consolidate 5 e 3 per cento inscritte in nome delle Opere pubbliche di Beneficenza, con iscrizioni del Consolidato 4,50 per cento netto, giusta l'art. 2° della [legge 22 luglio 1894 N. 339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339).   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=096U006000100010110001&dgu=1896-03-20&art.dataPubblicazioneGazzetta=1896-03-20&art.codiceRedazionale=096U0060)
+  
+
+Allegato B
+
+  
+Allegato B.   
+  
+VARIAZIONI da portarsi negli stanziamenti dello stato di previsione della spesa del Ministero del Tesoro per l'esercizio finanziario 1895-96 approvato con la [legge 8 agosto 1895 n. 484](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1895-08-08;484), in dipendenza delle operazioni di sostituzione delle rendite del Consolidato 4,50 per cento netto, a quelle dei Consolati 5 e 3 per cento possedute dalle Opere pubbliche di Beneficenza, eseguite nei due trimestri dal 1° luglio a tutto settembre 1895 e dal 1° ottobre a tutto dicembre 1895 in ordine all'[art. 2 della legge 22 luglio 1894 n. 339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339~art2).   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=096U006000200010110001&dgu=1896-03-20&art.dataPubblicazioneGazzetta=1896-03-20&art.codiceRedazionale=096U0060)
+  

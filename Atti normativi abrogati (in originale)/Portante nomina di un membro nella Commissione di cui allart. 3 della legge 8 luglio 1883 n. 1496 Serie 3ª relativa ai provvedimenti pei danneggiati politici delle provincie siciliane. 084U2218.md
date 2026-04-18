@@ -1,0 +1,41 @@
+REGIO DECRETO 20 aprile 1884 n. 2218
+
+
+REGIO DECRETO 20 aprile 1884 n. 2218
+====================================
+
+Portante nomina di un membro nella Commissione, di cui all'art. 3° della legge 8 luglio 1883, n. 1496 (Serie 3ª), relativa ai provvedimenti pei danneggiati politici delle provincie siciliane. (084U2218)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/05/1884
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D' ITALIA   
+  
+Visto il Nostro decreto in data 4 settembre 1883, numero 1575 (Serie 3ª);   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, e di quello delle Finanze, per interim del Tesoro,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il signor Landolina comm. Pietro marchese di Sant'Alfano, senatore del Regno, e' chiamato a far parte della Commissione, di cui all'[art. 3 della legge 8 luglio 1883, n. 1496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1883-07-08;1496~art3) (Serie 3ª), relativa ai provvedimenti pei danneggiati politici delle provincie siciliane, in sostituzione del senatore Cianciafara comm. Giuseppe, dimissionario.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 aprile 1884.   
+  
+UMBERTO.   
+  
+DEPRETIS.   
+  
+Visto, Il Guardasigilli: FERRACCIU'.   
+  

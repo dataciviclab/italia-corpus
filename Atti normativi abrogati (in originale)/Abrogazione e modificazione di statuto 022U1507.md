@@ -1,0 +1,17 @@
+REGIO DECRETO 02 ottobre 1922 n. 1507
+
+
+REGIO DECRETO 02 ottobre 1922 n. 1507
+=====================================
+
+Abrogazione e modificazione di statuto (022U1507)
+-------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/12/1922
+
+Art. 1
+------
+
+  
+N. 1507 Regio decreto 2 ottobre 1922, col quale, sulla proposta del ministro della pubblica istruzione, viene abrogato lo statuto dell'Ateneo Veneto in Venezia, approvato con R. decreto 25 aprile 1878, numero MDCCCLXVII (serie 2 parte supplementare), ed approvato il nuovo statuto deliberato nell'assemblea generale dei soci dell'Ateneo stesso nella adunanza del 27 giugno 1920.   
+  

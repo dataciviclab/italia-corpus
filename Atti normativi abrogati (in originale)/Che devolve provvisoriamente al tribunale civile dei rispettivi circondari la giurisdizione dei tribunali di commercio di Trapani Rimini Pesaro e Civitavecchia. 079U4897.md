@@ -1,0 +1,48 @@
+REGIO DECRETO 04 maggio 1879 n. 4897
+
+
+REGIO DECRETO 04 maggio 1879 n. 4897
+====================================
+
+Che devolve provvisoriamente al tribunale civile dei rispettivi circondari, la giurisdizione dei tribunali di commercio di Trapani, Rimini, Pesaro e Civitavecchia. (079U4897)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/06/1879
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 62 della legge sull'Ordinamento giudiziario del 6 dicembre 1865, n. 2626;
+
+Considerando che per la promozione del presidente del Tribunale di commercio di Trapani a consigliere di Corte di appello, e per il collocamento a riposo del presidente del Tribunale di commercio di Rimini, dovrebbesi provvedere alla presidenza di ciascuno dei detti Tribunali con la destinazione di un funzionario dell'ordine giudiziario, attese le gravi difficolta' di rinvenire nel ceto dei commercianti di quelle citta', chi riunisca tutti i requisiti necessari a tal carica, e sia disposto ad assumerne il disimpegno;
+
+Considerando che per quest'ultimo motivo fu mestieri dar incarico di reggere la presidenza dei Tribunali di commercio di Civitavecchia e di Pesaro rispettivamente al presidente e ad un giudice del Tribunale civile e correzionale del luogo;
+
+Considerando che per lo scarsissimo numero degli affari trattati dagli anzidetti quattro Tribunali di commercio non e' conveniente che lo Stato sopporti il peso dello stipendio che dovrebbesi corrispondere, quando si procedesse al rimpiazzo degli uffici di presidenza vacanti presso i Tribunali di commercio in Trapani e Rimini con magistrati giudiziari, e delle spese accorrenti per l'ulteriore mantenimento delle cancellerie presso lo stesso Tribunale di Trapani e quelli di Pesaro e Civitavecchia;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+La giurisdizione dei Tribunali di commercio di Trapani, Rimini, Civitavecchia e Pesaro e' provvisoriamente devoluta al Tribunale civile dei rispettivi circondari.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 maggio 1879.   
+  
+UMBERTO.   
+  
+Taiani.   
+  

@@ -1,0 +1,19 @@
+REGIO DECRETO 07 maggio 1914 n. 453
+
+
+REGIO DECRETO 07 maggio 1914 n. 453
+===================================
+
+Aumento di professori ordinari e straordinari nei RR. licei. (014U0453)
+-----------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/06/1914
+
+Art. 1
+------
+
+  
+N. 453   
+  
+Regio Decreto 7 maggio 1914, col quale, sulla proposta del ministro della pubblica istruzione, di concerto col ministro del tesoro, il numero dei professori ordinari e straordinari del 2° ordine di ruoli nei RR. licei, di cui all'art. III del R. decreto 11 agosto 1913, per l'anno scolastico 1913-914, e' portato da 6 a 8.   
+  

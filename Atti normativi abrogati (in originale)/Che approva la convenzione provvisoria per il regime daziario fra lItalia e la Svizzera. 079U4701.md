@@ -1,0 +1,48 @@
+LEGGE 31 gennaio 1879 n. 4701
+
+
+LEGGE 31 gennaio 1879 n. 4701
+=============================
+
+Che approva la convenzione provvisoria per il regime daziario fra l'Italia e la Svizzera. (079U4701)
+----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/02/1879
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato,   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il Governo del Re e' autorizzato a dare piena ed intera esecuzione alla Convenzione sottoscritta a Roma il 28 gennaio 1879 tra l'Italia e la Svizzera, per regolare temporaneamente il regime daziario tra i due Paesi.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 31 gennaio 1879.   
+  
+UMBERTO.   
+  
+DEPRETIS.   
+A. MAGLIANI.   
+MAIORANA-CALATABIANO.   
+  
+  
+
+Convention
+
+  
+CONVENTION   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=079U470100100010110001&dgu=1879-01-31&art.dataPubblicazioneGazzetta=1879-01-31&art.codiceRedazionale=079U4701)
+  

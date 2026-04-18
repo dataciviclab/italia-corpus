@@ -1,0 +1,43 @@
+LEGGE 13 luglio 1914 n. 768
+
+
+LEGGE 13 luglio 1914 n. 768
+===========================
+
+Che autorizza maggiori assegnazioni per le spese circa l'esercizio delle stazioni radiotelegrafiche nelle Colonie. (014U0768)
+-----------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/08/1914
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata la maggiore assegnazione di L. 250.000 per ciascuno degli esercizi finanziari dal 1913-914 al 1915-916 e di L. 200.000 per il 1916-917 e successivi, in aggiunta alla spesa attualmente inscritta nello stato di previsione del Ministero della marina per l'esercizio delle stazioni radiotelegrafiche nell'Eritrea e nella Somalia italiana. La spesa complessiva per l'esercizio delle stazioni medesime sara' inscritta, a partire dal 1914-915, nello stato di previsione del Ministero delle colonie.   
+  
+E' inoltre autorizzata, a partire dal 1914-915, per l'esercizio delle stazioni radiotelegrafiche costiere della Tripolitania e della Cirenaica, l'assegnazione ordinaria di L. 200,000 da inscriversi per meta' nello stato di previsione della spesa del Ministero della marina e per meta' in quello del Ministero delle colonie.   
+  
+Le conseguenti variazioni al bilancio per gli esercizi finanziari 1913-914 e 1914-915 saranno apportate con decreti del Ministero del tesoro.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 13 luglio 1914.   
+  
+VITTORIO EMANUELE.   
+  
+Martini - Millo - Rubini.   
+  
+Visto, Il guardasigilli: Dari.   
+  

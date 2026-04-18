@@ -1,0 +1,54 @@
+REGIO DECRETO 12 settembre 1935 n. 1771
+
+
+REGIO DECRETO 12 settembre 1935 n. 1771
+=======================================
+
+Modificazione dello statuto del Centro di cultura e propaganda corporativa di Genova. (035U1771)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/10/1935
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la legge 5 giugno 1850, n. 1037;
+
+Visto il regolamento, approvato con [R. decreto 26 giugno 1864, n. 1897](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1864-06-26;1897);
+
+Visti il R. decreto 21 novembre 1929-VIII, n. 2093, con il quale e' stato eretto in ente morale il Centro di cultura e propaganda corporativa di Genova e ne e' stato approvato lo statuto, ed il R. decreto 12 luglio 1934-XII, n. 1396, che ha approvato la modifica del testo dell'art. 6, lett. e) dello statuto stesso;
+
+Vista la deliberazione del Consiglio di amministrazione del Centro in data 17 giugno 1935, circa la modifica da apportare al primo comma dell'art. 10 dello statuto;
+
+Udito il Consiglio di Stato;
+
+Sulla
+-----
+
+preposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' approvata la modifica del primo comma dell'art. 10 dello statuto del Centro di cultura e propaganda corporativa Genova, e il relativo testo rimane pertanto cosi' formulato: «L'esercizio finanziario decorre dal 1° gennaio al 31 dicembre di ciascun anno».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 12 settembre 1933 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte del conti, addi' 12 ottobre 1935 - Anno XIII   
+Atti del Governo, registro 365, foglio 52. - Giagheddu.   
+  
+  

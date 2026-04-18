@@ -1,0 +1,37 @@
+REGIO DECRETO 20 ottobre 1911 n. 1176
+
+
+REGIO DECRETO 20 ottobre 1911 n. 1176
+=====================================
+
+Col quale le agenzie delle imposte dirette e del catasto di Bologna, Brescia, Catania, Como e Venezia sono divise ciascuna in due uffici a decorrere dal 1° gennaio 1912. (011U1176)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/11/1911
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze;   
+  
+Abbiamo decretato o decretiamo:   
+  
+Le agenzie delle imposte dirette e del catasto di Bologna, Brescia, Catania, Corno e Venezia, restando inalterata la rispettiva loro attuale circoscrizione territoriale, sono divise ciascuna in due uffici, a decorrere dal 1° gennaio 1912, rimanendo affidati al 1° ufficio i servizi attinenti all'imposta di ricchezza mobile, ed al 2° ufficio quelli riguardanti le imposte fondiarie (terreni e fabbricati).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 20 ottobre 1911.   
+  
+VITTORIO EMANUELE.   
+  
+Facta.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   
+  

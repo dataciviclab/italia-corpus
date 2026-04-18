@@ -1,0 +1,54 @@
+DECRETO LEGISLATIVO 11 marzo 1948 n. 460
+
+
+DECRETO LEGISLATIVO 11 marzo 1948 n. 460
+========================================
+
+Adeguamento della indennita' di rappresentanza ai funzionari della carriera diplomatico-consolare di cui all'art. 9 della legge 2 giugno 1927, n. 862.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Vista la [legge 2 giugno 1927, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-02;862);
+
+Visto il [decreto del Capo provvisorio dello Stato 18 aprile 1947, n. 414](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto:1947-04-18;414);
+
+Visto il [decreto legislativo luogotenenziale 21 novembre 1945, n. 722](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1945-11-21;722), e modificazioni successive;
+
+Visto il [decreto legislativo del Capo provvisorio dello Stato 5 agosto 1947, n. 778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-08-05;778);
+
+Visto l'[art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge.luogotenenziale:1944-06-25;151~art4), con le modificazioni ad esso apportate dall'[art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1946-03-16;98~art3-com1);
+
+Viste le disposizioni transitorie I e XV della Costituzione;
+
+Visto l'[art. 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+
+Sulla proposta del Ministro Segretario di Stato per gli affari esteri, di concerto col Ministro segretario di Stato per il tesoro;
+
+PROMULGA
+--------
+
+il seguente decreto legislativo, approvato dal Consiglio dei Ministri con deliberazione del 12 febbraio 1948:
+
+Articolo unico
+--------------
+
+  
+  
+L'indennita' di cui all'[art. 9 della legge 2 giugno 1927, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-02;862~art9) e' stabilita a decorrere dal 1 luglio 1947 e per le funzioni di cui siano rispettivamente investiti, in misura pari ad un terzo dello stipendio per il segretario generale e per i direttori generali, ad un quarto dello stipendio per i vice direttori generali (non piu' di uno per ciascuna Direzione generale), per i capi servizio e per i capi ufficio; ad un quinto dello stipendio per i segretari.  
+L'indennita' medesima e' computata sugli stipendi spettanti ai funzionari nel tempo cui essa si riferisce.  
+  
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 11 marzo 1948
+
+DE NICOLA DE GASPERI - SFORZA - DEL VECCHIO
+
+Visto, il Guardasigilli: GRASSI
+
+Registrato alla Corte dei conti, addi' 13 maggio 1948
+
+Atti del Governo, registro n. 20, foglio n. 83. - FRASCA

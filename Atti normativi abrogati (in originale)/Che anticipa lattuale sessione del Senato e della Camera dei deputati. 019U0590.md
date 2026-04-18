@@ -1,0 +1,41 @@
+REGIO DECRETO 27 aprile 1919 n. 590
+
+
+REGIO DECRETO 27 aprile 1919 n. 590
+===================================
+
+Che anticipa l'attuale sessione del Senato e della Camera dei deputati. (019U0590)
+----------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/05/1919
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D' ITALIA   
+  
+Visto l'art. 9 dello Statuto fondamentale del Regno;   
+  
+Sentito il Consiglio dei ministri;   
+  
+Sulla proposta del presidente del Consiglio dei ministri, ministro segretario di Stato per gli affari dell'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'attuale sessione del Senato del Regno e della Camera dei deputati, gia' prorogata al 6 maggio 1919, e' anticipata al 29 aprile 1919.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 27 aprile 1919.   
+  
+VITTORIO EMANUELE.   
+  
+Orlando.   
+  
+Visto, Il guardasigilli: Facta.   
+  

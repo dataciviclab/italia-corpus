@@ -1,0 +1,76 @@
+REGIO DECRETO 29 luglio 1906 n. 457
+
+
+REGIO DECRETO 29 luglio 1906 n. 457
+===================================
+
+Ordinamento e ripartizione dei servizi di bonificamento agrario e colonizzazione. (006U0457)
+--------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/09/1906
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Viste le [leggi 8 agosto 1897, n. 382 e 25 luglio 1902, n. 342](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-25;342), portanti provvedimenti per la Sardegna;
+
+Vista la [legge 31 marzo 1904, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140), portante provvedimenti a favore della Basilicata;
+
+Visto il testo unico delle leggi concernenti il bonificamento dell'Agro romano, approvato con [R. decreto 10 novembre 1905, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-11-10;647);
+
+Vista la [legge 25 giugno 1906, n. 255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255), portante provvedimenti a favore nella Calabria;
+
+Vista la [legge 22 dicembre 1905, n. 598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-12-22;598), per l'organico dell'Ispettorato del bonificamento agrario e della colonizzazione;
+
+Visto l'art. 65 della sovracitata legge concernente i provvedimenti a favore della Calabria, e il n. 14 della tabella A annessa alla legge medesima;
+
+Ritenendo necessario di dare uno stabile assetto all'ordinamento dei servizi affidati all'ispettorato predetto;
+
+Sulla
+-----
+
+proposta del Nostro ministro segretario di Stato per l'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I servizi affidati all'Ispettorato del bonificamento agrario e della colonizzazione, sotto la direzione dell'ispettore capo, sono ordinati e ripartiti nel modo seguente:   
+  
+Servizio tecnico-agrario.   
+  
+Sezione 1ª.   
+  
+Bonificamento agrario dell'Agro romano e colonizzazione dei beni demaniali dello Stato in tutte le provincie del Regno.   
+  
+Sezione 2ª.   
+  
+Miglioramento agrario della Sardegna - Provvedimenti a favore dell'agricoltura della Basilicata e della Calabria - Cattedre ambulanti d'agricoltura e poderi dimostrativi.   
+  
+Servizio d'ingegneria rurale   
+  
+Sezione 3ª.   
+  
+Irrigazione e serbatoi montani - Prosciugamenti e fognature - Regime dei corsi d'acqua e difesa dalle inondazioni - Governo agrario delle acque - Studi e ricerche per la provvista d'acqua potabile e di irrigazione - Bonificazioni idrauliche di competenza del Ministero d'agricoltura - Geognosia e idrografia agraria - Viabilita' e costruzioni rurali.   
+  
+Servizio economico - amministrativo.   
+  
+Sezione 4ª.   
+  
+Segreteria ed atti della Commissione di vigilanza per il bonificamento dell'Agro romano - Esenzione d'imposte e tasse a favore delle opere di bonificamento e di colonizzazione - Concessione dei mutui di favore e eventuali lavori d'ufficio - Atti relativi all'espropriazione e all'amministrazione temporanea dei beni espropriati - Atti per la vendita dei terreni acquisiti o retrocessi allo Stato - Ordinamento e controllo delle funzioni amministrative-contabili degli uffici dipendenti dall'Ispettorato (cattedre ambulanti di agricoltura, poderi dimostrativi, campi sperimentali, bacini d'irrigazione, ecc.) - Amministrazione dei capitoli del bilancio e atti relativi - Rapporti col consiglio di Stato, con la Corte dei conti e con l'Avvocatura erariale - Decreti Reali e Ministeriali - Protocollo - Archivio, ecc.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 luglio 1906.   
+  
+VITTORIO EMANUELE.   
+  
+F. Cocco-Ortu.   
+  
+Visto, Il guardasigilli: Gallo.   
+  

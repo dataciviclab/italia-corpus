@@ -1,0 +1,21 @@
+REGIO DECRETO 23 maggio 1901 n. CXCV
+
+
+REGIO DECRETO 23 maggio 1901 n. CXCV
+====================================
+
+Che trasferisce la sede del comune di Giustenice nella frazione Villa. (0100195R)
+---------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/07/1901
+
+Art. 1
+------
+
+  
+Che autorizza il trasferimento dalla sede municipale del comune di Giustenice in provincia di Genova dalla frazione Valsorda alla frazione Villa. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
+  
+Registrato alla Corte dei conti addi' 10 luglio 1901.   
+  
+Reg. 229. Atti del Governo a f. 137.   
+  

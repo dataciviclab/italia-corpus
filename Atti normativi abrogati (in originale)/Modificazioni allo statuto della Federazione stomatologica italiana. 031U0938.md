@@ -1,0 +1,21 @@
+REGIO DECRETO 24 luglio 1931 n. 938
+
+
+REGIO DECRETO 24 luglio 1931 n. 938
+===================================
+
+Modificazioni allo statuto della Federazione stomatologica italiana. (031U0938)
+-------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/08/1931
+
+Art. 1
+------
+
+N.
+
+938. R. decreto 24 luglio 1931, col quale, sulla proposta del Ministro per l'educazione nazionale vengono apportate modificazioni allo statuto della Federazione stomatologica italiana.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 4 agosto 1931 - Anno IX

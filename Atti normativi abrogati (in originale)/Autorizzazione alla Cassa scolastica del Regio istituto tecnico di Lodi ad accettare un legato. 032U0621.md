@@ -1,0 +1,20 @@
+REGIO DECRETO 26 maggio 1932 n. 621
+
+
+REGIO DECRETO 26 maggio 1932 n. 621
+===================================
+
+Autorizzazione alla Cassa scolastica del Regio istituto tecnico di Lodi ad accettare un legato. (032U0621)
+----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/07/1932
+
+Art. 1
+------
+
+N.
+
+621. R. decreto 26 maggio 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica del Regio istituto tecnico di Lodi viene autorizzata ad accettare il legato di L. 20.000 disposto in suo favore dal prof. Girolamo Poggio.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 13 giugno 1932 - Anno X

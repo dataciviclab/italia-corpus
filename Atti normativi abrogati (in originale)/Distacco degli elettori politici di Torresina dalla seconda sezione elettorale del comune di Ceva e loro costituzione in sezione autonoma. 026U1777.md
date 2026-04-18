@@ -1,0 +1,49 @@
+REGIO DECRETO 23 settembre 1926 n. 1777
+
+
+REGIO DECRETO 23 settembre 1926 n. 1777
+=======================================
+
+Distacco degli elettori politici di Torresina dalla seconda sezione elettorale del comune di Ceva e loro costituzione in sezione autonoma. (026U1777)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/11/1926
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione della Commissione elettorale provinciale di Cuneo con la quale si propone il distacco dalla seconda sezione del comune di Ceva (Collegio di Ceva) degli elettori politici del comune di Torresina, i quali, dalle liste per l'anno corrente, risultano in numero di 100;   
+  
+Viste le deliberazioni affermative delle Commissioni elettorali dei rispettivi Comuni;   
+  
+Visto il [R. decreto 22 maggio 1913, n. 560](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-22;560);   
+  
+Visto l'art. 29 della legge elettorale politica;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Gli elettori politici del comune di Torresina sono distaccati dalla seconda sezione elettorale del comune di Ceva e costituiti in sezione autonoma con sede in Torresina.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 23 settembre 1926.   
+  
+VITTORIO EMANUELE.   
+  
+Federzoni.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 22 ottobre 1926.   
+  
+Atti del Governo, registro 253, foglio 129. - Casati.   
+  

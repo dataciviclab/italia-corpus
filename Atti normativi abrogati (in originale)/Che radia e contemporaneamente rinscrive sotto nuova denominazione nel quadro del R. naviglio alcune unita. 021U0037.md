@@ -1,0 +1,71 @@
+REGIO DECRETO 16 gennaio 1921 n. 37
+
+
+REGIO DECRETO 16 gennaio 1921 n. 37
+===================================
+
+Che radia, e contemporaneamente rinscrive, sotto nuova denominazione, nel quadro del R. naviglio alcune unita'. (021U0037)
+--------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/02/1921
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro ministro segretario di Stato per la marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Le Unita' sottoindicate sono radiate dal quadro del naviglio da guerra dello Stato:   
+  
+Nave sussidiaria Europa (ex-Cortellazzo).   
+  
+Cacciatorpediniere Nullo, Berlani, Bronzetti ed Espero.   
+  
+Torpediniere 66 P. N., 68 P. N.   
+  
+M. A. S. 22, 88, 109, 112, 310, 259, 261.   
+  
+Esse sono (ad eccezione dei M. A. S. 259 e 261 demoliti) rinscritte nel quadro del naviglio da guerra dello Stato con i nomi seguenti:   
+  
+Europa . . . . . . . . . . . . . . Volta   
+  
+Nullo . . . . . . . . . . . . . . Fratelli Cairoli   
+  
+Bertani . . . . . . . . . . . . . Enrico Cosenz   
+  
+Bronzetti . . . . . . . . . . . . Giuseppe Dezza   
+  
+Espero . . . . . . . . . . . . . . Turbine   
+  
+66 P.N. . . . . . . . . . . . . . 70 P.N.   
+  
+68 P.N. . . . . . . . . . . . . . 71 P.N.   
+  
+M.A.S. 22 . . . . . . . . . . . . M.A.S. 16   
+  
+M.A.S. 88 . . . . . . . . . . . . M.A.S. 89   
+  
+M.A.S. 109 . . . . . . . . . . . . M.A.S. 104   
+  
+M.A.S. 112 . . . . . . . . . . . . M.A.S. 264   
+  
+M.A.S. 310 . . . . . . . . . . . . M.A.S. 29   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 gennaio 1921.   
+  
+VITTORIO EMANUELE.   
+  
+Sechi.   
+  
+Visto, il guardasigilli: Fera.   
+  

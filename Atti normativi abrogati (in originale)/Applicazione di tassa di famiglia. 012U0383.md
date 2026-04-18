@@ -1,0 +1,19 @@
+REGIO DECRETO 18 aprile 1912 n. 383
+
+
+REGIO DECRETO 18 aprile 1912 n. 383
+===================================
+
+Applicazione di tassa di famiglia. (012U0383)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 21/05/1912
+
+Art. 1
+------
+
+  
+N. 383   
+  
+Regio Decreto 18 aprile 1912, col quale, sulla proposta del ministro delle finanze, viene approvato il regolamento per l'applicazione della tassa di famiglia deliberato dalla Giunta provinciale amministrativa di Venezia nelle adunanze in data 24 gennaio e 27 marzo 1912, in sostituzione del regolamento approvato cori R. decreto 20 dicembre 1903, n. DXXVI.   
+  

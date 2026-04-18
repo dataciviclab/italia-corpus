@@ -1,0 +1,42 @@
+REGIO DECRETO 17 ottobre 1920 n. 1474
+
+
+REGIO DECRETO 17 ottobre 1920 n. 1474
+=====================================
+
+Che approva l'annessa convenzione per la vendita di materie coloranti artificiali provenienti da indennita' in natura a carico della Germania. (020U1474)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/11/1920
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari della guerra;
+
+Allo
+----
+
+scopo di consentire alla Croce Rossa italiana di poter degnamente ricevere, unitamente agli altri corpi e reparti del R. esercito, la ricompensa al valor militare conferitale con R. decreto 5 giugno 1920; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' concesso alla Croce Rossa italiana l'uso di un labaro di modello analogo a quello stabilito per il corpo sanitario del R. esercito.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 17 ottobre 1920.   
+  
+VITTORIO EMANUELE   
+  
+Bonomi.   
+  
+Visto, Il guardasigilli: Fera.   
+  

@@ -1,0 +1,50 @@
+REGIO DECRETO 01 dicembre 1867 n. 4101
+
+
+REGIO DECRETO 01 dicembre 1867 n. 4101
+======================================
+
+Col quale viene rettificato l'Elenco delle strade provinciali di Novara, approvato col Decreto 9 maggio 1867. (067U4101)
+------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/01/1868
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici;
+
+Visto il Nostro Decreto in data 9 ultimo scorso maggio, col quale fu approvato l'Elenco delle strade provinciali di Novara;
+
+Vista la deliberazione 5 settembre scorso del Consiglio provinciale di Novara, colla quale si fa istanza per la rettificazione di errori incorsi nell'indicazione del limite delle strade di cui ai n. 13 e 20 del predetto Elenco;
+
+Ritenuto
+--------
+
+che dalle deliberazioni del ripetuto Consiglio provinciale sulla classificazione delle strade provinciali, risulta effettivamente erronea l'indicazione dei limiti delle strade di cui sovra; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+In rettificazione dell'Elenco delle strade provinciali di Novara, approvato col Nostro Decreto in data 9 maggio ultimo scorso, le strade indicate ai n. 13 e 20 dell'Elenco stesso dovranno considerarsi come provinciali: la prima pel solo tronco da Novara a Galliate, escluso il tratto da Galliate a Turbigo, e la seconda pel solo tronco da Biella ad Andorno, escluso il susseguente tratto da Andorno a Campiglia.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 1° dicembre 1867.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 13 dicembre 1867   
+  
+Reg. 41 Atti del Governo a c. 183. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli A. Mari.   
+  
+G. Cantelli.   
+  

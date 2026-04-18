@@ -1,0 +1,54 @@
+REGIO DECRETO 22 novembre 1866 n. 3333
+
+
+REGIO DECRETO 22 novembre 1866 n. 3333
+======================================
+
+Col quale il Comune di Burano costituira' una Sezione del Collegio elettorale 2° di Venezia la quale si radunera' nel Capoluogo del Comune stesso. (066U3333)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/12/1866
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduti gli articoli 64, 65, 66 della Legge per le elezioni politiche 17 dicembre 1860, n° 4513;
+
+Veduto il [R. Decreto 13 ottobre 1866, n° 3282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-10-13;3282), con cui la Legge elettorale fu pubblicala nelle Provincie della Venezia e di Mantova, e la tabella annessavi della circoscrizione territoriale dei cinquanta Collegi elettorali in esse Provincie costituiti;
+
+Considerando che piu' ore di viaggio per acqua occorrerebbero perche' gli Elettori iscritti nelle liste del Comune di Burano, appartenente al Collegio 2° di Venezia, n° 476, si recassero a dar voto in Venezia;
+
+Noverandosi nel Comune suddetto piu' di quaranta Elettori iscritti;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il Comune di Burano costituira' una Sezione del Collegio elettorale 2° di Venezia, n° 476, la quale si radunera' nel Capoluogo del Comune stesso.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 22 novembre 1866.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 23 novembre 1866   
+  
+Reg.° 38 Atti del Governo a c. 59. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli Borgatti.   
+  
+Ricasoli.   
+  

@@ -1,0 +1,21 @@
+REGIO DECRETO 07 maggio 1936 n. 1052
+
+
+REGIO DECRETO 07 maggio 1936 n. 1052
+====================================
+
+Autorizzazione al Regio istituto superiore d'ingegneria di Torino ad accettare una donazione. (036U1052)
+--------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/07/1936
+
+Art. 1
+------
+
+N.
+
+1052. R. decreto 7 maggio 1936, col quale, sulla proposta del Ministro per l'educazione nazionale, il Regio istituto superiore d'ingegneria di Torino viene autorizzato ad accettare la donazione di L. 42.000 nominali, in titoli del Debito pubblico italiano 5 per cento, disposta in suo favore dalle signore Camilla Fenolio in Borbonese ed Elena Fenolio per l'istituzione di un premio da intitolarsi al nome di Michele Fenolio.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 9 giugno 1936 - Anno XIV

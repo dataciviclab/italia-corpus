@@ -1,0 +1,47 @@
+REGIO DECRETO 02 agosto 1938 n. 1330
+
+
+REGIO DECRETO 02 agosto 1938 n. 1330
+====================================
+
+Patrocinio legale dell'Istituto nazionale gestione imposte di consumo (I.N.G.I.C.) da parte dell'Avvocatura dello Stato. (038U1330)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/09/1938
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto l'art. 43 del testo unico delle leggi e delle norme giuridiche sulla rappresentanza e difesa in giudizio dello Stato e sull'ordinamento dell'Avvocatura dello Stato, approvato con R. decreto 30 ottobre 1933-XII, n. 1611;   
+  
+Visto il R. decreto-legge 28 dicembre 1936-XV, n. 2418, convertito nella legge 8 aprile 1937-XV, n. 640, riguardante la costituzione dell'Istituto nazionale gestione imposte di consumo (I.N.G.I.C.), con sede in Roma;   
+  
+Visto il R. decreto 15 novembre 1937-XVI, n. 2069, che approva lo statuto dell'anzidetto Istituto;   
+  
+Sulla proposta del Duce, Primo Ministro Segretario di Stato e Ministro per l'interno, di concerto col Ministro per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'Avvocatura dello Stato puo' assumere la rappresentanza e difesa dell'Istituto nazionale gestione imposte di consumo (I.N.G.I.C.) in tutti i giudizi attivi e passivi davanti all'Autorita' giudiziaria, ai Collegi arbitrali ed alle giurisdizioni amministrative e speciali.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Sant'Anna di Valdieri, addi' 2 agosto 1938-XVI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 31 agosto 1933 - Anno XVI   
+  
+Atti del Governo, registro 400, foglio 151. - MANCINI.   

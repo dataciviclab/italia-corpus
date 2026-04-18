@@ -1,0 +1,21 @@
+REGIO DECRETO 22 febbraio 1940 n. 387
+
+
+REGIO DECRETO 22 febbraio 1940 n. 387
+=====================================
+
+Autorizzazione alla Galleria nazionale d'Arte moderna e contemporanea ad accettare un legato. (040U0387)
+--------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/06/1940
+
+Art. 1
+------
+
+N.
+
+387. R. decreto 22 febbraio 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, la Galleria nazionale d'Arte moderna e contemporanea viene autorizzata ad accettare il legato col quale l'ing. Soldiero Virginio Morelli lascia allo Stato il ritratto della propria madre, Virginia Villari, opera di Domenico Morelli.   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registralo alla Corte dei conti, addi' 11 maggio 1940-XVIII

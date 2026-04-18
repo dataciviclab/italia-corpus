@@ -1,0 +1,40 @@
+LEGGE 28 giugno 1892 n. 303
+
+
+LEGGE 28 giugno 1892 n. 303
+===========================
+
+Circa il trattamento delle tare pei recipienti che contengono gli olii minerali. (092U0303)
+-------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/07/1892
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' confermata, fino al 30 giugno 1893, la tara di 12.50 per cento stabilita dall'[articolo 8 della legge del 14 luglio 1891, n. 391](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1891-07-14;391~art8), per le casse di legno con due recipienti di latta contenenti olio minerale.   
+  
+Due mesi prima che il termine sia compiuto, il Governo del Re dovra' presentare al Parlamento un progetto di legge nel quale il trattamento stabilito per le tare delle cassette nazionali e delle estere sia conciliato nel modo piu' conveniente.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Monza, addi' 28 giugno 1892.   
+  
+UMBERTO.   
+  
+Giolitti.   
+  
+Visto, Il Guardasigilli: Bonacci.   

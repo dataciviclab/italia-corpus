@@ -1,0 +1,41 @@
+LEGGE 25 agosto 1940 n. 1404
+
+
+LEGGE 25 agosto 1940 n. 1404
+============================
+
+Estensione dell'art. 22 del R. decreto-legge 19 agosto 1938-XVI, n. 1560, ai panettieri borghesi imbarcati su Regie navi. (040U1404)
+------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/11/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+A decorrere dal 1° gennaio 1940-XVIII le norme contenute nell'art. 22 del R. decreto-legge 19 agosto 1938-XVI, n. 1560, convertito in legge con la legge 5 gennaio 1939-XVII, n. 163, si applicano anche ai panettieri borghesi imbarcati su Regie navi con l'incarico di dirigere il servizio della panificazione a bordo.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 25 agosto 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - HOST VENTURI - DI REVEL - RICCI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+  

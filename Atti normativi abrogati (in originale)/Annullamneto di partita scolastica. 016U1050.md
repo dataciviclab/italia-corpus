@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 02 luglio 1916 n. 1050
+
+
+DECRETO LUOGOTENENZIALE 02 luglio 1916 n. 1050
+==============================================
+
+Annullamneto di partita scolastica. (016U1050)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 14/09/1916
+
+Art. 1
+------
+
+  
+N. 1050   
+  
+Decreto Luogotenenziale 2 luglio 1916, col quale, sulla proposta del ministro dell'istruzione, di concerto col ministro del tesoro, in seguito all'autonomia scolastica concessa ai comuni di Albissola Superiore, Cogoleto, Savignone e Segno, della provincia di Genova, nell'elenco annesso al decreto Reale 17 gennaio 1915, n. 214, sono annullate le partite nn. 3, 60, 148, 149 rispettivamente di lire 4765,38, 7614,06, 3660,62, 1508,03 relative ai Comuni suddetti a datare dal 1° luglio 1916.   
+  

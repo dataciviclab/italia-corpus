@@ -1,0 +1,19 @@
+REGIO DECRETO 31 dicembre 1911 n. 1504
+
+
+REGIO DECRETO 31 dicembre 1911 n. 1504
+======================================
+
+Autorizzazione ad accettare donazioni. (011U1504)
+-------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/03/1912
+
+Art. 1
+------
+
+  
+N. 1504   
+  
+Regio Decreto 31 dicembre 1911, col quale, sulla proposta del ministro dell'istruzione pubblica, viene autorizzata l'accettazione della donazione fatta allo Stato dai marchesi, Ferdinando ed Alessandro Guiccioli, degli affreschi decoranti il refettorio dell'abbazia di Pomposa.   
+  

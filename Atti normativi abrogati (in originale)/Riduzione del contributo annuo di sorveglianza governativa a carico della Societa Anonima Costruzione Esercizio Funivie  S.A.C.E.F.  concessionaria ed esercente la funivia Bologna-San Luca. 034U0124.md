@@ -1,0 +1,46 @@
+REGIO DECRETO 11 gennaio 1934 n. 124
+
+
+REGIO DECRETO 11 gennaio 1934 n. 124
+====================================
+
+Riduzione del contributo annuo di sorveglianza governativa a carico della Societa' Anonima Costruzione Esercizio Funivie « S.A.C.E.F. », concessionaria ed esercente la funivia Bologna-San Luca. (034U0124)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/02/1934
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il [Regio decreto 12 ottobre 1931, n. 1514](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-12;1514), registrato alla Corte dei conti addi' 18 dicembre 1931-X, registro 315, foglio 56, con il quale e' stata approvata e resa esecutoria la convenzione stipulata il 23 settembre 1931 fra il delegato del Ministro per le comunicazioni, in rappresentanza dello Stato, ed rappresentante della Societa' Anonima Costruzioni Esercizio Funivie (S.A.C.E.F.) per la concessione, a quest'ultima, della costruzione e dell'esercizio della funicolare aerea per trasporto, in servizio pubblico, di persone e merci da Bologna a San Luca;   
+  
+Visto l'art. 14 della predetta convenzione con il quale e' stato fissato in L. 2000 il contributo annuo di sorveglianza governativa posto a carico della Societa';   
+  
+Vista la domanda 12 novembre 1933-XII, presentata dalla Societa' sopraindicata per ottenere la riduzione del contributo medesimo;   
+  
+Ritenuta ammissibile la chiesta riduzione, stante la particolare comodita' e facilita' d'accesso che presenta l'impianto per la sua vicinanza all'ufficio delegato alla sorveglianza;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il contributo annuo di sorveglianza governativa corrisposto dalla Societa' Anonima Costruzione Esercizio Funivie (S.A.C.E.F.) concessionaria ed esercente la funivia Bologna San Luca, e' ridotto da L. 2000 a L. 1000 a decorrere dal 1° gennaio 1934.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 11 gennaio 1934 - Anno XII   
+  
+VITTORIO EMANUELE   
+  
+CIANO   
+  
+Visto, il Guardasigilli: DE FRANCISCI.   
+  
+Registrato alla Corte dei conti, addi' 2 febbraio 1934 - Anno XII   
+Atti del Governo, registro 344, foglio 34. - MANCINI.   

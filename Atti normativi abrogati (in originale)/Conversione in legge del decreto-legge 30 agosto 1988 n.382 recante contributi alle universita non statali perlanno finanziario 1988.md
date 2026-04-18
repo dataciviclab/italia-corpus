@@ -1,0 +1,48 @@
+LEGGE 29 ottobre 1988 n. 456
+
+
+LEGGE 29 ottobre 1988 n. 456
+============================
+
+Conversione in legge del decreto-legge 30 agosto 1988, n. 
+382, recante contributi alle universita' non statali per 
+l'anno finanziario 1988.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del decreto: 31/10/1988
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+----------------------------------------------------------
+
+approvato:
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. E' convertito in legge il [decreto-legge 30 agosto 1988, n. 382](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-08-30;382), recante contributi alle universita' non statali per l'anno finanziario 1988.
+
+2. La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 29 ottobre 1988
+
+COSSIGA
+
+DE MITA, Presidente del Consiglio dei Ministri
+
+GALLONI, Ministro della pubblica istruzione
+
+Visto, il Guardasigilli: VASSALLI AVVERTENZA:
+
+Il decreto-legge 30 agosto 1988, n. 382, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n.
+
+206 del 2 settembre 1988, ed e' stato successivamente rettificato con avviso di rettifica pubblicato nella Gazzetta Ufficiale - serie generale - n. 211 dell'8 settembre 1988.

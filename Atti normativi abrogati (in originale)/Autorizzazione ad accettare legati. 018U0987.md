@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 06 giugno 1918 n. 987
+
+
+DECRETO LUOGOTENENZIALE 06 giugno 1918 n. 987
+=============================================
+
+Autorizzazione ad accettare legati. (018U0987)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 10/08/1918
+
+Art. 1
+------
+
+N.
+
+987. Decreto Luogotenenziale 6 giugno 1918, col quale, sulla proposta del ministro della istruzione pubblica, si autorizza il direttore del R. Museo nazionale di Firenze ad accettare la donazione di trine antiche, fatta al Museo medesimo dal marchese Piero Bargagli con atto 27 marzo 1918.

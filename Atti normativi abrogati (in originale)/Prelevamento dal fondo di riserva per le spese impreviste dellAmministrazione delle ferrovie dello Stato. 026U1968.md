@@ -1,0 +1,116 @@
+REGIO DECRETO 21 novembre 1926 n. 1968
+
+
+REGIO DECRETO 21 novembre 1926 n. 1968
+======================================
+
+Prelevamento dal fondo di riserva per le spese impreviste dell'Amministrazione delle ferrovie dello Stato. (026U1968)
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/12/1926
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la [legge 11 giugno 1925, n. 867](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-06-11;867);   
+  
+Visti gli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-12-31;2439~art2) e [3 del R. decreto-legge 31 dicembre 1925, n. 2439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1925-12-31;2439~art3);   
+  
+Visto che il fondo di riserva istituito per le spese impreviste delle Ferrovie dello Stato presentava, al 30 giugno 1926, una disponibilita' di L. 58,804,047.50 delle quali lire 48,804,047.50 gia' depositate in conto corrente presso la Tesoreria centrale del Regno;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Dal fondo di riserva per le spese impreviste, depositato in conto corrente presso la Tesoreria centrale del Regno e' autorizzata la prelevazione di L. 36,000,226.38 da versarsi all'Amministrazione delle ferrovie dello Stato con imputazione al capitolo 13: «Prelevamenti dal fondo di riserva delle spese impreviste, ecc.» dello stato di previsione dell'entrata dell'Amministrazione medesima per l'esercizio finanziario 1925-26 e da portarsi in aumento allo stanziamento dei seguenti capitoli del bilancio della spesa per l'esercizio medesimo:   
+  
+Cap. n. 1 - Servizi della Direzione generale -   
+  
+Personale . . . . . . . . . . . . . . . . . . L. 770,302.86   
+Cap. n. 4 - Servizio movimento e traffico -   
+  
+Forniture, spese ed acquisti . . . . . . . . » 2,189,405.98   
+Cap. n. 6 - Servizio movimento e traffico -   
+  
+Noli passivi di materiale rotabile, ecc . . . » 62,501.19   
+Cap. n. 8 - Servizio materiale e trazione -   
+  
+Forniture, spese ed acquisti . . . . . . . . » 7,367,866.18   
+Cap. n. 9 - Servizio materiale e trazione -   
+  
+Manutenzione del materiale rotabile . . . . . » 835,664.67   
+Cap. n. 11 - Servizio lavori - Forniture,   
+  
+spese ed acquisti . . . . . . . . . . . . . . » 5,814,568.23   
+Cap. n. 12 - Servizio lavori - Manutenzione   
+  
+della linea . . . . . . . . . . . . . . . . . » 8,814,174.26   
+Cap. n. 13 - Linee secondarie a scartamento   
+  
+ridotto - Personale . . . . . . . . . . . . . » 508,374.66   
+Cap. n. 14 - Linee secondarie a scartamento   
+  
+ridotto - Forniture, spese ed acquisti . . . » 127,533.29   
+Cap. n. 15 - Linee secondarie a scartamento   
+  
+ridotto - Manutenzione del materiale   
+  
+rotabile . . . . . . . . . . . . . . . . . . » 629,054.94   
+Cap. n. 16 - Linee secondarie a scartamento   
+  
+ridotto - Manutenzione della linea . . . . . » 146,565.96   
+Cap. n. 17 Navigazione dello Stretto di Messina -   
+  
+Personale . . . . . . . . . . . . . . . . . . » 576,096.71   
+Cap. n. 20 Contributo al Fondo opera di   
+  
+previdenza per gli orfani, ecc . . . . . . . » 251,697.65   
+Cap. n. 24 - Spese per il servizio sanitario,   
+  
+ecc . . . . . . . . . . . . . . . . . . . . . » 121,540.76   
+Cap. n. 25 - Avvisi, orari, pubblicazioni e   
+  
+stampati diversi . . . . . . . . . . . . . . » 336,197.83   
+Cap. n. 44 - Navigazione con le Isole -   
+  
+Spese generali . . . . . . . . . . . . . . . » 591,270.13   
+Cap. n. 52 - Rinnovamento del materiale rotabile . » 688,173.07   
+Cap. n. 53 - Spese complementari delle ferrovie   
+  
+secondarie a scartamento ridotto   
+  
+(gruppo Sicilia) . . . . . . . . . . . . . . » 354,921.75   
+Cap. n. 61 - Restituzione di multe inflitte   
+  
+per ritardata consegna, ecc . . . . . . . . . » 922,809.51   
+Cap. n. 64 - Elettrificazione delle linee. . . . . » 361,308.75   
+Cap. n. 66 - Contributo per riduzioni di tariffa,   
+  
+ecc . . . . . . . . . . . . . . . . . . . . . » 4,530,198 --   
+  
+------------- Totale . . . L.36,000,226.38   
+-------------   
+Agli effetti delle disposizioni contenute nell'[art. 3 del decreto-legge 31 dicembre 1925, n. 2439](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1925-12-31;2439~art3), gli stanziamenti del cap. n. 58 «Reintegro al fondo di riserva per le spese impreviste, ecc.» dello stato di previsione della spesa e del cap. n. 1 «Prodotti della rete» dello stato di previsione dell'entrata dell'Amministrazione delle ferrovie dello Stato per l'esercizio 1925 26 sono ambedue aumentati della somma di L.36,000,226.38.   
+  
+Questo decreto sara' comunicato al Parlamento unitamente al rendiconto consuntivo dell'Amministrazione delle ferrovie dello Stato per l'esercizio finanziario 1925-26.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 21 novembre 1926.   
+  
+VITTORIO EMANUELE.   
+  
+Ciano - Volpi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 29 novembre 1926.   
+  
+Atti del Governo, registro 254, foglio 160. - Coop   
+  

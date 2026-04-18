@@ -1,0 +1,52 @@
+REGIO DECRETO 21 febbraio 1884 n. 2114
+
+
+REGIO DECRETO 21 febbraio 1884 n. 2114
+======================================
+
+Col quale la somma annuale inscritta nel bilancio della pubblica istruzione per la cattedra di diritto civile, fondata in Novara da monsignore Amico Cannobbio, e' devoluta al mantenimento di una cattedra di materie legali da istituirsi nel civico Istituto tecnico di quella citta'. (084U2114)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/04/1884
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il testamento ricevuto dal notaio Giovanni Battista Cattaneo, in Novara, l'11 febbraio 1591, col quale monsignor Amico Cannobbio disponeva per la creazione in Novara, alle condizioni in esso testamento stabilite, una cattedra di diritto civile;
+
+Veduto il decreto del Governo sardo 22 ottobre 1814;
+
+Visto il fondo inscritto sul bilancio della Pubblica Istruzione per lo stipendio al professore titolare della cattedra predetta;
+
+Vista la deliberazione presa dal Consiglio municipale di Novara in seduta del 12 luglio 1883;
+
+Udito il parere del Consiglio di Stato;
+
+Considerato che per lo sviluppo preso dai Nostri Istituti d'istruzione superiore, e per le agevolazioni fatte a chi voglia intraprendere in essi un regolare corso di studi in qualsiasi materia, la cattedra fondata dal Cannobbio in Novara per lo studio del diritto civile non reca piu' ormai alcuna utilita', ed e' per conseguenza abbandonata affatto dagli studenti, che trovano piu' vantaggioso inscriversi, per gli studi legali, nella vicina Universita' di Torino;
+
+Considerato come torni utile il convertire il fondo a quella cattedra destinato in vantaggio di una cattedra di materie legali nel civico Istituto tecnico di Novara;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 21 febbraio 1884.   
+  
+UMBERTO.   
+  
+BACCELLI.   
+  
+Visto, Il Guardasigilli: SAVELLI.   
+  

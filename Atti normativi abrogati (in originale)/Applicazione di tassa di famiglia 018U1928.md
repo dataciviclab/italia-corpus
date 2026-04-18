@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 24 ottobre 1918 n. 1928
+
+
+DECRETO LUOGOTENENZIALE 24 ottobre 1918 n. 1928
+===============================================
+
+Applicazione di tassa di famiglia (018U1928)
+--------------------------------------------
+
+Entrata in vigore del provvedimento: 12/01/1919
+
+Art. 1
+------
+
+N.
+
+1928. Decreto Luogotenenziale 24 ottobre 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Spoleto (Perugia) di applicare agli effetti dell'anno 1919 la tassa di famiglia col limite massimo di L. 1000, giusta le deliberazioni consiliari 22 e 31 dicembre 1917.

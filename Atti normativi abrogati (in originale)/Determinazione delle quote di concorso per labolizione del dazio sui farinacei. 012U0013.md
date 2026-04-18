@@ -1,0 +1,18 @@
+REGIO DECRETO 11 gennaio 1912 n. 13
+
+
+REGIO DECRETO 11 gennaio 1912 n. 13
+===================================
+
+Determinazione delle quote di concorso per l'abolizione del dazio sui farinacei. (012U0013)
+-------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/02/1912
+
+Art. 1
+------
+
+  
+N. 13   
+  
+Regio Decreto 11 gennaio 1912, col quale, sulla proposta del ministro delle finanze, viene provveduto alla determinazione delle quote di concorso dello Stato per l'abolizione del dazio sui farinacei per i comuni di Costei del Rio e di Fontana Elice a seguito di variazioni nella circoscrizione territoriale dei comuni medesimi.   

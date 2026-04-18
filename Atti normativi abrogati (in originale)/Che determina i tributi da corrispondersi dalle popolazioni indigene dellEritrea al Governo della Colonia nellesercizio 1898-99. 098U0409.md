@@ -1,0 +1,74 @@
+REGIO DECRETO 03 agosto 1898 n. 409
+
+
+REGIO DECRETO 03 agosto 1898 n. 409
+===================================
+
+Che determina i tributi da corrispondersi dalle popolazioni indigene dell'Eritrea al Governo della Colonia nell'esercizio 1898-99. (098U0409)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/10/1898
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la [legge 1° luglio 1890, n. 7003](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-01;7003), sull'applicazione delle leggi del Regno nella Colonia Eritrea;
+
+Visto il Nostro decreto del 29 ottobre 1891, n. 631, col quale e' stabilito che le popolazioni indigene della Colonia Eritrea, meno quelle che sono esenti in virtu' di leggi o convenzioni precedenti, sono tenuto a corrispondere un annuo tributo al Governo della Colonia;
+
+Udito il parere del Consiglio di Stato;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro degli Affari Esteri; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+Nel corrente esercizio finanziario sono tenute a corrispondere l'annuo tributo le popolazioni indigene della Colonia Eritrea nella misura indicata nella unita tabella.   
+  
+
+Art. 2
+------
+
+  
+  
+I preti officianti (Cheddassian) delle popolazioni cristiane sono esenti dal pagamento del tributo, per lo esercizio finanziario sopra citato.   
+  
+
+Art. 3
+------
+
+  
+  
+Il Governatore della Colonia e' in facolta' di aumentare o di diminuire, mediante suo decreto, da sottoporsi alla ratifica del Governo del Re, l'ammontare delle imposizioni delle singole popolazioni tributarie.   
+  
+L'aumento complessivo o la diminuzione complessiva per ogni regione non potra', in alcun caso, superare i tre decimi dell'imposizione totale, cui la regione stessa e' soggetta in virtu' del presente decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Valprato, addi' 3 agosto 1898.   
+  
+UMBERTO.   
+  
+N. Canevaro.   
+  
+Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
+  
+
+Tabella
+
+  
+TABELLA dei tributi da corrispondersi dalle popolazioni indigene dell'Eritrea durante l'esercizio 1898-99.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=098U040900100010110001&dgu=1898-10-03&art.dataPubblicazioneGazzetta=1898-10-03&art.codiceRedazionale=098U0409)
+  

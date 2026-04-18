@@ -1,0 +1,17 @@
+REGIO DECRETO 23 gennaio 1921 n. 119
+
+
+REGIO DECRETO 23 gennaio 1921 n. 119
+====================================
+
+Applicazione di tassa di famiglia. (021U0119)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 11/03/1921
+
+Art. 1
+------
+
+N.
+
+119. Regio decreto 23 gennaio 1921, col quale, sulla proposta del ministro delle finanze, viene approvata la deliberazione del 29 novembre 1920, della Giunta provinciale amministrativa di Cuneo, che modifica gli articoli 6 e 7 del regolamento provinciale per l'applicazione della tassa di famiglia nella provincia di Cuneo, approvato con [Regio decreto 21 dicembre 1913, n. 1418](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-12-21;1418).

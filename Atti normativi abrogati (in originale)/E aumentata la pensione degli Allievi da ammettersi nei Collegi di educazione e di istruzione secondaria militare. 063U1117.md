@@ -1,0 +1,41 @@
+LEGGE 15 gennaio 1863 n. 1117
+
+
+LEGGE 15 gennaio 1863 n. 1117
+=============================
+
+E' aumentata la pensione degli Allievi da ammettersi nei Collegi di educazione e di istruzione secondaria militare. (063U1117)
+------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/02/1863
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno adottato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+La pensione annua degli Allievi dei Collegi militari di educazione e di istruzione secondaria e' recata a lire settecento.   
+  
+Gli attuali Allievi pero' continueranno a pagare, finche' rimangono nel Collegio a cui ora appartengono, la pensione fissata dalle norme precedenti.   
+  
+Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Dat. a Torino addi' 15 gennaio 1863.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
+  
+A. Della Rovere.   
+  

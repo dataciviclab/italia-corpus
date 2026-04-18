@@ -1,0 +1,43 @@
+LEGGE 08 agosto 1941 n. 1313
+
+
+LEGGE 08 agosto 1941 n. 1313
+============================
+
+Modificazione dell'art. 4 del Regio decreto-legge 14 aprile 1939-XVII, n. 636, convertito, con modificazioni, nella legge 6 luglio 1939-XVII, n. 1272, sulle assicurazioni obbligatorie per la invalidita' e la vecchiaia, per la tubercolosi, per la disoccupazione e per la nuzialita' e la natalita'. (041U1313)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/12/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il primo comma dell'art. 4 del R. decreto-legge 14 aprile 1939-XVII, n. 636, convertito, con modificazioni, nella legge 6 luglio 1939-XVII, n. 1272, e' sostituito dal seguente:   
+  
+«Sono esclusi dall'assicurazione per la nuzialita' e la natalita' i cittadini stranieri ed i cittadini italiani di razza non ariana; tale esclusione non si estende ai cittadini stranieri di razza ariana, quando il paese al quale appartengono abbia assicurato ai cittadini italiani un trattamento di reciprocita'».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Sant'Anna di Valdieri, addi' 8 agosto 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - RICCI - CIANO - TERUZZI - GRANDI -DI REVEL - G0RLA - TASSINARI - HOST VENTURI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+  

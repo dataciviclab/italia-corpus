@@ -1,0 +1,41 @@
+REGIO DECRETO 30 marzo 1933 n. 1098
+
+
+REGIO DECRETO 30 marzo 1933 n. 1098
+===================================
+
+Determinazione del numero dei membri effettivi delle Fabbricerie di alcune Chiese parrocchiali della Diocesi di Cremona. (033U1098)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/09/1933
+
+Art. 1
+------
+
+N.
+
+1098. R. decreto 30 marzo 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene determinato in cinque il numero dei membri effettivi delle Fabbricerie delle seguenti Chiese parrocchiali della Diocesi di Cremona:   
+  
+1. Chiesa parrocchiale di S. Agata in Cremona;   
+  
+2. Chiesa parrocchiale dei SS. Pietro e Giorgio in Cremona;   
+  
+3. Chiesa parrocchiale di S. Vittore in Calcio;   
+  
+4. Chiesa parrocchiale di S. Stefano in Casalmaggiore;   
+  
+5. Chiesa parrocchiale dei SS. Giacomo e Filippo in Castelleone;   
+  
+6. Chiesa parrocchiale di S. Maria Assunta in Soncino;   
+  
+7. Chiesa parrocchiale di S. Giacomo, in S. Giacomo, comune di Soncino;   
+  
+8. Chiesa parrocchiale di S. Siro in Soresina.   
+  
+Viene altresi' determinato in tre il numero dei membri effettivi delle attuali Fabbricerie delle altre Chiese parrocchiali della diocesi di Cremona, fatta eccezione per le Fabbricerie della Chiesa cattedrale di S. Maria Assunta in Cremona, della Prepositurale di S.  
+Maria e Zenone in Cassano d'Adda e delle parrocchiali di S. Maria, S.  
+Sigismondo e S. Alberto in Rivolta d'Adda.   
+  
+Visto, il Guardasigilli: DE FRANCISCI.   
+  
+Registrato alla Corte dei conti, addi' 14 agosto 1933 - Anno XI

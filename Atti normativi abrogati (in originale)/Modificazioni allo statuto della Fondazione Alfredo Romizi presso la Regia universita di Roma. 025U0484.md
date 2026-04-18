@@ -1,0 +1,21 @@
+REGIO DECRETO 18 marzo 1925 n. 484
+
+
+REGIO DECRETO 18 marzo 1925 n. 484
+==================================
+
+Modificazioni allo statuto della Fondazione Alfredo Romizi, presso la Regia universita' di Roma. (025U0484)
+-----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/05/1925
+
+Art. 1
+------
+
+N.
+
+484. R. decreto 18 marzo 1925, col quale, su proposta del Ministro per la pubblica istruzione, vengono apportate modifiche allo statuto della Fondazione Alfredo Romizi, presso la Regia universita' di Roma.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 27 aprile 1925.

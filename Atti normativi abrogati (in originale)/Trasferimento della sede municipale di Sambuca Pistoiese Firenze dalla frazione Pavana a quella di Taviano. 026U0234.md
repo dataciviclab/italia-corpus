@@ -1,0 +1,49 @@
+REGIO DECRETO 24 gennaio 1926 n. 234
+
+
+REGIO DECRETO 24 gennaio 1926 n. 234
+====================================
+
+Trasferimento della sede municipale di Sambuca Pistoiese (Firenze) dalla frazione Pavana a quella di Taviano. (026U0234)
+------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/03/1926
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;   
+  
+Veduta l'istanza con cui il sindaco di Sambuca Pistoiese, in esecuzione della deliberazione 28 gennaio 1924 del Consiglio comunale, chiede l'autorizzazione al trasferimento della sede municipale dalla frazione Pavana a quella di Taviano;   
+  
+Veduto il parere favorevole espresso dal Consiglio provinciale di Firenze in adunanza del 10 agosto 1925;   
+  
+Udito il parere del Consiglio di Stato le cui considerazioni si intendono nel presente decreto riportate;   
+  
+Veduti la legge comunale e provinciale, il relativo regolamento ed il [R. decreto 30 dicembre 1923, n. 2839](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2839);   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il comune di Sambuca Pistoiese e' autorizzato a trasferire la sede municipale dalla frazione Pavana a quella di Taviano.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 24 gennaio 1926.   
+  
+VITTORIO EMANUELE.   
+  
+Federzoni.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 16 febbraio 1926.   
+  
+Atti del Governo, registro 245, foglio 164. - Coop.   
+  

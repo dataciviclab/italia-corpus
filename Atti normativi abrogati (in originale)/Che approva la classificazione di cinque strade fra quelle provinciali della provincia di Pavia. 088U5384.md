@@ -1,0 +1,67 @@
+REGIO DECRETO 23 febbraio 1888 n. 5384
+
+
+REGIO DECRETO 23 febbraio 1888 n. 5384
+======================================
+
+Che approva la classificazione di cinque strade fra quelle provinciali della provincia di Pavia. (088U5384)
+-----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/05/1888
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione del 29 giugno 1884, con la quale il Consiglio provinciale di Pavia approvo' la classificazione fra le provinciali delle strade:   
+  
+1° Bereguardo-Trovo-Casorate; 2° Pieve del Cairo-Mede-Sartirana-Breme-Candia; 3° Dalla Corte Olona-Villanterio al confine Milanese; 4° Casteggio-Calvignano-Montalto; 5° Delle Teste; 6° Cavallante; 7° Di Tovo.   
+  
+Visto il reclamo fatto contro detta deliberazione dal comune di Pavia, a cui si sono associati 39 comuni di quel circondario;   
+  
+Visto che la deliberazione stessa fu pubblicata in tutti gli altri comuni della provincia;   
+  
+Ritenuto:   
+  
+Che nelle strade: 1° Pieve del Cairo-Mede-Sartirana-Breme-Candia; 2° Casteggio-Calvignano-Montalto; 3° Delle Teste; 4° Cavallante; 5° Di Tovo, si ravvisano le condizioni necessarie a poterne ammettere la classificazione nella categoria delle provinciali;   
+  
+Che altrettanto non puo' dirsi della strada Bereguardo-Trovo-Casorate al confine Milanese, e dell'altra dalla Corte Olona-Villanterio al confine stesso, le quali non hanno alcuno dei caratteri stabiliti dalla legge sui Lavori Pubblici per le strade da dichiararsi provinciali;   
+  
+Sentito il Consiglio Superiore dei Lavori Pubblici ed il Consiglio di Stato;   
+  
+Vista la deliberazione fatta il 3 giugno 1887 dal Consiglio provinciale di Pavia sulle osservazioni del Ministero dei Lavori Pubblici;   
+  
+Vista la legge 20 marzo 1865 sui Lavori Pubblici, allegato F;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata la classificazione, fra le provinciali della provincia di Pavia, delle strade:   
+  
+1° Pieve del Cairo-Mede-Sartirana-Breme-Candia.   
+  
+2° Casteggio-Calvignano-Montalto.   
+  
+3° Delle Teste.   
+  
+4° Cavallante.   
+  
+5° Di Tovo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 23 febbraio 1888.   
+  
+UMBERTO.   
+  
+G. Saracco.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

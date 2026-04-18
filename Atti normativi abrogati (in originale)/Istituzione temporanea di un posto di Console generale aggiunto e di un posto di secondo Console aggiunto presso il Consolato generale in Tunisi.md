@@ -1,0 +1,18 @@
+DECRETO LUOGOTENENZIALE 04 gennaio 1946 n. 72
+
+
+DECRETO LUOGOTENENZIALE 04 gennaio 1946 n. 72
+=============================================
+
+Istituzione temporanea di un posto di Console generale aggiunto e di un posto di secondo Console aggiunto presso il Consolato generale in Tunisi.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Art. 1
+------
+
+N.
+
+72. Decreto Luogotenenziale 4 gennaio 1946, col quale, sulla proposta del Ministro per gli affari esteri, viene sanzionata l'istituzione temporanea di un posto di Console generale aggiunto e di un posto di secondo Console aggiunto presso il Consolato generale in Tunisi.  
+  
+Visto, il Guardasigilli: TOGLIATTI  
+Registrato alla Corte dei conti, addi' 2 marzo 1946

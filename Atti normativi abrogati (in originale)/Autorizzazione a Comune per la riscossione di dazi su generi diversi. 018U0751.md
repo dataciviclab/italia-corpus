@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 26 maggio 1918 n. 751
+
+
+DECRETO LUOGOTENENZIALE 26 maggio 1918 n. 751
+=============================================
+
+Autorizzazione a Comune per la riscossione di dazi su generi diversi. (018U0751)
+--------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/07/1918
+
+Art. 1
+------
+
+N.
+
+751. Decreto Luogotenenziale 26 maggio 1918, col quale, sulla proposta del ministro delle finanze, il comune di Sansevero (Foggia) e' autorizzato a continuare a riscuotere un dazio proprio di lire 6 al quintale sulle terraglie in lavori diversi; di lire 3 al quintale sulla terraglia bianca; di lire 8 al quintale sulla porcellana e maiolica dipinta o colorata; di lire 5 al quintale sulla porcellana e maiolica bianca; di lire 1 al quintale sulla carta bianca; di lire 0,50 al quintale sulla carta paglia o di altra qualita' per avvolgere; di lire 1,50 al quintale sui libri da scrivere, registri, agende, album da disegno, taccuini e simili; di lire 0,30 al quintale sul cartone in genere e carta pesta.

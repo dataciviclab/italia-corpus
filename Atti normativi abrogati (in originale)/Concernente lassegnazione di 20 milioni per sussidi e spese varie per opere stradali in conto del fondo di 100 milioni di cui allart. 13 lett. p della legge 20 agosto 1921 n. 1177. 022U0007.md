@@ -1,0 +1,49 @@
+REGIO DECRETO 05 gennaio 1922 n. 7
+
+
+REGIO DECRETO 05 gennaio 1922 n. 7
+==================================
+
+Concernente l'assegnazione di 20 milioni per sussidi e spese varie per opere stradali, in conto del fondo di 100 milioni di cui all'art. 13 lett. p) della legge 20 agosto 1921, n. 1177. (022U0007)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/02/1922
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge 20 agosto 1921, n. 1177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-20;1177);   
+  
+Ritenuto che in conto della somma di lire 100.000.000 autorizzate alla lettera p) dell'art. 13 della legge citata sono state assegnate complessivamente lire 16 milioni e che occorre ora provvedere ad una ulteriore assegnazione di lire 20.000.000 per integrare delle deficienze verificatesi per alcuni capitoli del bilancio del Ministero dei lavori pubblici per l'esercizio in corso;   
+  
+Sentito il Comitato interministeriale di cui all'art. 10 della legge stessa;   
+  
+Sulla proposta del Nostro ministro segretario di Stato pei lavori pubblici, di concerto con quello del tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+In conto del fondo di L. 100.000.000 autorizzato con la [lettera p) dell'art. 13 della legge 20 agosto 1921, n. 1177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-20;1177~art13-letp), sono assegnate le seguenti somme:   
+  
+Per sussidi a Comuni e Consorzi per opere stradali di cui all'[art. 16 della legge 20 agosto 1921, numero 1177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-08-20;1177~art16), L. 10.000.000.   
+  
+Per imprevisti, maggiori spese e casuali per le costruzioni di ponti e strade nazionali e di strade provinciali che si eseguiscono a cura dello Stato, L. 6.500.000.   
+  
+Per concorso dello Stato per le strade provinciali di 1ª e 2ª serie di cui nelle [leggi 27 giugno 1869 n. 5147, e 30 maggio 1875, n. 2521](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1875-05-30;2521), e per le strade di cui all'elenco III della [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333), da costruirsi nelle varie provincie escluse quelle di Grosseto e Pisa (circondario di Volterra), L. 3.500.000.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 5 gennaio 1922.   
+  
+VITTORIO EMANUELE.   
+  
+MICHELI - DE NAVA.   
+  
+Visto, il guardasigilli: RODINO'.   
+  

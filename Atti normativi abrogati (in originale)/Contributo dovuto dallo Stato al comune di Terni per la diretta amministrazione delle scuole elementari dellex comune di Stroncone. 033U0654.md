@@ -1,0 +1,21 @@
+REGIO DECRETO 09 febbraio 1933 n. 654
+
+
+REGIO DECRETO 09 febbraio 1933 n. 654
+=====================================
+
+Contributo dovuto dallo Stato al comune di Terni per la diretta amministrazione delle scuole elementari dell'ex comune di Stroncone. (033U0654)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/07/1933
+
+Art. 1
+------
+
+N.
+
+654. R. decreto 9 febbraio 1933, col quale, sulla proposta del Ministro per l'educazione nazionale, di concerto con quello per le finanze, viene determinato in L. 99.650,50 il contributo dovuto dallo Stato al comune di Terni per l'avvenuta aggregazione dell'ex comune di Stroncone, a norma della [legge 14 giugno 1928, n. 1482, dal 15 luglio 1927 al 30 giugno 1928](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-30;1482), in L. 98.150,50 dal 1° luglio 1928 al 30 giugno 1930, in L. 90.500,15 dal 1° luglio 1930 al 30 giugno 1931, ed in L. 40.576,38 per il semestre 1° luglio-31 dicembre 1931.   
+  
+Visto, il Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 8 giugno 1933 - Anno XI.

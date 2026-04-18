@@ -1,0 +1,320 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 2009 n. 209
+
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 12 novembre 2009 n. 209
+===============================================================
+
+Regolamento di organizzazione dell'Unione italiana tiro a segno 
+(UITS), a norma dell'articolo 26, comma 1, del decreto-legge 25 
+giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 
+agosto 2008, n. 133. (10G0011)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/02/2010
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Visto l'[articolo 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+
+Visto l'[articolo 17, comma 2, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com2), e successive modificazioni;
+
+Visto il [regio decreto-legge 16 dicembre 1935, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-16;2430), convertito, con modificazioni, dalla [legge 4 giugno 1936, n. 1143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-04;1143), concernente modifiche alle norme sul tiro a segno nazionale;
+
+Visto il [regio decreto 6 maggio 1940, n. 635](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), recante approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza;
+
+Vista la [legge 18 aprile 1975, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110), concernente norme integrative della disciplina vigente per il controllo delle armi, delle munizioni e degli esplosivi, e, in particolare, gli articoli 8 e 31;
+
+Vista la [legge 28 maggio 1981, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-28;286), recante disposizioni per l'iscrizione obbligatoria alle sezioni di tiro a segno nazionale;
+
+Visto il [decreto del Ministro dell'interno 4 marzo 1987, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1987-03-04;145), recante norme concernenti l'armamento degli appartenenti alla polizia municipale ai quali e' conferita la qualita' di agente di pubblica sicurezza, e, in particolare, l'articolo 18;
+
+Visto il [decreto legislativo 29 ottobre 1999, n. 419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;419), concernente riordinamento del sistema degli enti pubblici nazionali, a norma degli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11) e [14 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art14);
+
+Visto il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), e successive modificazioni;
+
+Visto il [decreto del Presidente della Repubblica 27 febbraio 2003, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-02-27;97), recante regolamento concernente l'amministrazione e la contabilita' degli enti pubblici di cui alla [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70), e successive modificazioni;
+
+Visto il [decreto legislativo 8 gennaio 2004, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-08;15), concernente modifiche e integrazioni al [decreto legislativo 23 luglio 1999, n. 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-23;242), recante "Riordino del Comitato olimpico nazionale italiano-CONI" ai sensi dell'[articolo 1 della legge 6 luglio 2002, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art1), e, in particolare, l'articolo 2, comma 5;
+
+Visto l'[articolo 2, commi 634](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art2-com634) e [635, della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art2-com635);
+
+Visto l'[articolo 26 del decreto-legge 25 giugno 2008, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112~art26), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133);
+
+Sentite le organizzazioni sindacali rappresentative, in relazione alla destinazione del personale;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 marzo 2009;
+
+Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'Adunanza del 7 maggio 2009;
+
+Acquisito il parere della Commissione parlamentare per la semplificazione di cui all'[articolo 14, comma 19, della legge 28 novembre 2005, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246~art14-com19);
+
+Visto l'[articolo 17, comma 2, del decreto-legge 1° luglio 2009, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-07-01;78~art17-com2), convertito, con modificazioni, dalla [legge 3 agosto 2009, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-08-03;102);
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 9 ottobre 2009;
+
+Sulla proposta del Ministro della difesa, di concerto con i Ministri per la pubblica amministrazione e l'innovazione, per la semplificazione normativa, per l'attuazione del programma di Governo e dell'economia e delle finanze;
+
+Emana
+-----
+
+il seguente regolamento:
+
+Art. 1
+------
+
+Natura e finalita' dell'ente
+
+  
+  
+l. L'Unione italiana tiro a segno, di seguito denominata "UITS", di cui al [regio decreto-legge 16 dicembre 1935, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-16;2430), convertito con modificazioni dalla [legge 4 giugno 1936, n. 1143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-04;1143), e successive modificazioni, e' riordinata quale ente di diritto pubblico, avente finalita' di istruzione ed esercizio al tiro con arma da fuoco individuale o con arma o strumento ad aria compressa e di rilascio della relativa certificazione per gli usi di legge, nonche' di diffusione e pratica sportiva del tiro a segno.  
+2. L'UITS e' sottoposta alla vigilanza del Ministero della difesa e realizza i fini istituzionali di istruzione, di addestramento e di certificazione per il tramite delle sezioni di tiro a segno nazionale, d'ora in poi "TSN". Essa e' altresi' federazione sportiva nazionale di tiro a segno riconosciuta dal CONI, sotto la cui vigilanza e' posta ai sensi e per gli effetti del [decreto legislativo 23 luglio 1999, n. 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-23;242), e successive modificazioni.  
+
+Avvertenza:   
+Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
+Note alle premesse:   
+- L'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87), tra l'altro, conferisce al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge e i regolamenti.   
+- Il testo dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com2) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 12 settembre 1988, n. 214, e' il seguente:   
+«2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.».   
+- Il [regio decreto-legge 16 dicembre 1935, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-16;2430), concernente «Modificazioni alle vigenti norme sul tiro a segno nazionale», e' pubblicato nella Gazzetta Ufficiale 31 gennaio 1936, n. 25.   
+- La [legge 4 giugno 1936, n. 1143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-04;1143), concernente la conversione, con modificazioni, del [regio decreto-legge 16 dicembre 1935, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-16;2430), concernente «Modificazioni alle vigenti norme sul tiro a segno nazionale», e' pubblicato nella Gazzetta Ufficiale 25 giugno 1936, n. 146.   
+- Il [regio decreto 6 maggio 1940, n. 635](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635) (approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza), e' pubblicato nella Gazzetta Ufficiale 26 giugno 1940, n. 149.   
+- Si riportano gli [articoli 8](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110~art8) e [31 della legge 18 aprile 1975, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110~art31), e successive modificazioni, concernente «Norme integrative della disciplina vigente per il controllo delle armi, delle munizioni e degli esplosivi», pubblicata nella Gazzetta Ufficiale 21 aprile 1975, n. 105:   
+«Art. 8 (Accertamento per il rilascio di autorizzazione di polizia in materia di armi). - La richiesta intesa ad ottenere il nulla osta per l'acquisto o la cessione di armi, ai sensi dell'art. 35, terzo comma, del T.U. 18 giugno 1931, n. 773, modificato con [decreto-legge 22 novembre 1956, n. 1452](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1956-11-22;1452), deve indicare i motivi dell'acquisto o della cessione.   
+La licenza di cui all'[art. 31 del testo unico delle leggi di pubblica sicurezza](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art31) e' richiesta anche per l'esercizio dell'industria di riparazione delle armi.   
+Il rilascio delle autorizzazioni per la fabbricazione, la raccolta, il commercio, il deposito e la riparazione di armi, nonche' del permesso di porto d'armi, previsti dagli articoli 28, 31, 32, 35 e 42 del testo unico sopracitato e 37, [regio decreto 6 maggio 1940, n. 635](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), e dalla presente legge, e' subordinato all'accertamento della capacita' tecnica del richiedente. L'accertamento non occorre per l'autorizzazione alla collezione.   
+Ai fini dell'accertamento della capacita' tecnica, l'interessato deve sostenere apposito esame presso la commissione di cui all'[art. 49 del testo unico delle leggi di pubblica sicurezza](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art49). La commissione e' integrata da un esperto designato dal Ministero della difesa quando l'accertamento e' richiesto da persona che debba esercitare l'attivita' di fabbricazione, riparazione o commercio di armi.   
+Le disposizioni di cui ai precedenti commi si applicano altresi' alle persone che rappresentano, a norma dell'art. 8 del citato testo unico, il titolare dell'autorizzazione di polizia.   
+Coloro che hanno prestato servizio militare nelle Forze armate o in uno dei Corpi armati dello Stato ovvero abbiano appartenuto ai ruoli del personale civile della pubblica sicurezza in qualita' di funzionari o che esibiscano certificato d'idoneita' al maneggio delle armi rilasciato dalla competente sezione della Federazione del tiro a segno nazionale devono sottoporsi all'accertamento tecnico soltanto per l'esercizio delle attivita' di fabbricazione, riparazione o commercio di armi.   
+L'accertamento della capacita' tecnica non e' richiesto per l'acquisto e il porto di armi da parte di coloro che siano autorizzati per legge.   
+La capacita' tecnica e' presunta nei confronti di coloro che, all'atto dell'entrata in vigore della presente legge, abbiano gia' ottenuto le autorizzazioni ovvero abbiano adempiuto agli obblighi previsti in materia dalle disposizioni del [testo unico delle leggi di pubblica sicurezza](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773) e del [regio decreto 6 maggio 1940, n. 635](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635).   
+Coloro che esercitano l'industria di riparazione delle armi devono richiedere alla competente autorita' di pubblica sicurezza la licenza di cui al secondo comma del presente articolo entro il termine di quarantacinque giorni dall'entrata in vigore della legge.   
+L'[art. 33 del testo unico delle leggi di pubblica sicurezza](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art33) 18 giugno 1931, n. 773 , e' abrogato».   
+«Art. 31 (Vigilanza sulle attivita' di tiro a segno). - Ferme restando le disposizioni di cui al [decreto-legge 16 dicembre 1935, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1935-12-16;2430), convertito nella [legge 4 giugno 1936, n. 1143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-04;1143), sul tiro a segno nazionale e successive modificazioni, i direttori e gli istruttori delle sezioni dell'Unione di tiro a segno nazionale devono munirsi di apposita licenza del prefetto, da rilasciarsi previo accertamento della capacita' tecnica e dei requisiti di cui al precedente art. 9.   
+La capacita' tecnica e' presunta nei confronti di coloro che esercitano la propria attivita' in seno alle sezioni del tiro a segno all'entrata in vigore della presente legge.   
+I presidenti delle sezioni di tiro a segno sono obbligati a tenere costantemente aggiornati:   
+a) l'elenco degli iscritti con le relative generalita';   
+b) l'inventario delle armi in dotazione con la relativa descrizione per numero di matricola, tipo, calibro, fabbrica e nazionalita', con richiamo ai titoli che ne legittimano la provenienza, ai fini di cui all'ultimo comma dell'[art. 38 del testo unico delle leggi di pubblica sicurezza](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art38) 18 giugno 1931, n. 773;   
+c) il registro di carico e scarico per le munizioni, con l'indicazione dei nominativi degli utilizzatori;   
+d) un registro sulle frequenze in cui devono giornalmente annotarsi le generalita' di coloro che si esercitano al tiro, con l'indicazione delle armi da ciascuno impiegate nonche' degli orari di inizio e di conclusione delle singole esercitazioni.   
+Gli atti di cui al precedente comma devono essere esibiti ad ogni richiesta degli ufficiali o agenti di pubblica sicurezza, i quali vi appongono la data e la firma ogni qualvolta procedono al loro esame.   
+I presidenti delle sezioni di tiro a segno sono responsabili dell'osservanza delle disposizioni del primo comma dell'art. 20 della presente legge.   
+La vidimazione della carta di riconoscimento prevista dall'[art. 76 del regio decreto 6 maggio 1940, n. 635](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635~art76), e' attribuita all'autorita' provinciale di pubblica sicurezza che vi procede secondo le competenze stabilite dagli [articoli 42](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art42) e [44 del testo unico delle leggi di pubblica sicurezza](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art44), previo accertamento dei requisiti soggettivi prescritti per il rilascio delle licenze di porto d'armi.   
+Salvo che il fatto non costituisca piu' grave reato, il trasgressore degli obblighi di cui al presente articolo e' punito con l'arresto da tre mesi a due anni o con l'ammenda da euro 206 a euro 1.032.».   
+- La [legge 28 maggio 1981, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-28;286), concernente «Disposizioni per l'iscrizione obbligatoria alle sezioni di tiro a segno nazionale» e' pubblicata nella Gazzetta Ufficiale 11 giugno 1981, n. 159.   
+- Si riporta l'[art. 18 del decreto del Ministro dell'interno 4 marzo 1987, n. 145](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno:decreto:1987-03-04;145~art18), recante «Norme concernenti l'armamento degli appartenenti alla polizia municipale, ai quali e' conferita la qualita' di agente di pubblica sicurezza», pubblicato nella Gazzetta Ufficiale 16 aprile 1987, n. 89:   
+«Art. 8. - 1. Gli addetti alla polizia municipale che rivestono la qualita' di agente di pubblica sicurezza prestano servizio armato dopo aver conseguito il necessario addestramento e devono superare ogni anno almeno un corso di lezioni regolamentari di tiro a segno, presso poligoni abilitati per l'addestramento al tiro con armi comuni da sparo.   
+2. A tal fine i comuni, nel quadro dei programmi di addestramento e formazione disposti dalle regioni, possono stipulare apposite convenzioni con le sezioni del tiro a segno nazionale, nonche' con gli enti o comandi che dispongono di propri poligoni abilitati, nell'ambito territoriale del comune o di comuni limitrofi, ovvero possono costituire propri poligoni di tiro, osservate, in quanto applicabili, le disposizioni vigenti per la costituzione ed il funzionamento delle sezioni del tiro a segno nazionale.   
+3. Nei poligoni appositamente costituiti ai sensi del comma precedente possono effettuare esercitazioni o corsi di tiro esclusivamente gli addetti alla polizia municipale nonche', previe apposite convenzioni con l'ente o comando di appartenenza, i dipendenti dello Stato che per ragione del loro servizio debbono prestare servizio con armi.   
+4. Oltre quanto previsto dalla [legge 28 maggio 1981, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-28;286), contenente disposizioni per la iscrizione alle sezioni del tiro a segno nazionale, il sindaco puo' disporre la ripetizione dell'addestramento al tiro nel corso dell'anno per gli addetti alla polizia municipale o per quelli fra essi che svolgono particolari servizi.   
+5. I corsi di tiro effettuati presso poligoni di enti o comandi dello Stato o presso poligoni appositamente costituiti per la polizia municipale sono equivalenti a tutti gli effetti ai corsi delle sezioni del tiro a segno nazionale.   
+6. I provvedimenti e le convenzioni adottate ai sensi dei precedenti commi sono comunicati al prefetto.».   
+- Il [decreto legislativo 29 ottobre 1999, n. 419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;419) (Riordinamento del sistema degli enti pubblici nazionali, a norma degli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11) e [14 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art14)), e' pubblicato nella Gazzetta Ufficiale 15 novembre 1999, n. 268.   
+- La [legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59) (Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della Pubblica amministrazione e per la semplificazione amministrativa), e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 17 marzo 1997, n. 63.   
+- Il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche), e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 9 maggio 2001, n. 106.   
+- Il [decreto del Presidente della Repubblica 27 febbraio 2003, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-02-27;97) (Regolamento concernente l'amministrazione e la contabilita' degli enti pubblici di cui alla [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70)) e' pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 6 maggio 2003, n. 103.   
+- La [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70) (Disposizioni sul riordinamento degli enti pubblici e del rapporto di lavoro del personale dipendente), e' pubblicata nella Gazzetta Ufficiale 2 aprile 1975, n. 87.   
+- Si riporta il [comma 5 dell'art. 2 del decreto legislativo 8 gennaio 2004, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2004-01-08;15~art2-com5), concernente modifiche ed integrazioni al [decreto-legislativo 23 luglio 1999, n. 242](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-23;242), recante «Riordino del Comitato olimpico nazionale italiano - CONI», ai sensi dell'[art. 1 della legge 6 luglio 2002, n. 37](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;37~art1):   
+«5. Nulla e' innovato quanto alla natura giuridica dell'Aeroclub d'Italia, dell'Automobile club d'Italia e dell'Unione italiana tiro a segno, che svolgono le attivita' di federazioni sportive nazionali secondo la disciplina prevista dai rispettivi ordinamenti.».   
+- Si riportano i [commi da 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246~art14-com19) [a 24 dell'art. 14 della legge 28 novembre 2005, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246~art14-com24), pubblicata nella Gazzetta Ufficiale 1° dicembre 2005, n. 280, concernente «Semplificazione e riassetto normativo per l'anno 2005»:   
+«19. E' istituita la "Commissione parlamentare per la semplificazione", di seguito denominata "Commissione" composta da venti senatori e venti deputati, nominati rispettivamente dal Presidente del Senato della Repubblica e dal Presidente della Camera dei deputati nel rispetto della proporzione esistente tra i gruppi parlamentari, su designazione dei gruppi medesimi. La Commissione elegge tra i propri componenti un presidente, due vicepresidenti e due segretari che insieme con il presidente formano l'Ufficio di presidenza. La Commissione si riunisce per la sua prima seduta entro venti giorni dalla nomina dei suoi componenti, per l'elezione dell'Ufficio di presidenza.   
+20. Alle spese necessarie per il funzionamento della Commissione si provvede, in parti uguali, a carico dei bilanci interni di ciascuna delle due Camere.   
+21. La Commissione:   
+a) esprime il parere sugli schemi dei decreti legislativi di cui ai commi 14, 14-quater, 15, 18 e 18-bis;   
+b) verifica periodicamente lo stato di attuazione del procedimento per l'abrogazione generalizzata di norme di cui al comma 14-ter e ne riferisce ogni sei mesi alle Camere;   
+c) esercita i compiti di cui all'[art. 5, comma 4, della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art5-com4).   
+22. Per l'acquisizione del parere, gli schemi dei decreti legislativi di cui ai commi 14, 14-quater, 15, 18 e 18-bis sono trasmessi alla Commissione, che si pronuncia entro trenta giorni. Il Governo, ove ritenga di non accogliere, in tutto o in parte, le eventuali condizioni poste, ritrasmette il testo, con le proprie osservazioni e con le eventuali modificazioni, alla Commissione per il parere definitivo, da rendere nel termine di trenta giorni.  
+Se il termine previsto per il parere della Commissione cade nei trenta giorni che precedono la scadenza di uno dei termini previsti dai commi 14, 14-quater, 15, 18 e 18-bis, la scadenza medesima e' prorogata di novanta giorni.   
+23. La Commissione puo' chiedere una sola volta ai Presidenti delle Camere una proroga di venti giorni per l'adozione del parere, qualora cio' si renda necessario per la complessita' della materia o per il numero di schemi trasmessi nello stesso periodo all'esame della Commissione.  
+Trascorso il termine, eventualmente prorogato, il parere si intende espresso favorevolmente. Nel computo dei termini non viene considerato il periodo di sospensione estiva dei lavori parlamentari.   
+24. La Commissione esercita i compiti di cui al comma 21, lettera c), a decorrere dall'inizio della legislatura successiva alla data di entrata in vigore della presente legge. Dallo stesso termine cessano gli effetti dell'[art. 5, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art5-com1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art5-com2) e [3, della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art5-com3).».   
+- Il testo dell'[art. 2, commi 634](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art2-com634) e [635 della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art2-com635) (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2008), pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 28 dicembre 2007, n. 300, e' il seguente:   
+«634. Al fine di conseguire gli obiettivi di stabilita' e crescita, di ridurre il complesso della spesa di funzionamento delle amministrazioni pubbliche, di incrementare l'efficienza e di migliorare la qualita' dei servizi, con uno o piu' regolamenti, da emanare entro il 31 ottobre 2009, ai sensi dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com2), su proposta del Ministro o dei Ministri interessati, di concerto con il Ministro per la pubblica amministrazione e l'innovazione, il Ministro per la semplificazione normativa, il Ministro per l'attuazione del programma di Governo e il Ministro dell'economia e delle finanze sentite le organizzazioni sindacali in relazione alla destinazione del personale, sono riordinati, trasformati o soppressi e messi in liquidazione, enti ed organismi pubblici statali, nonche' strutture pubbliche statali o partecipate dallo Stato, anche in forma associativa, nel rispetto dei seguenti principi e criteri direttivi:   
+a) fusione di enti, organismi e strutture pubbliche comunque denominate che svolgono attivita' analoghe o complementari, con conseguente riduzione della spesa complessiva e corrispondente riduzione del contributo statale di funzionamento;   
+b) trasformazione degli enti ed organismi pubblici che non svolgono funzioni e servizi di rilevante interesse pubblico in soggetti di diritto privato, ovvero soppressione e messa in liquidazione degli stessi secondo le modalita' previste dalla [legge 4 dicembre 1956, n. 1404](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1956-12-04;1404), e successive modificazioni, fermo restando quanto previsto dalla lettera e) del presente comma, nonche' dall'[art. 9, comma 1-bis, lettera c), del decreto-legge 15 aprile 2002, n. 63](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2002-04-15;63~art9-com1bis-letc), convertito, con modificazioni, dalla [legge 15 giugno 2002, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-06-15;112);   
+c) fusione, trasformazione o soppressione degli enti che svolgono attivita' in materie devolute alla competenza legislativa regionale ovvero attivita' relative a funzioni amministrative conferite alle regioni o agli enti locali;   
+d) razionalizzazione degli organi di indirizzo amministrativo, di gestione e consultivi e riduzione del numero dei componenti degli organi collegiali almeno del 30 per cento, con salvezza della funzionalita' dei predetti organi;   
+e) previsione che, per gli enti soppressi e messi in liquidazione, lo Stato risponde delle passivita' nei limiti dell'attivo della singola liquidazione in conformita' alle norme sulla liquidazione coatta amministrativa;   
+f) abrogazione delle disposizioni legislative che prescrivono il finanziamento, diretto o indiretto, a carico del bilancio dello Stato o di altre amministrazioni pubbliche, degli enti ed organismi pubblici soppressi e posti in liquidazione o trasformati in soggetti di diritto privato ai sensi della lettera b);   
+g) trasferimento, all'amministrazione che riveste preminente competenza nella materia, delle funzioni di enti, organismi e strutture soppressi;   
+h) la riduzione del numero degli uffici dirigenziali esistenti presso gli enti con corrispondente riduzione degli organici del personale dirigenziale e non dirigenziale ed il contenimento delle spese relative alla logistica ed al funzionamento;   
+i) la riduzione da parte delle amministrazioni vigilanti del numero dei propri uffici dirigenziali con corrispondente riduzione delle dotazioni organiche del personale dirigenziale e non dirigenziale nonche' il contenimento della spesa per la logistica ed il funzionamento.   
+635. Gli schemi dei regolamenti di cui al comma 634 sono trasmessi al Parlamento per l'acquisizione del parere della Commissione di cui all'[art. 14, comma 19, della legge 28 novembre 2005, n. 246](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2005-11-28;246~art14-com19). Il parere e' espresso entro trenta giorni dalla data di trasmissione degli schemi di regolamento, salva la richiesta di proroga ai sensi del comma 23 del medesimo art. 14. Trascorso tale termine, eventualmente prorogato, il parere si intende espresso favorevolmente.».   
+- Il testo dell'[art. 26, commi da 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112~art26-com1) [a 3, del decreto-legge 25 giugno 2008, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112~art26-com3) (Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 25 giugno 2008, n. 147, convertito con modificazioni dalla [legge 6 agosto 2008, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133), e successive modificazioni, e' il seguente:   
+«Art. 26 (Taglia-enti). - 1. Gli enti pubblici non economici con una dotazione organica inferiore alle 50 unita', con esclusione degli ordini professionali e loro federazioni, delle federazioni sportive e degli enti non inclusi nell'elenco ISTAT pubblicato in attuazione del [comma 5 dell'art. 1 della legge 30 dicembre 2004, n. 311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-12-30;311~art1-com5), degli enti la cui funzione consiste nella conservazione e nella trasmissione della memoria della Resistenza e delle deportazioni, anche con riferimento alle [leggi 20 luglio 2000, n. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-07-20;211), istitutiva della Giornata della memoria, e 30 marzo 2004, n. 92, istitutiva del Giorno del ricordo, nonche' delle autorita' portuali, degli enti parco e degli enti di ricerca, sono soppressi al novantesimo giorno dalla data di entrata in vigore della legge di conversione del presente decreto, ad eccezione di quelli confermati con decreto dei Ministri per la pubblica amministrazione e l'innovazione e per la semplificazione normativa, da emanarsi entro il predetto termine. Sono, altresi', soppressi tutti gli enti pubblici non economici, per i quali, alla scadenza del 31 ottobre 2009, non siano stati emanati i regolamenti di riordino ai sensi del [comma 634 dell'art. 2 della legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244~art2-com634). Il termine di cui al secondo periodo si intende comunque rispettato con l'approvazione preliminare del Consiglio dei Ministri degli schemi dei regolamenti di riordino. Nei successivi novanta giorni i Ministri vigilanti comunicano ai Ministri per la pubblica amministrazione e l'innovazione e per la semplificazione normativa gli enti che risultano soppressi ai sensi del presente comma.   
+2. Le funzioni esercitate da ciascun ente soppresso sono attribuite all'amministrazione vigilante ovvero, nel caso di pluralita' di amministrazioni vigilanti, a quella titolare delle maggiori competenze nella materia che ne e' oggetto. L'amministrazione cosi' individuata succede a titolo universale all'ente soppresso, in ogni rapporto, anche controverso, e ne acquisisce le risorse finanziarie, strumentali e di personale. I rapporti di lavoro a tempo determinato, alla prima scadenza successiva alla soppressione dell'ente, non possono essere rinnovati o prorogati.   
+3. Il comma 636 dell'art. 2 e l'allegato A della [legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244), nonche' i [commi da 580](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296~art1-com580) [a 585 dell'art. 1 della legge 27 dicembre 2006, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-12-27;296~art1-com585), sono abrogati.».   
+- La [legge 6 agosto 2008, n. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133) (Conversione in legge, con modificazioni, del [decreto-legge 25 giugno 2008, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), recante disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria), e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 21 agosto 2008, n. 195.   
+- L'[art. 17 del decreto-legge 1° luglio 2009, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-07-01;78~art17) (Provvedimenti anticrisi, nonche' proroga di termini), pubblicato nella Gazzetta Ufficiale 1° luglio 2009, n. 150, convertito con modificazioni dalla [legge 3 agosto 2009, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-08-03;102), ha tra l'altro introdotto modifiche all'[art. 26 del decreto-legge 25 giugno 2008, n. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112~art26), convertito, con modificazioni, dalla [legge 6 agosto 2008, n. 133, e all'art. 2, comma 634](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133~art2-com634), della [legge 24 dicembre 2007, n. 244](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2007-12-24;244).   
+- La [legge 3 agosto 2009, n. 102](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-08-03;102) (Conversione in legge, con modificazioni, del [decreto-legge 1° luglio 2009, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2009-07-01;78), recante provvedimenti anticrisi, nonche' proroga di termini e della partecipazione italiana a missioni internazionali), e' pubblicata nel supplemento ordinario alla Gazzetta Ufficiale 4 agosto 2009, n. 179.   
+Note all'[art. 1:   
+- Per il regio decreto-legge 16 dicembre 1935, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-16;2430~art1), e la legge di conversione 4 giugno 1936, n. 1143, si veda nelle note alle premesse.   
+- Il decreto legislativo 23 luglio 19999, n. 242, concernente «Riordino del Comitato olimpico nazionale italiano - C.O.N.I., a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11)», e' pubblicato nella Gazzetta Ufficiale 29 luglio 1999, n. 176.
+
+Art. 2
+------
+
+Organi centrali
+
+l . Sono organi centrali dell'UITS:  
+a) l'assemblea nazionale;  
+b) il presidente nazionale;  
+c) il consiglio direttivo;  
+d) il consiglio di presidenza;  
+e) il collegio dei revisori dei conti.
+
+2. L'assemblea nazionale delibera in ordine agli indirizzi strategici, alle politiche generali di pianificazione e alle verifiche delle attivita' dell'ente. E' composta dai rappresentanti delle sezioni TSN, con diritto di voto, nonche' da altri membri indicati nello statuto di cui all'articolo 4, senza diritto di voto.
+
+3. Il presidente nazionale, eletto dall'assemblea nazionale dell'UITS, e' nominato, su proposta del Ministro della difesa, con decreto del Presidente della Repubblica previa deliberazione del Consiglio dei Ministri. Ha la rappresentanza legale dell'ente, del cui funzionamento e' responsabile nei confronti del Ministero della difesa, del CONI e dell'assemblea nazionale, in base ai compiti stabiliti nello statuto di cui all'articolo
+
+4. E' coadiuvato da un vicepresidente nazionale, designato dal consiglio direttivo tra i propri consiglieri e nominato con decreto del Ministro della difesa.  
+4. Il consiglio direttivo ha poteri di direzione, programmazione, amministrazione e controllo operativo delle attivita' svolte dall'ente, quali stabiliti nel citato statuto. E' composto dal presidente nazionale, che lo presiede, e da dodici consiglieri, eletti dall'assemblea nazionale dell'UITS tra i tesserati e nominati dal Ministro della difesa. Dei consiglieri, otto sono eletti dai presidenti delle sezioni TSN e dai rappresentanti dei gruppi sportivi, uno dai rappresentanti dei tecnici sportivi e tre dai rappresentanti degli atleti, garantendo l'elezione di una atleta.
+
+5. Il consiglio di presidenza, costituito nell'ambito del consiglio direttivo secondo la composizione e con le modalita' stabilite nello statuto di cui all'articolo 4, e' convocato dal presidente nazionale per la trattazione di argomenti che formano oggetto di delega da parte del consiglio direttivo e ogni qualvolta motivi di necessita' o urgenza lo richiedono. Le decisioni assunte per ragioni di necessita' o urgenza, su materie non rientranti nella delega, sono oggetto di ratifica da parte del consiglio direttivo.
+
+6. Il collegio dei revisori dei conti e' costituito da tre membri effettivi e un supplente, rispettivamente designati, uno dal Ministero dell'economia e delle finanze, che svolge le funzioni di presidente dell'organo, uno effettivo ed uno supplente dall'assemblea nazionale dell'UITS e uno dal CONI. I componenti del collegio sono nominati con decreto del Ministro della difesa.
+
+7. I componenti degli organi di cui al presente articolo restano in carica per un quadriennio olimpico e possono essere confermati una sola volta per un ulteriore mandato. Essi decadono altresi' se subentrati nel corso del quadriennio.
+
+Art. 3
+------
+
+Sezioni TSN
+
+1. Le sezioni TSN svolgono i compiti istituzionali stabiliti dal [regio decreto-legge 16 dicembre 1935, n. 2430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935-12-16;2430), convertito, con modificazioni, dalla [legge 4 giugno 1936, n. 1143](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1936-06-04;1143), dal [regio decreto 6 maggio 1940, n. 635](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), concernente approvazione del regolamento per l'esecuzione del [testo unico 18 giugno 1931, n. 773](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1931-06-18;773), delle leggi di pubblica sicurezza, dalla [legge 18 aprile 1975, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110), dalla [legge 28 maggio 1981, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-28;286), e successive modificazioni, nonche', anche sulla base di direttive degli organi centrali, attivita' agonistiche o amatoriali in regime di affiliazione. In particolare:
+
+a) provvedono all'addestramento di quanti sono obbligati per legge a iscriversi a una sezione TSN;
+
+b) curano lo svolgimento dello sport del tiro a segno e la preparazione tecnica degli iscritti, nonche' l'organizzazione di manifestazioni sportive;
+
+c) svolgono attivita' promozionale e di divulgazione dello sport del tiro a segno, anche mediante attivita' ludiche propedeutiche all'uso delle armi.
+
+2. Le sezioni TSN sono dotate di struttura organizzativa e di assetti operativi, amministrativi gestionali e di funzionamento autonomi, definiti in apposito statuto in base a criteri di semplificazione. Svolgono attivita' di tiro a segno con coordinamento e vigilanza dell'UITS, nonche' sotto il controllo dei Ministeri della difesa e dell'interno, peri profili di rispettiva competenza concernenti la realizzazione e tenuta degli impianti di tiro e relativa agibilita', nonche' compiti di pubblica sicurezza connessi all'uso delle armi. L'attivita' svolta, fatto salvo l'esercizio delle funzioni pubbliche attribuite dalla legge, e' disciplinata dalle norme di diritto privato.
+
+3. In ogni comune puo' essere costituita una sola sezione TSN.  
+Possono essere costituite, previa autorizzazione dell'UITS, una o piu' delegazioni per sezione TSN, prive di autonomia amministrativa, per lo svolgimento delle attivita' istituzionali e sportive delegate dalla sezione TSN di appartenenza.
+
+4. Gli impianti di tiro e le relative aree di sedime appartenenti al demanio dello Stato o di altro ente pubblico, in uso alle sezioni TSN alla data di entrata in vigore del presente regolamento, continuano ad essere utilizzate dalle stesse sezioni secondo le modalita' vigenti alla medesima data. Le TSN possono provvedere, anche direttamente, all'ammodernamento degli impianti di tiro utilizzati.
+
+5. Le sezioni TSN svolgono i propri compiti con le entrate costituite da:
+
+a) quote annuali dei propri iscritti;
+
+b) proventi dei corsi di lezioni regolamentari di tiro a segno previsti per coloro che vi sono obbligati per legge;
+
+c) proventi dell'attivita' sportiva e ludica;
+
+d) contributi corrisposti da enti pubblici e privati, nonche' donazioni, liberalita' e lasciti previa accettazione deliberata con le modalita' stabilite nello statuto della sezione TSN;
+
+e) corrispettivi per l'attivita' didattica, promozione pubblicitaria eventualmente svolta.
+
+Note all'[art. 3:   
+- Per il regio decreto-legge n. 2430 del 1935](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1935;2430~art3), il [regio decreto 6 maggio 1940, n. 635](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635), la [legge 18 aprile 1975, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110) e la [legge 28 maggio 1981, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-05-28;286) si vede nelle note alle premesse.
+
+Art. 4
+------
+
+Statuto UITS
+
+1. L'organizzazione e il funzionamento dell'UITS sono disciplinati con statuto redatto in base ai principi contenuti nel [decreto legislativo 29 ottobre 1999, n. 419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-10-29;419), e nel [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), e successive modificazioni, nonche' nel presente regolamento. Lo statuto e' deliberato dall'assemblea nazionale su proposta del consiglio direttivo; esso e' ratificato, a fini sportivi, dal CONI ed e' approvato con decreto del Ministro della difesa, di concerto con il Ministro dell'economia e delle finanze.
+
+2. Lo statuto, tra l'altro, definisce, secondo criteri di efficacia, efficienza, economicita' e semplificazione:
+
+a) i compiti e il funzionamento degli organi di cui all'articolo 2;
+
+b) le modalita' di svolgimento delle attivita' di istituto dell'UITS e le sue competenze in materia di costituzione, scioglimento, organizzazione, distribuzione territoriale e di funzionamento delle sezioni TSN;
+
+c) i compiti di direzione, coordinamento e vigilanza dell'UITS nei confronti delle sezioni e dei gruppi sportivi, anche ai fini dell'affiliazione al CONI e della preparazione dei tiratori per l'attivita' sportiva nazionale e internazionale, con particolare riguardo ai tiratori minorenni;
+
+d) i compiti in capo all'UITS di rappresentanza presso gli enti e le amministrazioni vigilanti, anche per conto delle sezioni TSN, nonche' di promozione, propaganda, disciplina e svolgimento dello sport del tiro a segno e delle attivita' ludiche propedeutiche presso l'organizzazione periferica;
+
+e) la regolamentazione delle operazioni di tiro e dei relativi incarichi o funzioni, nonche' dell'impiego degli impianti per le armi o gli strumenti ad aria compressa e dei poligoni per armi da fuoco.  
+L'uso degli impianti per armi e strumenti ad aria compressa e per le armi di prima categoria e' regolato dall'UITS. L'uso degli impianti per le armi di categoria superiore alla prima e' regolato dall'UITS, d'intesa con il Ministero della difesa;
+
+f) l'eventuale costituzione di un fondo speciale per fini di costruzione e mantenimento in efficienza dei poligoni e impianti per il tiro, alimentato con i proventi da attivita' svolte ai sensi dell'[articolo 8 della legge 18 aprile 1975, n. 110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-04-18;110~art8), secondo importi stabiliti dal consiglio direttivo dell'UITS in misura comunque non superiore a una percentuale di ciascuna quota introitata, deliberata dall'assemblea nazionale;
+
+g) le modalita' e le misure del versamento delle entrate alla gestione nazionale, nonche' dell'erogazione delle spese, per il funzionamento dell'organizzazione centrale e per esigenze di quella periferica;
+
+h) le modalita' di gestione e di pertinente utilizzo dei beni di proprieta' dell'UITS e dell'organizzazione periferica, nonche' dei beni demaniali in uso;
+
+i) la costituzione, l'organizzazione, i compiti e le modalita' di funzionamento delle strutture periferiche, nonche' degli organi di giustizia sportiva;
+
+l) le modalita' di adozione e i contenuti dello statuto delle sezioni TSN, di cui all'articolo 3, comma 2;
+
+m) le categorie degli iscritti e dei tesserati, i requisiti e le modalita' di iscrizione, le norme comportamentali, i riconoscimenti, le infrazioni e le sanzioni disciplinari;
+
+n) la definizione dei simboli dell'UITS e delle sezioni TSN;
+
+o) le modalita' di adozione di regolamenti interni attuativi.
+
+Note all'[art. 4:   
+- Per il decreto legislativo n. 419 del 1999](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999;419~art4), il [decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165) e la [legge n. 110 del 1975](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975;110) si veda nelle note alle premesse.
+
+Art. 5
+------
+
+Entrate
+
+1. Le entrate dell'UITS sono costituite da:
+
+a) importi non superiori al venticinque per cento della quota di iscrizione alle sezioni a qualunque titolo, della quota di tesseramento all'UITS presso le sezioni TSN e i gruppi sportivi, della quota di affiliazione annuale;
+
+b) contributi e finanziamenti erogati dal CONI per le attivita' sportive e agonistiche;
+
+c) donazioni, liberalita' e lasciti, previa accettazione deliberata dal consiglio direttivo;
+
+d) eventuali contributi pubblici, con esclusione dei finanziamenti a carico del bilancio dello Stato;
+
+e) corrispettivi per eventuali attivita' rese;
+
+f) entrate eventuali e diverse;
+
+g) rendite patrimoniali.
+
+Art. 6
+------
+
+Amministrazione e contabilita'
+
+1. La gestione amministrativa, contabile e finanziaria, la tenuta delle scritture, nonche' la predisposizione dei documenti contabili preventivi e consuntivi sono disciplinati con regolamento di amministrazione e contabilita' adottato ai sensi dell'[articolo 2, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-02-27;97~art2-com2) e [3, del decreto del Presidente della Repubblica 27 febbraio 2003, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-02-27;97~art2-com3).
+
+2. Il regolamento di cui al comma 1 recepisce le disposizioni del [decreto del Presidente della Repubblica 27 febbraio 2003, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-02-27;97), e le integra in ragione dell'assetto e delle esigenze dell'UITS.
+
+Note all'art. 6:   
+- Si riporta il testo dell'[art. 2, commi 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-02-27;97~art2-com2) e [3, del decreto del Presidente della Repubblica 27 febbraio 2003, n. 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2003-02-27;97~art2-com3) (Regolamento concernente l'amministrazione e la contabilita' degli enti pubblici di cui alla [legge 20 marzo 1975, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1975-03-20;70)), pubblicato nel supplemento ordinario alla Gazzetta Ufficiale 6 maggio 2003, n. 103:   
+«2. Gli enti destinatari, in ragione dell'assetto dimensionale ed organizzativo, integrano con proprio regolamento, adottato in armonia con le disposizioni contenute nella [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241) e nel [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), e successive modificazioni, l'amministrazione e la contabilita' nelle materie non specificatamente disciplinate dal presente regolamento.   
+3. Il regolamento di contabilita', deliberato dall'organo di vertice, e' trasmesso all'amministrazione vigilante ed al Ministero dell'economia e delle finanze - Dipartimento della Ragioneria generale dello Stato.».
+
+Art. 7
+------
+
+Disposizioni transitorie e finali
+
+1. Entro centottanta giorni dalla data di entrata in vigore del presente regolamento:
+
+a) e' adottato lo statuto di cui all'articolo 4, con le modalita' ivi previste;
+
+b) decadono dalla carica i componenti del consiglio direttivo e del collegio dei revisori dei conti nominati dal Presidente nazionale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 12 novembre 2009
+
+NAPOLITANO
+
+Berlusconi, Presidente del Consiglio dei Ministri
+
+La Russa, Ministro della difesa
+
+Brunetta, Ministro per la pubblica amministrazione e l'innovazione
+
+Calderoli, Ministro per la semplificazione normativa
+
+Rotondi, Ministro per l'attuazione del programma di Governo
+
+Tremonti, Ministro dell'economia e delle finanze
+
+Visto, il Guardasigilli: Alfano Registrato alla Corte dei conti il 13 gennaio 2010
+
+Ministeri istituzionali, registro n. 1, foglio n. 86

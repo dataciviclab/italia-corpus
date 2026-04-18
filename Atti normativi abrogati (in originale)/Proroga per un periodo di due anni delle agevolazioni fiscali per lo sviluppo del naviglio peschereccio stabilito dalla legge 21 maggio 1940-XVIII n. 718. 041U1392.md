@@ -1,0 +1,41 @@
+LEGGE 05 dicembre 1941 n. 1392
+
+
+LEGGE 05 dicembre 1941 n. 1392
+==============================
+
+Proroga, per un periodo di due anni, delle agevolazioni fiscali per lo sviluppo del naviglio peschereccio stabilito dalla legge 21 maggio 1940-XVIII, n. 718. (041U1392)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/01/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:.   
+  
+Articolo Unico   
+  
+Il termine indicato all'art. 1 della legge 21 maggio 1940-XVIII, n. 718, circa la messa in servizio di scafi di qualsiasi tonnellaggio con o senza apparato di propulsione meccanica, per la pesca e per il trasporto del pesce e degli altri animali acquatici, delle spugne e dei coralli, e' prorogato al 31 dicembre 1943-XXII.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 5 dicembre 1941-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+  

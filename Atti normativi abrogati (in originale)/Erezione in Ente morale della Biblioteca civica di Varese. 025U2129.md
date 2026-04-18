@@ -1,0 +1,21 @@
+REGIO DECRETO 26 novembre 1925 n. 2129
+
+
+REGIO DECRETO 26 novembre 1925 n. 2129
+======================================
+
+Erezione in Ente morale della Biblioteca civica di Varese. (025U2129)
+---------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/12/1925
+
+Art. 1
+------
+
+N.
+
+2129. R. decreto 26 novembre 1925, col quale, sulla proposta del Ministro per la pubblica istruzione, la Biblioteca civica di Varese viene eretta in Ente morale; ne viene approvato lo statuto organico ed al tempo stesso e' autorizzata ad accettare il legato di L. 100,000, disposto in suo favore dal cav. Giulio Baratelli.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 7 dicembre 1925.

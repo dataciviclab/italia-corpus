@@ -1,0 +1,39 @@
+REGIO DECRETO 03 agosto 1908 n. 533
+
+
+REGIO DECRETO 03 agosto 1908 n. 533
+===================================
+
+Che stabilisce l'assegno locale annuo del consolato in Zanzibar. (008U0533)
+---------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/10/1908
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la legge consolare 28 gennaio 1866, n. 2804, ed il relativo regolamento approvato con [R. decreto 7 giugno 1866, n. 2996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-06-07;2996);   
+  
+Sulla proposta del Nostro ministro segretario di Stato per gli affari esteri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'assegno locale annuo del Nostro Consolato in Zanzibar e' fissato in lire ventimila a datare dal 1°settembre 1908.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Sant'Anna di Valdieri, addi' 3 agosto 1908.   
+  
+VITTORIO EMANUELE.   
+  
+Tittoni.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

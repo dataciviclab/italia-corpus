@@ -1,0 +1,40 @@
+REGIO DECRETO 29 aprile 1877 n. 3779
+
+
+REGIO DECRETO 29 aprile 1877 n. 3779
+====================================
+
+che manda pubblicare ed eseguire in tutto il territorio del Regno le disposizioni riguardanti la neutralita' dei porti. (077U3779)
+----------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/05/1877
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Considerando l'opportunita' di provvedere all'unificazione legislativa del Regno per le materie contemplate nel Nostro decreto del 6 aprile 1864 concernente disposizioni per la neutralita' dei porti;   
+  
+Sulla proposta del Nostro Ministro della Marina di concerto con quello degli Affari Esteri,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il Nostro decreto del 6 aprile 1864, n. 1728, sara' pubblicato e messo in esecuzione in tutto il territorio del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di   
+  
+osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 aprile 1877.   
+  
+VITTORIO EMANUELE.   
+  
+B. Brin.   
+Melegari.   
+  

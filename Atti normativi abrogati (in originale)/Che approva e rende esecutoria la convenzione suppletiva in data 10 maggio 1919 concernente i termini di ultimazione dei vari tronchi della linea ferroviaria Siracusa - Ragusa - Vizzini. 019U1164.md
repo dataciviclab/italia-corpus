@@ -1,0 +1,53 @@
+DECRETO LUOGOTENENZIALE 15 giugno 1919 n. 1164
+
+
+DECRETO LUOGOTENENZIALE 15 giugno 1919 n. 1164
+==============================================
+
+Che approva e rende esecutoria la convenzione suppletiva in data 10 maggio 1919, concernente i termini di ultimazione dei vari tronchi della linea ferroviaria Siracusa - Ragusa - Vizzini. (019U1164)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/08/1919
+
+Art. 1
+------
+
+  
+TOMASO DI SAVOIA DUCA DI GENOVA   
+  
+Luogotenente Generale di Sua Maesta'   
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+In virtu' dell'autorita' a Noi delegata ;   
+  
+Visto il decreto Reale n. 697 in data 15 febbraio 1912 con cui venne approvata e resa esecutoria la convenzione stipulata il 4 gennaio 1912 per la concessione alla Societa' anonima per le ferrovie secondarie della Sicilia, della costruzione e dell'esercizio di una ferrovia a trazione a vapore ed a sezione ridotta da Siracusa a Ragusa, con diramazione dal bivio di Giarratana a Vizzini;   
+  
+Visto il decreto Luogotenenziale 23 novembre 1916. n. 1759 col quale venne approvata la convenzione suppletiva 18 ottobre stesso anno per la divisione in due tronchi distinti del primo tronco della ferrovia in parola ;   
+  
+Vista l'istanza presentata dalla Societa' concessionaria il 27 aprile 1917 perche' venissero prorogati i termini per l'apertura all'esercizio dei vari tronchi della ferrovia Siracusa-Ragusa-Vizzini;   
+  
+Sentito il parere del Consiglio superiore dei lavori pubblici e del Consiglio di Stato;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta dei ministri segretari di Stato per i lavori pubblici e per il tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione suppletiva stipulata il 10 maggio 1919 fra i delegati dei ministri dei lavori pubblici e del tesoro, in rappresentanza dello Stato ed il rappresentante della Societa' anonima per le ferrovie secondarie della Sicilia, a parziale modifica della convenzione 4 gennaio 1912 per la concessione della ferrovia Siracusa Ragusa -Vizzini, in quanto concerne i termini di ultimazione dei vari tronchi della linea.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 15 giugno 1919.   
+  
+TOMASO DI SAVOIA.   
+  
+Orlando - Bonomi - Stringher.   
+  
+Visto, Il guardasigilli: Mortara.   
+  

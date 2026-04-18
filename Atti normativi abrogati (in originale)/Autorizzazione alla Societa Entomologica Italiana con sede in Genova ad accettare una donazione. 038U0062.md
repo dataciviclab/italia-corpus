@@ -1,0 +1,21 @@
+REGIO DECRETO 07 gennaio 1938 n. 62
+
+
+REGIO DECRETO 07 gennaio 1938 n. 62
+===================================
+
+Autorizzazione alla Societa' Entomologica Italiana, con sede in Genova, ad accettare una donazione. (038U0062)
+--------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/03/1938
+
+Art. 1
+------
+
+N.
+
+62. R. decreto 7 gennaio 1938, col quale, sulla proposta del Ministro per l'educazione nazionale, la Societa' Entomologica Italiana, con sede in Genova, viene autorizzata ad accettare la donazione della somma di L. 50.000 di capitale nominale di rendita italiana 3,50% (1902), con cedola 1° gennaio 1938 e seguenti, disposta, in suo favore, per atto di donazione in data 1° settembre 1937-XV, dal sig. Agostino Dodero fu Giustino, alla condizione essenziale che i redditi del capitale medesimo siano erogati per la buona conservazione di eventuali collezioni di insetti che la Societa' stessa si formi o che in qualsiasi modo vengano in suo possesso.   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 14 febbraio 1938 - Anno XVI

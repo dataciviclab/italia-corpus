@@ -1,0 +1,41 @@
+REGIO DECRETO 24 luglio 1885 n. 3264
+
+
+REGIO DECRETO 24 luglio 1885 n. 3264
+====================================
+
+Concernente gli esami per gli aspiranti alla patente d'idoneita' per l'ufficio di segretarii comunali. (085U3264)
+-----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/08/1885
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Veduto il Nostro decreto in data 8 maggio 1884, numero 2294 (Serie 3ª), col quale e' stabilito che nessuno potra' essere ammesso all'esame per ottenere la patente di idoneita' all'ufficio di segretario comunale, se non avra' conseguita la licenza di Ginnasio o Scuola tecnica;   
+  
+Veduto l'altro Nostro decreto in data 3 luglio 1884, numero 2500, col quale la disposizione precedente non venne applicata pei concorrenti agli esami che erano stati indetti pel 1° settembre e che ebbero poi luogo nel dicembre 1884;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Gli aspiranti alla patente di idoneita' per l'ufficio di segretario comunale i quali non superarono la prova negli esami sostenuti nel dicembre 1884, saranno ammessi a ripetere la prova stessa nella sessione d'esami indetta pel 31 agosto di questo anno, sebbene non abbiano riportata la licenza ginnasiale o tecnica.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 24 luglio 1885.   
+  
+UMBERTO.   
+  
+Depretis.   
+  
+Visto, Il Guardasigilli: Tajani.   
+  

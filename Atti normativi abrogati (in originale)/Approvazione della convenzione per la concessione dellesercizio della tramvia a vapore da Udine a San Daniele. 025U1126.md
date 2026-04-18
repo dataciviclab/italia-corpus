@@ -1,0 +1,43 @@
+REGIO DECRETO 04 maggio 1925 n. 1126
+
+
+REGIO DECRETO 04 maggio 1925 n. 1126
+====================================
+
+Approvazione della convenzione per la concessione dell'esercizio della tramvia a vapore da Udine a San Daniele. (025U1126)
+--------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/07/1925
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447, nonche' il regolamento alla [legge 27 dicembre 1896, n. 561](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-12-27;561), approvato con Nostro decreto 17 giugno 1900, n. 303;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione stipulata il 18 aprile 1925 fra il delegato del Ministro per i lavori pubblici ed il signor ingegnere Giacomo Cantoni, per la concessione al medesimo dell'esercizio della tramvia a trazione a vapore da Udine a San Daniele.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 maggio 1925.   
+  
+VITTORIO EMANUELE.   
+  
+Giuriati.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 6 luglio 1925.   
+  
+Atti del Governo, registro 238, foglio 62. - Granata.   
+  

@@ -1,0 +1,41 @@
+LEGGE 27 marzo 1898 n. 87
+
+
+LEGGE 27 marzo 1898 n. 87
+=========================
+
+Che approva maggiore assegnazione di somma nello stato di previsione della spesa del Ministero dell'Interno (esercizio 1897-98). (098U0087)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/04/1898
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata la maggiore assegnazione di L. 100,000 in aumento al capitolo N. 31 - Servizi di pubblica beneficenza - Sussidi - dello stato di previsione della spesa del Ministero dell'Interno per l'esercizio finanziario 1897-98.   
+  
+La somma sovra indicata verra' prelevata dal fondo di riserva per le spese impreviste, inscritto al capitolo N. 106 dello stato di previsione del Ministero del Tesoro per l'esercizio predetto.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 27 marzo 1898.   
+  
+UMBERTO.   
+  
+L. Luzzatti.   
+  
+Visto, Il Guardasigilli: G. Zanardelli.   
+  

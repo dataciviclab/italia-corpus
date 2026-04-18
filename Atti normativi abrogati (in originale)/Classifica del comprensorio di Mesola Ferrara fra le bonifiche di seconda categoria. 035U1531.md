@@ -1,0 +1,48 @@
+REGIO DECRETO 13 giugno 1935 n. 1531
+
+
+REGIO DECRETO 13 giugno 1935 n. 1531
+====================================
+
+Classifica del comprensorio di Mesola (Ferrara) fra le bonifiche di seconda categoria. (035U1531)
+-------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/09/1935
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista l'istanza 6 settembre 1932 della Societa' per la bonifica dei terreni ferraresi e per imprese agricole, intesa ad ottenere la classifica, fra i comprensori soggetti a bonifica del territorio della Mesola, della estensione di circa ettari 12.000, in provincia di Ferrara;   
+  
+Visto il voto 28 marzo 1933, n. 358, del Consiglio superiore dei lavori pubblici;   
+  
+Visto il voto 1° febbraio 1934, n. 2-1 del Comitato speciale per la bonifica integrale;   
+  
+Ritenuto che sussistano le condizioni per la classifica della bonifica nella seconda categoria;   
+  
+A termini degli articoli 2 e 3 del Nostro decreto 13 febbraio 1933, n. 215;   
+  
+Su proposta del Nostro Ministro Segretario di Stato per l'agricoltura e per le foreste, di concerto con i Ministri per le finanze e per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il comprensorio della Mesola, in provincia di Ferrara, e' classificato fra le bonifiche di seconda categoria, ai sensi e per gli effetti dell'art. 2 del Nostro decreto 13 febbraio 1933, n. 215.   
+  
+Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 13 giugno 1935 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+ROSSONI - DI REVEL - RAZZA.   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 27 agosto 1935 - Anno XIII   
+Atti del Governo, registro 363, foglio 133 - MANCINI.   

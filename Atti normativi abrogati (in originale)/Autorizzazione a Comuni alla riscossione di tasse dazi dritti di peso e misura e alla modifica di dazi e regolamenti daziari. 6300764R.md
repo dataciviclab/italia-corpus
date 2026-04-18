@@ -1,0 +1,43 @@
+REGIO DECRETO 20 maggio 1863 n. DCCLXIV
+
+
+REGIO DECRETO 20 maggio 1863 n. DCCLXIV
+=======================================
+
+Autorizzazione a Comuni alla riscossione di tasse, dazi, dritti di peso e misura e alla modifica di dazi e regolamenti daziari. (6300764R)
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/07/1863
+
+Art. 1
+------
+
+  
+DCCLXIV.   
+  
+Regio Decreto col quale si autorizzano i Comuni:   
+  
+di Perugia a riscuotere una tassa sul mosto;   
+  
+di S. Andrea di Suara (Pesaro ed Urbino) a riscuotere un dazio sulla vendita del vino a spina;   
+  
+di Montecinardo (idem) a riscuotere un dazio sulle carni macellate e sulla vendita del vino a spina;   
+  
+di Cartoceto (idem) a riscuotere un dazio sulle carni grasse;   
+  
+di Osimo (Ancona) a riscuotere un dritto di peso e misura;   
+  
+di Iesi (idem) a riscuotere una tassa sull'occupazione delle aree pubbliche;   
+  
+di Arcevia (idem) a riscuotere la medesima tassa;   
+  
+di Baricella (Bologna) a riscuotere una tassa sui cani;   
+  
+di Samarate (Milano) a riscuotere una tassa sulle aree pubbliche;   
+  
+di Racconigi (Cuneo) a modificare la tariffa daziaria;   
+  
+di Chiavari (Genova) a modificare la tariffa e il regolamento daziario.   
+  
+Torino 20 maggio 1863.   
+  

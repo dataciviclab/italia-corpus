@@ -1,0 +1,382 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1999 n. 477
+
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 01 dicembre 1999 n. 477
+===============================================================
+
+Regolamento recante norme concernenti l'organizzazione del Ministero dell'universita' e della ricerca scientifica e tecnologica.
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del decreto: 1-1-2000
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Visto l'[articolo 87, comma quinto, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+
+Vista la [legge 9 maggio 1989, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168);
+
+Visto l'[articolo 17, comma 4-bis, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis);
+
+Visti gli [articoli 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art6), [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14) e [16, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art16-com5), nel testo sostituito dall'[articolo 5 del decreto legislativo 31 marzo 1998, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;80~art5);
+
+Considerata la necessita' di adeguare il regolamento di organizzazione del Ministero alle modifiche delle funzioni in materia di ricerca scientifica e tecnologica e di universita' determinatesi a seguito dell'entrata in vigore, tra gli altri, del decreto del Presidente del Consiglio dei Ministri del 30 aprile 1997, pubblicato nella Gazzetta Ufficiale del 9 giugno 1997, n. 132, della [legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127), e successive modificazioni e integrazioni, del [decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica del 21 luglio 1997, n. 245](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1997-07-21;245), del [decreto del Presidente della Repubblica 27 gennaio 1998, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-27;25), del [decreto legislativo 8 maggio 1998, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-05-08;178), del [decreto legislativo 5 giugno 1998, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204), della [legge 3 luglio 1998, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-07-03;210), del [decreto del Presidente della Repubblica 19 ottobre 1998, n. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-10-19;390), del [decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica dell'8 giugno 1999, n. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1999-06-08;235);
+
+Visto l'[articolo 77 del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art77);
+
+Vista la preliminare deliberazione del Consiglio dei Ministri,
+
+adottata nella riunione del 14 maggio 1999;
+
+Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nelle adunanze del 7 giugno 1999 e del 30 agosto 1999;
+
+Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 ottobre 1999;
+
+Viste le osservazioni della Corte dei conti formulate in data 19 novembre 1999;
+
+Ritenuto di dover accogliere le citate osservazioni;
+
+Vista la ulteriore deliberazione del Consiglio dei Ministri, adottata nella riunione del 26 novembre 1999;
+
+Sulla proposta del Ministro dell'universita' e della ricerca scientifica e tecnologica, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica e con il Ministro per la funzione pubblica;
+
+Emana
+-----
+
+il seguente regolamento:
+
+Art. 1
+------
+
+Definizioni
+
+1. Ai sensi del presente regolamento si intendono:
+
+a) per Ministro, il Ministro dell'universita' e della ricerca scientifica e tecnologica;
+
+b) per Ministero, il Ministero dell'universita' e della ricerca scientifica e tecnologica;
+
+c) per PNR, il Programma nazionale per la ricerca di cui all'[articolo 1, comma 2, del decreto legislativo 5 giugno 1998, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204~art1-com2);
+
+d) per Commissione per la ricerca, la Commissione di cui all'[articolo 2, comma 2, del decreto legislativo 5 giugno 1998, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204~art2-com2);
+
+e) per CEPR, il Comitato di esperti per la politica della ricerca di cui all'[articolo 3, comma 1, del decreto legislativo 5 giugno 1998, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204~art3-com1);
+
+f) per CIVR, il Comitato di indirizzo per la valutazione della ricerca di cui all'[articolo 5, comma 1, del decreto legislativo 5 giugno 1998, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204~art5-com1);
+
+g) per CUN, il Consiglio universitario nazionale di cui all'[articolo 17, comma 102, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com102);
+
+h) per CNSU, il Consiglio nazionale studenti universitari di cui all'[articolo 20, comma 8, lettera b), della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art20-com8-letb);
+
+i) per AST e CSN, l'Assemblea della scienza e della tecnologia e i Consigli scientifici nazionali di cui all'[articolo 4, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204~art4-com1) e [2, del decreto legislativo 5 giugno 1998, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204~art4-com2).
+
+Avvertenza:  
+Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
+Note alle premesse:  
+- L'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87) stabilisce che il Presidente della Repubblica e' il Capo dello Stato e rappresenta l'unita' nazionale. Puo' inviare messaggi alle Camere. Indice le elezioni delle nuove Camere e ne fissa la prima riunione.  
+Autorizza la presentazione alle Camere dei disegni di legge di iniziativa del Governo.  
+Promulga le leggi ed emana i decreti aventi valore di legge e i regolamenti.  
+Indice il referendum popolare nei casi previsti dalla Costituzione.  
+Nomina, nei casi indicati dalla legge, i funzionari dello Stato.  
+Accredita e riceve i rappresentanti diplomatici, ratifica i trattati internazionali, previa, quando occorre, l'autorizzazione delle Camere.  
+Ha il comando delle Forze armate, presiede il Consiglio supremo di difesa costituito secondo la legge, dichiara lo stato di guerra deliberato dalle Camere. Presiede il Consiglio superiore della magistratura. Puo' concedere grazia e comunicare le pene. Conferisce le onorificenze della Repubblica.  
+- La [legge 9 maggio 1989, n. 168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-05-09;168), prevede "Istituzione del Ministero dell'universita' e della ricerca scientifica e tecnologica".  
+- L'[art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede:  
+"4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei Ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono:  
+a) riordino degli uffici di diretta collaborazione con i Ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione;  
+b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilita' eliminando le duplicazioni funzionali;  
+c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati;  
+d) indicazione e revisione periodica della consistenza delle piante organiche;  
+e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali.  
+- Si riporta il testo degli [articoli 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art6), [14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14) e [16, comma 5, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art16-com5) (Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'[art. 2 della legge 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421~art2)), nel testo sostituito dall'[art. 5 del decreto legislativo 31 marzo 1998, n. 80](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-03-31;80~art5) (Nuove disposizioni in materia di organizzazione e di rapporti di lavoro nelle amministrazioni pubbliche, di giurisdizione nelle controversie di lavoro e di giurisdizione amministrativa, emanate in attuazione dell'[art. 11, comma 4, della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11-com4)):  
+"Art. 6. - 1. Nelle amministrazioni pubbliche l'organizzazione e la disciplina degli uffici, nonche' la consistenza e la variazione delle dotazioni organiche, sono determinate in funzione delle finalita' indicate all'art. 1, comma 1, previa verifica degli effettivi fabbisogni e previa consultazione delle organizzazioni sindacali rappresentative ai sensi dell'art. 10. Le amministrazioni pubbliche curano l'ottimale distribuzione delle risorse umane attraverso la coordinata attuazione dei processi di mobilita' e di reclutamento del personale.  
+2. Per le amministrazioni dello Stato, anche ad ordinamento autonomo, si applica l'[art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis). La distribuzione del personale dei diversi livelli o qualifiche previsti dalla dotazione organica puo' essere modificata con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro competente, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, ove comporti riduzioni di spesa o comunque non incrementi la spesa complessiva riferita al personale effettivamente in servizio al 31 dicembre dell'anno precedente.  
+3. Per la ridefinizione degli uffici e delle dotazioni organiche si procede periodicamente e comunque a scadenza triennale, nonche' ove risulti necessario a seguito di riordino, fusione, trasformazione o trasferimento di funzioni. Ogni amministrazione procede adottando gli atti previsti dal proprio ordinamento.  
+4. Le variazioni delle dotazioni organiche gia' determinate sono approvate dall'organo di vertice delle amministrazioni in coerenza con la programmazione triennale del fabbisogno di personale di cui all'[art. 39 della legge 27 dicembre 1997, n. 449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449~art39), e con gli strumenti di programmazione economicofinanziaria pluriennale.  
+Per le amministrazioni dello Stato, la programmazione triennale del fabbisogno di personale e' deliberata dal Consiglio dei Ministri e le variazioni delle dotazioni organiche sono determinate ai sensi dell'[art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis).  
+5. Per la Presidenza del Consiglio dei Ministri, per il Ministero degli affari esteri, nonche' per le amministrazioni che esercitano competenze istituzionali in materia di difesa e sicurezza dello Stato, di polizia e di giustizia, sono fatte salve le particolari disposizioni dettate dalle normative di settore. L'[art. 5, comma 3, del decreto legislativo 30 dicembre 1992, n. 503](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;503~art5-com3), relativamente al personale appartenente alle Forze di polizia ad ordinamento civile, si interpreta nel senso che al predetto personale non si applica l'art. 16 dello stesso decreto. Restano salve le disposizioni vigenti per la determinazione delle piante organiche del personale degli istituti e scuole di ogni ordine e grado e delle istituzioni educative. Le attribuzioni del Ministero dell'universita' e della ricerca scientifica e tecnologica relative a tutto il personale tecnico e amministrativo universitario, compresi i dirigenti, sono devolute all'universita' di appartenenza. Parimenti sono attribuite agli osservatori astronomici, astrofisici e vesuviano tutte le attribuzioni del Ministero dell'universita' e della ricerca scientifica e tecnologica in materia di personale, ad eccezione di quelle relative al reclutamento del personale di ricerca.  
+6. Le amministrazioni pubbliche che non provvedono agli adempimenti di cui al presente articolo e a quelli previsti dall'art. 31 non possono assumere nuovo personale, compreso quello appartenente alle categorie protette".  
+Art. 14. - 1. Il Ministro esercita le funzioni di cui all'art. 3, comma 1. A tal fine periodicamente, e comunque ogni anno entro dieci giorni dalla data di entrata in vigore della legge di bilancio, anche sulla base delle proposte dei dirigenti di cui all'art. 16:  
+a) definisce obiettivi, priorita', piani e programmi da attuare ed emana le conseguenti direttive generali per l'attivita' amministrativa e per la gestione;  
+b) effettua, ai fini dell'adempimento dei compiti definiti ai sensi della lettera a), l'assegnazione ai dirigenti preposti ai centri di responsabilita' delle rispettive amministrazioni delle risorse di cui all'art. 3, comma 1, lettera c), del presente decreto, ivi comprese quelle di cui all'[art. 3 del decreto legislativo 7 agosto 1997, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-07;279~art3), ad esclusione delle risorse necessarie per il funzionamento degli uffici di cui al comma 2; provvede alle variazioni delle assegnazioni con le modalita' previste dal medesimo [decreto legislativo 7 agosto 1997, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-07;279), tenendo altresi' conto dei procedimenti subprocedimenti attribuiti ed adotta gli altri provvedimenti ivi previsti.  
+2. Per l'esercizio delle funzioni di cui al comma 1 il Ministro si avvale di uffici di diretta collaborazione, aventi esclusive competenze di supporto e di raccordo con l'amministrazione, istituiti e disciplinati con regolamento adottato ai sensi del [comma 4-bis dell'art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis). A tali uffici sono assegnati, nei limiti stabiliti dallo stesso regolamento: dipendenti pubblici anche in posizione di aspettativa, fuori ruolo o comando; collaboratori assunti con contratti a tempo determinato disciplinati dalle norme di diritto privato; esperti e consulenti per particolari professionalita' e specializzazioni, con incarichi di collaborazione coordinata e continuativa. Per i dipendenti pubblici si applica la disposizione di cui all'[art. 17, comma 14, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com14). Con lo stesso regolamento si provvede al riordino delle Segreterie particolari dei Sottosegretari di Stato. Con decreto adottato dall'Autorita' di governo competente, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, e' determinato, in attuazione dell'[art. 12, comma 1, lettera n), della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art12-com1-letn), senza aggravi di spesa e, per il personale disciplinato dai contratti collettivi nazionali di lavoro, fino ad una specifica disciplina contrattuale, il trattamento economico accessorio, da corrispondere mensilmente, a fronte delle responsabilita', degli obblighi di reperibilita' e di disponibilita' ad orari disagevoli, ai dipendenti assegnati agli uffici dei Ministri e dei Sottosegretari di Stato. Tale trattamento, consistente in un unico emolumento, e' sostitutivo dei compensi per il lavoro straordinario, per la produttivita' collettiva e per la qualita' della prestazione individuale. Con effetto dalla data di entrata in vigore del regolamento di cui al presente comma sono abrogate le norme del [regio decreto-legge 10 luglio 1924, n. 1100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-07-10;1100), e successive modificazioni ed integrazioni, ed ogni altra norma riguardante la costituzione e la disciplina dei Gabinetti dei Ministri e delle Segreterie particolari dei Ministri e dei Sottosegretari di Stato.  
+3. Il Ministro non puo' revocare, riformare, riservare o avocare a se' o altrimenti adottare provvedimenti o atti di competenza dei dirigenti. In caso di inerzia o ritardo il Ministro puo' fissare un termine perentorio entro il quale il dirigente deve adottare gli atti o i provvedimenti. Qualora l'inerzia permanga, o in caso di grave inosservanza delle direttive generali da parte del dirigente competente, che determinino pregiudizio per l'interesse pubblico, il Ministro puo' nominare, salvi i casi di urgenza previa contestazione, un commissario ad acta, dando comunicazione al Presidente del Consiglio dei Ministri del relativo provvedimento. Resta salvo quanto previsto dall'[art. 2, comma 3, lettera p), della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art2-com3-letp). Resta altresi' salvo quanto previsto dall'[art. 6 del testo unico delle leggi di pubblica sicurezza](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art6), approvato con [regio decreto 18 giugno 1931, n. 773](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni ed integrazioni, e dall'art. 10 del relativo regolamento emanato con [regio decreto 6 maggio 1940, n. 635](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635). Resta salvo il potere di annullamento ministeriale per motivi di legittimita'".  
+"Art. 16. - 1-4. (Omissis).  
+5. Gli ordinamenti delle amministrazioni pubbliche al cui vertice e' preposto un segretario generale, capo dipartimento o altro dirigente comunque denominato, con funzione di coordinamento di uffici dirigenziali di livello generale, ne definiscono i compiti ed i poteri".  
+- Il decreto del Presidente del Consiglio dei Ministri del 30 aprile 1997 riguarda: "Uniformita' di trattamento sul diritto agli studi universitari, ai sensi dell'[art. 4 della legge 2 dicembre 1991, n. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1991-12-02;390~art4)".  
+- La [legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127), e successive modificazioni e integrazioni, prevede: "Misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo".  
+- Il [decreto del Ministro dell'universita' e della ricerca scientifica 21 luglio 1997, n. 245](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica:decreto:1997-07-21;245), prevede: "Regolamento recante norme in materia di accessi all'istruzione universitaria e di connesse attivita' di orientamento".  
+- Il [decreto del Presidente della Repubblica 27 gennaio 1998, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-01-27;25), riguarda: "Regolamento recante disciplina dei procedimenti relativi allo sviluppo ed alla programmazione del sistema universitario, nonche' ai comitati regionali di coordinamento, a norma dell'[articolo 20, comma 8, lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art20-com8-leta) e [b), della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art20-com8-letb)".  
+- Il [decreto legislativo 8 maggio 1998, n. 178](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-05-08;178), prevede: "Trasformazione degli istituti superiori di educazione fisica e istituzione di facolta' e di corsi di laurea e di diploma in scienze motorie, a norma dell'[articolo 17, comma 115, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com115)".  
+- Il [decreto legislativo 5 giugno 1998, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204), prevede: "Disposizioni per il coordinamento, la programmazione e la valutazione della politica nazionale relativa alla ricerca scientifica e tecnologica, a norma dell'[art. 11, comma 1, lettera d), della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11-com1-letd)".  
+- La [legge 3 luglio 1998, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-07-03;210), recita: "Norme per il reclutamento dei ricercatori e dei professori universitari di ruolo".  
+- Il [decreto del Presidente della Repubblica 19 ottobre 1998, n. 390](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1998-10-19;390), prevede: "Regolamento recante norme sulle modalita' di espletamento delle procedure per il reclutamento dei professori universitari di ruolo e dei ricercatori, a norma dell'[art. 1 della legge 3 luglio 1998, n. 210](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-07-03;210~art1)".  
+- Il [decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica 8 giugno 1999, n. 235](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.universita.ricerca.scientifica.tecnologica:decreto:1999-06-08;235), prevede: "Modificazioni ed integrazioni al [decreto ministeriale 21 luglio 1997, n. 245](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1997-07-21;245), concernente: "Regolamento recante norme in materia di accessi all'istruzione universitaria e di connesse attivita' di orientamento".  
+- Il testo dell'[art. 77 del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art77) (Riforma dell'organizzazione del Governo, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11)), e' il seguente:  
+"Art. 77. - 1. Fino alla data di entrata in vigore dei regolamenti di organizzazione del Ministero dell'istruzione, dell'universita' e della ricerca, il Ministero dell'universita' e della ricerca scientifica e tecnologica e' riordinato ai sensi dell'[art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis), prevedendo un dipartimento per le funzioni finali, con non piu' di due uffici di livello dirigenziale generale al suo interno, nonche' non piu' di due uffici di livello dirigenziale generale per funzioni strumentali".  
+Note all'art. 1:  
+- Si riporta il testo degli articoli 1, 2, 3, 4 e 5 del citato [decreto legislativo 5 giugno 1998, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204):  
+"Art. 1. - 1. Il Governo, nel documento di programmazione economica e finanziaria (DPEF), determina gli indirizzi e le priorita' strategiche per gli interventi a favore della ricerca scientifica e tecnologica, definendo il quadro delle risorse finanziarie da attivare e assicurando il coordinamento con le altre politiche nazionali.  
+2. Sulla base degli indirizzi di cui al comma 1, delle risoluzioni parlamentari di approvazione del DPEF, di direttive del Presidente del Consiglio dei Ministri, dei piani e dei programmi di competenza delle amministrazioni dello Stato, di osservazioni e proposte delle predette amministrazioni, e' predisposto, approvato e annualmente aggiornato, ai sensi dell'art. 2 del presente decreto, il Programma nazionale per la ricerca (PNR), di durata triennale. Il PNR, con riferimento alla dimensione europea e internazionale della ricerca e tenendo conto delle iniziative, dei contributi e delle realta' di ricerca regionali, definisce gli obiettivi generali e le modalita' di attuazione degli interventi alla cui realizzazione concorrono, con risorse disponibili sui loro stati di previsione o bilanci, le pubbliche amministrazioni, ivi comprese, con le specificita' dei loro ordinamenti e nel rispetto delle loro autonomie ed attivita' istituzionali, le universita' e gli enti di ricerca. Gli obiettivi e gli interventi possono essere specificati per aree tematiche, settori, progetti, agenzie, enti di ricerca, anche prevedendo apposite intese tra le amministrazioni dello Stato.  
+3. Specifici interventi di particolare rilevanza strategica, indicati nel PNR e nei suoi aggiornamenti per il raggiungimento degli obiettivi generali, sono finanziati anche a valere su di un apposito Fondo integrativo speciale per la ricerca, di seguito denominato Fondo speciale, da istituire nello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica, a partire dal 1 gennaio 1999, con distinto provvedimento legislativo, che ne determina le risorse finanziarie aggiuntive agli ordinari stanziamenti per la ricerca e i relativi mezzi di copertura.  
+4. Le pubbliche amministrazioni, nell'adottare piani e programmi che dispongono, anche parzialmente, in materia di ricerca, con esclusione della ricerca libera nelle universita' e negli enti, operano in coerenza con le finalita' del PNR, assicurando l'attuazione e il monitoraggio delle azioni da esso previste per la parte di loro competenza. I predetti piani e programmi sono comunicati al Ministero dell'universita' e della ricerca scientifica e tecnologica (MURST) entro trenta giorni dalla data di adozione o di approvazione.  
+5. I risultati delle attivita' di ricerca delle pubbliche amministrazioni, ovvero di quella da esse finanziata, sono soggetti a valutazione sulla base di criteri generali indicati dal comitato di cui all'art. 5, comma 1, nel rispetto della specificita' e delle metodologie delle diverse aree disciplinari e tematiche.  
+6. In allegato alla relazione previsionale e programmatica di cui all'[art. 15 della legge 5 agosto 1978, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468~art15), sono riportate le spese per attivita' di ricerca a carico di ciascuna amministrazione dello Stato, degli enti di ricerca da esse vigilati o finanziati e delle universita', sostenute nell'ultimo esercizio finanziario e indicate come previsione nel triennio, secondo criteri di individuazione e di esposizione determinati con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica".  
+"Art. 2. - 1. Il Comitato interministeriale per la programmazione economica (CIPE) esercita, ai sensi del presente decreto, le seguenti funzioni:  
+a) valuta, preliminarmente all'approvazione del DPEF da parte del Consiglio dei Ministri, lo schema degli indirizzi di cui all'art. 1, comma 1;  
+b) approva il PNR e gli aggiornamenti annuali, delibera in ordine all'utilizzo del Fondo speciale e valuta periodicamente l'attuazione del PNR;  
+c) approva apposite direttive per il coordinamento con il PNR dei piani e programmi delle pubbliche amministrazioni, anche nel corso della loro attuazione;  
+d) esamina, ai sensi della [legge 27 febbraio 1967, n. 48](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-02-27;48), gli stanziamenti per la ricerca delle amministrazioni pubbliche.  
+2. L'esercizio delle funzioni di cui al comma 1 e' coordinato dal Ministro dell'universita' e della ricerca scientifica e tecnologica nell'ambito di un'apposita commissione per la ricerca, di seguito denominata commissione, da istituirsi presso il CIPE ai sensi dell'[art. 1, comma 3, del decreto legislativo 5 dicembre 1997, n. 430](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-05;430~art1-com3). La commissione, nel lavoro istruttorio per gli atti di cui al comma 1, opera sulla base di proposte preliminari del Ministro dell'universita' e della ricerca scientifica e tecnologica e con l'apporto delle amministrazioni partecipanti.  
+3. Il Ministro dell'universita' e della ricerca scientifica e tecnologica si avvale come supporto di una segreteria tecnica istituita presso il MURST, nell'ambito della potesta' regolamentare di organizzazione di detto Ministero. La segreteria opera anche come supporto della commissione e delle strutture ad essa collegate. Con decreto ministeriale sono altresi' determinate le modalita' per l'utilizzazione di personale comandato da altre amministrazioni, enti e istituzioni, nonche' ilimiti numerici per il ricorso a personale qualificato con contratto a tempo determinato senza oneri aggiuntivi per il bilancio dello Stato. Il Ministro dell'universita' e della ricerca scientifica e tecnologica, ai fini delle attivita' di cui al comma 2, puo' acquisire osservazioni e proposte del comitato di esperti di cui all'art. 3, dei consigli scientifici nazionali e della assemblea di cui al successivo art. 4.  
+Al Ministro possono inviare proposte anche universita', enti di ricerca, ricercatori pubblici e privati, nonche' organismi di consulenza tecnico scientifica afferenti alle amministrazioni pubbliche".  
+"Art. 3. - 1. Il Governo si avvale di un comitato di esperti per la politica della ricerca (CEPR), istituito presso il MURST, composto da non piu' di nove membri, nominati dal Presidente del Consiglio, su proposta del Ministro dell'universita' e della ricerca scientifica e tecnologica, scelti tra personalita' di alta qualificazione del mondo scientifico, tecnologico, culturale, produttivo e delle parti sociali, assicurando l'apporto di competenze diverse. Con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica sono determinate la durata del mandato e le norme generali di funzionamento. I dipendenti pubblici possono essere collocati in aspettativa per la durata del mandato.  
+2. Le indennita' spettanti ai membri del comitato sono determinate con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica, a valere sullo stato di previsione del MURST.  
+3. Il Ministro dell'universita' e della ricerca scientifica e tecnologica affida ai membri del comitato o al comitato nella sua collegialita' compiti di consulenza e di studio concernenti la politica e lo stato della ricerca, nazionale e internazionale.  
+4. Il CEPR, nell'esercizio delle sue funzioni, puo' corrispondere con tutte le amministrazioni pubbliche al fine di ottenere notizie e informazioni, nonche' puo' chiedere collaborazione per specifiche attivita'. Le amministrazioni dello Stato possono a loro volta avvalersi del CEPR per pareri su programmi e attivita' di ricerca di propria competenza.  
+5. Il CEPR si avvale della segreteria di cui all'art. 2, comma 3".  
+"Art. 4. - 1. I Consigli scientifici nazionali (CSN) sono organi rappresentativi della Comunita' scientifica nazionale, universitaria e degli enti di ricerca.  
+2. I Consigli scientifici nazionali, integrati da rappresentanti delle amministrazioni pubbliche, del mondo della produzione, dei servizi e delle forze sociali, costituiscono l'Assemblea della scienza e della tecnologia (AST).  
+3. Con uno o piu' regolamenti da emanarsi ai sensi dell'[art. 17, comma 1, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com1), su proposta del Ministro dell'universita' e della ricerca scientifica e tecnologica sono determinati:  
+a) le aree di riferimento e il numero dei CSN;  
+b) il numero dei componenti i CSN, non inferiore al cinquanta per cento dei componenti dell'Assemblea, la durata del mandato, le modalita' della loro elezione diretta o di secondo grado, l'elettorato attivo e passivo;  
+c) il numero complessivo dei componenti l'Assemblea;  
+d) il numero dei componenti l'Assemblea in rappresentanza delle amministrazioni pubbliche, del mondo della produzione, dei servizi e delle forze sociali, non inferiore ad un terzo del numero complessivo di cui alla lettera c), la durata del mandato e le procedure per la loro designazione;  
+e) la sede e il supporto organizzativo e tecnico dei Consigli e dell'Assemblea, senza oneri aggiuntivi per il bilancio dello Stato.  
+4. I Consigli eleggono i rispettivi presidenti e l'Assemblea elegge un presidente. I Consigli e l'Assemblea approvano norme interne di organizzazione e di funzionamento. E' esclusa l'attribuzione ai Consigli e all'Assemblea di compiti decisionali relativamente al finanziamento e alla gestione della ricerca. A seguito delle elezioni e delle designazioni i Consigli scientifici nazionali e l'Assemblea sono costituiti ed insediati con decreti del Ministro dell'universita' e della ricerca scientifica e tecnologica.  
+5. I Consigli e l'Assemblea:  
+a) formulano osservazioni e proposte per l'elaborazione e l'aggiornamento del PNR, sulla coerenza con esso dei piani e programmi delle amministrazioni pubbliche e degli enti di ricerca, nonche' circa lo stato e l'organizzazione della ricerca nazionale;  
+b) svolgono attivita' di consulenza per conto del CIPE, delle amministrazioni pubbliche, degli enti di ricerca".  
+"Art. 5. - 1. E' istituito, presso il MURST, il Comitato di indirizzo per la valutazione della ricerca (CIVR), composto da non piu' di sette membri, anche stranieri, di comprovata qualificazione ed esperienza, scelti in una pluralita' di ambiti metodologici e disciplinari. Il Comitato opera per il sostegno alla qualita' e alla migliore utilizzazione della ricerca scientifica e tecnologica nazionale, secondo autonome determinazioni con il compito di indicare i criteri generali per le attivita' di valutazione dei risultati della ricerca, di promuovere la sperimentazione, l'applicazione e la diffusione di metodologie, tecniche e pratiche di valutazione, degli enti e delle istituzioni scientifiche e di ricerca, dei programmi e progetti scientifici e tecnologici e delle attivita' di ricerca, favorendo al riguardo il confronto e la cooperazione tra le diverse istituzioni operanti nel settore, nazionali e internazionali.  
+2. Con decreto del Presidente del Consiglio dei Ministri, sentito il Consiglio dei Ministri, su proposta del Ministro dell'universita' e della ricerca scientifica e tecnologica, sono nominati i componenti del comitato e ne e' determinata la durata del mandato. I dipendenti pubblici possono essere collocati in aspettativa per la durata del mandato. Il Comitato elegge nel suo seno il presidente.  
+3. Il Comitato, d'intesa con le amministrazioni dello Stato, collabora con strutture interne alle medesime per la definizione e la progettazione di attivita' di valutazione di enti di ricerca da esse vigilati o finanziati, nonche' di progetti e programmi di ricerca da esse realizzati o coordinati. Al Comitato possono ricorrere anche altre pubbliche amministrazioni.  
+4. Le indennita' spettanti ai membri del Comitato sono determinate con decreto del Ministro dell'universita' e della ricerca scientifica e tecnologica, a valere sullo stato di previsione del MURST.  
+5. Il Comitato predispone rapporti periodici sull'attivita' svolta e una relazione annuale in materia di valutazione della ricerca, che trasmette al Ministro dell'universita' e della ricerca scientifica e tecnologica, ai Ministri interessati e al CIPE. Il Ministro dell'universita' e della ricerca scientifica e tecnologica cura la pubblicazione e la diffusione dei rapporti e delle relazioni del Comitato.  
+6. Le competenze di indirizzo e di promozione del comitato non possono essere delegate ad altri soggetti.  
+Il Comitato si avvale della segreteria tecnica di cui all'art. 2, comma 3, del presente decreto e puo' ricorrere, limitatamente a specifici adempimenti strumentali, a societa' od enti prescelti ai sensi del [decreto legislativo 17 marzo 1995, n. 157](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1995-03-17;157), e successive modificazioni ed integrazioni, in materia di appalti di servizi".  
+- Si riporta il testo dell'[art. 17, comma 102, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com102) (Misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo):  
+"102. Il Consiglio universitario nazionale (CUN) e' organo elettivo di rappresentanza delle istituzioni autonome universitarie. Esso formula pareri e proposte:  
+a) sulla programmazione universitaria;  
+b) sui criteri per la utilizzazione della quota di riequilibrio del fondo per il finanziamento ordinario delle universita';  
+c) sui decreti di cui ai commi 95 e 96, nonche' sull'approvazione dei regolamenti didattici d'Ateneo;  
+d) sui settori scientificodisciplinari;  
+e) sul reclutamento dei professori e dei ricercatori dell'Universita'".  
+- Si riporta il testo dell'[art. 20, comma 8, lettera b), della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art20-com8-letb) (Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa).  
+"8. In sede di prima attuazione della presente legge e nel rispetto dei principi, criteri e modalita' di cui al presente articolo, quali norme generali regolatrici, sono emanati appositi regolamenti ai sensi e per gli effetti dell'[art. 17, comma 2, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com2), per disciplinare i procedimenti di cui all'allegato 1 alla presente legge, nonche' le seguenti materie:  
+a) (omissis);  
+b) composizione e funzioni degli organismi collegiali nazionali e locali di rappresentanza e coordinamento del sistema universitario, prevedendo altresi' l'istituzione di un Consiglio nazionale degli studenti, eletto dai medesimi, con compiti consultivi e di proposta".
+
+Art. 2
+------
+
+Ministro ed uffici di diretta collaborazione
+
+1. Il Ministro e' l'organo di direzione politica del Ministero e ne determina gli indirizzi, avvalendosi del gabinetto, dell'ufficio legislativo, della segreteria, del segretario particolare e dell'ufficio stampa.
+
+2. Il capo di gabinetto coordina le attivita' affidate agli uffici di diretta collaborazione e assicura il raccordo tra le funzioni di indirizzo del Ministro e le attivita' di gestione del Ministero. Puo' avvalersi di due vice capi di gabinetto, di cui uno con funzioni vicarie.
+
+3. L'ufficio legislativo provvede alle attivita' di definizione degli interventi normativi nelle materie di competenza del Ministero, avvalendosi, per gli adempimenti istruttori e strumenali, dei competenti uffici; esamina i provvedimenti sottoposti al Consiglio dei Ministri e quelli di iniziativa parlamentare. Cura le risposte agli atti parlamentari di controllo e di indirizzo riguardanti il Ministero e il seguito dato agli stessi e svolge attivita' di consulenza giuridica nei confronti dei dipartimenti e delle direzioni generali.
+
+4. La segreteria del Ministro svolge attivita' di supporto alle funzioni del medesimo.
+
+5. L'ufficio stampa cura i rapporti con il sistema e gli organi di informazione nazionale e internazionale, nonche' la rassegna stampa con riferimento ai profili di competenza del Ministero; promuove e gestisce iniziative editoriali di informazione istituzionale.
+
+6. Il servizio di controllo interno di cui all'[articolo 6, comma 3, del decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286~art6-com3), opera, in posizione di autonomia, presso il gabinetto e risponde esclusivamente al Ministro.
+
+7. Le segreterie particolari dei Sottosegretari di Stato svolgono attivita' di supporto alle funzioni dei medesimi. Sono composte ciascuna da un segretario particolare e dal capo della segreteria, nominati anche tra estranei all'amministrazione, nonche' da un numero non superiore ad otto unita' di dipendenti pubblici.
+
+8. Agli uffici di cui al comma 1, sono assegnati personale del Ministero e dipendenti pubblici, anche in posizione di aspettativa, fuori ruolo o comando, nel numero massimo di 75 unita', nonche' estranei all'amministrazione assunti con contratto a tempo determinato in numero non superiore a 12. Tale personale e' ripartito tra i suddetti uffici con decreto di natura non regolamentare del Ministro. Possono essere chiamati a collaborare con i suddetti uffici anche esperti e consulenti di particolare professionalita' e specializzazione nelle materie di competenza del Ministero e in quelle giuridico-amministrative, con incarichi di collaborazione coordinata e continuativa, nel numero massimo di 12. Il trattamento economico accessorio e' determinato con decreto del Ministro ai sensi dell'[articolo 14, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14-com2), e successive modificazioni e integrazioni. Del gabinetto fa parte un consigliere diplomatico.
+
+9. I titolari degli uffici di cui al comma 1 sono nominati direttamente dal Ministro anche tra esperti dotati di elevata professionalita', estranei all'amministrazione.
+
+Note all'art. 2:  
+- Il testo dell'[art. 6, comma 3, del decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286~art6-com3) (Riordino e potenziamento dei meccanismi e strumenti di valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11)), e' il seguente:  
+"3. Nelle amministrazioni dello Stato, i compiti di cui ai commi 1 e 2 sono affidati ad apposito ufficio, operante nell'ambito delle strutture di cui all'art. 14, comma 2, del decreto n. 29, denominato servizio di controllo interno e dotato di adeguata autonomia operativa. La direzione dell'ufficio puo' essere dal Ministro affidata anche ad un organo collegiale, ferma restando la possibilita' di ricorrere, anche per la direzione stessa, ad esperti estranei alla pubblica amministrazione, ai sensi del predetto art. 14, comma 2, del decreto n. 29. I servizi di controllo interno operano in collegamento con gli uffici di statistica istituiti ai sensi del [decreto legislativo 6 settembre 1989, n. 322](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322). Essi redigono almeno annualmente una relazione sui risultati delle analisi effettuate, con proposte di miglioramento della funzionalita' delle amministrazioni. Possono svolgere, anche su richiesta del Ministro, analisi su politiche e programmi specifici dell'amministrazione di appartenenza e fornire indicazioni e proposte sulla sistematica generale dei controlli interni nell'amministrazione".  
+- Per il testo dell'art. 14, comma 2, del citato [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), si veda nelle note alle premesse.
+
+Art. 3
+------
+
+Segreteria tecnica della programmazione della ricerca
+
+1. E' istituita presso il Ministero la segreteria tecnica di cui all'[articolo 2, comma 3, del decreto legislativo 5 giugno 1998, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204~art2-com3), per l'esercizio delle funzioni di supporto di cui al predetto decreto.
+
+Nota all'art. 3:  
+- Per il testo dell'art. 2, comma 3, del citato [decreto legislativo 5 giugno 1998, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204), si veda nelle note all'art. 1.
+
+Art. 4
+------
+
+Dipartimento e servizi
+
+1. Fino alla data di entrata in vigore dei regolamenti di organizzazione del Ministero dell'istruzione, dell'universita' e della ricerca di cui all'[articolo 49 del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art49), il Ministero, ai sensi dell'articolo 77 del predetto decreto, si articola in un dipartimento, cui e' preposto un dirigente generale ai sensi dell'[articolo 19, comma 3, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art19-com3), all'interno del quale sono istituiti due uffici di livello dirigenziale generale, nonche' in altri due uffici di livello dirigenziale generale, di pari livello. I predetti uffici sono di seguito denominati anche servizi.
+
+2. All'individuazione degli uffici di livello dirigenziale non generale, ricompresi nell'ambito del dipartimento e dei servizi, si provvede ai sensi dell'[articolo 4, comma 4, del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art4-com4).
+
+3. Al fine di adottare le direttive generali per la definizione dell'indirizzo politicoamministrativo, il Ministro promuove la consultazione periodica dei responsabili del dipartimento e dei servizi.
+
+Note all'art. 4:  
+- Si riporta il testo dell'art. 49 citato [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300):  
+"Art. 49. - 1. E' istituito il Ministero dell'istruzione, dell'universita' e della ricerca.  
+2. Al Ministero sono attribuite le funzioni e i compiti spettanti allo Stato in materia di istruzione scolastica ed istruzione superiore, di istruzione universitaria, di ricerca scientifica e tecnologica.  
+3. Al Ministero sono trasferite, con le inerenti risorse finanziarie, strumentali e di personale, le funzioni dei Ministeri della pubblica istruzione e dell'universita' e ricerca scientifica e tecnologica, eccettuate quelle attribuite, anche dal presente decreto, ad altri Ministeri o ad agenzie, e fatte in ogni caso salve ai sensi e per gli effetti degli [articoli 1, comma 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art1-com2), e [3, comma 1, lettere a)](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art3-com1-leta) e [b), della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art3-com1-letb), le funzioni conferite dalla vigente legislazione alle regioni ed agli enti locali. E' fatta altresi' salva l'autonomia delle istituzioni scolastiche e l'autonomia delle istituzioni universitarie e degli enti di ricerca, nel quadro di cui all'[art. 1, comma 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art1-com6), e dell'[art. 21 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art21), e del [decreto legislativo 5 giugno 1998, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998-06-05;204). Il Ministero esercita le funzioni di vigilanza spettanti al Ministero della pubblica istruzione, a norma dell'art. 88, sull'agenzia per la formazione e l'istruzione professionale".  
+- Per il testo dell'art. 77 del citato [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), si veda nelle note alle premesse.  
+- L'art. 19, comma 3, del citato [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), prevede:  
+"3. Gli incarichi di segretario generale di Ministeri, gli incarichi di direzione di strutture articolate al loro interno in uffici dirigenziali generali e quelli di livello equivalente sono conferiti con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro competente, a dirigenti della prima fascia del ruolo unico di cui all'art. 23 o, con contratto a tempo determinato, a persone in possesso delle specifiche qualita' professionali richieste dal comma 6".  
+- Si riporta il testo dell'[art. 4, comma 4, del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art4-com4):  
+"4. All'individuazione degli uffici di livello dirigenziale non generale di ciascun Ministero e alla definizione dei relativi compiti di provvede con decreto ministeriale di natura non regolamentare".
+
+Art. 5
+------
+
+Funzioni del dipartimento e dei servizi
+
+1. Le strutture di cui all'articolo 4, comma 1, sono costituite dal dipartimento per la programmazione, il coordinamento e gli affari economici, dal servizio per gli affari generali e il sistema informativo e statistico, dal servizio studi e documentazione.
+
+2. Il dipartimento per la programmazione, il coordinamento e gli affari economici provvede nel suo complesso agli interventi in materia di universita' e di ricerca scientifica e tecnologica di competenza del Ministero e alla relativa programmazione finanziaria.  
+Il dipartimento si articola in due servizi di livello dirigenziale generale, rispettivamente per l'autonomia universitaria e gli studenti e per lo sviluppo e il potenziamento dell'attivita' di ricerca. I compiti del capo del dipartimento sono quelli indicati dall'[articolo 5, comma 5, del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art5-com5).
+
+3. Nell'ambito del dipartimento per la programmazione il coordinamento e gli affari economici il servizio per l'autonomia universitaria e gli studenti provvede in particolare:
+
+a) al finanziamento del sistema universitario e ai connessi adempimenti;
+
+b) alla programmazione e sviluppo del sistema universitario e connessi adempimenti;
+
+c) all'esame degli statuti e dei regolamenti di ateneo;  
+d)alle attivita' inerenti agli ordinamenti didattici universitari e a compiti derivanti da disposizioni di legge o di regolamento concernenti i professori e ricercatori universitari e l'avviamento alla didattica e alla ricerca;  
+e) all'adozione delle iniziative connesse all'attuazione delle direttive comunitarie e degli accordi internazionali in materia di istruzione universitaria, con particolare riferimento alla mobilita' studentesca, al riconoscimento dei titoli di studio e alle condizioni di accesso alle professioni;  
+f) alle attivita' di competenza del Ministero in materia di accesso alle pubbliche amministrazioni e alle professioni;  
+g) agli adempimenti connessi alle attivita' della facolta' di medicina e dei policlinici universitari;  
+h) alle attivita' di orientamento e al raccordo con il sistema scolastico;  
+i) al coordinamento delle attivita' di formazione di grado universitario, di formazione professionale superiore, nonche' di formazione continua, permanente e ricorrente delle universita' con le attivita' formative di competenza di altre pubbliche amministrazioni;  
+l) alle iniziative per l'attuazione del diritto allo studio degli studenti universitari, compresi quelli stranieri;  
+m) ai rapporti con il CUN e del CNSU per gli atti di competenza;  
+n) alle verifiche amministrativocontabili, al monitoraggio del sistema universitario e dell'attuazione delle normative e degli interventi in materia universitaria, anche avvalendosi degli organismi di valutazione.
+
+4. Nell'ambito del dipartimento di cui al comma 1, il servizio per lo sviluppo ed il potenziamento delle attivita' di ricerca provvede in particolare:
+
+a) agli adempimenti relativi all'attuazione del PNR, ai programmi e ai progetti finalizzati d'interesse generale ed agli accordi di programma;
+
+b) alle attivita' inerenti alla cooperazione scientifica nazionale e internazionale in materia di ricerca, di competenza del Ministero;
+
+c) alle procedure di costituzione e di accorpamento, all'esame dei regolamenti e dei piani di attivita', al finanziamento ordinario e alle attivita' di monitoraggio e di vigilanza sugli enti di ricerca di competenza del Ministero;
+
+d) alle attivita' concernenti la ricerca aerospaziale e l'Agenzia spaziale italiana di competenza del Ministero;
+
+e) alle attivita' di incentivazione e di agevolazione della ricerca nelle imprese e negli altri soggetti pubblici e privati secondo la normativa vigente, nazionale e internazionale;
+
+f) alla gestione del fondo agevolazioni per la ricerca di cui all'[articolo 5 del decreto legislativo 27 luglio 1999, n. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297~art5);
+
+g) agli adempimenti per la predisposizione e l'attuazione del programma operativo plurifondo per le aree depresse;
+
+h) alla costituzione e all'aggiornamento dell'Anagrafe nazionale delle ricerche;
+
+i) alle verifiche amministrativocontabili, al monitoraggio della ricerca degli enti, delle imprese e dei soggetti privati e dell'attuazione delle normative e degli interventi in materia di ricerca, anche avvalendosi degli organismi di valutazione.
+
+5. Il servizio centrale per gli affari generali e per il sistema informativo e statistico sovrintende alla gestione delle risorse finanziarie, strumentali e di personale assegnato al Ministero. In particolare provvede:
+
+a) alla predisposizione del bilancio del Ministero;
+
+b) agli adempimenti connessi all'amministrazione e alla gestione del personale in servizio presso il Ministero, con particolare riguardo alla formazione e all'aggiornamento professionale del personale medesimo;
+
+c) alle iniziative correlate all'attivita' di supporto tecnico e amministrativo al dipartimento ed ai servizi, ivi comprese quelle di cassa e di economato;
+
+d) alla gestione del sistema informativo e del centro elettronico, ai rapporti con l'Autorita' informatica per la pubblica amministrazione (AIPA), e agli adempimenti relativi ai programmi di informatizzazione della pubblica amministrazione;
+
+e) alla raccolta e all'elaborazione di dati statistici da parte del Ministero;
+
+f) alla segreteria e agli adempimenti di competenza del Ministero per il funzionamento del CUN, del CNSU, del CEPR, del CIVR, dell'AST e dei CNS;
+
+g) alla diffusione delle informazioni riguardanti le attivita' del Ministero;
+
+h) alla promozione e all'organizzazione di convegni, congressi, mostre, esposizioni ed altre manifestazioni pubbliche;
+
+i) agli adempimenti in materia di pubblicita' di cui alla [legge 5 agosto 1981, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416), e successive modificazioni ed integrazioni, curando i rapporti con il dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei Ministri;
+
+l) alle relazioni con il pubblico ai sensi dell'[articolo 12 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art12);
+
+m) alle pubblicazioni del Ministero;
+
+n) alla biblioteca del Ministero.
+
+6. Il servizio studi e documentazione promuove e svolge attivita' di indagine, studio e documentazione concernente il sistema universitario e della ricerca, anche in rapporto con gli organi collegiali del Ministero e con l'Osservatorio per la valutazione del sistema universitario. In particolare:
+
+a) cura la comparazione sul piano giuridico, amministrativo, organizzativo e finanziario tra il sistema universitario e di ricerca italiano e quello di altri Paesi, predisponendo per il Ministro e il Ministero i necessari supporti documentari e informativi;
+
+b) predispone, avvalendosi degli altri dipartimenti e servizi, nonche' dell'Osservatorio per la valutazione del sistema universitario, il rapporto triennale sullo stato dell'istruzione universitaria e i rapporti sullo stato della ricerca nazionale;
+
+c) elabora previsioni a breve, medio, lungo termine sull'evoluzione della domanda e dell'offerta formativa, della tecnologia e della ricerca scientifica e tecnologica, nonche' sull'impatto della formazione o della tecnologia e dei risultati della ricerca sulla vita economica, sociale e culturale.
+
+Note all'art. 5:  
+- Si riporta il testo dell'[art. 5, comma 5, del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art5-com5):  
+"5. Nell'esercizio dei poteri di cui ai precedenti commi 3 e 4, in particolare, il capo del dipartimento:  
+a) determina i programmi per dare attuazione agli indirizzi del Ministro;  
+b) alloca le risorse umane, finanziarie e strumentali disponibili per l'attuazione dei programmi secondo principi di economicita', efficacia ed efficienza, nonche' di rispondenza del servizio al pubblico interesse;  
+c) svolge funzioni di propulsione, di coordinamento, di controllo e di vigilanza nei confronti degli uffici del dipartimento;  
+d) promuove e mantiene relazioni con gli organi competenti dell'Unione europea per la trattazione di questioni e problemi attinenti al proprio dipartimento;  
+e) adotta gli atti per l'utilizzazione ottimale del personale secondo criteri di efficienza, disponendo gli opportuni trasferimenti di personale all'interno del dipartimento;  
+f) e' sentito dal Ministro ai fini dell'esercizio del potere di proposta per il conferimento degli incarichi di direzione degli uffici di livello dirigenziale generale, ai sensi dell'[art. 19, comma 4, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art19-com4);  
+g) puo' proporre al Ministro l'adozione dei provvedimenti di revoca degli incarichi di direzione degli uffici di livello dirigenziale generale, ai sensi dell'[art. 19, comma 4, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art19-com4) e, comunque, viene sentito nel relativo procedimento;  
+h) e' sentito dal Ministro per l'esercizio delle attribuzioni a questi conferite dall'[art. 14, comma 1, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14-com1)".  
+- L'[art. 5 del decreto legislativo 27 luglio 1999, n. 297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-27;297~art5) (Riordino della disciplina e snellimento delle procedure per il sostegno della ricerca scientifica e tecnologica, per la diffusione delle tecnologie, per la mobilita' dei ricercatori) cosi' recita:  
+"Art. 5. - 1. Le attivita' di cui all'art. 3 sono sostenute mediante gli strumenti di cui all'art. 4 a valere sul fondo per le agevolazioni alla ricerca (FAR), istituito nello stato di previsione del MURST, a carattere rotativo, che, ove si ricorra ad affidamento a terzi delle attivita' di cui all'art. 9, comma 3, puo' operare con le modalita' di cui al soppresso fondo speciale per la ricerca applicata. La gestione del fondo e' articolata in una sezione relativa agli interventi nel territorio nazionale ed in una sezione relativa ad interventi nelle aree depresse. Al fondo affluiscono, a decorrere dall'anno 2000, gli stanziamenti iscritti sul medesimo stato di previsione nell'unita' previsionale di base 4.2.1.2. "ricerca applicata".  
+2. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio".  
+- La [legge 5 agosto 1981, n. 416](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-08-05;416), e successive modificazioni e integrazioni "Disciplina delle imprese editrici e provvidenze per l'editoria" e' pubblicata nella Gazzetta Ufficiale del 6 agosto 1981, n. 215.  
+- Il testo dell'art. 12 del citato [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e' il seguente:  
+"Art. 12. - 1. Le amministrazioni pubbliche, al fine di garantire la piena attuazione della [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), individuano, nell'ambito della propria struttura e nel contesto della ridefinizione degli uffici di cui all'art. 31, uffici per le relazioni con il pubblico.  
+2. Gli uffici per le relazioni con il pubblico provvedono, anche mediante l'utilizzo di tecnologie informatiche:  
+a) al servizio all'utenza per i diritti di partecipazione di cui al capo III della [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241);  
+b) all'informazione all'utenza relativa agli atti e allo stato dei procedimenti;  
+c) alla ricerca ed analisi finalizzate alla formulazione di proposte alla propria amministrazione sugli aspetti organizzativi e logistici del rapporto con l'utenza.  
+3. Agli uffici per le relazioni con il pubblico viene assegnato, nell'ambito delle attuali dotazioni organiche delle singole amministrazioni, personale con idonea qualificazione e con elevata capacita' di avere contatti con il pubblico, eventualmente assicurato da apposita formazione.  
+4. Al fine di assicurare la conoscenza di normative, servizi e strutture, le amministrazioni pubbliche programmano ed attuano iniziative di comunicazione di pubblica utilita'; in particolare, le amministrazioni dello Stato, per l'attuazione delle iniziative individuate nell'ambito delle proprie competenze, si avvalgono del dipartimento per l'informazione e l'editoria della Presidenza del Consiglio dei Ministri quale struttura centrale di servizio, secondo un piano annuale di coordinamento del fabbisogno di prodotti e servizi, da sottoporre all'approvazione del Presidente del Consiglio dei Ministri.  
+5. Per le comunicazioni previste dalla [legge 7 agosto 1990, n. 241](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-07;241), non si applicano le norme vigenti che dispongono la tassa a carico del destinatario.  
+5-bis. Il responsabile dell'ufficio per le relazioni con il pubblico e il personale da lui indicato possono promuovere iniziative volte, anche con il supporto delle procedure informatiche, al miglioramento del servizi per il pubblico, alla semplificazione e all'accelerazione delle procedure e all'incremento delle modalita' di accesso informale alle informazioni in possesso dell'amministrazione e ai documenti amministrativi.  
+5-ter. L'organo di vertice della gestione dell'amministrazione o dell'ente verifica l'efficacia dell'applicazione delle iniziative di cui al comma 5-bis, ai fini dell'inserimento della verifica positiva nel personale del dipendente. Tale riconoscimento costituisce titolo autonomamente valutabile in concorsi pubblici e nella progressione in carriera del dipendente. Gli organi di vertice trasmettono le iniziative riconosciute ai sensi del presente comma al dipartimento della funzione pubblica, ai fini di una adeguata pubblicizzazione delle stesse. Il dipartimento annualmente individua le forme di pubblicazione.  
+5-quater. Le disposizioni di cui ai commi 5-bis e 5-ter, a decorrere dal 1 luglio 1997, sono estese a tutto il personale dipendente dalle amministrazioni pubbliche".
+
+Art. 6
+------
+
+Disposizione finale
+
+1. Sono abrogati il [decreto del Presidente della Repubblica 6 settembre 1996, n. 522, e gli articoli 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-09-06;522~art19) e [20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-09-06;522~art20) del [decreto del Presidente della Repubblica 4 agosto 1990, n. 419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-08-04;419). Per l'attribuzione di incarichi ad esperti si applica l'[articolo 7, comma 6, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art7-com6), e successive modificazioni ed integrazioni.
+
+2. Dall'attuazione del presente regolamento non possono derivare effetti di aumento della spesa del Ministero dell'universita' e della ricerca scientifica e tecnologica.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 1 dicembre 1999
+
+CIAMPI
+
+D'Alema, Presidente del Consiglio dei Ministri
+
+Zecchino, Ministro dell'universita' e della ricerca scientifica e tecnologica
+
+Amato, Ministro del tesoro, del bilancio e della programmazione economica
+
+Piazza, Ministro per la funzione pubblica
+
+Visto, il Guardasigilli: Diliberto Registrato alla Corte dei conti il 10 dicembre 1999
+
+Atti di Governo, registro n. 118, foglio n. 8
+
+Note all'[art. 6:  
+- Il decreto del Presidente della Repubblica 6 settembre 1996, n. 522](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1996-09-06;522~art6), riguarda; "Regolamento concernente l'organizzazione del Ministero dell'universita' e della ricerca scientifica e tecnologica".  
+- Si riporta il testo degli [articoli 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-08-04;419~art19) e [20 del decreto del Presidente della Repubblica 4 agosto 1990, n. 419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1990-08-04;419~art20) (Regolamento per l'organizzazione del Ministero dell'universita' e della ricerca scientifica e tecnologica):  
+"Art. 19. - 1. Per sopperire ad esigenze organizzative e funzionali, il Ministro puo' conferire incarichi, in numero non superiore a dieci, ad esperti di elevata qualificazione.  
+2. L'incarico, conferito con decreto del Ministro per la durata in carica di quest'ultimo e comunque per un periodo non superiore ai quinquennio, rinnovabile una sola volta, comporta una prestazione a tempo pieno e deve essere eseguito personalmente ed in correlazione funzionale con gli uffici dell'amministrazione sulla base delle direttive del Ministro. Esso comporta il rispetto del segreto d'ufficio e l'incompatibilita' con impieghi od occupazioni presso enti pubblici o privati e con l'esercizio di professioni. Il Ministro puo' autorizzare l'esercizio di attivita' che non interferiscono o comunque non siano incompatibili con il contenuto e la natura dell'incarico. L'incarico puo' essere revocato anche prima della scadenza del termine con le stesse modalita' del conferimento, fatto salvo il compenso per l'opera svolta.  
+3. Nel decreto di conferimento dell'incarico viene specificato se le funzioni attribuite sono equiparate a quelle di direttore di dipartimento o di direttore di servizio ai fini della corresponsione del relativo trattamento economico.  
+4. Qualora il Ministro intenda avvalersi di personale appartenente ad amministrazioni pubbliche, compresi gli enti pubblici anche economici, l'incarico e' conferito previa intesa con le amministrazioni di appartenenza degli interessati, i quali sono collocati in posizione di fuori ruolo, aspettativa o comando in relazione ai rispettivi ordinamenti di provenienza.  
+5. Qualora il Ministro intenda avvalersi di estranei alle pubbliche amministrazioni, stipula con gli interessati apposito contratto di diritto privato con il quale sono disciplinati i seguenti aspetti: durata del contratto che deve essere equivalente a quella dell'incarico; prestazioni d'opera e verifiche dei risultati da parte dell'amministrazione; retribuzione, oneri accessori e modalita' della loro erogazione; facolta' di recesso delle parti, fermo restando che la revoca del provvedimento di incarico costituisce recesso da parte dell'amministrazione.  
+Per quanto non previsto nel presente regolamento si applicano le disposizioni previste dagli [articoli 2222 e seguenti del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2222)".  
+"Art. 20. - 1. Per la partecipazione a gruppi di lavoro o a commissioni che concorrano alle attivita' conoscitive ed istruttorie svolte dai dipartimenti e dai servizi, per attivita' di collaborazione a tempo parziale, di consulenza, studio o ricerca il Ministro puo' conferire, nei limiti dell'apposito stanziamento, incarichi a tempo determinato ad esperti di adeguata qualificazione.  
+2. Gli incarichi sono conferiti con decreto del Ministro per una durata non superiore a quella dell'esercizio finanziario interessato ed i relativi compensi sono determinati ai sensi dell'art. 13, comma 5, della legge.  
+3. Gli incaricati sono tenuti a prestate la propria collaborazione professionale in correlazione funzionale con gli uffici del Ministero sulla base delle direttive del Ministro, o di chi sia stato da lui delegato, nonche' a presentare, ove richieste, relazioni su specifici argomenti connessi alle attivita' oggetto della collaborazione.  
+4. Per quanto concerne le modalita' di conferimento dell'incarico e le obbligazioni delle parti, anche per l'esercizio del diritto di recesso, si applicano le disposizioni cui all'art. 19".  
+- Il testo dell'art. 7, comma 6 del citato [decreto legislativo 2 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-02;29) e' il seguente:  
+"6. Per esigenze cui non possono far fronte con personale in servizio, le amministrazioni pubbliche possono conferire incarichi individuali ad esperti di provata competenza, determinando preventivamente durata, luogo, oggetto e compenso della collaborazione".

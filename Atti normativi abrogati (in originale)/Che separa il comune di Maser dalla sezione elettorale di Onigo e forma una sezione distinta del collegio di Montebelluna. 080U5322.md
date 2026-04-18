@@ -1,0 +1,51 @@
+REGIO DECRETO 07 marzo 1880 n. 5322
+
+
+REGIO DECRETO 07 marzo 1880 n. 5322
+===================================
+
+Che separa il comune di Maser dalla sezione elettorale di Onigo e forma una sezione distinta del collegio di Montebelluna. (080U5322)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/04/1880
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduti gli articoli 63, 64, 65 e 66 della legge elettorale 17 dicembre 1860, n. 4513, e la tabella annessavi della circoscrizione territoriale dei Collegi elettorali;
+
+Veduta l'istanza del comune di Maser per essere costituito sezione del Collegio elettorale di Montebelluna, separatamente da quella del Collegio stesso, detta di Onigo, cui fu sino ad ora unito;
+
+Ritenuto che il comune di Onigo dista chilometri 7 70 da quello di Maser, e chilometri 10 70 da Crespignaga, frazione di Maser, e che per tali distanze torna meno comodo a quegli elettori l'esercizio del loro diritto;
+
+Ritenuto che gli elettori del comune di Maser sono 58, e cosi' in numero superiore a quello determinato per minimo dall'art. 64 della legge elettorale;
+
+Considerando che per la istituzione di una sezione elettorale in Maser sara' agevolato agli elettori di quel comune lo esercizio del loro diritto;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il comune di Maser e' separato dalla sezione elettorale di Onigo, e formera' una sezione distinta del Collegio di Montebelluna.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 7 marzo 1880.   
+  
+UMBERTO.   
+  
+Depretis.   
+  
+Visto - Il Guardasigilli   
+T. Villa.   
+  

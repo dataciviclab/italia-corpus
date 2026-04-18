@@ -1,0 +1,17 @@
+REGIO DECRETO 19 febbraio 1920 n. 358
+
+
+REGIO DECRETO 19 febbraio 1920 n. 358
+=====================================
+
+Istituzione di Regia scuola professionale. (020U0358)
+-----------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/04/1920
+
+Art. 1
+------
+
+N.
+
+358. Regio Decreto 19 febbraio 1920, col quale, sulla proposta del ministro per l'industria, il commercio e il lavoro, viene istituita in Moliterno (Potenza), una R. scuola professionale per l'avviamento ai mestieri del falegname ebanista e del fabbro meccanico.

@@ -1,0 +1,65 @@
+REGIO DECRETO 15 ottobre 1931 n. 1424
+
+
+REGIO DECRETO 15 ottobre 1931 n. 1424
+=====================================
+
+Proroga della gestione straordinaria dell'Istituto autonomo per le case popolari di Asola e sostituzione del commissario. 
+(031U1424)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/12/1931
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visti gli articoli 12 e 52 del testo unico delle leggi sulle Case popolari ed economiche, approvato con R. decreto-legge 80 novembre 1919, n. 2318;
+
+Visto l'[art. 2 del R. decreto 27 settembre 1929, n. 1726](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1929-09-27;1726~art2);
+
+Visto il R. decreto in data 29 gennaio 1931 col quale il Consiglio di amministrazione dell'Istituto autonomo per le case popolari di Asola (Mantova) e' stato sciolto ed il ragioniere capo della Regia prefettura di Mantova e' stato nominato commissario per la gestione straordinaria di quell'Ente per la durata di mesi sei dalla data del decreto stesso;
+
+Visto il R. decreto in data 29 luglio 1931 col quale detto termine e' stato prorogato al 28 ottobre 1931;
+
+Vista la lettera del 12 settembre 1931 con la quale S. E. il prefetto di Mantova comunica che il predetto Regio commissario e' stato trasferito in altra sede;
+
+Ritenuta la necessita' di provvedere alla sostituzione del commissario suddetto ed alla concessione di una nuova congrua proroga della gestione straordinaria di quell'Istituto;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+Il ragioniere capo della Regia prefettura di Mantova cessa dalla carica di Regio commissario per la gestione straordinaria dell'Istituto autonomo per le case popolari di Asola, ed e' nominato alla carica stessa il signor rag. Silvio Guida, commissario prefettizio di quel Comune.   
+  
+
+Art. 2
+------
+
+  
+  
+Il termine assegnato per la gestione straordinaria dell'Istituto sopradetto e' prorogato al 30 aprile 1932-X.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 15 ottobre 1931 - Anno IX   
+  
+VITTORIO EMANUELE   
+  
+Di Crollalanza.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 23 novembre 1931 - Anno X   
+  
+Atti del Governo, registro 314, foglio 111. - Mancini.   
+  

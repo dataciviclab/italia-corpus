@@ -1,0 +1,63 @@
+REGIO DECRETO 10 dicembre 1942 n. 1591
+
+
+REGIO DECRETO 10 dicembre 1942 n. 1591
+======================================
+
+9ª Prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1942-43. (042U1591)
+-----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/01/1943
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto l'art. 42 del R. decreto 18 novembre 1923-II, numero 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;   
+  
+Ritenuto che sul fondo di riserva per le spese impreviste dell'esercizio finanziario 1942-43 sono disponibili lire 24.093.680;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Dal fondo di riserva per le spese impreviste,iscritto al capitolo n. 356 dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1942-43, e' autorizzata una nona prelevazione nella somma di lire novantaseimila (L. 96.000) da iscriversi ai sottoindicati capitoli degli stati di previsione seguenti:   
+  
+Ministero delle finanze:   
+  
+Cap. n. 133. - Spese di manutenzione ordinaria dei locali sede della Corte dei Conti, ecc L. 18.000   
+  
+Cap. n. 687 (aggiunto - in conto competenza). - Spese inerenti all'eredita' in favore dello Stato disposta da Andersen Hendrik Christian, ecc. » 10.000   
+  
+Ministero dell'educazione nazionale:   
+  
+Cap. n. 16. - Spese casuali L. 28.000   
+  
+Ministero dell'agricoltura e delle foreste:   
+  
+Cap. n. 13. - Spese casuali L. 40.000   
+  
+Totale L. 96.000   
+  
+Questo decreto sara' presentato alle Assemblee legislative per la sua convalidazione. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 10 dicembre 1942-XXI   
+  
+VITTORIO EMANUELE   
+  
+DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 13 gennaio 1943-XX   
+I   
+Atti del Governo, registro 453, foglio 51. - MANCINI   

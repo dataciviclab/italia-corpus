@@ -1,0 +1,51 @@
+DECRETO MINISTERIALE 27 dicembre 1869 n. 5443
+
+
+DECRETO MINISTERIALE 27 dicembre 1869 n. 5443
+=============================================
+
+Che fissa il prezzo del sale comune o granito da vendersi per usi industriali. (069U5443)
+-----------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/02/1870
+
+IL MINISTRO DELLE FINANZE
+-------------------------
+
+Visto l'articolo 123 del Regolamento approvato col Regio Decreto 15 giugno 1865, in esecuzione della Legge sulla privativa dei Sali e tabacchi;
+
+Vista
+-----
+
+la Tabella, allegato B, del Decreto legislativo 28 giugno 1866; Determina:
+
+Articolo unico
+--------------
+
+  
+  
+Il prezzo di costo del sale comune o granito, da vendersi per uso esclusivo della fabbricazione della soda e della riduzione dei minerali, viene fissato per un triennio a datare dal 1° gennaio 1870:   
+  
+in lire 4.60 (lire quattro e centesimi sessanta), ogni quintale   
+metrico, pel magazzino di Bologna;   
+  
+in lire 3.60 (lire tre e centesimi sessanta), ogni quintale   
+metrico, pel magazzino di Lodi;   
+  
+in lire 3.45 (lire tre e centesimi quarantacinque), ogni quintale metrico, pel magazzino di Milano;   
+  
+in lire 3.22 (lire tre e centesimi ventidue), ogni quintale   
+metrico, pel magazzino di Torino;   
+  
+restando a carico degli acquirenti la provvista delle sostanze alteranti.   
+  
+Il presente Decreto sara' registrato alla Corte dei conti ed inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia.   
+  
+Dato a Firenze addi' 27 dicembre 1869.   
+  
+QUINTINO SELLA.   
+  
+Registrato alla Corte dei conti addi' 8 gennaio 1870   
+  
+Reg. 49 Atti del Governo a c. 166. Ayres.   
+  

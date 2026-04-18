@@ -1,0 +1,55 @@
+REGIO DECRETO 12 settembre 1879 n. 5099
+
+
+REGIO DECRETO 12 settembre 1879 n. 5099
+=======================================
+
+Col quale e' classificata come traversa provinciale la strada interna di Castellammare di Stabia che unisce le due strade provinciali di Napoli e Sorrentina. (079U5099)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/11/1879
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la deliberazione colla quale il Consiglio provinciale di Napoli, nella tornata del 5 ottobre 1877, delibero' di classificare come traversa provinciale il tratto che, percorrendo l'abitato della citta' di Castellammare, mette in comunicazione le due strade provinciali di Napoli e Sorrentina;
+
+Visti gli atti relativi alla pubblicazione di detta deliberazione, contro la quale non vennero presentate eccezioni;
+
+Veduti i decreti 25 novembre 1866, 16 luglio 1869, 7 gennaio 1870, 5 febbraio 1871, 12 e 29 agosto 1873, 30 giugno 1876 e 11 febbraio 1877, con i quali si provvide alla classificazione delle strade provinciali della provincia di Napoli;
+
+Visti gli articoli 13, 14 e 41 della legge 20 marzo 1865 sui lavori pubblici;
+
+Considerando:
+
+Che le due strade provinciali da Napoli a Castellammare e da Castellammare a Massalubrense, detta pure Sorrentina, sono in prolungamento l'una dell'altra e costituiscono una sola strada lungo la costa del golfo da Napoli a Massalubrense, per modo che la strada interna di Castellammare deve considerarsi siccome una traversa provinciale, tanto piu' che il detto tratto di strada interna serve anche a congiungere la strada Sorrentina colle altre due strade per Gragnano e per Angri;
+
+Sentito il Consiglio superiore dei lavori pubblici;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' approvata la sopracitata deliberazione 5 ottobre 1877, colla quale il Consiglio provinciale di Napoli adotto' di classificare come traversa provinciale la strada interna di Castellammare di Stabia, che unisce le due strade provinciali di Napoli e Sorrentina.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 12 settembre 1879.   
+  
+UMBERTO.   
+  
+A. Baccarini.   
+  
+Visto - Il Guardasigilli   
+Vare'.   
+  

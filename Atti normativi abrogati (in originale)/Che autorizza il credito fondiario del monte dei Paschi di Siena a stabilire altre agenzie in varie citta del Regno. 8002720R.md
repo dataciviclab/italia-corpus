@@ -1,0 +1,54 @@
+REGIO DECRETO 24 settembre 1880 n. MMDCCXX
+
+
+REGIO DECRETO 24 settembre 1880 n. MMDCCXX
+==========================================
+
+Che autorizza il credito fondiario del monte dei Paschi di Siena, a stabilire altre agenzie in varie citta' del Regno. (8002720R)
+---------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/12/1880
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la [legge del 14 giugno 1866, n. 2983](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1866-06-14;2983), sull'ordinamento del credito fondiario;   
+  
+Visto il regolamento esecutivo di detta legge approvato col [regio decreto del 25 agosto 1866, n. 3177](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-08-25;3177), e riformato coi reali decreti del 6 dicembre 1866, n. 3372, e del 30 giugno 1867, n. 3787;   
+  
+Vista la [legge del 15 giugno 1873, n. 1419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-06-15;1419);   
+  
+Visto il reale decreto 8 dicembre 1872 che approva lo statuto del monte dei Paschi in Siena;   
+  
+Vista la deliberazione adottata il 10 agosto 1880, dalla deputazione del credito fondiario del monte dei Paschi predetto;   
+  
+Ritenuta la convenienza che sia maggiormente diffusa l'istituzione del credito fondiario di Siena in quelle provincie nelle quali e' tracciato il suo campo di operazioni;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+Ai termini della citata deliberazione 10 agosto 1880 della deputazione del credito fondiario del monte dei Paschi di Siena, l'istituto anzidetto stabilira' agenzie nelle seguenti localita':  
+Arezzo, Firenze, Foligno, Massa Carrara, Orvieto, Perugia, Grosseto, Livorno, Lucca, Pisa, Rocca San Casciano e San Miniato.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza addi' 24 settembre 1880.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 23 ottobre 1880   
+  
+Reg. 110 Atti del Governo a f. 124. Ayres.   
+  
+Luogo del Sigillo. V. Il Guardasigilli T. Villa.   
+  
+Miceli.   
+  

@@ -1,0 +1,44 @@
+REGIO DECRETO 22 settembre 1867 n. 3936
+
+
+REGIO DECRETO 22 settembre 1867 n. 3936
+=======================================
+
+Col quale sono designati i Membri delegati a firmare i titoli che saranno emessi dalla Direzione generale del Debito Pubblico. (067U3936)
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/10/1867
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla
+-----
+
+proposizione del Presidente del Consiglio dei Ministri, incaricato del Portafoglio delle Finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I Cavalieri Sardi Pietro, Lana Luigi, Matthieu Felice, Tarchetti Giuseppe, Flandinet Vittorio, Carletti Carlo, Tobone Giuseppe, e l'Avvocato Lorenzo Ferrero sono delegati a firmare, in concorrenza col Direttore generale del Debito Pubblico, i titoli che saranno emessi dalla Direzione generale del Debito Pubblico a termini dell'[articolo 17 della Legge in data 15 agosto 1867, n. 3848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1867-08-15;3848~art17).   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Sommariva Perno addi' 22 settembre 1867.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 2 ottobre 1867   
+  
+Reg. 40 Atti del Governo a c. 276. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli Tecchio.   
+  
+U. Rattazzi.   
+  

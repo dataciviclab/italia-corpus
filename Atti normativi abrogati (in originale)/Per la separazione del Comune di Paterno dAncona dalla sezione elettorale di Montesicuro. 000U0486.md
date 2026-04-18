@@ -1,0 +1,45 @@
+REGIO DECRETO 18 dicembre 1900 n. 486
+
+
+REGIO DECRETO 18 dicembre 1900 n. 486
+=====================================
+
+Per la separazione del Comune di Paterno d'Ancona dalla sezione elettorale di Montesicuro. (000U0486)
+-----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/01/1901
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Visto il testo unico della legge elettorale politica, approvato con [R. decreto 28 marzo 1895, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-03-28;83);   
+  
+Veduta la tabella generale delle sezioni elettorali politiche;   
+  
+Veduta la proposta del Prefetto d'Ancona per la separazione del Comune di Paterno d'Ancona dalla sezione elettorale di Montesicuro, costituendolo in sezione autonoma colla frazione Cassero del Comune d'Ancona;   
+  
+Ritenuto che il Comune di Paterno d'Ancona ha 42 elettori politici e la frazione di Cassero ne ha 14;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il Comune di Paterno d'Ancona e' separato dalla sezione elettorale di Montesicuro del Collegio d'Ancona ed e' costituito in sezione autonoma colla frazione di Cassero, del Comune d'Ancona, con sede in Cassero.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 18 dicembre 1900.   
+  
+VITTORIO EMANUELE.   
+  
+Saracco.   
+  
+Visto, Il Guardasigilli: Gianturco.   
+  

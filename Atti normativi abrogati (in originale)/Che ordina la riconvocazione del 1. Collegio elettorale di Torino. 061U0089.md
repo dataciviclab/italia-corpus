@@ -1,0 +1,45 @@
+REGIO DECRETO 14 luglio 1861 n. 89
+
+
+REGIO DECRETO 14 luglio 1861 n. 89
+==================================
+
+Che ordina la riconvocazione del 1.° Collegio elettorale di Torino. (061U0089)
+------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/07/1861
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il Messaggio in data del 14 luglio corrente, col quale l'Uffizio di Presidenza della Camera dei Deputati annunzia essere stato dichiarato vacante il 1.° Collegio di Torino;   
+  
+Vista la legge 17 dicembre 1860;   
+  
+Sulla proposta del Nostro Ministro dell'Interno;   
+  
+Abbiamo decretato e decretiamo;   
+  
+Il 1.° Collegio di Torino, n.° 411, e' riconvocato pel giorno 29 corrente, ed avverandosi il caso di una seconda votazione, essa avra' luogo il giorno 2 prossimo agosto.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 14 luglio 1861.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 17 luglio 1861   
+  
+Reg.° 17 Atti del Governo a c. 215. Wehrlin.   
+  
+Luogo del Sigillo. V. Il Guardasigilli Miglietti.   
+  
+M. Minghetti.   
+  

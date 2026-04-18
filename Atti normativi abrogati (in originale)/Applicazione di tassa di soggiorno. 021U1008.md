@@ -1,0 +1,17 @@
+REGIO DECRETO 12 giugno 1921 n. 1008
+
+
+REGIO DECRETO 12 giugno 1921 n. 1008
+====================================
+
+Applicazione di tassa di soggiorno. (021U1008)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 21/08/1921
+
+Art. 1
+------
+
+N.
+
+1008. Regio decreto 12 giugno 1921, col quale sulla propone del ministro dell'interno, presidente del consiglio dei ministri, si autorizza il comune di Sassello (Genova) ad applicare la tessa di soggiorno e se ne omologa il regolamento.

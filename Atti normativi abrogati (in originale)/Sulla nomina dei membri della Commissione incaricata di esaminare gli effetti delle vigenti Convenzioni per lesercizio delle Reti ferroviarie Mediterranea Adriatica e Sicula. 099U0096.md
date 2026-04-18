@@ -1,0 +1,56 @@
+REGIO DECRETO 16 marzo 1899 n. 96
+
+
+REGIO DECRETO 16 marzo 1899 n. 96
+=================================
+
+Sulla nomina dei membri della Commissione incaricata di esaminare gli effetti delle vigenti Convenzioni per l'esercizio delle Reti ferroviarie Mediterranea, Adriatica e Sicula. (099U0096)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/04/1899
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto in data 11 novembre 1898, n. 459, col quale fu istituita una Commissione con l'incarico di esaminare gli effetti delle vigenti Convenzioni per l'esercizio delle Reti ferroviarie Mediterranea, Adriatica e Sicula, e di proporre al Governo quel nuovo ordinamento che, in seguito alle indagini compiute ed al maturo studio eseguito, riconoscesse piu' opportuno attuare allo scadere del primo ventennio delle Convenzioni anzidette;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, d'accordo coi Ministri Segretari di Stato per il Tesoro, per le Finanze, per la Guerra, per l'Agricoltura, Industria e Commercio e per le Poste ed i Telegrafi;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A far parte di detta Commissione sono chiamati i signori:   
+  
+Romanelli comm. avv. Alessandro, consigliere di Stato;   
+  
+Bodio comm. prof. Luigi, consigliere di Stato;   
+  
+Martuscelli comm. avv. Enrico, consigliere della Corte dei Conti;   
+  
+Franco comm. Emanuele, consigliere della Corte dei Conti.   
+  
+Un delegato del Ministero delle Finanze, che sara' nominato con decreto Ministeriale.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 marzo 1899.   
+  
+UMBERTO.   
+  
+Lacava.   
+Vacchelli.   
+Carcano.   
+Di San Marzano.   
+Fortis.   
+Nasi.   
+  
+Visto, il Guardasigilli: C. Finocchiaro-Aprile.   
+  

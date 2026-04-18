@@ -1,0 +1,21 @@
+REGIO DECRETO 05 maggio 1895 n. CCCCXXVIII
+
+
+REGIO DECRETO 05 maggio 1895 n. CCCCXXVIII
+==========================================
+
+Che erige in ente morale l'ospedale infermi Baccarini fondato in Campagnola Emilia dalla fu Domenica Baccarini. (9500428R)
+--------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/12/1895
+
+Art. 1
+------
+
+  
+Con cui l'ospedale infermi Baccarini fondato in Campagnola Emilia dalla fu Domenica Baccarini ed altri, e' eretto in ente morale e se ne approva lo statuto organico in data 16 agosto 1894, composto di 17 articoli. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
+  
+Registrato alla Corte dei Conti addi' 30 novembre 1895.   
+  
+Reg. 201. Atti del Governo a f. 160.   
+  

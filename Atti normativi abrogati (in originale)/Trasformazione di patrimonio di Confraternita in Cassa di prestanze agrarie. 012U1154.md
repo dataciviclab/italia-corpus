@@ -1,0 +1,19 @@
+REGIO DECRETO 23 settembre 1912 n. 1154
+
+
+REGIO DECRETO 23 settembre 1912 n. 1154
+=======================================
+
+Trasformazione di patrimonio di Confraternita in Cassa di prestanze agrarie. (012U1154)
+---------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/11/1912
+
+Art. 1
+------
+
+  
+N. 1154   
+  
+Regio Decreto 23 settembre 1912, col quale, sulla proposta del ministro dell'interno, di concerto con i ministri di agricoltura, industria e commercio e di grazia e giustizia e dei culti, il patrimonio della Confraternita del SS. Sacramento in Santa Maria del Soccorso di Olevano sul Tusciano (Salerno), viene trasformato parzialmente, sino alla somma di L. 16.000, per costituire una Cassa di prestanze agrarie, della quale viene approvato lo statuto organico.   
+  

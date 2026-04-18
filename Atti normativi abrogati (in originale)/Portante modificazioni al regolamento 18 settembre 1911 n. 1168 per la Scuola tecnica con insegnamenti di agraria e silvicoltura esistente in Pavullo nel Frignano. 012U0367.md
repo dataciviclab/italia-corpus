@@ -1,0 +1,69 @@
+REGIO DECRETO 17 marzo 1912 n. 367
+
+
+REGIO DECRETO 17 marzo 1912 n. 367
+==================================
+
+Portante modificazioni al regolamento 18 settembre 1911, n. 1168, per la Scuola tecnica con insegnamenti di agraria e silvicoltura esistente in Pavullo nel Frignano. (012U0367)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/05/1912
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto il Nostro decreto in data 18 settembre 1911, n. 1168, con cui fu approvato il regolamento per l'applicazione della [legge 12 marzo 1911, n. 259](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-03-12;259), che istitui' in Pavullo nel Frignano una scuola tecnica con insegnamento di agraria e silvicultura;
+
+Udito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Gli articoli 3, 4 e 6 del regolamento per la scuola di Pavullo, firmato d'ordine Nostro dal Nostro ministro, segretario di Stato per la pubblica istruzione, e approvato con il Nostro decreto suaccennato, sono modificati come segue:   
+  
+Art. 3. - Il termine del triennio, gli alunni inscritti alle due sezioni, ed approvati agli esami finali, potranno ottenere la corrispondente licenza da scuola tecnica.   
+  
+Quelli che invece intendano proseguire gli studi di agraria e di silvicultura, saranno ammessi a frequentare il corso biennale complementare, pagando le medesime tasse stabilite per ogni classe di scuola tecnica».   
+  
+Art. 4. - «Gli insegnamenti che si impartiscono nel corso complementare sono i seguenti:   
+  
+1. Silvicultura e industrie affini - Esercitazioni - Apicultura e industrie affini - Esercitazioni.   
+  
+2. Agricoltura - Esercitazioni.   
+  
+3. Elementi di topografia - Esercitazioni.   
+  
+Elementi di costruzioni.   
+  
+Disegno fitografico-topografico e di costruzioni.   
+  
+4. Legislazione agraria e forestale.   
+  
+5. Nozioni complementari di scienze naturali - Esercitazioni.   
+  
+Per il primo di detti insegnamenti si provvedera' con l'istituzione di una cattedra del primo ordine di ruoli, da conferirsi, mediante concorso per titoli. Tutti gli altri insegnamenti saranno affidati, per incarico, a persone fornite dei titoli legali e di riconosciuta attitudine didattica, da retribuirsi a norma della tabella C, annessa alla [legge 8 aprile 1906, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142)».   
+  
+Art. 6. - «Alla fine del primo anno gli alunni saranno sottoposti ad un esame di promozione. Gli approvati all'esame di licenza che avra' luogo alla fine del secondo anno, con l'intervento di un delegato del Ministero di agricoltura, otterranno il diploma di perito agente forestale, pagando le tasse di esame e di diploma prescritte per le scuole tecniche.   
+  
+Gli uditori, i quali, essendo privi della licenza da scuola tecnica di tipo comune o agrario, abbiano frequentato le lezioni di non piu' di tre materie del corso speciale, potranno, alla fine del biennio, sostenere nella medesima un esperimento ed ottenere un certificato comprovante gli studi fatti».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 17 marzo 1912.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Credaro.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   

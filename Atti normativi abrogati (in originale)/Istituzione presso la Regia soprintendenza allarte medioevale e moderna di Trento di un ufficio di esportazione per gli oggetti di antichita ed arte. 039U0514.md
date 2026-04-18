@@ -1,0 +1,43 @@
+REGIO DECRETO 20 febbraio 1939 n. 514
+
+
+REGIO DECRETO 20 febbraio 1939 n. 514
+=====================================
+
+Istituzione, presso la Regia soprintendenza all'arte medioevale e moderna di Trento, di un ufficio di esportazione per gli oggetti di antichita' ed arte. (039U0514)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/04/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduto l'art. 27 secondo comma del Nostro decreto 31 dicembre 1923, n. 3164, sull'ordinamento delle Soprintendenze;   
+  
+Sulla proposta del Nostro Ministro, Segretario di Stato per l'educazione nazionale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' istituito, presso la Regia soprintendenza all'arte medioevale e moderna di Trento, un ufficio di esportazione per gli oggetti di antichita' ed arte.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 febbraio 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+Bottai   
+  
+Visto, il Guardasigilli: Solmi   
+  
+Registrato alla Corte dei conti, addi' 25 marzo 1939-XVII   
+  
+Atti del Governo, registro 407, foglio 77. - Mancini   

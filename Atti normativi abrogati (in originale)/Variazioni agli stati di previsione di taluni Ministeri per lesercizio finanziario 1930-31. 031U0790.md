@@ -1,0 +1,87 @@
+REGIO DECRETO 18 giugno 1931 n. 790
+
+
+REGIO DECRETO 18 giugno 1931 n. 790
+===================================
+
+Variazioni agli stati di previsione di taluni Ministeri per l'esercizio finanziario 1930-31. (031U0790)
+-------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/06/1931
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Viste le [leggi 27 marzo 1930, nn. 258 e 284; 1° maggio 1930, nn. 474 e 476; 2 giugno 1930, n. 712, e 12 giugno 1930, nn. 753 ed 800](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-06-12;800);   
+  
+Visto l'[art. 41, primo comma, del Regio decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art41-com1), sulla contabilita' generale dello Stato;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Negli stati di previsione della spesa dei Ministeri degli esteri, delle colonie, dell'interno, dei lavori pubblici, della guerra, della marina e dell'aeronautica, per l'esercizio finanziario 1930-31, sono apportate le seguenti variazioni:   
+  
+Ministero degli esteri:   
+In aumento:   
+Cap. n. 73. - Indennita' temporanea mensile al   
+personale, ecc. . . . . . . . . . . . . . . . . . L. 49.860   
+--------- Ministero delle colonie:   
+In aumento:   
+Cap. n. 1. - Personale di ruolo dell'Amministrazione   
+coloniale, ecc. . . . . . . . . . . . . . . . . . L. 10.000 Cap. n. 20. - Pensioni ordinarie . . . . . . . . . . » 10.000   
+--------- Totale. . . . . . . L. 20.000   
+--------- Ministero dell'interno:   
+In aumento:   
+Cap. n. 84. - Stipendi ed assegni vari agli ufficiali   
+invalidi di guerra assunti in servzio, ecc. . . . . L. 20.000   
+--------- Ministero dei lavori pubblici:   
+In diminuzione:   
+Cap. n. 1. - Amministrazione centrale. Personale di   
+ruolo, ecc. . . . . . . . . . . . . . . . . . . . L. 1.500.000.   
+Cap. n. 4. - Incaricati stabili. Retribuzioni   
+mensili, ecc. . . . . . . . . . . . . . . . . . . » 1.500.000   
+--------- Totale. . . L. 3.000.000   
+--------- Ministero della guerra:   
+In diminuzione:   
+Cap. n. 1. - Ministero. Personale civile, ecc. . . . L. 300.000 Cap. n. 52. - Impiegati civili addetti alle   
+legioni dei Reali carabinieri, ecc. . . . . . . . » 400.000   
+--------- Totale. . . L. 700.000   
+--------- Ministero della marina:   
+In aumento:   
+Cap. n. 30. - Ufficiali in posizione ausiliaria,   
+ecc. . . . . . . . . . . . . . . . . . . . . . . L 30.000 Cap. n. 33. - Indennita' militare ad ufficiali   
+della Regia marina, ecc. . . . . . . . . . . . . » 500.000   
+--------- Totale . . . L. 530.000   
+--------- in diminuzione:   
+Cap. n. 32. - Corpo Reale equipaggi marittimi.   
+Stipendi, ecc. . . . . . . . . . . . . . . . . . L. 500.000   
+--------- Ministero dell'aeronautica:   
+In aumento:   
+Cap. n. 19. - Indennita' per una sola volta in   
+luogo di pensioni, ecc. . . . . . . . . . . . . . L. 10.000   
+---------   
+Il presente decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 18 giugno 1931. - Anno IX   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 26 giugno 1931 - Anno IX   
+Atti del Governo, registro 309, foglio 162. - Ferzi.   
+  

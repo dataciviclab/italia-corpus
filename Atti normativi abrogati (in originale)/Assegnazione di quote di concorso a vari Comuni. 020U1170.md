@@ -1,0 +1,17 @@
+REGIO DECRETO 25 luglio 1920 n. 1170
+
+
+REGIO DECRETO 25 luglio 1920 n. 1170
+====================================
+
+Assegnazione di quote di concorso a vari Comuni. (020U1170)
+-----------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/08/1920
+
+Art. 1
+------
+
+N.
+
+1170. - Regio decreto 25 luglio 1920, col quale, sulla proposta del ministro delle finanze, vengono assegnate a vari Comuni del Mezzogiorno continentale, della Sicilia e della Sardegna le quote di concorso par gli anni dal 1907 al 1919, per l'integrazione provvisoria delle deficenze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle [leggi 31 marzo 1904, n. 140, 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;25) giugno e 15 1uglio 1906, nn. 255 e 383.

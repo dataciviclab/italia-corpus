@@ -1,0 +1,49 @@
+REGIO DECRETO 20 marzo 1881 n. 138
+
+
+REGIO DECRETO 20 marzo 1881 n. 138
+==================================
+
+Che all'elenco delle strade provinciali di Cuneo aggiunge quella che per Villanova, in territorio di Peveragno, mette a Borgo S. Dalmazzo per Boves. (081U0138)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/06/1881
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione 14 settembre 1880, colla quale il Consiglio provinciale di Cuneo stabili' di aggiungere all'elenco delle strade provinciali il tronco che dipartendosi dall'altra strada da Cuneo a Mondovi' per Villanova, in territorio di Peveragno, mette a Borgo San Dalmazzo per Boves;   
+  
+Visto che il detto tronco riveste i caratteri stabiliti dalla legge per essere dichiarato provinciale;   
+  
+Visto che non fu prodotta alcuna opposizione avverso la deliberazione del Consiglio provinciale;   
+  
+Visto il voto emesso dal Consiglio Superiore dei Lavori Pubblici in adunanza del 26 febbraio 1881;   
+  
+Visti gli articoli 13 e 14 della vigente legge sui lavori pubblici;   
+  
+Visti i RR. decreti 22 novembre 1866, 6 maggio 1872, 16 febbraio 1873, 1° novembre 1876, 18 novembre 1877, 28 agosto 1878, 19 gennaio e 27 aprile 1879, 29 febbraio e 7 ottobre 1880, coi quali fu provveduto alla classificazione delle strade provinciali di Cuneo;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici,   
+  
+Abbiamo decretato e decretiamo:   
+  
+All'elenco delle strade provinciali di Cuneo e' aggiunta quella che dipartendosi dall'altra strada da Cuneo a Mondovi' per Villanova, in territorio di Peveragno, mette a Borgo San Dalmazzo per Boves.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 marzo 1881.   
+  
+UMBERTO.   
+  
+A. Baccarini.   
+  
+Visto, il Guardasigilli: T. Villa.   
+  

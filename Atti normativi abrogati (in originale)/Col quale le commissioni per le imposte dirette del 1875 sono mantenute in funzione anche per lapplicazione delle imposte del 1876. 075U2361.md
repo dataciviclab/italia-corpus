@@ -1,0 +1,39 @@
+REGIO DECRETO 31 gennaio 1875 n. 2361
+
+
+REGIO DECRETO 31 gennaio 1875 n. 2361
+=====================================
+
+Col quale le commissioni per le imposte dirette del 1875 sono mantenute in funzione anche per l'applicazione delle imposte del 1876. (075U2361)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/02/1875
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visti gli articoli 15, 17 e 28 del regolamento per l'applicazione della imposta sui redditi di ricchezza mobile, approvato col [Regio decreto del 25 agosto 1870, n. 5828](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-08-25;5828);
+
+Sulla
+-----
+
+proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le Commissioni comunali e consorziali e le Commissioni provinciali, instituite per l'applicazione delle imposte dirette nell'anno 1875, sono mantenute nell'esercizio delle loro funzioni anche per l'applicazione delle imposte dirette del 1876.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 31 gennaio 1875.   
+  
+VITTORIO EMANUELE.   
+  
+M. Minghetti.   

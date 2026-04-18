@@ -1,0 +1,46 @@
+REGIO DECRETO 20 luglio 1894 n. 368
+
+
+REGIO DECRETO 20 luglio 1894 n. 368
+===================================
+
+Che da' facolta' agli Intendenti di Finanza di accordare congedi agli impiegati provinciali dell'Amministrazione del Demanio e delle Tasse sugli affari. (094U0368)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/08/1894
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto l'[art. 3 del R. decreto 17 luglio 1862 n. 760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1862-07-17;760~art3);
+
+Veduto l'[art. 12 della legge 11 ottobre 1863 n. 1500](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1863-10-11;1500~art12), e l'art. 44 del regolamento per l'esecuzione della legge stessa, approvato con R. decreto del 25 ottobre stesso anno n. 1527;
+
+Veduto l'art. 21 del regolamento per le Intendenze di Finanza, approvato con [R. decreto del 18 dicembre 1869 n. 5397](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1869-12-18;5397);
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Gli Intendenti di Finanza avranno facolta' di accordare congedi, agli Impiegati provinciali dell'Amministrazione del Demanio e delle Tasse sugli affari, per un tempo non maggiore di trenta giorni in un anno. E abrogata qualunque contraria disposizione.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 luglio 1894.   
+  
+UMBERTO.   
+  
+P. Boselli.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   
+  

@@ -1,0 +1,31 @@
+DECRETO MINISTERIALE 31 marzo 1877 n. 3798
+
+
+DECRETO MINISTERIALE 31 marzo 1877 n. 3798
+==========================================
+
+Col quale l'avvocato Annaratone e' nominato membro della commissione pei debiti dei comuni siciliani accollati allo Stato. (077U3798)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/05/1877
+
+Art. 1
+------
+
+  
+IL MINISTRO DELLE FINANZE   
+  
+Visto che il signor consigliere presso la Regia Prefettura di Palermo, avvocato Federico Giannotti, nominato membro della Commissione pei debiti dei comuni della Sicilia, con decreto Ministeriale del 23 maggio 1876 e' stato traslocato fino dal 12 gennaio ultimo alla Prefettura di Padova;   
+  
+Visto che in conseguenza di tale traslocazione ha dovuto cessare di far parte della Commissione surricordata,   
+  
+Determina quanto segue:   
+  
+Il signor avvocato Angelo Annaratone, consigliere presso la Regia Prefettura di Palermo, e' nominato membro della Commissione istituita per la verificazione dei debiti dei comuni della Sicilia accollati allo Stato, in sostituzione del signor avvocato Federico Giannotti, consigliere di Prefettura, traslocato a Padova.   
+  
+Il presente decreto sara' registrato alla Corte dei Conti ed inserto nella Raccolta degli Atti ufficiali del Regno.   
+  
+Roma, addi' 31 marzo 1877.   
+  
+Depretis.   
+  

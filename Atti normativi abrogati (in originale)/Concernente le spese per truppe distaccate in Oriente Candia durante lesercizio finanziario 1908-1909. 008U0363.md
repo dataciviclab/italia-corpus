@@ -1,0 +1,40 @@
+LEGGE 05 luglio 1908 n. 363
+
+
+LEGGE 05 luglio 1908 n. 363
+===========================
+
+Concernente le spese per truppe distaccate in Oriente (Candia) durante l'esercizio finanziario 1908-1909. (008U0363)
+--------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/07/1908
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata la spesa di L. 280,000 da inscriversi in speciale capitolo della parte straordinaria del bilancio della guerra per l'esercizio finanziario 1908-909 con la denominazione: «Spese per le truppe distaccate in Oriente (Candia)».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 5 luglio 1908.   
+  
+VITTORIO EMANUELE.   
+  
+CASANA.   
+CARCANO.   
+  
+Visto, Il guardasigilli: ORLANDO.   
+  

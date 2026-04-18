@@ -1,0 +1,19 @@
+REGIO DECRETO 21 aprile 1912 n. 467
+
+
+REGIO DECRETO 21 aprile 1912 n. 467
+===================================
+
+Istituzione di pensionato artistico (012U0467)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 15/06/1912
+
+Art. 1
+------
+
+  
+N. 467   
+  
+Regio decreto 21 aprile 1912, col quale, sulla proposta del ministro dell'istruzione pubblica, viene istituita presso lo stabilimento teorico-pratico di belle arti, in Massa, una pensione di annue L. 1000, da conferirsi per un biennio, ad un allievo di detto istituto per studio di perfezionamento in una citta' italiana, e ne e' approvato il regolamento.   
+  

@@ -1,0 +1,19 @@
+REGIO DECRETO 18 febbraio 1912 n. 159
+
+
+REGIO DECRETO 18 febbraio 1912 n. 159
+=====================================
+
+Approvazione di regolamento. (012U0159)
+---------------------------------------
+
+Entrata in vigore del provvedimento: 31/03/1912
+
+Art. 1
+------
+
+  
+N. 159   
+  
+Regio Decreto 18 febbraio 1912, col quale, sulla proposta del ministro delle finanze, viene approvato il regolamento per l'applicazione della tassa di famiglia deliberato dalla Giunta provinciale amministrativa di Ferrara nell'adunanza del 14 novembre 1911, in sostituzione del regolamento approvato con Reale decreto 3 marzo 1910, n. LXXV.   
+  

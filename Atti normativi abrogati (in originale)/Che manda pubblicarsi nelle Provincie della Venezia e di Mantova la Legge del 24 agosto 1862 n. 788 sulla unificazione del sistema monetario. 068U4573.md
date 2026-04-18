@@ -1,0 +1,46 @@
+REGIO DECRETO 03 settembre 1868 n. 4573
+
+
+REGIO DECRETO 03 settembre 1868 n. 4573
+=======================================
+
+Che manda pubblicarsi nelle Provincie della Venezia e di Mantova la Legge del 24 agosto 1862, n. 788, sulla unificazione del sistema monetario. (068U4573)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/09/1868
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduta la Legge del giorno d'oggi, n. 4572;
+
+Sulla
+-----
+
+proposizione del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+Nelle Provincie della Venezia e di Mantova sara' fatta la pubblicazione della [Legge del 24 agosto 1862, n. 788](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-08-24;788), sulla unificazione del sistema monetario, la quale andra' in vigore il giorno stesso in cui il presente Decreto sara' pubblicato nella Gazzetta ufficiale del Regno.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 3 settembre 1868.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 11 settembre 1868   
+  
+Reg. 43 Atti del Governo a c. 163. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli De Filippo.   
+  
+L. G. Cambray Digny.   
+  

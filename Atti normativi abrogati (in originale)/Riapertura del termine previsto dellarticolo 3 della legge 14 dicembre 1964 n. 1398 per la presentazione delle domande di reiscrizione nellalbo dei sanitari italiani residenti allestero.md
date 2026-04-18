@@ -1,0 +1,34 @@
+LEGGE 22 novembre 1967 n. 1197
+
+
+LEGGE 22 novembre 1967 n. 1197
+==============================
+
+Riapertura del termine previsto dell'articolo 3 della legge 14 dicembre 1964, n. 1398, per la presentazione delle domande di reiscrizione nell'albo dei sanitari italiani residenti all'estero.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+Il termine di un anno dalla data di entrata in vigore della [legge 14 dicembre 1964, n. 1398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-12-14;1398), entro il quale i sanitari di cui alla legge anzidetta possono chiedere la reiscrizione nell'albo dell'Ordine o del Collegio professionale dal quale sono stati cancellati, ovvero la iscrizione nell'albo dell'Ordine o del Collegio professionale di Roma, previo pagamento della tassa di concessione governativa, prevista dalla lettera a) del n. 204 della tabella allegato A al vigente testo unico, approvato con [decreto del Presidente della Repubblica 10 marzo 1961, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1961-03-10;121), e' prorogato al 31 dicembre 1968.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 22 novembre 1967
+
+SARAGAT MORO - MARIOTTI
+
+Visto, il Guardasigilli: REALE

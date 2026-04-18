@@ -1,0 +1,42 @@
+REGIO DECRETO 02 aprile 1905 n. 117
+
+
+REGIO DECRETO 02 aprile 1905 n. 117
+===================================
+
+Che sostituisce il colore del fondo nei biglietti di Stato da lire cinque. (005U0117)
+-------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/04/1905
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto il Nostro decreto 7 ottobre 1904, n. 556, che stabilisce i segni ed i distintivi caratteristici dei biglietti di Stato da L. 5, di nuovo tipo;
+
+Sulla
+-----
+
+proposta del Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Al colore giallo-cromo, designato nel Nostro decreto sovracitato per il fondo del verso del nuovo biglietto di Stato da L. 5, viene sostituito il colore rosso-buff adottato per il fondo del recto dello stesso biglietto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 aprile 1905.   
+  
+VITTORIO EMANUELE.   
+  
+Carcano.   
+  
+Visto, il guardasigilli: C. Finocchiaro-Aprile.   
+  

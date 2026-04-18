@@ -1,0 +1,38 @@
+LEGGE 22 dicembre 1904 n. 658
+
+
+LEGGE 22 dicembre 1904 n. 658
+=============================
+
+Che proroga i termini assegnati dalla legge 14 luglio 1887, n. 4727 per la commutazione delle prestazioni fondiarie perpetue. (004U0658)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/01/1905
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+I termini assegnati dalla [legge 14 luglio 1887, n. 4727](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-07-14;4727) (serie 3ª), per la commutazione delle prestazioni perpetue, gia' prorogati con le [leggi 30 giugno 1901, n. 262, e 24 dicembre 1903, n. 494](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-24;494), fino al 31 dicembre 1931, sono nuovamente prorogati fino al 31 dicembre 1905.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 22 dicembre 1904.   
+  
+VITTORIO EMANUELE.   
+  
+Ronchetti.   
+  
+Vieto, Il Guardasigilli: Ronchetti.   

@@ -1,0 +1,45 @@
+REGIO DECRETO 09 ottobre 1882 n. DCCXXI
+
+
+REGIO DECRETO 09 ottobre 1882 n. DCCXXI
+=======================================
+
+Che rettifica il decreto 16 agosto 1882, concernente l'opera pia Salerno in Corneto Tarquinia. (8200721R)
+---------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/12/1882
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;   
+  
+Veduto il nostro decreto del 16 agosto prossimo passato, col quale venne eretta in corpo morale l'opera pia Salerno di Corneto Tarquinia, e se ne approvo' lo statuto organico;   
+  
+Veduto che in quel decreto il fondatore dell'opera fu Canonico Lituardo Salerno venne erroneamente designato con il cognome Fabiani;   
+  
+Abbiamo decretato e decretiamo:   
+  
+In rettificazione del nostro decreto del 16 agosto, sopraindicato alla parola Fabiani ivi scritta, e' sostituita la parola Salerno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 9 ottobre 1882.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 23 ottobre 1882   
+  
+Reg. 124 Atti del Governo a f. 3. Ayres.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli.   
+  
+Depretis.   
+  

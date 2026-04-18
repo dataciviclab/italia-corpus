@@ -1,0 +1,18 @@
+DECRETO LUOGOTENENZIALE 29 marzo 1946 n. 620
+
+
+DECRETO LUOGOTENENZIALE 29 marzo 1946 n. 620
+============================================
+
+Erezione in ente morale dell'"Associazione per la rinascita e lo sviluppo di Anzio e Nettuno".
+----------------------------------------------------------------------------------------------
+
+Art. 1
+------
+
+N.
+
+620. Decreto Luogotenenziale 29 marzo 1946, col quale, sulla proposta del Ministro per l'interno, l'"Associazione per la rinascita e lo sviluppo di Anzio e Nettuno", viene eretta in ente morale e ne viene approvato il relativo statuto.  
+  
+Visto, il Guardasigilli: TOGLIATTI  
+Registrato alla Corte dei conti, addi' 9 giugno 1946

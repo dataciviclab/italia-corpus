@@ -1,0 +1,41 @@
+LEGGE 21 agosto 1921 n. 1166
+
+
+LEGGE 21 agosto 1921 n. 1166
+============================
+
+Che autorizza l'assegnazione straordinaria di L. 8.215.000 per la costruzione di un carcere giudiziario in Este, e per il completamento della costruzione di quello di Bari. (021U1166)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/09/1921
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata l'assegnazione straordinaria di lire 8.215.000 per la costruzione di un carcere giudiziario in Este e per il completamento della costruzione del carcere giudiziario di Bari.   
+  
+La somma di L. 8.215.000 sara' iscritta nella parte straordinaria del bilancio del Ministero dell'interno per l'esercizio finanziario 1921-922.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservale come legge dello Stato.   
+  
+Data a Sant'Anna di Valdieri, addi' 21 agosto 1921.   
+  
+VITTORIO EMANUELE.   
+  
+Bonomi - De Nava.   
+  
+Visto, Il guardasigilli: Rodino'.   
+  

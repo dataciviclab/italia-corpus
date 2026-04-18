@@ -1,0 +1,23 @@
+REGIO DECRETO 20 aprile 1936 n. 968
+
+
+REGIO DECRETO 20 aprile 1936 n. 968
+===================================
+
+Riconoscimento, agli effetti civili, del trasferimento provvisorio 
+del Beneficio parrocchiale della SS.ma Trinita' alla Cesarea, in 
+Napoli. (036U0968)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/06/1936
+
+Art. 1
+------
+
+N.
+
+968. R. decreto 20 aprile 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto di Sua Eminenza il Cardinale Arcivescovo di Napoli, in data 8 aprile 1933, relativo al trasferimento provvisorio del Beneficio parrocchiale della SS.ma Trinita' alla Cesarea, nella Chiesa di San Lorenzo in via Tasso in Napoli.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 1° giugno 1936 - Anno XIV

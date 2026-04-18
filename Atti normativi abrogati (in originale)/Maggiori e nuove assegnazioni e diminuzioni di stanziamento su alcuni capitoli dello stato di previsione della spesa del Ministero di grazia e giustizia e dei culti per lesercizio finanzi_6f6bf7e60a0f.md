@@ -1,0 +1,49 @@
+LEGGE 27 giugno 1909 n. 383
+
+
+LEGGE 27 giugno 1909 n. 383
+===========================
+
+Maggiori e nuove assegnazioni e diminuzioni di stanziamento su alcuni capitoli dello stato di previsione della spesa del Ministero di grazia e giustizia e dei culti, per l'esercizio finanziario 1908-909. (009U0383)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/07/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Sono approvate le maggiori e nuove assegnazioni di L. 324,000, e le diminuzioni di stanziamenti per uguale somma sui capitoli dello stato di previsione della spesa del Ministero di grazia e giustizia e dei culti, per l'esercizio finanziario 1908-909, indicati nella tabella annessa alla presente legge.   
+  
+E' approvata altresi' l'istituzione dei nuovi capitoli 37-VII, 37-VIII, 37-IX, 37-X, 37-XI, 37-XII, 37-XIII, 37-XIV, 37-XV, 37-XVI, 37-XVII, 37-XVIII, 37-XIX indicati nella tabella medesima.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 27 giugno 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Carcano.   
+  
+Visto, Il guardasigilli: Orlando.   
+  
+
+Tabella
+
+  
+TABELLA delle maggiori e nuove assegnazioni e diminuzioni di stanziamento su alcuni capitoli dello stato di previsione della spesa del Ministero di grazia e giustizia e dei culti per lo esercizio finanziario 1908-909.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=009U038300100010110001&dgu=1909-06-30&art.dataPubblicazioneGazzetta=1909-06-30&art.codiceRedazionale=009U0383)
+  

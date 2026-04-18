@@ -1,0 +1,21 @@
+REGIO DECRETO 26 aprile 1928 n. 1022
+
+
+REGIO DECRETO 26 aprile 1928 n. 1022
+====================================
+
+Costituzione della Federazione delle Casse di risparmio delle Venezie. (028U1022)
+---------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/06/1928
+
+Art. 1
+------
+
+N.
+
+1022. R. decreto 26 aprile 1928, col quale, sulla proposta del Ministro per l'economia nazionale, viene costituita la Federazione delle Casse di risparmio delle Venezie tra le Casse di risparmio di Balzano, Fiume, Gorizia, Merano, Padova, Pola, Rovereto, Rovigo, Trento, Treviso, Trieste, Udine, Venezia, Verona e Vicenza, con riserva di approvare, con successivo decreto, il relativo statuto.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 21 maggio 1928 - Anno VI

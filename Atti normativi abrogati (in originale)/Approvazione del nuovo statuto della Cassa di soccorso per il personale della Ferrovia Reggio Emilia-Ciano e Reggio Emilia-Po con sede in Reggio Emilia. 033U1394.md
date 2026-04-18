@@ -1,0 +1,21 @@
+REGIO DECRETO 04 agosto 1933 n. 1394
+
+
+REGIO DECRETO 04 agosto 1933 n. 1394
+====================================
+
+Approvazione del nuovo statuto della Cassa di soccorso per il personale della Ferrovia Reggio Emilia-Ciano e Reggio Emilia-Po, con sede in Reggio Emilia. (033U1394)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/11/1933
+
+Art. 1
+------
+
+N.
+
+1394. R. decreto 4 agosto 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Segretario di Stato, Ministro per le corporazioni, viene approvato il nuovo statuto della Cassa di soccorso per il personale della Ferrovia Reggio Emilia-Ciano e Reggio Emilia-Po, con sede in Reggio Emilia.   
+  
+Visto, il Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 27 settembre 1933 - Anno XI

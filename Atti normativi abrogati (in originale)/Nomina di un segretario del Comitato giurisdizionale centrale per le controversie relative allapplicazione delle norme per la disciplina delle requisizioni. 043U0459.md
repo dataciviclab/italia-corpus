@@ -1,0 +1,49 @@
+REGIO DECRETO 25 aprile 1943 n. 459
+
+
+REGIO DECRETO 25 aprile 1943 n. 459
+===================================
+
+Nomina di un segretario del Comitato giurisdizionale centrale per le controversie relative all'applicazione delle norme per la disciplina delle requisizioni. (043U0459)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/06/1943
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto l'art. 78 delle «Norme per la disciplina delle requisizioni», approvate con il decreto agosto 1940-XVIII, n. 1741;   
+  
+Visti gli articoli 2 e 3 del Regio decreto 21 giugno 1941-XIX, n. 688, riguardante la costituzione del Comitato giurisdizionale centrale per le controversie relative all'applicazione delle norme per la disciplina delle requisizioni;   
+  
+Vista la proposta del presidente del Comitato suddetto di provvedere, in considerazione dell'aumentato lavoro dell'ufficio di segreteria, alla nomina, di un altro segretario;   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Sulla proposta del DUCE del Fascismo, Capo del Governo, d'intesa con i Ministri per la grazia e giustizia e per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Con decorrenza dal 1° aprile 1943-XXI, il sottotenente commissario della Regia marina Grassi Apostolico Orsini Dures Guglielmo e' nominato segretario del Comitato giurisdizionale centrale per le controversie relative all'applicazione delle norme per la disciplina delle requisizioni.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 aprile 1943-XXI   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - De Marsico - ACERBO   
+  
+Visto il Guardasigilli: De Marsico   
+  
+Registrato alla Corte dei conti, addi' 11 giugno 1943-XXI   
+  
+Atti del Governo, registro 458, foglio 45 - Mancini   

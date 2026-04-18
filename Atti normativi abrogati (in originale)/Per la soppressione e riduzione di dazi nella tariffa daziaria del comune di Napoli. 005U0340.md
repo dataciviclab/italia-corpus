@@ -1,0 +1,67 @@
+REGIO DECRETO 06 luglio 1905 n. 340
+
+
+REGIO DECRETO 06 luglio 1905 n. 340
+===================================
+
+Per la soppressione e' riduzione di dazi nella tariffa daziaria del comune di Napoli. (005U0340)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/07/1905
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduta la [legge 8 luglio 1904, n. 351](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-08;351) per il risorgimento economico della citta' di Napoli, con la quale e' data facolta' al Nostro Governo, sentita la Giunta municipale di Napoli, di introdurre nell'esercizio finanziario 1905-906 ulteriori sgravi nella tariffa daziaria del detto Comune per l'importo di L. 1,200,000, tenuto conto del reddito medio percetto nel biennio dal 1° luglio 1901 al 30 giugno 1903 per le voci di tariffa abolite o ridotte;
+
+Considerato che le soppressioni e riduzioni di tariffa applicate nell'esercizio finanziario 1904-905 hanno dato luogo ad un maggiore sgravio, in confronto di quello previsto, di L. 139,237; e pertanto l'importo dei nuovi sgravi, a sensi dell'art. 3, ultimo capoverso, della summentovata legge, deve essere limitato a L. 1,060,763;
+
+Vedute le proposte della Giunta municipale di Napoli;
+
+Udito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del nostro ministro segretario di Stato per le finanze, di concerto con quelli dell'interno e del tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Nella tariffa daziaria del comune di Napoli, e con effetto dal 1° luglio corrente, sono introdotte le soppressioni e riduzioni di dazi risultanti dalle annesse tabelle A e B, viste, d'ordine Nostro, dal ministro delle finanze.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 6 luglio 1905.   
+  
+VITTORIO EMANUELE.   
+  
+A. Fortis.   
+A. Majorana.   
+Carcano.   
+  
+Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
+  
+
+Tabelle
+
+  
+Tabella A   
+  
+Soppressione di dazio   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=005U034000100010110001&dgu=1905-07-12&art.dataPubblicazioneGazzetta=1905-07-12&art.codiceRedazionale=005U0340)
+  
+  
+Tabella B   
+  
+Riduzione di dazio   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=005U034000100010110002&dgu=1905-07-12&art.dataPubblicazioneGazzetta=1905-07-12&art.codiceRedazionale=005U0340)
+  

@@ -1,0 +1,90 @@
+REGIO DECRETO 07 febbraio 1892 n. 51
+
+
+REGIO DECRETO 07 febbraio 1892 n. 51
+====================================
+
+Che autorizza il comune di Catania a riscuotere un dazio di consumo. (092U0051)
+-------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/03/1892
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze;
+
+Veduta la deliberazione 21 maggio 1891, colla quale il Consiglio comunale di Catania propone un dazio di consumo sulle farine, sul pane e sulle paste per suo conto, in misura eccedente il dieci, ma non il quindici per cento del rispettivo loro valore;
+
+Veduto il voto favorevole emesso sulla citata deliberazione consigliare dalla Giunta provinciale amministrativa di Catania, in seduta del 6 agosto 1891;
+
+Veduta la dichiarazione 21 ottobre 1891 della Camera di commercio ed arti di Catania, sul valore delle farine, del pane e delle paste in quel comune;
+
+Ritenuto che il provvedimento viene invocato per sopperire ai bisogni del bilancio comunale, dopo di aver esauriti tutti gli altri mezzi permessi dalle leggi;
+
+Visto
+-----
+
+l'art. 6 del legislativo decreto 28 giugno 1866 n. 3018, e l'art. 11 dell'allegato L alla legge 11 agosto 1870 n. 5784; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il comune di Catania e' autorizzato ad esigere il dazio di consumo sulle farine, sul pane e sulle paste, in conformita' all'unita tariffa, vista, d'ordine Nostro, dal Ministro proponente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 7 febbraio 1892.   
+  
+UMBERTO.   
+  
+G. Colombo.   
+  
+Visto, Il Guardasigilli: B. Chimirri.   
+  
+
+Tariffa
+
+  
+Tariffa.   
+  
+===================================================================   
+¦ UNITA' ¦ Misura del dazio consumo   
+ARTICOLI ¦ di ¦-----------+--------+-----------   
+¦ peso ¦Governativo¦Comunale¦Complessivo   
+-------------------------+--------+-----------+--------+-----------   
+¦ ¦ ¦ ¦   
+Farina di frumento non ¦ ¦ ¦ ¦   
+abburattata . . . . ¦Quintale¦ 2 -- ¦ 5 25 ¦ 7 25   
+¦ ¦ ¦ ¦   
+Farina di frumento ¦ ¦ ¦ ¦   
+abburattata . . . . ¦ » ¦ 2 -- ¦ 6 20 ¦ 8 20   
+¦ ¦ ¦ ¦   
+Farina di altra specie ¦ ¦ ¦ ¦   
+non abburattata . . ¦ » ¦ 1 40 ¦ 5 25 ¦ 6 65   
+¦ ¦ ¦ ¦   
+Farina di altra specie ¦ ¦ ¦ ¦   
+abburattata . . . . ¦ » ¦ 1 40 ¦ 6 20 ¦ 7 60   
+¦ ¦ ¦ ¦   
+Paste di frumento . . . ¦ » ¦ 2 -- ¦ 6 35 ¦ 8 35   
+¦ ¦ ¦ ¦   
+Paste e pastumi da ¦ ¦ ¦ ¦   
+cuocere di frumento ¦ » ¦ 2 -- ¦ 6 75 ¦ 8 75   
+¦ ¦ ¦ ¦   
+Paste e pane d'ogni altra¦ ¦ ¦ ¦   
+specie . . . . . . ¦ » ¦ 1 40 ¦ 6 35 ¦ 7 75   
+¦ ¦ ¦ ¦   
+Crusca . . . . . . . . ¦ » ¦ - -- ¦ 3 -- ¦ 3 --   
+¦ ¦ ¦ ¦   
+  
+Visto, d'ordine di S. M.   
+  
+Il Ministro Segretario di Stato per le Finanze   
+G. COLOMBO.   
+  

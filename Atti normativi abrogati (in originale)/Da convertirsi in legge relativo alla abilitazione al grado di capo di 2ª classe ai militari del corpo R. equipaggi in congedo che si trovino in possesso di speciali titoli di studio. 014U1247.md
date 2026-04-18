@@ -1,0 +1,46 @@
+REGIO DECRETO 24 settembre 1914 n. 1247
+
+
+REGIO DECRETO 24 settembre 1914 n. 1247
+=======================================
+
+Da convertirsi in legge, relativo alla abilitazione al grado di capo di 2ª classe ai militari del corpo R. equipaggi in congedo che si trovino in possesso di speciali titoli di studio. (014U1247)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/12/1914
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Sentito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro della marina; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I militari del corpo R. equipaggi in congedo che si trovino in possesso della patente di capitano marittimo, di costruttore navale o di macchinista navale, possono ottenere l'abilitazione al grado rispettivo di capo timoniere di 2ª classe, assistente del genio navale di 2ª classe o di capo meccanico di 2ª classe, secondo norme da determinarsi dal ministro della marina. Tale grado essi poi rivestono allorche' sono richiamati sotto le armi.   
+  
+I militari previsti dal precedente capoverso che, alla data di pubblicazione del presente decreto, gia' si trovassero sotto le armi, rivestiranno senz'altro il grado rispettivamente suindicato.   
+  
+Il presente decreto sara' presentato al Parlamento per essere convertito in legge.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 24 settembre 1914.   
+  
+VITTORIO EMANUELE.   
+  
+Salandra - Viale.   
+  
+Visto, Il guardasigilli: Dari.   
+  

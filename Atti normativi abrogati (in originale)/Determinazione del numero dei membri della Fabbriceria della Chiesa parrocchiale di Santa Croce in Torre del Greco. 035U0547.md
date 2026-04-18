@@ -1,0 +1,21 @@
+REGIO DECRETO 21 febbraio 1935 n. 547
+
+
+REGIO DECRETO 21 febbraio 1935 n. 547
+=====================================
+
+Determinazione del numero dei membri della Fabbriceria della Chiesa parrocchiale di Santa Croce, in Torre del Greco. (035U0547)
+-------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/05/1935
+
+Art. 1
+------
+
+N.
+
+547. R. decreto 21 febbraio 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, la Fabbriceria della Chiesa parrocchiale di S. Croce in Torre del Greco (Napoli) viene composta di tre membri effettivi e due supplenti, e viene approvato il regolamento organico della Fabbriceria stessa, in data 6 agosto 1934, composto di venti articoli.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 3 maggio 1935 - Anno XIII

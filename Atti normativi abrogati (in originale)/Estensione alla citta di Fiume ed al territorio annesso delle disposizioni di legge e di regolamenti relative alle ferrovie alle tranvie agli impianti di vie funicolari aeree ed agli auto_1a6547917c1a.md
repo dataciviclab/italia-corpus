@@ -1,0 +1,51 @@
+REGIO DECRETO 26 giugno 1924 n. 1152
+
+
+REGIO DECRETO 26 giugno 1924 n. 1152
+====================================
+
+Estensione alla citta' di Fiume ed al territorio annesso delle disposizioni di legge e di regolamenti relative alle ferrovie, alle tranvie, agli impianti di vie funicolari aeree ed agli automobili. (024U1152)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/07/1924
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto-legge 22 febbraio 1924, n. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-02-22;211);   
+  
+Visto il [R. decreto 20 settembre 1922, n. 1455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-20;1455), che estende ai territori annessi al Regno in dipendenza delle [leggi 26 settembre 1920, n. 1322 e 19 dicembre 1920, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-12-19;1778), le disposizioni di legge e di regolamento per le ferrovie, tranvie ed automobili;   
+  
+Visto il [R. decreto 25 marzo 1923, n. 913](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-25;913);   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri Segretari di Stato per i lavori pubblici e per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Alla citta' di Fiume ed al territorio attribuito al Regno in dipendenza del [R. decreto-legge 22 febbraio 1924, n. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-02-22;211), sono estese le disposizioni contenute nel [R. decreto 20 settembre 1922, n. 1455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-09-20;1455), nonche' tutte le successive disposizioni di legge e di regolamento relative, o comunque attinenti, alle ferrovie, alle tranvie, agli impianti di vie funicolari aeree ed agli automobili.   
+  
+Il presente decreto entra in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 26 giugno 1924.   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Carnazza - De' Stefani.   
+  
+Visto, il Guardasigilli: Oviglio.   
+  
+Registrato alla Corte dei conti, addi' 24 luglio 1924.   
+  
+Atti del Governo, registro 226, foglio 143. - Granata.   
+  

@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 04 giugno 1916 n. 1047
+
+
+DECRETO LUOGOTENENZIALE 04 giugno 1916 n. 1047
+==============================================
+
+Aumento di canone scolastico. (016U1047)
+----------------------------------------
+
+Entrata in vigore del provvedimento: 14/09/1916
+
+Art. 1
+------
+
+  
+N. 1047   
+  
+Decreto Luogotenenziale 4 giugno 1916, col quale, sulla proposta del ministro dell'istruzione pubblica, di concerto col ministro del tesoro, il canone scolastico consolidato a norma, dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), a carico del comune di Dormelletto (Novara) in lire 1383,31 col [R. decreto 17 gennaio 1915, n. 328](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-01-17;328), e' aumentato, dal 1° ottobre 1916, a lire 2655,31 in seguito alla istituzione della 4ª classe facoltativa.   
+  

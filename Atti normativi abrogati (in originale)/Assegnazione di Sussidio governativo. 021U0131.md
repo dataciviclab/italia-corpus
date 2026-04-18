@@ -1,0 +1,17 @@
+REGIO DECRETO 16 gennaio 1921 n. 131
+
+
+REGIO DECRETO 16 gennaio 1921 n. 131
+====================================
+
+Assegnazione di Sussidio governativo. (021U0131)
+------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/03/1921
+
+Art. 1
+------
+
+N.
+
+131. Regio decreto 16 gennaio 1921, col quale, sulla proposta del ministro delle finanze, viene assegnato al comune di Sestri Ponente (Genova) il sussidio governativo di annue L. 44.076,09 dal 1° luglio 1919 in poi, per il passaggio del Comune medesimo dalla categoria dei Comuni chiusi a quella degli aperti.

@@ -1,0 +1,17 @@
+REGIO DECRETO 21 agosto 1921 n. 1357
+
+
+REGIO DECRETO 21 agosto 1921 n. 1357
+====================================
+
+Passaggio di classe di Comune. (021U1357)
+-----------------------------------------
+
+Entrata in vigore del provvedimento: 01/11/1921
+
+Art. 1
+------
+
+N.
+
+1357. Regio decreto 21 agosto 1921, col quale, sulla proposta del ministro delle finanze, il comune di Borgo San Donnino (Parma) viene dichiarato di III classe agli effetti del dazio consumo, a decorrere dal 1° gennaio 1921, e da tale giorno il canone annuo di abbonamento corrisposto allo Stato e' elevato da L. 14.732,04 a L. 18.048,09, salvo sospensione del pagamento fino al 31 dicembre 1921, ai sensi dell'[art. 1 del R. decreto 5 giugno 1920, n. 820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-05;820~art1).

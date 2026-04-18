@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 23 agosto 1917 n. 2060
+
+
+DECRETO LUOGOTENENZIALE 23 agosto 1917 n. 2060
+==============================================
+
+Fissazione di retta collegiale. (017U2060)
+------------------------------------------
+
+Entrata in vigore del provvedimento: 20/01/1918
+
+Art. 1
+------
+
+N.
+
+2060. Decreto Luogotenenziale 23 agosto 1917, col quale, sulla proposta del ministro dell'istruzione pubblica, viene stabilito che dal 1° ottobre 1917, la retta da corrispondersi dalle alunne del R. collegio femminile di Montagnana sia portata da L. 540 a L. 640 annue.

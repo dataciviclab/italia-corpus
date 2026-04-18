@@ -1,0 +1,21 @@
+REGIO DECRETO 28 dicembre 1933 n. 2406
+
+
+REGIO DECRETO 28 dicembre 1933 n. 2406
+======================================
+
+Approvazione del nuovo statuto della Cassa di soccorso per il personale della Ferrovia Val Di Flemme (Ora-Predazzo). (033U2406)
+-------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/04/1934
+
+Art. 1
+------
+
+N.
+
+2406. R. decreto 28 dicembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per le corporazioni, viene approvato il nuovo statuto della Cassa di soccorso per il personale della Ferrovia Val Di Fiemme (Ora-Predazzo).   
+  
+Visto, il Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 22 febbraio 1934 - Anno XII

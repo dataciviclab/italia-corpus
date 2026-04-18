@@ -1,0 +1,21 @@
+REGIO DECRETO 09 giugno 1895 n. CCCCLXXXVI
+
+
+REGIO DECRETO 09 giugno 1895 n. CCCCLXXXVI
+==========================================
+
+Che trasforma i monti frumentario e pecuniario di S. Maria del Carmine e di S. Nicola di Bari in una cassa di prestanze agrarie. (9500486R)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/12/1895
+
+Art. 1
+------
+
+  
+Con cui i monti frumentario e pecuniario di S. Maria del Carmine e di S. Nicola di Bari sono trasformati in una cassa di prestanze agrarie sotto la denominazione di S. Maria del Carmine, affida l'amministrazione alla congregazione di carita' di Romagnano al Monte (Salerno), e se ne approva lo statuto organico, in numero di 10 articoli. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
+  
+Registrato alla Corte dei Conti addi' 2 dicembre 1895.   
+  
+Reg. 202. Atti del Governo a f. 37.   
+  

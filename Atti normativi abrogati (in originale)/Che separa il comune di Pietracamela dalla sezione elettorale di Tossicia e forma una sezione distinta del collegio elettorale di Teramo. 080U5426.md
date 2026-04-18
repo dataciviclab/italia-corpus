@@ -1,0 +1,51 @@
+REGIO DECRETO 22 aprile 1880 n. 5426
+
+
+REGIO DECRETO 22 aprile 1880 n. 5426
+====================================
+
+Che separa il comune di Pietracamela dalla sezione elettorale di Tossicia e forma una sezione distinta del collegio elettorale di Teramo. (080U5426)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/05/1880
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduti gli articoli 63, 64, 65 e 66 della legge elettorale 17 dicembre 1860, n. 4513, e la tabella annessavi della circoscrizione territoriale dei Collegi elettorali;
+
+Veduta l'istanza del comune di Pietracamela per essere costituito sezione del Collegio elettorale di Teramo, separatamente da quella del Collegio stesso detta di Tossiccia, cui fu sino ad ora unito;
+
+Ritenuto che Pietracamela dista 15 chilometri da Tossiccia, e che la strada e' mulattiera, e d'inverno e' quasi impraticabile; per cui riesce sempre molto incomodo e talvolta pericoloso agli elettori il recarsi a votare;
+
+Ritenuto che il comune di Pietracamela ha un numero di elettori superiore a quello fissato per minimo dall'art. 64 della legge elettorale;
+
+Considerato che con la istituzione di una sezione elettorale in Pietracamela sara' reso molto piu' facile agli elettori l'esercizio del loro diritto;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il comune di Pietracamela e' separato dalla sezione elettorale di Tossiccia, e formera' una sezione distinta del Collegio elettorale di Teramo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 22 aprile 1880.   
+  
+UMBERTO.   
+  
+Depretis.   
+  
+Visto - Il Guardasigilli   
+T. Villa.   
+  

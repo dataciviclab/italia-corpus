@@ -1,0 +1,51 @@
+REGIO DECRETO 15 gennaio 1870 n. 5461
+
+
+REGIO DECRETO 15 gennaio 1870 n. 5461
+=====================================
+
+Che autorizza i Comuni di Pieve d'Alpago, Puos, Chies, Farra e Tambre a formare una Sezione elettorale separata dal Collegio di Belluno, con sede in Pieve d'Alpago. (070U5461)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/02/1870
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduti gli articoli 63, 64, 65 e 66 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513, e la Tabella annessavi della circoscrizione territoriale dei Collegi elettorali;
+
+Vedute le istanze dei Comuni di Pieve d'Alpago, Puos, Chies, Farra e Tambre ond'essere costituiti Sezione del Collegio elettorale di Belluno, n. 444, separatamente da quella del Collegio stesso detta di Belluno, cui furono sino ad ora uniti;
+
+Considerando che piu' di venti chilometri di strada malagevole, e roventi interrotta da torrenti, separano i surriferiti Comuni da Belluno;
+
+Noverandosi nei Comuni stessi piu' di 40 elettori iscritti;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I Comuni di Pieve d'Alpago, Puos, Chies, Farra e Tambre formeranno d'ora in poi una Sezione elettorale separata del Collegio di Belluno, con sede in Pieve d'Alpago.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 15 gennaio 1870.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 20 gennaio 1870   
+Reg. 49 Atti del Governo a c. 180. Ayres.   
+Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
+G. Lanza.   
+  

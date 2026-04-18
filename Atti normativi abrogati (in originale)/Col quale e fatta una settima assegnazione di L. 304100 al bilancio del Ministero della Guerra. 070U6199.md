@@ -1,0 +1,48 @@
+REGIO DECRETO 29 dicembre 1870 n. 6199
+
+
+REGIO DECRETO 29 dicembre 1870 n. 6199
+======================================
+
+Col quale e' fatta una settima assegnazione di L. 304,100 al bilancio del Ministero della Guerra. (070U6199)
+------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/02/1871
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduta la [Legge in data del 28 agosto 1870, numero 5833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-28;5833), colla quale fu aperto un credito straordinario di quaranta milioni di lire ai Ministri della Guerra e della Marina, con facolta' al Governo di provvedere alla ripartizione del detto credito fra i capitoli dei bilanci 1870 dei Ministeri della Guerra e della Marina;   
+  
+Veduti i Regi Decreti 7, 15, 25 settembre, 13 ottobre, 16 e 25 novembre 1870, numeri 5883, 5884, 5891, 5895, 5896, 5933, 6035, 6036 e 6074, coi quali furono gia' ordinate sul credito stesso assegnazioni per una somma di lire 38,043,900;   
+  
+Sulla proposizione dei Ministri delle Finanze e della Guerra, ed a seguito di deliberazione presa in Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+Sul credito straordinario di quaranta milioni di lire, aperto ai Ministri della Guerra e della Marina colla [Legge del 28 agosto 1870, n. 5833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-28;5833), e' ordinata una settima assegnazione di lire trecentoquattromila e cento (lire 304,100) al bilancio 1870 del Ministero della Guerra, da inscriversi al capitolo 19: Lavori ordinari - Spese diverse pel servizio del Genio militare.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 29 dicembre 1870.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 3 gennaio 1871   
+  
+Reg. 54 Atti del Governo a c. 51. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
+  
+Quintino Sella.   
+Ricotti.   
+  

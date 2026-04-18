@@ -1,0 +1,97 @@
+REGIO DECRETO 20 ottobre 1939 n. 2240
+
+
+REGIO DECRETO 20 ottobre 1939 n. 2240
+=====================================
+
+Modificazione del R. decreto 30 agosto 1925, n. 1513, concernente la costituzione del Ministero dell'aeronautica. (039U2240)
+----------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/05/1940
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il R. decreto 30 agosto 1925-III, n. 1513, convertito nella legge 3 giugno 1926-IV, n. 960, successivamente modificato dai Regi decreti 6 febbraio 1927-V, n. 315, 23 giugno 1927-V, n. 1241, 29 novembre 1928-VII, n. 2734, 19 luglio 1929-VII, n. 2172, e 21 agosto 1937-XV, n. 1846, concernente la costituzione del Ministero dell'aeronautica;
+
+Visto l'articolo 1, n. 3, della legge 31 gennaio 1926-IV, n. 100;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'aeronautica, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+L'art. 2 del R. decreto 30 agosto 1925-III, n. 1513, convertito nella legge 3 giugno 1926-IV, n. 960, e successivamente modificato dai Regi decreti 6 febbraio 1927-V, n. 315, 23 giugno 1927-V, n. 1241, 29 novembre 1928-VII, n. 2734, 19 luglio 1929-VII, n. 2172, e 21 agosto 1937-XV, n. 1846, concernente la costituzione del Ministero dell'aeronautica, e' sostituito dal seguente:   
+  
+«Il Ministero dell'aeronautica comprende:   
+  
+a) il Gabinetto del Ministro;   
+  
+b) la Segreteria particolare del Sottosegretario di Stato;   
+  
+c) un Servizio informazioni aeronautiche (S.I.A.) alla diretta dipendenza del Gabinetto e retto da un ufficiale superiore dell'Arma aeronautica;   
+  
+d) un Ufficio leggi e decreti, alla diretta dipendenza del Gabinetto e retto da un funzionario civile del Ministero dell'aeronautica;   
+  
+e) una Sezione stranieri, alla diretta dipendenza del Gabinetto e retta da un ufficiale superiore dell'Arma aeronautica;   
+  
+f) una Sezione trattati, alla diretta dipendenza del Gabinetto e retta da un ufficiale superiore dell'Arma aeronautica;   
+  
+g) un Ufficio di collegamento col Ministero della cultura popolare, alla diretta dipendenza del Gabinetto e retto da un ufficiale superiore dell'Arma aeronautica:   
+  
+h) un Reparto servizi, alla diretta dipendenza del Gabinetto e retto da un ufficiale superiore dell'Arma aeronautica;   
+  
+i) una Direzione generale del personale militare, retta da un generale dell'Arma aeronautica;   
+  
+l) una Direzione generale dei personali civili e degli affari generali, retta dal direttore generale civile;   
+  
+m) una Direzione generale dei servizi, del materiale e degli aeroporti, retta da un generale dell'Arma aeronautica;   
+  
+n) una Direzione generale delle costruzioni e degli approvvigionamenti retta da un generale del genio aeronautico;   
+  
+o) una Direzione superiore degli studi e delle esperienze, retta da un generale dell'Arma aeronautica, ovvero da un generale del genio aeronautico;   
+  
+p) una Direzione generale dell'aviazione civile e del traffico aereo, retta da un generale dell'Arma aeronautica;   
+  
+q) un Ufficio centrale delle telecomunicazioni e dell'assistenza al volo, retto da un generale dell'Arma aeronautica;   
+  
+r) un Ufficio centrale armamento, retto da un generale dell'Arma aeronautica o da un generale del genio aeronautico;   
+  
+s) un Ufficio centrale demanio, retto da un generale dell'Arma, aeronautica ovvero da un generale del genio aeronautico;   
+  
+t) un Ispettorato scuole, retto da un generale dell'Arma aeronautica;   
+  
+u) un Ispettorato di commissariato militare, retto da un generale commissario;   
+  
+v) un Ufficio centrale di sanita', retto da un generale medico di aeronautica;   
+  
+z) un Ispettorato leva e matricola, retto da un generale dell'Arma aeronautica».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 20 ottobre 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 1° maggio 1940-XVIII   
+  
+Atti del Governo, registro 421, foglio 1. - MANCINI   

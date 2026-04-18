@@ -1,0 +1,54 @@
+REGIO DECRETO 18 ottobre 1942 n. 1392
+
+
+REGIO DECRETO 18 ottobre 1942 n. 1392
+=====================================
+
+Modificazione al ruolo organico dei posti di professore di ruolo assegnati alla Facolta' di giurisprudenza della Regia universita' di Napoli e alle Facolta' di economia e commercio della Regia universita' di Roma. (042U1392)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/12/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduto l'art. 63 del testo unico delle leggi sull'istruzione universitaria, approvato con R. decreto 31 agosto 1933-XI, n. 1592, e successive modificazioni;   
+  
+Veduta la tabella D annessa al predetto testo unico e successive modificazioni   
+  
+Veduto il R. decreto-legge 20 giugno 1935-XIII, n. 1071;   
+  
+Ritenuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di ruolo assegnati alle Facolta' di giurisprudenza della Regia universita' di Napoli e di Economia e commercio della Regia universita' di Roma;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A decorrere dal 29 ottobre 1942-XXI il ruolo organico dei posti di professore di ruolo assegnati, ai sensi della tabella D, annessa al R. decreto 31 agosto 1933-XI, n. 1592, e successive modificazioni, rispettivamente alle Facolta' di giurisprudenza della Regia universita' di Napoli e di economia e commercio della Regia universita' di Roma, e' modificato come appresso:   
+  
+Facolta' di giurisprudenza della Regia universita' di Napoli, posti di ruolo n. 17;   
+  
+Facolta' di economia, e commercio della Regia universita' di Roma, posti di ruolo n. 17.   
+  
+Ordiniamo che il presente decreto munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 18 ottobre 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+BOTTAI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 7 dicembre 1942-XXI   
+Atti del Governo, registro 452, foglio 14. - MANCINI   
+  
+  

@@ -1,0 +1,17 @@
+REGIO DECRETO 25 febbraio 1923 n. 484
+
+
+REGIO DECRETO 25 febbraio 1923 n. 484
+=====================================
+
+Erezione in Ente morale. (023U0484)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 12/04/1923
+
+Art. 1
+------
+
+N.
+
+484. Regio decreto 25 febbraio 1923, col quale, sulla proposta del Ministro per l'industria ed il commercio, l'Istituto autonomo per le case popolari dell'Istria Orientale, con sede in Trieste, viene eretto in Ente morale ed approvato lo statuto organico relativo.

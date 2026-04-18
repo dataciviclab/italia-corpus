@@ -1,0 +1,19 @@
+REGIO DECRETO 10 luglio 1910 n. CCXLVI
+
+
+REGIO DECRETO 10 luglio 1910 n. CCXLVI
+======================================
+
+Col quale e' data facolta' al comune di Correggio di applicare nell'anno 1910 la tassa di famiglia. (1000246R)
+--------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/08/1910
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro delle finanze:   
+  
+N. CCXLVI (Dato a Roma, il 10 luglio 1910), col quale e' data facolta' al comune di Correggio di applicare nell'anno 1910 la tassa di famiglia col limite massimo di L. 350 (trecentocinquanta).   
+  

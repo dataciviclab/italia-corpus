@@ -1,0 +1,49 @@
+REGIO DECRETO 25 ottobre 1880 n. 5711
+
+
+REGIO DECRETO 25 ottobre 1880 n. 5711
+=====================================
+
+Che rettifica le precedenti disposizioni relative alla classificazione di opere idrauliche di 2ª categoria. (080U5711)
+----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/12/1880
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il [Regio decreto in data del 29 settembre 1867, n. 5948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-09-29;5948), col quale, in base alla seconda parte dell'articolo 174 della legge 20 marzo 1865 sui Lavori Pubblici, vennero aggiunti all'elenco delle opere idrauliche di seconda categoria, approvato col precedente [Regio decreto dell'11 febbraio 1867, n. 5598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-02-11;5598), la sponda e l'argine sinistro del Po dallo sbocco dell'Adda fino al confine del circondario idraulico cremonese con quello di Casalmaggiore, in provincia di Cremona;
+
+Ritenuto che quell'aggiunta non poteva riguardare che le sole opere spettanti al comprensorio dell'argine maestro inferiore cremonese al fiume Po, il quale ne aveva fatta regolare domanda nei termini prescritti dalla legge; e che le dette opere si estendono soltanto dalle alture di Farisengo fino al confine circondariale di Cremona e di Casalmaggiore; onde fu per mero equivoco, oggi riconosciuto, se la classificazione venne estesa nel tratto superiore fino allo sbocco dell'Adda, ove d'altronde non esiste argine maestro;
+
+Veduti gli articoli 174 e 115 della legge 20 marzo 1865 sui Lavori Pubblici;
+
+Udito il parere favorevole del Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+A parziale rettificazione del [Regio decreto in data 29 settembre 1867, n. 5948](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-09-29;5948), le opere idrauliche sulla sinistra di Po in provincia di Cremona, che debbono considerarsi come aggiunte all'elenco delle opere idrauliche di seconda categoria, approvato con [Regio decreto 11 febbraio 1867, n. 5598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-02-11;5598), sono le seguenti: argine e sponda dalle alture di Farisengo fino al confine del circondario cremonese con quello di Casalmaggiore.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 25 ottobre 1880.   
+  
+UMBERTO.   
+  
+A. Baccarini.   
+  
+Visto - Il Guardasigilli   
+T. Villa.   
+  

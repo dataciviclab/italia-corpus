@@ -1,0 +1,48 @@
+REGIO DECRETO 27 dicembre 1869 n. 5415
+
+
+REGIO DECRETO 27 dicembre 1869 n. 5415
+======================================
+
+Convocazione del Collegio elettorale di Atripalda. (069U5415)
+-------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/01/1870
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il Messaggio in data del 19 dicembre corrente, col quale l'Ufficio di Presidenza della Camera dei Deputati notifico' essere vacante il Collegio elettorale di Atripalda, n. 349;
+
+Veduto l'articolo 63 della Legge per le elezioni politiche 17 dicembre 1860, n. 4513;
+
+Sulla
+-----
+
+proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il Collegio elettorale di Atripalda, n. 349, e' convocato pel giorno 16 gennaio 1870, affinche' proceda alla elezione del proprio Deputato.   
+  
+Occorrendo una seconda votazione, essa avra' luogo il giorno 23 dello stesso mese.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 27 dicembre 1869.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 3 gennaio 1870   
+Reg. 49 Atti del Governo a c. 151. Ayres.   
+Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
+  
+G. Lanza.   
+  

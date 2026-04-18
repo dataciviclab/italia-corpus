@@ -1,0 +1,38 @@
+LEGGE 27 ottobre 1964 n. 1105
+
+
+LEGGE 27 ottobre 1964 n. 1105
+=============================
+
+Immissione in ruolo degli insegnanti stabili, degli insegnanti tecnico-pratici e degli insegnanti di arte applicata di cui agli articoli 21 e 22 della legge 28 luglio 1961, n. 831.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei Deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+Gli insegnanti non di ruolo che abbiano titolo per la partecipazione ai concorsi previsti dall'[articolo 21 della legge 28 luglio 1961, n. 831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-28;831~art21), e gli insegnanti tecnico-pratici, nonche' gli insegnanti di arte applicata aventi titolo per la partecipazione al concorso previsto dall'ultimo comma dell'articolo 22 della citata legge numero 831, sono inclusi a domanda nelle particolari graduatorie previste dai medesimi articoli 21 e 22 senza ulteriore prova di esame.  
+Il Ministro per la pubblica istruzione fissera', con proprio decreto, i criteri per la formazione delle graduatorie di cui al comma precedente applicando, in quanto applicabili, gli stessi criteri previsti dal [primo comma dell'articolo 16 della legge 28 luglio 1961, n. 831](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1961-07-28;831~art16-com1).  
+Gli insegnanti stabili ammessi all'insegnamento in qualita' di abilitati in base a particolari disposizioni di legge possono chiedere l'immissione in ruolo relativamente all'insegnamento per il quale hanno a suo tempo ottenuto la stabilita.  
+Gli insegnanti non di ruolo di cui ai precedenti commi possono ottenere l'inclusione nelle graduatorie predette anche se abbiano superato il limite massimo di eta' stabilito per l'ammissione ai concorsi.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 27 ottobre 1964
+
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA MORO - GUI - COLOMBO
+
+Visto, il Guardasigilli: REALE

@@ -1,0 +1,18 @@
+DECRETO LUOGOTENENZIALE 26 aprile 1946 n. 628
+
+
+DECRETO LUOGOTENENZIALE 26 aprile 1946 n. 628
+=============================================
+
+Erezione in ente morale dell'"Associazione Abruzzese", con sede in Roma.
+------------------------------------------------------------------------
+
+Art. 1
+------
+
+N.
+
+628. Decreto Luogotenenziale 26 aprile 1946, col quale, sulla proposta del Ministro per l'interno, la "Associazione Abruzzese", con sede in Roma, viene eretta in ente morale e ne viene approvato lo statuto.  
+  
+Visto, il Guardasigilli: GULLO  
+Registrato alla Corte dei Conti, addi' 9 giugno 1946

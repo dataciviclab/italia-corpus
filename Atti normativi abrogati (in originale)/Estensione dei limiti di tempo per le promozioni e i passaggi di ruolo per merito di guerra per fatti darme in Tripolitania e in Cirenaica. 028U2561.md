@@ -1,0 +1,68 @@
+REGIO DECRETO 08 novembre 1928 n. 2561
+
+
+REGIO DECRETO 08 novembre 1928 n. 2561
+======================================
+
+Estensione dei limiti di tempo per le promozioni e i passaggi di ruolo per merito di guerra per fatti d'arme in Tripolitania e in Cirenaica. (028U2561)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/12/1928
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il [R. decreto 18 marzo 1923, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-18;621), e successive modificazioni;
+
+Visto il [R. decreto 18 marzo 1923, n. 622](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-18;622);
+
+Visto il [R. decreto 3 febbraio 1924, n. 190](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-03;190);
+
+Visto il [R. decreto 11 marzo 1926, n. 500](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-03-11;500);
+
+Visto il [R. decreto-legge 14 gennaio 1926, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-14;212);
+
+Visto il [R. decreto-legge 16 agosto 1926, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-08-16;1387);
+
+Visto il [R. decreto 23 giugno 1927, n. 1304](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-06-23;1304);
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari della guerra, della marina e dell'aeronautica, di concerto coi Ministri Segretari di Stato per le colonie e per le finanze; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+Le disposizioni del [R. decreto 18 marzo 1923, n. 621](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-03-18;621), e quelle dei [Regi decreti-legge 14 gennaio 1926, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-14;212), e [4 ottobre 1928, n. 2326](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-10-04;2326), sono applicabili ai personali militari del Regio esercito, della Regia marina e della Regia aeronautica che parteciparono alle operazioni militari della Tripolitania e della Cirenaica nel periodo dal 1° luglio al 31 agosto 1928.   
+  
+
+Art. 2
+------
+
+  
+  
+Le eventuali nomine ad ufficiale in servizio permanente effettivo per merito di guerra verranno effettuate in rapporto alla disponibilita' di posti per vacanze, che si sono verificate posteriormente alla data del 20 agosto 1926 o che si verificheranno in avvenire, nel complesso dei vari ruoli degli ufficiali del Regio esercito, della Regia marina e della Regia aeronautica.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 8 novembre 1928 - Anno VII   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Federzoni - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 27 novembre 1928 - Anno VII   
+  
+Atti del Governo, registro 278, foglio 245. - Sirovich.   
+  

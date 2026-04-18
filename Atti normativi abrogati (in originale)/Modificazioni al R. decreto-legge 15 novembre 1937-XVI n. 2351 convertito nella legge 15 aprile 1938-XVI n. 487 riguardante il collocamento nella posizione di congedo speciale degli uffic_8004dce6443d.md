@@ -1,0 +1,41 @@
+LEGGE 01 settembre 1940 n. 1396
+
+
+LEGGE 01 settembre 1940 n. 1396
+===============================
+
+Modificazioni al R. decreto-legge 15 novembre 1937-XVI, n. 2351, convertito nella legge 15 aprile 1938-XVI, n. 487, riguardante il collocamento nella posizione di congedo speciale degli ufficiali della Regia aeronautica. (040U1396)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/11/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il secondo comma dell'articolo unico del R. decreto-legge 15 novembre 1937-XVI, n. 2351, convertito nella legge 15 aprile 1938-XVI, n. 487, e' modificato nel senso che il numero dei colonnelli della Regia aeronautica da collocarsi nella posizione di congedo speciale negli anni 1940 e 1941 non potra' superare, per ogni anno solare, il 3 per cento degli organici in vigore per detto grado.   
+  
+Restano ferme le percentuali gia' stabilite per gli altri gradi.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 1° settembre 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   

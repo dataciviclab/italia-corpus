@@ -1,0 +1,42 @@
+REGIO DECRETO 25 maggio 1895 n. 366
+
+
+REGIO DECRETO 25 maggio 1895 n. 366
+===================================
+
+Che aggiunge al ruolo organico del personale delle Agenzie delle coltivazioni dei tabacchi dodici posti gratuiti di volontari. (095U0366)
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/07/1895
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il Nostro decreto del 14 novembre 1894 n. 483;
+
+Sulla
+-----
+
+proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Al ruolo organico del personale delle Agenzie delle coltivazioni dei tabacchi, stabilito col citato Nostro decreto, sono aggiunti dodici posti gratuiti di volontari, dei quali, sei per la carriera tecnica e sei per la carriera amministrativa.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 maggio 1895.   
+  
+UMBERTO.   
+  
+P. Boselli.   
+  
+Visto, Il Guardasigilli: V. Calenda Di Tavani.   
+  

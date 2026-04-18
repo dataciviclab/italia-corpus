@@ -1,0 +1,40 @@
+LEGGE 15 agosto 1867 n. 3862
+
+
+LEGGE 15 agosto 1867 n. 3862
+============================
+
+Che autorizza la maggiore spesa di lire 150,000 da destinarsi alla cura ed in sussidio dei colerosi poveri nelle varie Provincie del Regno. (067U3862)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/09/1867
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata la maggiore spesa di lire centocinquantamila (L.  
+150,000) da iscriversi sul Bilancio passivo del Ministero dell'Interno, esercizio corrente 1867, capitolo 15 - Beneficenza.  
+Spese diverse da destinarsi alla cura ed in sussidio dei colerosi poveri nelle varie Provincie del Regno.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato.   
+  
+Dato a Torino addi' 15 agosto 1867.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del sigillo. V. Il Guardasigilli Tecchio.   
+U. Rattazzi.   
+  

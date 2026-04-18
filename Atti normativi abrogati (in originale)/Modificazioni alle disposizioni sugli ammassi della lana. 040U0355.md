@@ -1,0 +1,62 @@
+LEGGE 08 aprile 1940 n. 355
+
+
+LEGGE 08 aprile 1940 n. 355
+===========================
+
+Modificazioni alle disposizioni sugli ammassi della lana. (040U0355)
+--------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/05/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il R. decreto-legge 11 aprile 1938-XVI, n. 968, convertito nella legge 19 gennaio 1939-XVII, n. 391, che modifica il Regio decreto-legge 8 marzo 1937-XV, n. 521, convertito nella legge 10 giugno 1937-XV, n. 1286, sugli ammassi della lana, e' modificato come segue:   
+  
+a) Il secondo comma dell'art. 1 e' sostituito col seguente:   
+  
+Eguale obbligo e' stabilito per le lane da materasso importate dall'estero, nonche' per le lane di qualsiasi qualita' introdotte dalla Libia, dall'Africa Orientale Italiana, dai Possedimenti italiani dell'Egeo e dell'Albania;   
+  
+b) Il secondo comma dell'art. 2 e' modificato come segue:   
+  
+A tal fine il rilascio dei permessi d'importazione e' subordinato, conformemente al parere del Ministero dell'agricoltura e delle foreste, al ritiro di lana degli ammassi da parte dell'importatore.   
+  
+c) Il primo e secondo comma dell'art. 5 sono modificati rispettivamente come segue:   
+  
+La lana conferita agli ammassi deve essere consegnata all'ente ammassatore della provincia non piu' tardi di 20 giorni dalla tosa.   
+  
+Per le lane da materasso importate dall'estero e per quelle di qualunque qualita' introdotte dalla Libia, dall'Africa Orientale Italiana, dai Possedimenti italiani dell'Egeo e dall'Albania, il conferimento agli ammassi deve essere effettuato al momento dell'importazione.   
+  
+d) Il terzo comma dell'art. 8 e' sostituito dal seguente:   
+  
+Al conferente, all'atto della consegua della lana all'Ente ammassatore, sara' corrisposto il prezzo di stima, dedotta una quota del 5 per cento. Tale quota, decurtata del contributo di cui all'art. 16 del R. decreto-legge 8 marzo 1937-XV, n. 52, convertito nella legge 10 giugno 1937-XV, n. 1286, costituira' un fondo di riserva destinato a coprire le eventuali perdite della gestione; ed i residui attivi di questa saranno ripartiti tra i conferenti in relazione al valore della lana conferita dopo l'approvazione del rendiconto finale previsto dall'art. 15 del Regio decreto-legge precitato.   
+  
+e) L'art. 19 aggiunto al R. decreto-legge 11 aprile 1938-XVI, n. 968, dalla legge 19 gennaio 1939-XVII, n. 391, e' sostituito dal seguente:   
+  
+I documenti, atti e quietanze, relativi alle operazioni di ammasso, rilasciati nei rapporti fra ammassanti da una parte ed enti ammassatori dall'altra o fra questi e gli istituti finanziatori, sono esenti da tassa di bollo, registro e da ogni altra tassa sugli affari, fatta eccezione per le cambiali che restano soggette alla normale tassa di bollo.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla o di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 8 aprile 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - TASSINARI - GRANDI - TERUZZI - DI REVEL - RICCI -   
+RICCARDI   
+  
+Visto, il Guardasigilli: GRANDI   

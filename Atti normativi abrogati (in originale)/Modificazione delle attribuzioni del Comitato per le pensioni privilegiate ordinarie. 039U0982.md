@@ -1,0 +1,61 @@
+REGIO DECRETO 16 giugno 1939 n. 982
+
+
+REGIO DECRETO 16 giugno 1939 n. 982
+===================================
+
+Modificazione delle attribuzioni del Comitato per le pensioni privilegiate ordinarie. (039U0982)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/08/1939
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il R. decreto 27 giugno 1933-XI, n. 703;
+
+Visto il R. decreto 28 giugno 1933-XI, n. 704;
+
+Visto il R. decreto 1° aprile 1935-XIII, n. 459;
+
+Visto l'art. 96 del testo unico 12 luglio 1934-XII, n. 1214, delle leggi sulla Corte dei conti;
+
+Riconosciuta la necessita' di dettare nuove norme per rendere piu' celere l'espletamento delle pratiche di liquidazione di pensioni privilegiate ordinarie;
+
+Udita la Corte dei conti;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Tra il primo e il secondo comma dell'art. 4 del R. decreto 27 giugno 1933-XI, n. 703, sostituito dall'art. 1 del Regio decreto 1° aprile 1935-XIII, n. 459, e' inserito il seguente comma:   
+  
+«Il parere del Comitato suddetto non e' obbligatorio quando la concessione e il diniego di pensioni od assegni privilegiati siano esclusivamente fondati sull'applicazione di norme legislative e regolamentari, all'infuori di qualsiasi valutazione di circostanze di fatto obiettive o riguardanti la persona del richiedente».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 16 giugno 1939-XII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel   
+  
+Visto, il Guardasigilli: Solmi   
+  
+Registralo alla Corte dei conti, addi' 13 luglio 1939-XVII   
+  
+Atti del Governo, registro 411, foglio 42 Mancini   

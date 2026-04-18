@@ -1,0 +1,21 @@
+REGIO DECRETO 30 novembre 1933 n. 1850
+
+
+REGIO DECRETO 30 novembre 1933 n. 1850
+======================================
+
+Riconoscimento della personalita' giuridica della Casa di procura dell'Istituto di N. S. della Compassione, con sede in Roma. (033U1850)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/02/1934
+
+Art. 1
+------
+
+N.
+
+1850. R. decreto 30 novembre 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa di procura dell'Istituto di N. S. della Compassione con sede in Roma, e viene autorizzato il trasferimento alla stessa degli immobili in suo possesso da tempo anteriore al Concordato ed attualmente intestati a terzi.   
+  
+Visto, il Guardasigilli: DE FRANCISCI.   
+  
+Registrato alla Corte dei conti, addi' 2 gennaio 1934 - Anno XII

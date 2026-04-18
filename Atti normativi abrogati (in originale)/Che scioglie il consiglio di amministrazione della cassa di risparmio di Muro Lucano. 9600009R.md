@@ -1,0 +1,22 @@
+REGIO DECRETO 05 gennaio 1896 n. IX
+
+
+REGIO DECRETO 05 gennaio 1896 n. IX
+===================================
+
+Che scioglie il consiglio di amministrazione della cassa di risparmio di Muro Lucano. (9600009R)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/02/1896
+
+Art. 1
+------
+
+  
+Che scioglie il consiglio di amministrazione della cassa di risparmio di Muro Lucano, ed il sig. Nicola Farenga e' incaricato della temporanea gestione di essa con l'ufficio di regio commissario.  
+- Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda.   
+  
+Registrato alla Corte dei Conti addi' 24 gennaio 1896.   
+  
+Reg. 204. Atti del Governo a f. 76.   
+  

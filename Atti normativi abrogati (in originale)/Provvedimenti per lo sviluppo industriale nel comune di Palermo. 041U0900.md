@@ -1,0 +1,42 @@
+LEGGE 19 luglio 1941 n. 900
+
+
+LEGGE 19 luglio 1941 n. 900
+===========================
+
+Provvedimenti per lo sviluppo industriale nel comune di Palermo. (041U0900)
+---------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/09/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Le disposizioni di cui all'[art. 10 della legge 6 giugno 1940, n. 825](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1940-06-06;825~art10), sono estese ai trapassi di proprieta' per l'esproprio e l'acquisto, da parte del comune di Palermo, di immobili occorrenti per l'ampliamento degli stabilimenti industriali esistenti nel territorio del Comune, ancorche' situati fuori della zona industriale.   
+  
+Uguale trattamento si applica sul primo trasferimento degli immobili, tanto se situati nella zona industriale o fuori zona, effettuato dal Comune alle ditte per il conseguimento degli scopi industriali previsti dalla citata legge 6 giugno 1940-XVIII, n. 825, e dal comma precedente. Tali scopi devono essere contestualmente dichiarati nell'atto, e saranno dovute le normali imposte di registro ed ipotecarie, qualora, entro il termine di cinque anni dalla data di registrazione dell'atto stesso, non sia dimostrato, con apposito certificato da rilasciarsi dal Ministero delle corporazioni, che gli scopi della legge sono stati conseguiti.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 19 luglio 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - DI REVEL - GORLA -   
+GRANDI - HOST VENTURI - RICCI   
+  
+Visto, il Guardasigilli: GRANDI   

@@ -1,0 +1,43 @@
+LEGGE 30 marzo 1893 n. 169
+
+
+LEGGE 30 marzo 1893 n. 169
+==========================
+
+Colla quale e' stanziata una somma sul bilancio del Ministero di agricoltura, industria e commercio per provvedere alle spese di trasporto degli oggetti destinati alla Esposizione di Chicago. (093U0169)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/04/1893
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Per provvedere alle ulteriori spese di trasporto, andata e ritorno, degli oggetti destinati alla Esposizione mondiale colombiana di Chicago del 1893, ed a parte delle spese occorrenti per la sezione italiana in quella Mostra, e' stanziata la somma di lire 220,000.   
+  
+Questa somma sara' aggiunta nel bilancio passivo del Ministero di Agricoltura, Industria e Commercio, per l'esercizio 1892-93, al capitolo 114 bis della parte straordinaria.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 30 marzo 1893.   
+  
+UMBERTO.   
+  
+Lacava.   
+Grimaldi.   
+Brin.   
+  
+Visto, Il Guardasigilli: Bonacci.   
+  

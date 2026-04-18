@@ -1,0 +1,19 @@
+REGIO DECRETO 12 luglio 1940 n. 1144
+
+
+REGIO DECRETO 12 luglio 1940 n. 1144
+====================================
+
+Istituzione di un posto di 1° cancelliere presso il Regio consolato generale in Serajevo. (040U1144)
+----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/09/1940
+
+Art. 1
+------
+
+N.
+
+1144. R. decreto 12 luglio 1940, col quale, sulla proposta del Ministro per gli affari esteri, viene istituito un posto di 1° cancelliere presso il Regio consolato generale in Serajevo.   
+Visto, il Guardasigilli: Grandi   
+Registrato alla Corte dei conti, addi' 9 agosto 1940-XVIII

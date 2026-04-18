@@ -1,0 +1,51 @@
+REGIO DECRETO 29 agosto 1941 n. 1072
+
+
+REGIO DECRETO 29 agosto 1941 n. 1072
+====================================
+
+Trasformazione in annualita' trentennali degli stanziamenti, in 
+complessive lire 675.000.000 per il finanziamento delle spese 
+straordinarie per opere pubbliche, inscritti ad alcuni capitoli dello 
+stato di previsione della spesa del Ministero dell'agricoltura e 
+delle foreste, per l'esercizio finanziario 1941-42. (041U1072)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/10/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Vista la legge 5 maggio 1941-XIX, n. 431, che approva lo stato di previsione della spesa del Ministero dell'agricoltura e delle foreste per l'esercizio 1941-42;   
+  
+Visto l'art. 1 della legge 11 luglio 1941-XIX, n. 809, recante provvedimenti per il finanziamento delle spese straordinarie per opere pubbliche a pagamento non differito, che consente la trasformazione in annualita' trentennali posticipate degli stanziamenti inscritti nello stato di previsione del Ministero predetto negli esercizi dal 1941-42 al 1945-46, per le cennate opere eseguite a cura dello Stato oppure di altri Enti con concorsi o anticipazioni concessi dallo Stato;   
+  
+Considerata l'opportunita' di addivenire alla trasformazione nelle cennate annualita', al tasso del 5,50% fissato col decreto del Capo del Governo 2 giugno 1936-XIV; degli stanziamenti rispettivi di lire 475.000.000 e di lire 200.000.000 inscritti nello stato di previsione del suindicato Ministero per l'esercizio finanziario 1941-42 per le spese relative alle opere di bonifica e di miglioramento fondiario di competenza statale ed a quelle analoghe di competenza privata da seguirsi con il concorso dello Stato;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto col Nostro Ministro Segretario di Stato per l'agricoltura e le foreste;   
+  
+Abbiamo decretato e decretiamo;   
+  
+Gli stanziamenti inscritti ai capitoli nn. 119 «Spese a pagamento non differito relative ad opere di bonifica di competenza statale, ecc.» e 120 «Spese a pagamento non differito relative a sussidi in conto capitale per opere di miglioramento fondiario di competenza privata, ecc.» dello stato di previsione della spesa del Ministero dell'agricoltura e delle foreste per l'esercizio finanziario 1941-42, in complessive lire 675.000.000, sono trasformati in annualita' trentennali al tasso di lire cinque e centesimi cinquanta per cento (5,50 %) dell'importo di lire 46.443.638,25 con scadenza dall'esercizio finanziario 1942-1943 al 1971-72.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 29 agosto 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+Di Revel - Tassinari   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 3 ottobre 1941-XIX   
+  
+Atti del Governo, registro 438, foglio 6. - Mancini   

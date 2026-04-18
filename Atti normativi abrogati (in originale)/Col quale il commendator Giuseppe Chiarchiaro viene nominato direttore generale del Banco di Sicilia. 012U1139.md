@@ -1,0 +1,43 @@
+REGIO DECRETO 20 ottobre 1912 n. 1139
+
+
+REGIO DECRETO 20 ottobre 1912 n. 1139
+=====================================
+
+Col quale il commendator Giuseppe Chiarchiaro viene nominato direttore generale del Banco di Sicilia. (012U1139)
+----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/11/1912
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto l'art. 134 del testo unico di legge sugli Istituti di emissione e sulla circolazione dei biglietti di banca, approvato con [R. decreto 28 aprile 1910, n. 204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-28;204);   
+  
+Veduto l'art. 28 della statuto del Banco di Sicilia, approvato con [R. decreto 2 agosto 1908, n. 584](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-08-02;584);   
+  
+Sentito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per il tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il signor comm. dott. Giuseppe Chiarchiaro e' nominato direttore generale del Banco di Sicilia.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 20 ottobre 1912.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Tedesco.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   
+  

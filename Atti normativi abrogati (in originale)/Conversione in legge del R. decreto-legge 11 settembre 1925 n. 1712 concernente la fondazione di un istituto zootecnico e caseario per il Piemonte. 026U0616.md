@@ -1,0 +1,69 @@
+LEGGE 25 marzo 1926 n. 616
+
+
+LEGGE 25 marzo 1926 n. 616
+==========================
+
+Conversione in legge del R. decreto-legge 11 settembre 1925, n. 1712, concernente la fondazione di un istituto zootecnico e caseario per il Piemonte. (026U0616)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/04/1926
+
+Art. 1
+------
+
+  
+  
+E' fondato in Torino l'Istituto zootecnico e caseario per il Piemonte, nella forma di Ente morale consorziale autonomo, sotto la vigilanza del Ministero dell'economia nazionale.   
+  
+Il Consorzio ha carattere continuativo. Di esso fanne parte, obbligatoriamente, lo Stato, le provincie di Torino, Cuneo, Novara e Alessandria. Potranno altresi' partecipare al Consorzio, volontariamente, altri Enti pubblici e privati.   
+  
+L'Istituto ha lo scopo di promuovere e favorire, con tutti i mezzi che la scienza e la pratica consigliano, l'incremento ed il miglioramento della industria zootecnica casearia del Piemonte.   
+  
+Art. 2.   
+  
+L'Istituto zootecnico e caseario per il Piemonte e' retto da un Consiglio di amministrazione, composto di quattro rappresentanti del Ministero dell'economia nazionale, uno dei quali con la carica di presidente, di un rappresentante di ciascuna delle provincie di Torino, Cuneo, Novara e Alessandria; di un rappresentante delle Cattedre ambulanti di agricoltura del Piemonte, nominato dal Ministero dell'economia nazionale, e di un rappresentante di ciascuno degli Enti che contribuiranno continuamente con una somma annua non inferiore a L. 5000. Fa parte inoltre del Consiglio il direttore dell'Istituto, con funzioni di segretario.   
+  
+I membri del Consiglio durano in carica tre anni e possono essere confermati.   
+  
+I membri nominati in sostituzione di consiglieri che vengono a cessare prima dello scadere del triennio, rimangono in carica fino al termine del periodo assegnato a coloro che hanno sostituito.   
+  
+Art. 3.   
+  
+Al mantenimento dell'Istituto contribuiscono lo Stato con L. 75,000 annue, che faranno carico al capitolo «Aumento e miglioramento della produzione degli animali bovini, ovini e suini», del bilancio del Ministero dell'economia nazionale; le provincie di Torino, Cuneo, Novara e Alessandria con L. 25,000 annue ciascuna. E' inoltre devoluto all'Istituto l'intero patrimonio appartenente all'Istituto zootecnico per il Piemonte in Torino, all'Istituto pratico di zootecnia e caseificio in Cuneo, e alla Fondazione Marcello Soleri per l'incremento dell'industria zootecnica e casearia in Novara, che sono soppressi come istituzioni autonome, e sono trasformati in sezioni del nuovo Istituto.   
+  
+Art. 4.   
+  
+L'Istituto ha quattro sezioni, con sede rispettivamente in Torino, Cuneo, Novara e Alessandria.   
+  
+La sezione di Torino, presso cui l'Istituto ha la sua sede centrale, conserva il suo carattere sperimentale.   
+  
+Art. 5.   
+  
+Il personale direttivo dell'Istituto 'e' costituito di un direttore dell'Istituto, che e' anche il direttore della Sezione sperimentale di Torino, e di tre direttori di sezione.   
+  
+La nomina dei direttori, salvo il disposto dei due ultimi capoversi del presente articolo, viene fatta per pubblico concorso, con l'approvazione del Ministero dell'economia nazionale, secondo le norme che saranno stabilite nel regolamento dell'Istituto.   
+  
+Nella prima approvazione della presente legge, e' nominato direttore dell'Istituto zootecnico e caseario per il Piemonte, il direttore del soppresso Istituto zootecnico per il Piemonte; egli conserva, a norma dell'[art. 13 del R. decreto 6 settembre 1923, n. 2215](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-09-06;2215~art13), la sua qualita' di funzionario di ruolo dell'Amministrazione governativa, e, a carico del bilancio dell'Istituto, un assegno in misura non inferiore a quella di cui attualmente gode.   
+  
+Il direttore del soppresso Istituto pratico di zootecnia e caseificio di Cuneo e' nominato direttore nella sezione di Cuneo dell'Istituto zootecnico e caseario per il Piemonte, con uno stipendio non inferiore a quello attualmente goduto.   
+  
+Art. 6.   
+  
+Il direttore dell'Istituto presenta annualmente all'esame e all'approvazione del Consiglio di amministrazione un dettagliato rapporto sulla attivita' svolta dalle varie sezioni, ed il programma da svolgere nell'anno successivo, nonche' il bilancio preventivo e il conto consuntivo.   
+  
+Di tali documenti verra' trasmessa copia al Ministero dell'economia nazionale   
+  
+Art. 7.   
+  
+Un regolamento speciale, proposto dal Consiglio di amministrazione ed approvato con decreto del Ministro per l'economia nazionale, disciplinera' il funzionamento dell'Istituto, determinera' la misura dello stipendio iniziale e degli aumenti successivi da concedersi al personale, nonche' il trattamento di quiescenza e le norme disciplinari, salvo le disposizioni dell'articolo precedente, concernenti gli attuali direttori di Torino e di Cuneo.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 25 marzo 1926.   
+  
+VITTORIO EMANUELE.   
+  
+Belluzzo - Volpii.   
+  
+Visto, il Guardasigilli: Rocco.   

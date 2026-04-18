@@ -1,0 +1,22 @@
+REGIO DECRETO 05 maggio 1895 n. XCVI
+
+
+REGIO DECRETO 05 maggio 1895 n. XCVI
+====================================
+
+Che autorizza il Comune di Niella Tanaro ad applicare nel biennio 1895-1896, la tassa sul bestiame con la tariffa di lire 1 a capo riguardo agli animali ovini. (9500096R)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/06/1895
+
+Art. 1
+------
+
+  
+Che autorizza il Comune di Niella Tanaro ad applicare nel biennio 1895-1896, la tassa sul bestiame con la tariffa di lire 1 a capo riguardo agli animali ovini. - Firmato UMBERTO - Contrassegnato P.  
+Boselli - Visto Calenda.   
+  
+Registrato alla Corte dei Conti addi' 15 maggio 1895.   
+  
+Reg. 198, Atti del Governo a f. 228.   
+  

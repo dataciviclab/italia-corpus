@@ -1,0 +1,47 @@
+REGIO DECRETO 10 settembre 1914 n. 1047
+
+
+REGIO DECRETO 10 settembre 1914 n. 1047
+=======================================
+
+Concernente variazioni nella costituzione delle sezioni elettorali intercomunali nel Collegio di Lodi. (014U1047)
+-----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/10/1914
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri;   
+  
+Veduti gli articoli 41 e 42 della legge elettorale politica, [testo unico 26 giugno 1918, n. 821](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1918-06-26;821);   
+  
+Veduta la tabella delle circoscrizioni dei Collegi elettorali annessa al testo unico predetto;   
+  
+Visto il [R. decreto 29 giugno 1913, n. 878](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-29;878), col quale gli elettori del comune di Sordio vennero aggregati a quelli del comune di Casalmaiocco per costituire la sezione avente sede nel detto comune di Casalmaiocco;   
+  
+Veduta la deliberazione adottata dalla Commissione elettorale del comune di Sordio, con la quale si approva la nuova lista per l'anno 1914, e si chiede che gli elettori di detto Comune vengano separati da quelli del comune di Casalmaiocco per essere costituiti in sezione autonoma;   
+  
+Vista la deliberazione della Commissione elettorale provinciale di Milano con la quale si stabilisce, in conformita' dell'art. 42 della legge, che, a modificazione del citato [R. decreto 29 giugno 1913, n. 878](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-06-29;878), gli elettori del predetto comune di Sordio costituiscano sezione autonoma;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' revocato il citato Nostro decreto 29 giugno 1913, n. 878, in quanto esso disponeva che gli elettori del comune di Sordio, nel collegio elettorale politico di Lodi, venissero aggregati agli elettori del comune di Casalmaiocco.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 10 settembre 1914.   
+  
+VITTORIO EMANUELE.   
+  
+SALANDRA.   
+  
+Visto, Il guardasigilli: DARI.   
+  

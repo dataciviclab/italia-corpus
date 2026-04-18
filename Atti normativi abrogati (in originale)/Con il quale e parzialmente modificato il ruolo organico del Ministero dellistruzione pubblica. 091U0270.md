@@ -1,0 +1,43 @@
+REGIO DECRETO 14 maggio 1891 n. 270
+
+
+REGIO DECRETO 14 maggio 1891 n. 270
+===================================
+
+Con il quale e' parzialmente modificato il ruolo organico del Ministero dell'istruzione pubblica. (091U0270)
+------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/06/1891
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il capitolo 1° del bilancio per l'Istruzione pubblica, approvato con la [legge 28 giugno 1890, n. 6905](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-06-28;6905)(serie 3ª);   
+  
+Veduto il ruolo organico del Ministero dell'Istruzione pubblica, approvato col Nostro decreto 20 luglio 1890, n. 7002 (serie 3ª);   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per la Istruzione Pubblica;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il predetto ruolo organico viene parzialmente modificato portandosi da 9 a 10 i posti di segretari con lo stipendio di lire 4000; da 13 a 14 quelli dei segretari con lo stipendio di lire 3000 e riducendosi nel tempo stesso da 9 a 8 i posti di segretari con lo stipendio di lire 3500 e da 14 a 13 quelli dei vicesegretari con lo stipendio di lire 2500, in conformita' dell'art. 3 del citato decreto 20 luglio 1890.   
+  
+Tali modificazioni avranno effetto col 1° giugno 1891.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 14 maggio 1891.   
+  
+UMBERTO.   
+  
+P. VILLARI.   
+  
+Visto, Il Guardasigilli: L. FERRARIS.   
+  

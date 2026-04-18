@@ -1,0 +1,58 @@
+REGIO DECRETO 23 luglio 1893 n. 467
+
+
+REGIO DECRETO 23 luglio 1893 n. 467
+===================================
+
+Che stabilisce le qualifiche e gli stipendi del personale civile tecnico della Regia Marina (093U0467)
+------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/09/1893
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto in data 25 giugno 1893 n. 755](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-06-25;755), col quale viene soppressa nel personale civile tecnico della R. Marina la categoria degli elettricisti e chimici ed in suo luogo e' aggregato al personale stesso una categoria di specialisti laureati, sotto la denominazione di elettricisti chimici o ingegneri meccanici;   
+  
+Sulla proposta del Nostro Ministro della Marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+I seguenti impiegati della soppressa categoria degli elettricisti e chimici nel personale civile tecnico della R. Marina, faranno parte della categoria di specialisti laureati aggregata al personale stesso, e assumeranno la nuova qualifica che a fianco di ciascuno di essi qui appresso e' indicata:   
+  
+Pasqualini Luigi, gia' capo tecnico principale di 1ª classe, assume la nuova qualifica di elettricista principale di lª classe, stipendio, L. 4500.   
+  
+Bianchi Giuseppe, gia' capo tecnico principale di lª classe, assume la nuova qualifica di chimico principale di lª classe, stipendio L. 4500.   
+  
+Reale Nicola, gia' capo tecnico principale di 2ª classe, assume la nuova qualifica di chimico principale di 2ª classe, stipendio, L.  
+4000.   
+  
+Spica Marcataio Giovanni, gia' capo tecnico principale di 2ª classe, assume la nuova qualifica di chimico principale di 2ª classe, stipendio L. 4000.   
+  
+Silvestrini Leopoldo, gia' capo tecnico principale di 3ª classe, assume la nuova qualifica di chimico principale di 3ª classe, stipendio L. 3500.   
+  
+Santarelli Giorgio, gia' capo tecnico principale di 3ª classe, assume la nuova qualifica di elettricista principale di 3ª classe, stipendio L. 3500.   
+  
+Pisanello Giuseppe, capo tecnico di lª classe, assume la nuova qualifica di chimico di lª classe, stipendio, L. 3000.   
+  
+Zambelli Luigi, capo tecnico di 1ª classe, assume la nuova qualifica di chimico di 1ª classe, stipendio L. 3000.   
+  
+Civita Domenico, capo tecnico di 2ª classe, assume la nuova qualifica di elettricista di 2ª classe, stipendio L. 2500.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 23 luglio 1893.   
+  
+UMBERTO.   
+  
+C. A. Racchia.   
+  
+Visto, Il Guardasigilli: Santamaria-Nicolini.   
+  

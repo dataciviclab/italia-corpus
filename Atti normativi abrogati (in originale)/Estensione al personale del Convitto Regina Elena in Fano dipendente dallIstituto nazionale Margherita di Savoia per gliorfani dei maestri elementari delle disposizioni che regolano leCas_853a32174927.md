@@ -1,0 +1,41 @@
+LEGGE 05 aprile 1943 n. 298
+
+
+LEGGE 05 aprile 1943 n. 298
+===========================
+
+Estensione al personale del Convitto «Regina Elena» in Fano dipendente dall'Istituto nazionale «Margherita di Savoia» per gli 
+orfani dei maestri elementari, delle disposizioni che regolano le 
+Casse di previdenza per le pensioni agli impiegati e ai salariati degli Enti locali. (043U0298)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/05/1943
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Alle categorie di personali obbligate alla iscrizione alla Cassa di previdenza per le pensioni agli impiegati degli Enti locali e alla Cassa di previdenza per le pensioni ai salariati degli Enti locali, secondo le disposizioni, rispettivamente, dell'art. 5 dell'ordinamento approvato con R. decreto-legge 3 marzo 1938-XVI, n. 680, e dell'art. 5 dell'ordinamento approvato con la legge 25 luglio 1941-XIX, n. 934, sono aggiunte con effetto dal 1° gennaio 1942-XX, quelle dei personali impiegato e salariato addetti al Convitto «Regina Elena» in Fano dell'Istituto nazionale «Margherita di Savoia» per gli orfani dei maestri elementari, eccezione fatta per il sanitario e per il padre spirituale.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 5 aprile 1943-XXI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - ACERBO - BIGGINI   
+  
+Visto, il Guardasigilli: DE MARSICO   

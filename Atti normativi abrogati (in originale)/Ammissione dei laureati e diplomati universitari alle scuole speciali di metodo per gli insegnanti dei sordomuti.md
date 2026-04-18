@@ -1,0 +1,35 @@
+LEGGE 24 ottobre 1951 n. 1187
+
+
+LEGGE 24 ottobre 1951 n. 1187
+=============================
+
+Ammissione dei laureati e diplomati universitari alle scuole speciali di metodo per gli insegnanti dei sordomuti.
+-----------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+Sono ammessi ai corsi delle scuole di metodo per ottenere lo speciale titolo di abilitazione all'insegnamento o alla direzione negli istituti dei sordomuti, oltre coloro che sono in possesso dei titoli di studio di cui all'[art. 523 del regio decreto 26 aprile 1928, n. 1297](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-04-26;1297~art523), i laureati o diplomati universitari di qualsiasi disciplina a prescindere dal titolo di studi medi in loro possesso.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Catania, addi' 24 ottobre 1951
+
+EINAUDI DE GASPERI - SEGNI
+
+Visto, il Guardasigilli: ZOLI

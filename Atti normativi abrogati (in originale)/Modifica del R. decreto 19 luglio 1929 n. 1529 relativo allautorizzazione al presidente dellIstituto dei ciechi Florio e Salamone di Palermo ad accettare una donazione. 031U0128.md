@@ -1,0 +1,47 @@
+REGIO DECRETO 08 gennaio 1931 n. 128
+
+
+REGIO DECRETO 08 gennaio 1931 n. 128
+====================================
+
+Modifica del R. decreto 19 luglio 1929, n. 1529, relativo all'autorizzazione al presidente dell'Istituto dei ciechi «Florio e Salamone» di Palermo ad accettare una donazione. (031U0128)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/03/1931
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+RE D'ITALIA   
+  
+Veduto il Nostro decreto del 19 luglio 1929-VII, n. 1529, col quale si autorizzava il presidente dell'Istituto dei ciechi «Florio e Salamone» di Palermo ad accettare la donazione della rendita annua di L. 6000 fatta dalle signorine Francesca e Concetta Ricevuto, con riserva d'usufrutto in favore d'esse donanti, per il mantenimento di tre ciechi da designarsi dal sig. Mariano Librino o dai suoi eredi maschi o femmine;   
+  
+Veduta la domanda del presidente del predetto Istituto, in data 24 giugno 1930, con la quale si chiede, per correggere un equivoco in cui era incorso il Consiglio di amministrazione, che il citato decreto sia modificato con la sostituzione delle seguenti parole «fatta dai sigg. Francesco e Concetta Ricevuto in memoria del fratello Ernesto» nella parte dove e' detto: «fatta dalle signorine Francesca e Concetta Ricevuto»;   
+  
+Considerata la opportunita' di accogliere la suddetta domanda;   
+  
+Sentito il parere del Consiglio di Stato;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per la educazione nazionale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il decreto 19 luglio 1929-VII, n. 1529, col quale si autorizzava il presidente dell'Istituto dei ciechi «Florio e Salamone» di Palermo ad accettare la donazione della rendita annua di L. 6000, e' modificato nella parte dove e' detto: «fatta dalle signorine Francesca e Concetta Ricevuto» con la sostituzione delle seguenti parole: «fatta dai signori Francesco e Concetta Ricevuto in memoria del fratello Ernesto».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 8 gennaio 1931 - Anno IX   
+  
+VITTORIO EMANUELE.   
+  
+Giuliano.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 21 febbraio 1931 - Anno IX   
+  
+Atti del Governo, registro 305, foglio 107. - Mancini.   
+  

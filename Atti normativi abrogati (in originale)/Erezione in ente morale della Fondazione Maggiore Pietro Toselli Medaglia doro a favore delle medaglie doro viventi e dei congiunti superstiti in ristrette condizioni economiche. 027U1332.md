@@ -1,0 +1,21 @@
+REGIO DECRETO 12 maggio 1927 n. 1332
+
+
+REGIO DECRETO 12 maggio 1927 n. 1332
+====================================
+
+Erezione in ente morale della Fondazione Maggiore Pietro' Toselli Medaglia d'oro, a favore delle medaglie d'oro viventi e dei congiunti superstiti in ristrette condizioni economiche. (027U1332)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/08/1927
+
+Art. 1
+------
+
+N.
+
+1332. R. decreto 12 maggio 1927, col quale, su proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro per la guerra, la «Fondazione Maggiore Pietro Toselli Medaglia d'oro», costituita con l'offerta di L. 100,000 in numerario - pari a L. 114,000 in titoli del Prestito del Littorio - fatta dall'avv. Pietro Toselli e destinata a favore delle medaglie d'oro viventi e dei congiunti superstiti in ristrette condizioni economiche, viene eretta in ente morale, e n'e' approvato lo statuto organico relativo.   
+  
+Visto, ti Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 6 agosto 1927 - Anno V

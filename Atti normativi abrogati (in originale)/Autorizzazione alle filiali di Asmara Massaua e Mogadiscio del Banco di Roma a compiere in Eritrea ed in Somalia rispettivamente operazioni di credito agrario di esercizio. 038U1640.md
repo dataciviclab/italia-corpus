@@ -1,0 +1,58 @@
+REGIO DECRETO 21 luglio 1938 n. 1640
+
+
+REGIO DECRETO 21 luglio 1938 n. 1640
+====================================
+
+Autorizzazione alle filiali di Asmara, Massaua e Mogadiscio del Banco di Roma a compiere in Eritrea ed in Somalia, rispettivamente, operazioni di credito agrario di esercizio. (038U1640)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/11/1938
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il R. decreto-legge 1° giugno 1936-XIV, n. 1019, sull'ordinamento e l'amministrazione dell'Africa Orientale italiana, convertito nella legge 11 gennaio 1937-XV, n. 285;
+
+Visto il R. decreto 29 dicembre 1932-XI, n. 2052, relativo all'istituzione di una Cassa di credito agrario in Eritrea;
+
+Visto il R. decreto 7 marzo 1933-XI, n. 452, contenente norme per l'esercizio del credito agrario da parte della filiale in Mogadiscio della Cassa di risparmio di Torino;
+
+Su parere conforme del Comitato dei Ministri per la difesa del risparmio e per l'esercizio del credito;
+
+Udito il parere della Consulta coloniale corporativa per il credito;
+
+Udito il parere del Consiglio superiore coloniale;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del DUCE, Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per le finanze e per l'agricoltura e foreste; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il Banco di Roma e' autorizzato a compiere in Eritrea e in Somalia, rispettivamente, per mezzo delle filiali di Massaua, di Asmara e di Mogadiscio, operazioni di credito agrario di esercizio, con l'osservanza delle disposizioni contenute nel R. decreto 29 dicembre 1932-XI, n. 2052, per l'Eritrea e del R. decreto 7 marzo 1933-XI, n. 452, per la Somalia.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Sant'Anna di Valdieri, addi' 21 luglio 1938-XVI   
+  
+VITTORIO EMANUELE   
+  
+Mussolini Di Revel - Rossoni   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 22 ottobre 1938 - Anno XVI   
+Atti del Governo, registro 402, foglio 113. - Mancini.   

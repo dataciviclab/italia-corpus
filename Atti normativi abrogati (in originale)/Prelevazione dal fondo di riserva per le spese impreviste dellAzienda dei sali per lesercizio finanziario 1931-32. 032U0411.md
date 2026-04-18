@@ -1,0 +1,41 @@
+REGIO DECRETO 18 aprile 1932 n. 411
+
+
+REGIO DECRETO 18 aprile 1932 n. 411
+===================================
+
+Prelevazione dal fondo di riserva per le spese impreviste dell'Azienda dei sali, per l'esercizio finanziario 1931-32. (032U0411)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/05/1932
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+  
+RE D'ITALIA   
+  
+Visto l'[art. 12 della legge 12 giugno 1931, n. 752](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-06-12;752~art12), che approva lo stato di previsione dell'entrata e quello della spesa dell'Amministrazione autonoma dei monopoli di Stato, per l'esercizio finanziario 1931-32;   
+Visto l'[art. 10 del R. decreto-legge 8 dicembre 1927, numero 2258](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-08;2258~art10) - convertito nella [legge 6 dicembre 1928, n. 3474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-12-06;3474) - riguardante la costituzione dell'Amministrazione autonoma dei monopoli di Stato;   
+Considerato che il fondo di riserva per le spese impreviste dell'Azienda dei sali, per l'indicato esercizio finanziario, presenta una disponibilita' di L. 2.938.957,96, depositate in conto corrente speciale presso la Tesoreria centrale del Regno;   
+Sentito il Consiglio di amministrazione dei monopoli di Stato;   
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;   
+Abbiamo decretato e decretiamo:   
+Dal fondo di riserva anzidetto e' autorizzato il prelevamento di L. 400.000 da versarsi all'Amministrazione autonoma dei monopoli di Stato con imputazione al capitolo 9 dello stato di previsione dell'entrata del bilancio speciale dell'Amministrazione medesima per l'esercizio 1931-32, e da inscriversi alla competenza del capitolo aggiunto n. 45 della spesa «Acquisto di saline e di altri terreni compresi nello stabilimento salifero di Cervia».   
+Questo decreto sara' comunicato al Parlamento unitamente al rendiconto consuntivo dell'Amministrazione autonoma dei monopoli di Stato per l'esercizio finanziario 1931-32.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 18 aprile 1932 - Anno X   
+  
+VITTORIO EMANUELE.   
+  
+  
+Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 3 maggio 1932 - Anno X   
+Atti del Governo, registro 320, foglio 5. - Mancini.   

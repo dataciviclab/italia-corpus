@@ -1,0 +1,21 @@
+REGIO DECRETO 11 maggio 1933 n. 660
+
+
+REGIO DECRETO 11 maggio 1933 n. 660
+===================================
+
+Erezione in ente morale della Cassa scolastica del Regio istituto magistrale di Lagonegro. (033U0660)
+-----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/07/1933
+
+Art. 1
+------
+
+N.
+
+660. R. decreto 11 maggio 1933, col quale, sulla proposta del Ministro per l'educazione nazionale, la Cassa scolastica del Regio istituto magistrale di Lagonegro viene eretta in ente morale e ne e' approvato lo statuto.   
+  
+Visto, il Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 6 giugno 1933 - Anno XI.

@@ -1,0 +1,116 @@
+REGIO DECRETO 25 gennaio 1906 n. 34
+
+
+REGIO DECRETO 25 gennaio 1906 n. 34
+===================================
+
+Variazioni da apportarsi nel bilancio della spesa del Ministero del tesoro per l'esercizio 1905-906. (006U0034)
+---------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/03/1906
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto l'[art. 1 della legge 21 dicembre 1903, n. 483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483~art1), che autorizza la conversione della rendita consolidata 4.50 per cento netto in altra del consolidato 3.50 per cento netto;
+
+Veduto l'art. 2 della stessa legge, col quale vennero dichiarate esenti dalla conversione le rendite del consolidato 4.50 possedute dalle pubbliche istituzioni di beneficenza, in quanto non vengano successivamente, per effetto di qualsiasi operazione, ad essere trasferite ad altri intestatari, ovvero tramutate al portatore;
+
+Visto il regolamento approvato col [R. decreto 21 dicembre 1903, n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1903-12-21;486), per l'esecuzione della legge suddetta;
+
+Veduto il [R. decreto 30 luglio 1905 n. 463](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-07-30;463), col quale furono autorizzate le variazioni nel bilancio dell'esercizio 1904-905, occorrenti per effetto delle operazioni di conversione eseguite nel 1° semestre 1905;
+
+Veduta la [legge 14 maggio 1905, n. 182](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-05-14;182), di approvazione dello stato di previsione della spesa del Ministero del tesoro, per l'esercizio 1905-906;
+
+Ritenuto che nel corso del semestre dal 1° luglio al 31 dicembre 1905, in seguito ad ulteriori accertamenti da parte della Direzione generale del debito pubblico, venne riconosciuto che tra le rendite conservate provvisoriamente nel consolidato 4.50 per cento netto dovevano essere, e vennero di fatto, convertite nel nuovo consolidato 3.50 per cento netto:
+
+inscrizioni con decorrenza dal 1° luglio 1905,
+
+per l'annua rendita di . . . . . . . . . . . . . . . . L. 2076 14
+
+inscrizioni con decorrenza dal 1° ottobre 1905,
+
+per l'annua rendita di . . . . . . . . . . . . . . . . » 599 43
+
+--------
+
+onde in complesso le inscrizioni del consolidato
+
+4.50 annullato ammontano all'annua rendita di . . . . L. 2675 57
+
+--------
+
+Ritenuto che in cambio delle suindicate rendite furono inscritte e consegnate le rendite consolidate 3.50 per cento, con godimento:
+
+dal 1° luglio 1905 per . . . . . . . . . . . . . . . . L. 1614 79
+
+dal 1° ottobre 1905 per . . . . . . . . . . . . . . . » 466 22
+
+--------
+
+d'onde la somma di rendita annua di L. 2081 01
+
+--------
+
+Ritenuto che venne disposto il ricupero della differenza d'importo sulle rate scadute dopo il gennaio 1904 delle inscrizioni al consolidato 4.50 per cento, le quali avrebbero dovuto essere convertite in 3.50 per cento, con decorrenza dalla stessa data;
+
+Ritenuto che nel medesimo semestre la Direzione generale del debito pubblico ebbe a riconoscere che doveva essere ricostituita nel consolidato 4.50 per cento la somma di L. 4548, indebitamente convertita nel consolidato 3.50 per cento netto con decorrenza dal 1° gennaio 1904;
+
+Ritenuto che trattandosi di operazioni gia' definitivamente compiute in virtu' della citata [legge 21 dicembre 1903, n. 483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-21;483), occorre ora soltanto provvedere per le variazioni ai due capitoli dello stato di previsione della spesa per il Ministero del tesoro per l'esercizio 1905-906, relativi ai debiti consolidati anzidetti;
+
+Visto l'art. 14 del regolamento sopra citato;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+Per effetto delle conversioni eseguite dalla Direzione generale del debito pubblico nel 2° semestre 1905, di rendita conservata provvisoriamente nel consolidato 4.50 per cento in altre del consolidato 3.50 per cento, e delle reiscrizioni eseguite al consolidato 4.50 per cento, di rendite gia' convertite nel consolidato 3.50, saranno introdotte nel bilancio della spesa del Ministero del tesoro per l'esercizio 1905-906 le seguenti variazioni In diminuzione al capitolo 4, antiche rendite consolidate nominative 4.50 per cento al netto conservate esclusivamente a favore delle pubbliche istituzioni di beneficenza:   
+  
+a) annata di interessi sulla rendita di L. 2076.14   
+annullata con godimento dal 1° luglio 1905 . . . . L. 2076 14   
+  
+b) tre trimestri di interessi sulla rendita di   
+L. 599.43 annullata con godimento dal   
+1° ottobre 1905 . . . . . . . . . . . . . . . . . . » 449 58   
+--------   
+in complesso L. 2525 72   
+alle quali devesi contrapporre la somma di . . . . . . » 1624 69   
+--------   
+  
+per interessi differenziali sulle rendite ricostituite   
+nel consolidato 4.50 d'onde la diminuzione residua di L. 901 03   
+  
+In aumento al capitolo 5:   
+  
+Rendita consolidata 3.50 per cento netto:   
+  
+a) annata d'interessi sulla rendita di L. 1614.79,   
+inscritta con godimento dal 1° luglio 1905 . . . . L. 1614 79   
+  
+b) tre trimestri d'interessi sulla rendita di   
+L. 466.22, inscritta con godimento dal   
+1° ottobre 1905 . . . . . . . . . . . . . . . . . . » 349 67   
+--------   
+Totale aumento L. 1964 46   
+--------   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 gennaio 1906.   
+  
+VITTORIO EMANUELE   
+  
+CARCANO.   
+  
+Visto, Il guardasigilli: C. FINOCCHIARO-APRILE.   
+  

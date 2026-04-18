@@ -1,0 +1,56 @@
+REGIO DECRETO 12 aprile 1891 n. 178
+
+
+REGIO DECRETO 12 aprile 1891 n. 178
+===================================
+
+Che approva le varianti del progetto parziale di risanamento della citta' di Palermo. (091U0178)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/05/1891
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D' ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno;
+
+Veduta la domanda in data 4 febbraio 1891 con la quale il Sindaco di Palermo ha chiesto che siano con nuovo decreto Reale autorizzate le varianti introdotte nel progetto parziale di risanamento della citta' di Palermo approvato con R. decreto 2 luglio 1890;
+
+Veduto il parere del Consiglio Superiore dei Lavori Pubblici in data 14 giugno 1890;
+
+Veduta la deliberazione del Consiglio comunale di Palermo del 15 novembre 1890, con cui si accettavano le modificazioni e i suggerimenti del Consiglio Superiore suddetto;
+
+Vedute
+------
+
+le planimetrie presentate, sulle quali e' stata apposta la dichiarazione che esse sono conformi ai tipi della variante riconosciuta regolare dal Consiglio Superiore dei Lavori Pubblici nell'adunanza del 14 marzo 1891; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+Sono approvate le varianti del progetto parziale di risanamento della Citta' di Palermo, approvato con R. decreto 2 luglio 1890, deliberato dal Consiglio comunale in seduta 15 novembre 1890 e risultanti dalla planimetria qui annessa, firmata dall'ingegnere Capo del Municipio di Palermo, Felice Giarusso, in data 7 novembre 1890 (mappe 46 e 47) e certificato conforme al tipo «Variante n. 10» esaminate in adunanza 14 marzo 1891, n. 534 dal Consiglio Superiore dei Lavori Pubblici, restando quindi eliminata la riserva contenuta nell'art. 4 del R. decreto 2 luglio 1890.   
+  
+
+Art. 2
+------
+
+  
+  
+La planimetria suddetta sara', d'ordine Nostro, munita del Visto dal Ministro proponente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 12 aprile 1891.   
+  
+UMBERTO.   
+  
+Nicotera.   
+  
+Visto, Il Guardasigilli: L. Ferraris.   
+  

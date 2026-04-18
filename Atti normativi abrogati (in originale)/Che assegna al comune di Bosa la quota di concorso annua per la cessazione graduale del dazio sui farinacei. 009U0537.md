@@ -1,0 +1,42 @@
+REGIO DECRETO 08 luglio 1909 n. 537
+
+
+REGIO DECRETO 08 luglio 1909 n. 537
+===================================
+
+Che assegna al comune di Bosa la quota di concorso annua per la cessazione graduale del dazio sui farinacei. (009U0537)
+-----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/08/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visti gli articoli 2, 3, 5 e 20 della legge gennaio 1902, n. 25, allegato A);   
+  
+Veduto l'art. 8 del regolamento 9 marzo detto anno n. 90;   
+  
+Veduta la deliberazione del 13 luglio 1903 della Commissione centrale nominata con Nostro decreto 10 aprile 1902, n. 134;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' assegnata al comune di Bosa (provincia di Cagliari) la quota di concorso di annuo lire duemilaseicentotrentatre e centesimi trentatre (L. 2633.33) dal 1° luglio 1909 in poi, per la cessazione graduale del dazio sui farinacei, in aggiunta a quelle gia' approvate pel medesimo Comune coi Nostri decreti 16 settembre 1903, n. 401 e 8 marzo 1906, n. 83.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 8 luglio 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Lacava.   
+  
+Visto, Il guardasigilli: Orlando.   

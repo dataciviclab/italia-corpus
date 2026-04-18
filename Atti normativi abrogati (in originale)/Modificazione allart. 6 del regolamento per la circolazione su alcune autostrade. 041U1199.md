@@ -1,0 +1,56 @@
+REGIO DECRETO 20 settembre 1941 n. 1199
+
+
+REGIO DECRETO 20 settembre 1941 n. 1199
+=======================================
+
+Modificazione all'art. 6 del regolamento per la circolazione su alcune autostrade. (041U1199)
+---------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/11/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visti i Nostri decreti 27 maggio 1926-IV, n. 1040; 23 agosto 1929-VII. n. 1641; 29 febbraio 1932-X, n. 518; 30 novembre 1933-XII, n. 2415; 16 maggio 1935-XIII, n. 1086; e 27 febbraio 1936-XIV, n. 785, con i quali vennero rispettivamente approvati i regolamenti per la circolazione sulle autostrade seguenti: Milano-Laghi;  
+Napoli-Pompei; Brescia-Bergamo; Milano-Torino; Venezia-Padova;  
+Firenze-Lucca verso Viareggio;   
+  
+Visto l'art. 23 del Nostro decreto 8 dicembre 1933-XII, n. 1740, che approva le norme per la tutela della strada e per la circolazione;   
+  
+Sentito il Consiglio superiore dei lavori pubblici;   
+  
+Udito il Consiglio di Stato;   
+  
+Sulla proposta dei Nostri Ministri Segretari di Stato per i lavori pubblici e per le comunicazioni;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+L'art. 6 dei regolamenti per la circolazione sulle autostrade Milano-Laghi; Napoli-Pompei; Brescia-Bergamo; Milano-Torino;  
+Venezia-Padova e Firenze-Lucca verso Viareggio, rispettivamente approvati con i decreti Reali 27 maggio 1926-IV, n. 1040; 23 agosto 1929-VII, n. 1641; 29 febbraio 1932-X, n. 518; 30 novembre 1933-XII, n. 2415; 16 maggio 1935-XIII, n. 1086; e 27 febbraio 1936-XIV, n. 785, e' abrogato, e sostituito dal seguente;   
+  
+«Art. 6. - E' vietato fermarsi sull'autostrada salvo nei casi di urgenti riparazioni o di forza maggiore, nei quali l'autoveicolo e l'eventuale rimorchio devono essere immediatamente condotti, o, se necessario, spinti entro il piu' breve tempo, sul margine estremo destro della carreggiata stradale, in modo da ridurre al minimo possibile la durata dell'ingombro alla circolazione, lasciando sulla sinistra la maggiore larghezza libera di carreggiata».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 20 settembre 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+Gorla - Host Venturi   
+  
+Visto, Il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 10 novembre 1941-XIX   
+  
+Atti del Governo, registro 439, foglio 33. - Mancini   

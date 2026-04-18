@@ -1,0 +1,32 @@
+REGIO DECRETO 28 ottobre 1885 n. MDCCCCXI
+
+
+REGIO DECRETO 28 ottobre 1885 n. MDCCCCXI
+=========================================
+
+Che scioglie la congregazione di carita' di Ortucchio, ed affida la gestione del suo patrimonio ad un regio delegato straordinario. (8501911R)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/12/1885
+
+Articolo unico
+--------------
+
+  
+  
+La congregazione di carita' di Ortucchio e' sciolta, e la gestione del suo patrimonio e' affidata ad un regio delegato straordinario da nominarsi dalla prefettura di Aquila con incarico di sistemare la pia azienda e di togliere le irregolarita' e gli abusi esistenti nel piu' breve termine possibile.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 28 ottobre 1885.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 11 novembre 1885.   
+  
+Reg. 145. Atti del Governo a f. 84. Ayres.   
+  
+Luogo del Sigillo. V. Il Guardasigilli D. TAJANI.   
+  
+Depretis.   
+  

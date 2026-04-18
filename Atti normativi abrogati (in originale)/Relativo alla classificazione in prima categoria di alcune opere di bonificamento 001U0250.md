@@ -1,0 +1,51 @@
+REGIO DECRETO 31 marzo 1901 n. 250
+
+
+REGIO DECRETO 31 marzo 1901 n. 250
+==================================
+
+Relativo alla classificazione in prima categoria di alcune opere di bonificamento (001U0250)
+--------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/07/1901
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduti gli articoli 3 e 64 del testo unico della legge sulle bonificazioni delle paludi e dei terreni paludosi 22 marzo 1900, n. 195, e l'allegato A della legge stessa;
+
+Vedute le deliberazioni dei Consigli comunali interessati e del Consiglio provinciale di Sassari;
+
+Udito il parere del Consiglio provinciale sanitario, e del Consiglio superiore dei Lavori Pubblici;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Sono classificate di prima categoria, ai termini e per gli effetti dei precitati articoli di legge, le seguenti opere di bonificazione   
+1° dell'Agro di Sassari e Portotorres;   
+  
+2° dell'Agro di Posada, Orosei e Siniscola;   
+  
+3° della valle inferiore del fiume Liscia in Comune di Tempio.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 31 marzo 1901.   
+  
+VITTORIO EMANUELE.   
+  
+G. Giusso.   
+  
+Visto, Il Guardasigilli: Cocco-Ortu.   
+  

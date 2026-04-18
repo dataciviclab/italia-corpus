@@ -1,0 +1,38 @@
+LEGGE 28 dicembre 1862 n. 1077
+
+
+LEGGE 28 dicembre 1862 n. 1077
+==============================
+
+Convalidazione del Regio Decreto 11 agosto 1861 relativo alla formazione dei Bilanci preventivi provinciali nelle Marche e nell'Umbria. (062U1077)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/01/1863
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il Decreto Regio dell'11 agosto 1861, n.° 157, relativo alla formazione dei Bilanci preventivi provinciali nelle Marche e nell'Umbria e' convalidato, ed il disposto del medesimo e' esteso indefinitamente sino a contraria disposizione di legge.   
+  
+Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Dat. in Torino addi' 28 dicembre 1862.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
+  
+U. Peruzzi.   

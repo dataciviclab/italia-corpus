@@ -1,0 +1,25 @@
+REGIO DECRETO 30 dicembre 1940 n. 2062
+
+
+REGIO DECRETO 30 dicembre 1940 n. 2062
+======================================
+
+Cessione gratuita a favore del Sovrano Militare Ordine di Malta di un'area demaniale sita nella piana di Selaclaca' (Eritrea) per l'isolamento e la vigilanza della lebbra. (040U2062)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/05/1941
+
+Art. 1
+------
+
+N.
+
+2062. R. decreto 30 dicembre 1940, col quale, sulla proposta del Ministro Segretario di Stato per l'Africa Italiana, viene autorizzata la cessione gratuita a favore del Sovrano Militare Ordine di Malta di un'area demaniale sita nella piana di Selaclaca' (Eritrea) della estensione di ettari 57,25, da utilizzarsi per assicurare l'isolamento e la vigilanza della lebbra.   
+  
+Visto:   
+  
+(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
+  
+MUSSOLINI   
+  
+Registrato alla Corte dei conti, addi' 8 maggio 1941-XIX

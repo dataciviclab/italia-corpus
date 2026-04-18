@@ -1,0 +1,44 @@
+REGIO DECRETO 14 maggio 1908 n. 201
+
+
+REGIO DECRETO 14 maggio 1908 n. 201
+===================================
+
+Che aggiunge un posto d'effettivo al ruolo organico degli insegnanti di ginnastica delle scuole classiche e tecniche. (008U0201)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/06/1908
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto l'[art. 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;342~art2) ([lettera C) della legge 13 giugno 1907, n. 342](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;342~letc);   
+  
+Veduto il Nostro decreto 16 aprile 1908 col quale e' eretto in Istituto autonomo il corso completo di classi femminili aggiunte alla scuola tecnica maschile «Barnaba Oriani» in Milano;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Al ruolo organico per gli insegnanti di ginnastica delle scuole classiche e tecniche, approvato col Nostro decreto 4 marzo 1906, n. 106 e modificato col Nostro decreto 22 marzo 1908, n. 122, e' aggiunto un posto di effettivo con lire 600, a far tempo dal 1° ottobre 1907.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 14 maggio 1908.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+Rava.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

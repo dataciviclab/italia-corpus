@@ -1,0 +1,21 @@
+REGIO DECRETO 09 agosto 1929 n. 1651
+
+
+REGIO DECRETO 09 agosto 1929 n. 1651
+====================================
+
+Trasformazione del fine inerente al patrimonio del Monte di pieta' di Castelgoffredo. (029U1651)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/10/1929
+
+Art. 1
+------
+
+N.
+
+1651. R. decreto 9 agosto 1929, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, il fine inerente al patrimonio del Monte di pieta' di Castelgoffredo e' trasformato a favore dell'Ospedale civico esistente nel Comune medesimo.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 26 settembre 1929 - Anno VII

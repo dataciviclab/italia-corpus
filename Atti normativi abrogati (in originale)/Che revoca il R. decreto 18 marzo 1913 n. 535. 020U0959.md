@@ -1,0 +1,45 @@
+REGIO DECRETO 20 giugno 1920 n. 959
+
+
+REGIO DECRETO 20 giugno 1920 n. 959
+===================================
+
+Che revoca il R. decreto 18 marzo 1913, n. 535. (020U0959)
+----------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/07/1920
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il R. decreto 18 maggio 1913, col quale il comune di Calvignano, in provincia di Pavia, fu aggregato all'unica sezione elettorale politica di Montalto Pavese;   
+  
+Vista la deliberazione della Commissione comunale elettorale di Calvignano, in data 17 gennaio u. s., con la quale si chiede la costituzione del Comune in sezione autonoma, avendo raggiunto gli elettori inscritti il numero di 127;   
+  
+Vista la deliberazione conforme della Commissione provinciale elettorale di Pavia in data 6 marzo 1920;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' revocato il [R. decreto 18 marzo 1913, n. 535](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-03-18;535), in quanto disponeva che gli elettori del comune di Calvignano fossero aggregati alla sezione elettorale politica di Montalto Pavese.   
+  
+Il Nostro ministro proponente e' incaricato della esecuzione del presente decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 giugno 1920.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+  
+Visto, Il guardasigilli: Fera.   
+  

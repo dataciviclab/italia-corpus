@@ -1,0 +1,49 @@
+REGIO DECRETO 04 maggio 1942 n. 634
+
+
+REGIO DECRETO 04 maggio 1942 n. 634
+===================================
+
+Sostituzione di un componente il Comitato giurisdizionale centrale per le controversie relative all'applicazione delle norme per la disciplina delle requisizioni. (042U0634)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/07/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il R. decreto 21 giugno 1941-XIX, n. 688, riguardante la costituzione del Comitato giurisdizionale centrale per le controversie relative all'applicazione delle norme per la disciplina delle requisizioni;   
+  
+Vista la proposta del Ministero della guerra per la sostituzione del dott. Francesco Mola, nominato componente il predetto Comitato, col dott. Gaetano Uva, direttore capo divisione;   
+  
+Visto l'art. 78 delle «norme per la disciplina delle requisizioni», approvate con R. decreto 18 agosto 1940-XVIII, n. 1741;   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Sulla proposta del DUCE del Fascismo, Capo del Governo e Ministro per la guerra, di intesa con i Ministri per la grazia e giustizia e per le finanze;   
+  
+Abbinamo decretato e decretiamo:   
+  
+Il dott. Gaetano Uva, direttore capo divisione al Ministero della guerra, e' nominato componente il Comitato giurisdizionale centrale per le controversie relative alla applicazione delle norme per la disciplina delle requisizioni, in sostituzione del dott. Francesco Mola.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 maggio 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - GRANDI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 17 giugno 1942-XX   
+  
+Atti del Governo, registro 446, foglio 73. - MANCINI   

@@ -1,0 +1,47 @@
+REGIO DECRETO 14 marzo 1926 n. 786
+
+
+REGIO DECRETO 14 marzo 1926 n. 786
+==================================
+
+Passaggio dell'Istituto dei ciechi di Bologna alla diretta dipendenza del Ministero dell'istruzione. (026U0786)
+---------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/06/1926
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto l'[art. 1 del R. decreto 30 dicembre 1923, n. 2841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841~art1);   
+  
+Visto lo statuto organico dell'Istituto dei ciechi in Bologna approvato con R. decreto 24 giugno 1886;   
+  
+Ritenuto che gli scopi dell'educazione e della istruzione inerenti al detto Istituto hanno prevalenza notevole sui fini di assistenza;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno, di concerto col Ministro per l'istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Agli effetti dell'[art. 1 del R. decreto 30 dicembre 1923, n. 2841](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2841~art1), l'Istituto dei ciechi di Bologna e' dichiarato Istituto scolastico e posto alla dipendenza del Ministero dell'istruzione, restando tuttavia conservati i fini di assistenza inerenti all'Istituto medesimo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 14 marzo 1926.   
+  
+VITTORIO EMANUELE.   
+  
+Federzoni - Fedele.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 15 maggio 1926.   
+  
+Atti del Governo, registro 248, foglio 81. - Coop.   
+  

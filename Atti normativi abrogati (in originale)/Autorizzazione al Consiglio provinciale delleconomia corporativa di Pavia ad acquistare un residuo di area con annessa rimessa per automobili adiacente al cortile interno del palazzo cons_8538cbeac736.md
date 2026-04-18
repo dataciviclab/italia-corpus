@@ -1,0 +1,52 @@
+REGIO DECRETO 04 aprile 1935 n. 610
+
+
+REGIO DECRETO 04 aprile 1935 n. 610
+===================================
+
+Autorizzazione al Consiglio provinciale dell'economia corporativa di Pavia ad acquistare un residuo di area con annessa rimessa per automobili adiacente al cortile interno del palazzo consigliare. (035U0610)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/06/1935
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visti la legge 5 giugno 1850, n. 1037, e il [R. decreto 26 giugno 1864, n. 1817](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1864-06-26;1817), per la sua esecuzione;
+
+Visto l'art. 61 del testo unico delle leggi sui Consigli e sugli Uffici provinciali dell'economia corporativa, approvato con [R. decreto 20 settembre 1934, n. 2011](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-09-20;2011);
+
+Vista la [deliberazione 22 settembre 1934, n. 347, del Consiglio provinciale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:consiglio.provincia.:delibera:1934-09-22;347) dell'economia corporativa di Pavia relativa all'acquisto di un residuo di area con annessa rimessa per automobili adiacente al cortile interno del palazzo consigliare;
+
+Sentito il Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il Consiglio provinciale dell'economia corporativa di Pavia e' autorizzato ad acquistare dalla Banca nazionale del lavoro in Roma un residuo di area con annessa rimessa per automobili adiacente al cortile interno del palazzo consigliare al prezzo complessivo di L. 10.000, in conformita' della [deliberazione 22 settembre 1934, n. 347](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1934-09-22;347).   
+  
+Alla spesa relativa il Consiglio fara' fronte nel modo stabilito nell'anzidetta [deliberazione 22 settembre 1934, n. 347](http://www.normattiva.it/uri-res/N2Ls?urn:nir::delibera:1934-09-22;347).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 aprile 1935 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 13 maggio 1935 - Anno XIII   
+Atti del Governo, registro 360, foglio 43. - Mancini.   

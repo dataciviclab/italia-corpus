@@ -1,0 +1,45 @@
+REGIO DECRETO 31 luglio 1898 n. 337
+
+
+REGIO DECRETO 31 luglio 1898 n. 337
+===================================
+
+Col quale il Comandante il III Corpo d'Armata cessa dal temporaneo incarico della direzione generale della polizia nel territorio delle provincie di Bergamo, Brescia, Como, Sondrio. (098U0337)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/08/1898
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il Nostro decreto del 7 maggio 1898, n. 148, col quale veniva affidata al Comandante il III Corpo d'Armata la direzione generale della Polizia nel territorio compreso nella giurisdizione del Comando dello stesso Corpo d'Armata.   
+  
+Ritenuto che le ragioni d'ordine pubblico che consigliarono tale eccezionale provvedimento sono oggi cessate per le provincie di Bergamo, Brescia, Como e Sondrio;   
+  
+Visto l'articolo 5 dello Statuto fondamentale del Regno;   
+  
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno;   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Dalla data della pubblicazione del presente decreto, il Comandante il III Corpo d'Armata cessa dall'incarico temporaneo della direzione generale della Polizia nel territorio delle provincie di Bergamo, Brescia, Como e Sondrio.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino, addi' 31 luglio 1898.   
+  
+UMBERTO.   
+  
+Pelloux.   
+  
+Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
+  

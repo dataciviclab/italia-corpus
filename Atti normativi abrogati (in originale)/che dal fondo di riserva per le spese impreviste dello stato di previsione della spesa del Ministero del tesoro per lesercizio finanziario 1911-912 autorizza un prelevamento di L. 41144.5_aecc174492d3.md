@@ -1,0 +1,65 @@
+REGIO DECRETO 07 settembre 1911 n. 1070
+
+
+REGIO DECRETO 07 settembre 1911 n. 1070
+=======================================
+
+che dal fondo di riserva per le spese impreviste dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1911-912 autorizza un prelevamento di L. 41,144.54 da erogarsi a favore dei bilanci degli esteri, dell'istruzione pubblica e dell'interno (011U1070)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/10/1911
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto l'art. 38 del testo unico della legge sull'amministrazione e sulla contabilita' generale dello Stato approvato con [R. decreto 17 febbraio 1884, n. 2016](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016);
+
+Visto che sul fondo di riserva per le spese impreviste inscritto in L. 2,500,000 nello stato di previsione della sposa del Ministero del tesoro per l'esercizio finanziario 1911-912, in conseguenza delle prelevazioni gia' autorizzate in L. 1,687,804.85 rimane disponibile la somma di L. 812,195.15;
+
+Sentito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Dal fondo di riserva per le spose impreviste inscritto al capitolo n. 132 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 191l-912 e' autorizzata una 6ª prelevazione nella somma di lire quarantunomilacentoquarantaquattro e centesimi cinquantaquattro (L. 41,144.54) da portarsi in aumento dei capitoli degli stati di previsione della spesa infraindicati per l'esercizio finanziario predetto:   
+  
+Esteri - Cap. n. 36 «Missioni politiche e commerciali,   
+incarichi speciali, ecc.» . . . . . . . . . . . . . . 22,000 --   
+Istruzione - Capitolo di nuova istituzione n. 269-bis   
+«Universita' di Bologna - Spesa per lavori inerenti alla   
+clinica oculistica ed onorari ad arbitri ed altre spese   
+relative alla vertenza Ricciardi definita con [sentenza   
+27 maggio 1911](https://e-justice.europa.eu/ecli/ECLI::::) del collegio arbitrale proposto dalla   
+ditta Ricciardi ed accettato con nota 24 dicembre 1910   
+del Ministero dell'istruzione pubblica» . . . . . . . 9,288 91   
+Interni - Cap. n. 38. «Fitto di locali per gli archivi   
+di Stato (Spese fisse)» . . . . . . . . . . . . . . 4,345 63   
+Cap. n. 41 «Amministrazione provinciale - Personale -   
+Indennita' di residenza in Roma . . . . . . . . . . . 5,000 --   
+Cap. n. 55 «Assegni fissi a stabilimenti diversi di   
+pubblica beneficenza» . . . . . . . . . . . . . . . . 510 --   
+------------ L. 41,144 54   
+------------   
+Questo decreto sara' presentato al Parlamento per la sua convalidazione.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 7 settembre 1911.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Tedesco.   
+  
+Visto, il guardasigilli: Finocchiaro - Aprile.   
+  

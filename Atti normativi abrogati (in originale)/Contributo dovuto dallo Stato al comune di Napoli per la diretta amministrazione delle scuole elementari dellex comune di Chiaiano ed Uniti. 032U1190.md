@@ -1,0 +1,19 @@
+REGIO DECRETO 22 aprile 1932 n. 1190
+
+
+REGIO DECRETO 22 aprile 1932 n. 1190
+====================================
+
+Contributo dovuto dallo Stato al comune di Napoli per la diretta amministrazione delle scuole elementari dell'ex comune di Chiaiano ed Uniti. (032U1190)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/10/1932
+
+Art. 1
+------
+
+N.
+
+1190. R. decreto 22 aprile 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, di concerto con quello per le finanze, il contributo annuale dovuto dallo Stato al comune di Napoli per la diretta amministrazione delle scuole elementari dell'ex comune di Chiaiano ed Uniti viene determinato in annue L. 118.715,10 per il periodo dal 1° settembre 1927 al 30 giugno 1928, in annue lire 118.215,10 per il periodo dal 1° luglio 1928 al 30 giugno 1930, in annue L. 109.015,26 dal 1° luglio 1930 al 30 giugno 1931, ed in L. 50.574,83 per il semestre 1° luglio-31 dicembre 1931.   
+Visto, il Guardasigilli: De Francisci.   
+Registrato alla Corte dei conti, addi' 17 settembre 1932 - Anno X

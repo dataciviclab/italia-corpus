@@ -1,0 +1,81 @@
+DECRETO LUOGOTENENZIALE 13 febbraio 1919 n. 280
+
+
+DECRETO LUOGOTENENZIALE 13 febbraio 1919 n. 280
+===============================================
+
+Che autorizza una 7ª prelevazione di L. 242,500 dal fondo di riserva per le spese impreviste, inscritto al n. 149 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1918-1919, da assegnarsi a diversi capitoli dei Ministeri per gli affari esteri, colonie, interno e poste e telegrafi. (019U0280)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/03/1919
+
+TOMASO DI SAVOIA DUCA DI GENOVA
+-------------------------------
+
+Luogotenente Generale di Sua Maesta'
+
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+In virtu' dell'autorita' a Noi delegata;
+
+Visto l'art. 38 del testo unico della legge sull'Amministrazione e sulla contabilita' generale dello Stato, approvato con [R. decreto 17 febbraio 1884, n. 2016](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-02-17;2016);
+
+Visto che sul fondo di riserva per le spese impreviste inscritto in L. 1.000.000 nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1918-1919, in conseguenza delle prelevazioni gia' autorizzate in L. 158.578,82, rimane disponibile la somma di L. 841.421,18;
+
+Udito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 149 dello stato di previsione della spesa del ministero del tesoro per l'esercizio finanziario 1918-919, e' autorizzata una 7ª prelevazione nella somma di lire duecentoquarantaduemilacinquecento (L. 242.500) da assegnarsi ai seguenti capitoli degli stati di previsione dei Ministeri infraindicati per l'esercizio medesimo;   
+  
+Ministero degli affari esteri.   
+  
+Cap. n. 39. « Manutenzione e miglioramento degli   
+immobili di proprieta' dello Stato all'estero   
+e del relativo arredo demaniale » . . . . . . L. 100,000 --   
+  
+Ministero delle colonie.   
+  
+Cap. n. 44-bis. Spese per la missione senussita   
+in Italia, con a capo Saied Mohamed Er.   
+Redda' Es. Senussi. . . . . . . . . . . . . . 125,000 --   
+  
+Ministero dell'interno.   
+  
+Cap. n. 14. Funzioni pubbliche e feste   
+governative . . . . . . . . . . . . . . . . . 17,000 --   
+  
+Ministero delle poste e dei telegrafi.   
+  
+Cap. n. 129-XII-H. Indennizzo dovuto in seguito   
+ad atto di transazione con la signora Giuditta   
+Perrotta per infortunio occorsole in locali di   
+un ufficio postale . . . . . . . . . . . . . . 500 --   
+  
+----------   
+242,500 --   
+----------   
+  
+Queto decreto sara' presentato al Parlamento per la sua convalidazione, ed andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta ufficiale.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 13 febbraio 1919.   
+  
+TOMASO DI SAVOIA.   
+  
+Villa - Stringher.   
+  
+Visto, Il guardasigilli: Facta.   

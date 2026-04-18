@@ -1,0 +1,41 @@
+LEGGE 15 maggio 1939 n. 778
+
+
+LEGGE 15 maggio 1939 n. 778
+===========================
+
+Conferimento della carica di comandante designato d'armata al generale di corpo d'armata in servizio permanente effettivo Alfredo Guzzoni. (039U0778)
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/06/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Al generale di corpo d'armata in servizio permanente effettivo Guzzoni Alfredo e' conferita, dal 9 aprile 1939-XVII, in riconoscimento dell'opera svolta quale comandante del Corpo di spedizione militare in Albania, la carica di comandante designato d'armata di cui al secondo comma dell'art. 42 della legge 7 giugno 1934-XII, n. 899, sull'avanzamento degli ufficiali del Regio esercito, e successive modificazioni.   
+  
+Al riassorbimento della eccedenza nelle cariche di comandanti designati d'armata, derivante dal conferimento predetto, si provvedera' al formarsi della prima vacanza nelle cariche stesse.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 15 maggio 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel   
+  
+Visto, il Guardasigilli: Solmi   

@@ -1,0 +1,45 @@
+LEGGE 30 novembre 1939 n. 2013
+
+
+LEGGE 30 novembre 1939 n. 2013
+==============================
+
+Aumento di 5 milioni del fondo di dotazione della Sezione autonoma di credito cinematografico Istituita presso la Banca nazionale del lavoro. (039U2013)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/02/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Fermi restando i conferimenti di cui all'art. 15 del Regio decreto-legge 16 giugno 1938-XVI, n. 1061, convertito nella legge 18 gennaio 1939-XVII, n. 458, la partecipazione del Tesoro dello Stato al fondo di dotazione della Sezione per il credito cinematografico e' aumentato di ulteriori 5 milioni da versarsi in tre rate annuali di L. 1.666.666,65 ciascuna a partire dall'esercizio finanziario 1939-40.   
+  
+Per l'ulteriore incremento del fondo, oltre alla Banca nazionale del lavoro, sono autorizzati a sottoscrivere quote di conferimento l'Istituto nazionale delle assicurazioni e l'Istituto nazionale fascista della previdenza sociale anche in deroga ai rispettivi statuti.   
+  
+Presso la Sezione viene inoltre costituito uno speciale fondo di riserva di L. 10.000.000 mediante versamenti annuali di L. 2.500.000 che lo Stato effettuera' alla Sezione stessa a partire dall'esercizio finanziario 1939-40.   
+  
+Detto fondo puo' essere destinato, in tutto o in parte, a costituire depositi presso istituti partecipanti o altri enti, a garanzia di operazioni finanziarie atte ad accrescere le possibilita' di credito della Sezione.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 30 novembre 1939-XVIII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - PAVOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   

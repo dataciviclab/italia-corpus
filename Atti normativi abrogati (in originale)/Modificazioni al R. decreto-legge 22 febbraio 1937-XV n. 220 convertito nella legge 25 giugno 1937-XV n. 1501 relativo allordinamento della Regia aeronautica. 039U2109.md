@@ -1,0 +1,138 @@
+LEGGE 18 dicembre 1939 n. 2109
+
+
+LEGGE 18 dicembre 1939 n. 2109
+==============================
+
+Modificazioni al R. decreto-legge 22 febbraio 1937-XV, n. 220, convertito nella legge 25 giugno 1937-XV, n. 1501, relativo all'ordinamento della Regia aeronautica. (039U2109)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/02/1940
+
+Art. 1
+------
+
+  
+  
+Nel R. decreto-legge 22 febbraio 1937-XV, n. 220, convertito in legge con la legge 25 giugno 1937-XV, n. 1501, e successive modificazioni, sull'ordinamento della Regia aeronautica, gli articoli 2, 4, 5, 21, 24 e 27 sono sostituiti dai seguenti; gli articoli 16, 18 e 30 sono modificati come segue:   
+  
+Art. 2. - La Regia aeronautica e' cosi' ordinata:   
+  
+1 Ufficio di stato maggiore;   
+  
+4 Comandi di zona aerea territoriale;   
+  
+1 Comando di aeronautica della Sicilia;   
+  
+1 Comando di aeronautica della Sardegna;   
+  
+1 Comando di aeronautica dell'Egeo;   
+  
+1 Comando di aeronautica della Libia;   
+  
+1 Comando di aeronautica dell'Africa Orientale Italiana;   
+  
+1 Comando di aeronautica dell'Albania.   
+  
+Art. 4. - Hanno giurisdizione territoriale:   
+  
+a) i Comandi di zona aerea territoriale;   
+i Comandi di aeronautica della Sicilia e della Sardegna; ed i seguenti enti che da essi dipendono;   
+  
+le Direzioni dei servizi del materiale e degli aeroporti coi relativi magazzini e stabilimenti;   
+  
+le Direzioni del demanio aeronautico con i relativi magazzini e stabilimenti;   
+  
+le Direzioni di commissariato aeronautico coi relativi magazzini e stabilimenti;   
+  
+le Direzioni delle telecomunicazioni e dell'assistenza al volo coi relativi magazzini e stabilimenti;   
+  
+i Comandi dei centri leva e reclutamento;   
+  
+i Comandi degli aeroporti militari;   
+  
+b) i Comandi di aeronautica dell'Egeo, della Libia e   
+dell'Albania ed i seguenti enti che da essi dipendono:   
+  
+le Direzioni dei servizi del materiale e degli aeroporti coi relativi magazzini e stabilimenti;   
+  
+le Direzioni del demanio aeronautico con i relativi magazzini e stabilimenti;   
+  
+le Direzioni di commissariato aeronautico coi relativi magazzini e stabilimenti;   
+  
+le Direzioni delle telecomunicazioni e dell'assistenza al volo coi relativi magazzini e stabilimenti;   
+  
+i comandi degli aeroporti militari;   
+  
+c) il Comando di aeronautica dell'Africa Orientale Italiana ed i seguenti enti che da esso dipendono:   
+i Comandi di settore aeronautico;   
+  
+la Direzione dei servizi del materiale e degli aeroporti coi relativi magazzini e stabilimenti;   
+  
+la Direzione del demanio aeronautico coi relativi magazzini e stabilimenti;   
+  
+la Direzione di commissariato aeronautico coi relativi magazzini e stabilimenti;   
+  
+i Comandi delle basi aeree;   
+  
+d) le Direzioni delle costruzioni aeronautiche coi relativi magazzini e stabilimenti.   
+Art. 5. - I territori di giurisdizione dei Comandi zona, aerea, del Comando di aeronautica della Sicilia, del Comando di aeronautica della Sardegna, del Comando di aeronautica dell'Egeo, del Comando di aeronautica della Libia, del Comando di aeronautica dell'Africa Orientale Italiana e dipendenti Comandi di settore, del Comando di aeronautica dell'Albania, nonche' quelli delle Direzioni delle costruzioni aeronautiche, sono stabiliti con decreto Reale previ accordi con il Ministero dell'Africa Italiana per quanto concerne il Comando di aeronautica della Libia ed il Comando di aeronautica dell'Africa Orientale Italiana.   
+  
+Le nomine degli ufficiali generali preposti ai Comandi di zona aerea territoriale e ai Comandi di aeronautica, saranno fatte con decreto Reale, sentito il Consiglio dei Ministri.   
+  
+Le Direzioni dei Comandi di zona aerea e dei Comandi di aeronautica ed i Comandi dei centri leva e reclutamento, hanno giurisdizione su tutto il territorio dei rispettivi Comandi di zona aerea o Comandi di aeronautica.   
+  
+Il territorio di giurisdizione di ciascun Comando di aeroporto militare o base aerea e' stabilito dal Ministero dell'aeronautica su proposta dei Comandi di zona aerea o Comandi di aeronautica nel cui territorio l'aeroporto o la base sono situati.   
+  
+Art. 16. - Il quarto comma e' sostituito dal seguente:   
+  
+« Gli ufficiali del ruolo servizi disimpegnano i compiti inerenti all'organizzazione e funzionamento dei servizi a terra ed in particolare degli aeroporti e delle basi aeree, caposaldi su cui si impernia il funzionamento dei reparti di volo ».   
+  
+Art. 18. - Il primo comma e' sostituito dal seguente:   
+  
+« Gli osservatori delle squadriglie per il Regio esercito, per la Regia marina e di presidio coloniale sono ufficiali rispettivamente del Regio esercito, della Regia marina e delle truppe coloniali che abbiano frequentato i corsi regolari presso le scuole di osservazione aerea e conseguito il relativo brevetto ».   
+  
+Art. 21. - Il Genio aeronautico presiede al funzionamento tecnico e amministrativo:   
+  
+delle Direzioni delle costruzioni aeronautiche e dei dipendenti uffici staccati di sorveglianza;   
+  
+delle Direzioni del demanio aeronautico, dei Comandi di zona aerea e dei Comandi di aeronautica;   
+  
+di impianti sperimentali e stabilimenti vari.   
+  
+Art. 24. - Il Commissariato aeronautico presiede al funzionamento tecnico amministrativo:   
+  
+delle Direzioni di commissariato aeronautico, dei Comandi di zona aerea e dei Comandi di aeronautica;   
+  
+di magazzini o stabilimenti vari.   
+  
+Art. 27. - Il Corpo sanitario aeronautico presiede al funzionamento tecnico amministrativo:   
+  
+degli istituti medico-legali della Regia aeronautica; degli uffici sanitari dei Comandi di zona aerea e dei Comandi di aeronautica;   
+  
+di magazzini e stabilimenti vari.   
+  
+Al servizio sanitario della Regia aeronautica per le infermita' di carattere generale si provvede altresi' con gli stabilimenti sanitari del Regio esercito e della Regia marina, previ accordi con i Ministeri interessati.   
+  
+E' compito del Corpo sanitario aeronautico lo svolgimento delle pratiche medico-legali interessanti il personale aeronautico.   
+  
+Art. 30. - La lettera h) e' sostituita dalla seguente:   
+  
+« h) gli ufficiali assegnati all'aeronautica dell'Africa Orientale Italiana entro i limiti stabiliti con decreto del Ministro per l'aeronautica, di concerto con il Ministro per le finanze, nonche' quelli assegnati all'aviazione di presidio coloniale, ai sensi dell'art. 1 del R. decreto-legge 29 ottobre 1936-XV, n. 2323 ».   
+
+Art. 2
+------
+
+  
+  
+Nel R. decreto-legge 22 febbraio 1937-XV, n. 220, convertito in legge con la legge 25 giugno 1937-XV, n. 1501, e successive modificazioni, agli articoli 11, 14, 19, 30 e 36 e' rettificato il riferimento al Ministero delle colonie in dipendenza della nuova denominazione assunta dal predetto Ministero in base al R. decreto 8 aprile 1937-XV, n. 431.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 18 dicembre 1939-XVIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel   
+  
+Visto, il Guardasigilli: Grandi   

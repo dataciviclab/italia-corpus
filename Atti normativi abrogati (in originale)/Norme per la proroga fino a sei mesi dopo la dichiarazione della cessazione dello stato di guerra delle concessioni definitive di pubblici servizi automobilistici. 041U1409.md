@@ -1,0 +1,43 @@
+LEGGE 05 dicembre 1941 n. 1409
+
+
+LEGGE 05 dicembre 1941 n. 1409
+==============================
+
+Norme per la proroga, fino a sei mesi dopo la dichiarazione della cessazione dello stato di guerra, delle concessioni definitive di pubblici servizi automobilistici. (041U1409)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/01/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo dello loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo. sanzionato e promulghiamo quanto segue:   
+  
+Articolo Unico   
+  
+Tutte lo concessioni definitive di pubbliche linee automobilistiche scadute e per il cui rinnovo non sia ancora intervenuto il parere del Consiglio superiore dei lavori pubblici e quelle altre che verranno a scadere dopo la pubblicazione della presente legge potranno essere prorogate dal Ministero delle comunicazioni - in deroga, all'art. 2 della legge 28 settembre 1939-XVII, n. 1822 - fino a sei mesi dopo la dichiarazione della cessazione dello stato di guerra, alle condizioni sostanzialmente uguali a quelle contenute nei precedenti atti di concessione.   
+  
+La proroga avra' inizio dal giorno successivo a quello di scadenza della concessione precedente.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla, e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 5 dicembre 1941-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - HOST VENTURI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+  

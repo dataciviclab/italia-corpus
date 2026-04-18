@@ -1,0 +1,56 @@
+REGIO DECRETO 24 febbraio 1899 n. 87
+
+
+REGIO DECRETO 24 febbraio 1899 n. 87
+====================================
+
+Riguardante la modificazione da apportare all'articolo 5 dello Statuto della R. Accademia ed Istituto di Belle Arti in Venezia. (099U0087)
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/04/1899
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto lo Statuto della R. Accademia ed Istituto di belle arti di Venezia, approvato con Nostro decreto dell'8 settembre 1878, n. 4518 (serie 2ª);
+
+Riconosciuta la convenienza di aggiungere agli attuali ordini d'accademici nella prefata Accademia quello degli emeriti, modificando in questo senso il sopra richiamato Statuto;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+L'articolo quinto dello Statuto della Regia Accademia ed Istituto di Belle Arti di Venezia, approvato con Nostro decreto dell'8 settembre 1878, n. 4518 (serie 2ª), e' cosi' modificato:   
+  
+«Articolo 5°. L'elezione ad accademico residente o corrispondente si fa sulla proposta di tre accademici di merito, mediante un primo scrutinio di classe, superato il quale si passa allo scrutinio generale.   
+  
+Gli accademici onorari possono essere proposti da due accademici di merito e la proposta puo' essere mandata immediatamente a partito.   
+  
+I soci, cosi di merito come di onore, sono nominati a vita.   
+  
+Gli accademici di merito residenti avranno diritto al titolo di emeriti dopo venti anni dalla loro iscrizione nella classe cui appartengono, se in questo periodo di tempo avranno pienamente soddisfatto ai doveri accademici.   
+  
+In ogni caso il numero degli emeriti non potra' essere maggiore di quattro per ciascuna delle classi di architettura e scultura.   
+  
+Nell'adunanza generale, ultima dell'anno, il Presidente proporra' le promozioni alla categoria degli emeriti; e la proposta sara' sottoposta individualmente all'approvazione degli accademici residenti e degli emeriti.   
+  
+«Gli emeriti conservano tutti i diritti accademici dei residenti, ma sono dispensati dal sopportarne gli oneri, salvo che volontariamente vi si sottomettano. Dai diritti non e' escluso quello di concorrere alle cariche, ma in questo caso essi saranno tenuti all'adempimento dei doveri inerenti alle cariche medesime».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. Dato a Roma, addi' 24 febbraio 1899.   
+  
+UMBERTO.   
+  
+G. Baccelli.   
+  
+Visto, Il Guardasigilli: Finocchiaro-Aprile.   
+  

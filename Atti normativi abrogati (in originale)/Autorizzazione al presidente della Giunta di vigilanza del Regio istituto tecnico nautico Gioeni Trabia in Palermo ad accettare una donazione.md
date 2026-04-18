@@ -1,0 +1,18 @@
+DECRETO LUOGOTENENZIALE 12 dicembre 1945 n. 914
+
+
+DECRETO LUOGOTENENZIALE 12 dicembre 1945 n. 914
+===============================================
+
+Autorizzazione al presidente della Giunta di vigilanza del Regio istituto tecnico nautico "Gioeni Trabia" in Palermo, ad accettare una donazione.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Art. 1
+------
+
+N.
+
+914. Decreto Luogotenenziale 12 dicembre 1945, col quale, sulla proposta del Ministro per la pubblica istruzione, il presidente della Giunta di vigilanza del Regio istituto tecnico nautico "Gioeni Trabia" in Palermo, presidente del Consiglio di amministrazione della Cassa scolastica dell'Istituto medesimo, viene autorizzato ad accettare dalla Societa' anonima di navigazione "La Meridionale" di Palermo, la donazione del capitale nominale di L. 20.000 in titoli del Debito pubblico dello Stato, Rendita 5%, costituente il fondo per la istituzione di una borsa di studio da fondarsi al nome della Societa' donatrice.  
+  
+Visto, il Guardasigilli: TOGLIATTI  
+Registrato alla Corte dei conti, addi' 21 marzo 1946

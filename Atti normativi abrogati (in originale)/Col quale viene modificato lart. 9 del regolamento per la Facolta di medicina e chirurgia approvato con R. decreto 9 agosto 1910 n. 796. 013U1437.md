@@ -1,0 +1,47 @@
+REGIO DECRETO 30 novembre 1913 n. 1437
+
+
+REGIO DECRETO 30 novembre 1913 n. 1437
+======================================
+
+Col quale viene modificato l'art. 9 del regolamento per la Facolta' di medicina e chirurgia approvato con R. decreto 9 agosto 1910, n. 796. (013U1437)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/01/1914
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il regolamento per la Facolta' di medicina e chirurgia, approvato con Nostro decreto del 9 agosto 1910, n. 808;   
+  
+Sentito il Consiglio superiore della pubblica istruzione;   
+  
+Sentito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+All'art. 9 del regolamento per la Facolta' di medicina e chirurgia approvato con Nostro decreto del 9 agosto 1910, n. 808, e' sostituito il seguente:   
+  
+«Art. 9. - Gli studenti che non abbiano superati gli esami segnati dal n. 1 al n. 8 dell'art. 2 non possono essere ammessi agli esami dei corsi segnati dal n. 9 al n. 20 dello stesso articolo; quelli che non hanno superato gli esami di patologia speciale medica e di patologia speciale chirurgica, non possono essere ammessi agli esami delle cliniche.   
+  
+In quelle facolta' dove l'insegnamento di anatomia umana normale, descrittiva, topografica e microscopica e quello di clinica chirurgica generale semeiotica e medicina operatoria, sono divisi in due o piu' corsi distinti con esami separati. L'ordine di questi esami nella serie generale sara' stabilito dalle Facolta'».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 novembre 1913.   
+  
+VITTORIO EMANUELE.   
+  
+GIOLITTI - CREDARO.   
+  
+Visto, Il guardasigilli: FINOCCHIARO-APRILE.   
+  

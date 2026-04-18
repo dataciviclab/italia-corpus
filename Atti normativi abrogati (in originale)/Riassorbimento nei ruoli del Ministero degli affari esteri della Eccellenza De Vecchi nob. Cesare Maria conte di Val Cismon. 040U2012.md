@@ -1,0 +1,51 @@
+REGIO DECRETO 30 dicembre 1940 n. 2012
+
+
+REGIO DECRETO 30 dicembre 1940 n. 2012
+======================================
+
+Riassorbimento nei ruoli del Ministero degli affari esteri della Eccellenza De Vecchi nob. Cesare Maria, conte di Val Cismon. (040U2012)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/03/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il Nostro decreto-legge 22 novembre 1936-XV, n. 2025, convertito nella legge 4 gennaio 1937-XV, n. 240;   
+  
+Visto il Nostro decreto 30 dicembre 1923-II, n. 2958;   
+  
+Visto il Nostro decreto in pari data col quale il generale d'armata Ettore Bastico viene nominato Governatore delle Isole italiane dell'Egeo, in sostituzione del nob. Cesare Maria De Vecchi conte di Val Cismon;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari esteri, di concerto col Nostro Ministro Segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'Eccellenza De Vecchi nob. Cesare Conte di Val Cismon, Nostro ambasciatore, viene riassorbito nei ruoli del Ministero degli affari esteri e chiamato a prestare servizio presso l'Amministrazione centrale.   
+  
+Il presente decreto ha effetto dal 10 dicembre 1940-XIX.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 dicembre 1940-XIX   
+  
+VITTORIO EMANUELE   
+  
+CIANO - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 28 febbraio 1941-XIX   
+  
+Atti del Governo, registro 430, foglio 19 - MANCINI   
+  
+  

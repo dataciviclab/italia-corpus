@@ -1,0 +1,22 @@
+REGIO DECRETO 25 luglio 1902 n. CCXLVIII
+
+
+REGIO DECRETO 25 luglio 1902 n. CCXLVIII
+========================================
+
+Con cui l'ospedale Annoni di Capriano, frazione di Briosco, viene eretto in ente morale e ne viene approvato lo statuto organico. (0200248R)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/09/1902
+
+Art. 1
+------
+
+  
+Con cui l'ospedale Annoni di Capriano, frazione di Briosco, viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.  
+Cocco-Ortu.   
+  
+Registrato alla Corte dei conti addi' 13 agosto 1902   
+  
+Reg. 4. Atti del Governo a f. 155.   
+  

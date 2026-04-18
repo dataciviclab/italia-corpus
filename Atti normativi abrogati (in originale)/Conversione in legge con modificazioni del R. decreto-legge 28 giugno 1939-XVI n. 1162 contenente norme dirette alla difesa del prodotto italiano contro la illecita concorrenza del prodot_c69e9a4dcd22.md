@@ -1,0 +1,46 @@
+LEGGE 19 gennaio 1939 n. 251
+
+
+LEGGE 19 gennaio 1939 n. 251
+============================
+
+Conversione in legge, con modificazioni, del R. decreto-legge 28 giugno 1939-XVI, n. 1162, contenente norme dirette alla difesa del prodotto italiano contro la illecita concorrenza del prodotto straniero. (039U0251)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/02/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il R. decreto-legge 28 giugno 1938-XVI, n. 1162, contenente norme dirette alla difesa del prodotto italiano contro la illecita concorrenza del prodotto straniero, con le modificazioni seguenti:   
+  
+il secondo comma dell'art. 1 e' sostituito dal seguente: «Tali indicazioni dovranno essere fatte con caratteri ben visibili, in relazione alle dimensioni delle etichette, involucri, imballaggi di ogni genere e cartelli pubblicitari sui quali esse debbono essere apposte»;   
+  
+il secondo comma dell'art. 3 e' sostituito dal seguente: «Tale indicazione dovra' essere fatta con caratteri ben visibili in relazione alle dimensioni delle altre parole o diciture costituenti il marchio»;   
+  
+il primo comma dell'art. 6 e' sostituito dal seguente: «Le disposizioni di cui agli articoli 1, 3 e 5 entrano in vigore alla data del 1° agosto 1939-XVII».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 19 gennaio 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Solmi - Lantini -   
+Guarnieri   
+  
+Visto, il Guardasigilli: Solmi   

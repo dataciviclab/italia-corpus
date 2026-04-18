@@ -1,0 +1,44 @@
+LEGGE 26 luglio 1917 n. 1218
+
+
+LEGGE 26 luglio 1917 n. 1218
+============================
+
+Che autorizza l'esercizio provvisorio degli stati di previsione dell'entrata e della spesa del fondo per l'emigrazione per l'esercizio 1917-918 a tutto il mese di ottobre 1917. (017U1218)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/08/1917
+
+Art. 1
+------
+
+  
+TOMASO DI SAVOIA DUCA DI GENOVA   
+  
+Luogotenente Generale di Sua Maesta'   
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+In virtu' dell'autorita' a Noi delegata;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il Governo del Re e' autorizzato ad esercitare provvisoriamente, sino a quando non siano rispettivamente tradotti in legge, e ad ogni modo non oltre il 31 ottobre 1917, gli stati di previsione dell'entrata e della spesa del Fondo per l'emigrazione per l'esercizio finanziario 1917-918 e quindi e' autorizzato a riscuotere le entrate ordinarie e straordinarie ed a pagare le spese ordinarie e straordinarie del Fondo stesso e quelle dipendenti da leggi e da obbligazioni anteriori in conformita' degli stati di previsione presentati per la loro approvazione alla Camera dei deputati nella seduta del 12 dicembre 1916 e secondo le disposizioni, i termini e le facolta' contenute nel relativo disegno di legge.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 26 luglio 1917.   
+  
+TOMASO DI SAVOIA.   
+  
+Boselli - Sonnino.   
+  
+Visto, Il guardasigilli: Sacchi.   

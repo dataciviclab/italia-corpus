@@ -1,0 +1,54 @@
+REGIO DECRETO 28 luglio 1870 n. 5774
+
+
+REGIO DECRETO 28 luglio 1870 n. 5774
+====================================
+
+Col quale e' accolto un reclamo del Comune di Pietraperzia relativo al dazio di consumo. (070U5774)
+---------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/08/1870
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visti i Decreti della Deputazione provinciale di Caltanissetta, in data 11 gennaio e 3 marzo 1869, coi quali venne ricusata l'approvazione del dazio addizionale di consumo in lire 1 al quintale, deliberato dal Consiglio comunale di Pietraperzia in seduta del 16 dicembre 1868, sull'introduzione delle farine, pane e paste entro la cinta daziaria;
+
+Visto il reclamo elevato da quel Consiglio comunale, in seduta del 4 aprile 1869, contro i precitati Decreti della Deputazione provinciale, in quanto si riferiscono alla dinegata approvazione;
+
+Visto l'articolo 143 della Legge comunale e Provinciale 20 marzo 1865, allegato A;
+
+Visto l'[articolo 6 del Decreto legislativo 28 giugno 1866, n. 3018](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1866-06-28;3018~art6);
+
+Sulla proposta del Ministro delle Finanze;
+
+Sentito
+-------
+
+il parere del Consiglio di Stato; Abbiamo decretato e decretiamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+E' accolto il reclamo del Comune di Pietraperzia, il quale viene autorizzato a riscuotere l'addizionale di lire 1 al quintale al dazio governativo di consumo sulle farine, pane e paste, all'introduzione di essi generi entro la cinta daziaria, in conformita' della deliberazione del Consiglio comunale, presa in seduta del 16 dicembre 1868.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 28 luglio 1870.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 2 agosto 1870   
+  
+Reg. 52 Atti del Governo a c. 2. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
+  
+Quintino Sella.   
+  

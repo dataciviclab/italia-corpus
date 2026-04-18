@@ -1,0 +1,54 @@
+REGIO DECRETO 13 marzo 1870 n. 5571
+
+
+REGIO DECRETO 13 marzo 1870 n. 5571
+===================================
+
+Modifica l'articolo 2 del Regolamento per la coltivazione del riso nella Provincia di Novara. (070U5571)
+--------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/04/1870
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la deliberazione del Consiglio provinciale di Novara, in data 8 settembre 1869;
+
+Visto il Regolamento per la coltivazione del riso in quella Provincia, approvato con Nostro Decreto 17 febbraio 1869, n. 4950;
+
+Vista la [Legge 12 giugno 1866, n. 2967](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1866-06-12;2967);
+
+Sentiti il Consiglio superiore di Sanita' ed il Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+All'articolo 2 del Regolamento per la coltivazione del riso nella Provincia di Novara, approvato con Nostro Decreto del 17 febbraio 1869, e' sostituito il seguente:   
+  
+«Nei Circondari di Biella e di Vercelli la coltivazione del riso non potra' praticarsi verso la parte montana, oltre alle linee perimetrali tracciate a valle ed alla distanza di cinque chilometri dal centro dell'abitato di Borgomasino, Cavaglia', Verrone, Castellengo, Cassina Gattesca in territorio di Brusnengo e Gattinara, e di metri quattromilacinquecento dal centro dell'abitato di Alice Castello.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 13 marzo 1870.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 22 marzo 1870   
+  
+Reg. 50 Atti del Governo a c. 154. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
+  
+G. Lanza.   
+  

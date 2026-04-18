@@ -1,0 +1,46 @@
+REGIO DECRETO 08 maggio 1892 n. 252
+
+
+REGIO DECRETO 08 maggio 1892 n. 252
+===================================
+
+Che scioglie la Commissione per la revisione dei Codici penali per l'esercito e per l'armata. (092U0252)
+--------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/06/1892
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il Nostro decreto del 1° dicembre 1889 n. 6521 (serie 3ª), relativo alla nomina di una Commissione per la revisione dei codici penali per l'esercito e per l'armata;
+
+Considerato che la Commissione suddetta ha terminato i suoi lavori;
+
+Sulla
+-----
+
+proposta dei Nostri Ministri Segretari di Stato per gli affari della Guerra e della Marina, di concerto col Ministro di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La Commissione per la revisione dei codici penali per l'esercito e per l'armata, e' sciolta.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 8 maggio 1892.   
+  
+UMBERTO.   
+  
+PELLOUX.   
+S. DE SAINT BON.   
+CHIMIRRI.   
+  
+Visto, Il Guardasigilli: B. CHIMIRRI.   
+  

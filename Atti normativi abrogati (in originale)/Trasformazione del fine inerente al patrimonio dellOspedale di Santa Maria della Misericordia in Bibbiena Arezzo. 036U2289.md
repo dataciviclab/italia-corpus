@@ -1,0 +1,21 @@
+REGIO DECRETO 12 novembre 1936 n. 2289
+
+
+REGIO DECRETO 12 novembre 1936 n. 2289
+======================================
+
+Trasformazione del fine inerente al patrimonio dell'Ospedale di Santa Maria della Misericordia, in Bibbiena (Arezzo). (036U2289)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/02/1937
+
+Art. 1
+------
+
+N.
+
+2289. R. decreto 12 novembre 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene trasformato il fine inerente al patrimonio dell'Ospedale di Santa Maria della Misericordia, con sede in Bibbiena, (Arezzo), e ne viene approvato il relativo statuto organico.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 5 gennaio 1937 - Anno XV

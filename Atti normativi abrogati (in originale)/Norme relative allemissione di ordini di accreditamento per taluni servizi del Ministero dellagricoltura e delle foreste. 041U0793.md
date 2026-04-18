@@ -1,0 +1,45 @@
+LEGGE 11 luglio 1941 n. 793
+
+
+LEGGE 11 luglio 1941 n. 793
+===========================
+
+Norme relative all'emissione di ordini di accreditamento per taluni servizi del Ministero dell'agricoltura e delle foreste. (041U0793)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/09/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanta segue:   
+  
+Articolo unico.   
+  
+La facolta' di provvedere, mediante ordini di accreditamento, al pagamento delle spese relative a missioni compiute dal personale degli uffici ed organi periferici del Ministero dell'agricoltura e delle foreste, nonche' del Genio civile per i servizi della bonifica integrale prevista dall'articolo unico, primo comma della legge 21 ottobre 1940-XVIII, n. 1586, fino al 30 giugno 1941-XIX, e' prorogata fino al 30 giugno 1942-XX.   
+  
+Restano ferme le disposizioni del secondo e terzo comma del detto articolo che continueranno ad aver effetto fino alla soppressione della Direzione generale dell'alimentazione prevista dall'art. 3 della legge 12 luglio 1940-XVIII, n. 1096.   
+  
+La proroga di cui al precedente comma ha effetto anche per il servizio dell'approvvigionamento del carbone vegetale ai sensi del terzo comma dell'art. 13 del R. decreto-legge 2 gennaio 1941-XIX, n. 1.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 11 luglio 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - TASSINARI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+  

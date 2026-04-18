@@ -1,0 +1,41 @@
+REGIO DECRETO 26 agosto 1901 n. 434
+
+
+REGIO DECRETO 26 agosto 1901 n. 434
+===================================
+
+Col quale vengono radiate dal quadro del R. naviglio alcune navi da guerra. (001U0434)
+--------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/10/1901
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto l'articolo 2 della legge del bilancio per l'esercizio finanziario 1901-902, in data 13 giugno 1901, n. 206;   
+  
+Vista la legge di contabilita' generale dello Stato;   
+  
+Sulla proposta del Nostro Ministro della Marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Le RR. navi Monzambano, Confienza, Europa, Provana, sono radiate dal quadro del R. naviglio.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare   
+  
+Dato a Racconigi, addi' 26 agosto 1901.   
+  
+VITTORIO EMANUELE.   
+  
+E. Morin.   
+  
+Visto, Il Guardasigilli: Cocco-Ortu.   
+  

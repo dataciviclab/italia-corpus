@@ -1,0 +1,17 @@
+REGIO DECRETO 27 novembre 1921 n. 1917
+
+
+REGIO DECRETO 27 novembre 1921 n. 1917
+======================================
+
+Sostituzione di statuto. (021U1917)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 01/02/1922
+
+Art. 1
+------
+
+  
+N.1917. Regio decreto 27 novembre 1921, col quale, sulla proposta del ministro per l'industria ed il commercio viene sostituito lo statuto organico dell'Istituto autonomo per le case popolari di Casalmaggiore, approvato con [R. decreto 12 novembre 1911, n. 1292](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1911-11-12;1292).   
+  

@@ -1,0 +1,55 @@
+REGIO DECRETO 29 dicembre 1932 n. 1742
+
+
+REGIO DECRETO 29 dicembre 1932 n. 1742
+======================================
+
+Limiti nella portata della concessione di temporanea importazione di rocchetti e bobine per il trasporto di fili e di conduttori elettrici in importazione. (032U1742)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/01/1933
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 19 del testo delle disposizioni sulle importazioni ed esportazioni temporanee, approvato col [R. decreto-legge 18 dicembre 1913, n. 1453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1913-12-18;1453), ed il relativo regolamento approvato col [R. decreto 6 aprile 1922, n. 547](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1922-04-06;547);
+
+Viste le successive modificazioni ed aggiunte al testo delle disposizioni suddette;
+
+Visto il [R. decreto 2 maggio 1932, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-02;525), che concede la temporanea importazione dei recipienti interni di qualsiasi materia (bobine e rocchetti) sui quali sono avvolti i fili ed i conduttori elettrici che si importano;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con quello per le corporazioni; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La concessione della temporanea importazione dei recipienti interni di qualsiasi materia (bobine e rocchetti) sui quali sono avvolti i fili ed i conduttori elettrici che si importano - di cui al [R. decreto 2 maggio 1932, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-05-02;525) - s'intende limitata alle sole bobine ed ai soli rocchetti di legno sui quali sono avvolti i fili di rame importati temporaneamente per la fabbricazione di fili e di conduttori elettrici da esportare.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 dicembre 1932 - Anno XI   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Jung   
+  
+Visto, il Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 14 gennaio 1933 - Anno XI   
+  
+Atti del Governo, registro 328. foglio 76. - Mancini.   
+  
+  

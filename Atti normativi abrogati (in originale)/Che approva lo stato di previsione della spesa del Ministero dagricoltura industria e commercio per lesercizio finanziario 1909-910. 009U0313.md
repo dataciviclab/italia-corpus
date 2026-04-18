@@ -1,0 +1,47 @@
+LEGGE 10 giugno 1909 n. 313
+
+
+LEGGE 10 giugno 1909 n. 313
+===========================
+
+Che approva lo stato di previsione della spesa del Ministero d'agricoltura, industria e commercio per l'esercizio finanziario 1909-910. (009U0313)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/07/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il Governo del Re e' autorizzato a far pagare le spese ordinarie e straordinarie del Ministero di agricoltura, industria e commercio per l'esercizio finanziario dal 1° luglio 1909 al 30 giugno 1910, in conformita' dello stato di previsione annesso alla presente legge.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 10 giugno 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Carcano.   
+  
+Visto, Il guardasigilli: Orlando.   
+  
+
+Stato di previsione
+
+  
+STATO DI PREVISIONE della spesa del Ministero di agricoltura, industria e commercio per l'esercizio finanziario dal 1° luglio 1909 al 30 giugno 1910.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=009U031300100010110001&dgu=1909-06-16&art.dataPubblicazioneGazzetta=1909-06-16&art.codiceRedazionale=009U0313)
+  

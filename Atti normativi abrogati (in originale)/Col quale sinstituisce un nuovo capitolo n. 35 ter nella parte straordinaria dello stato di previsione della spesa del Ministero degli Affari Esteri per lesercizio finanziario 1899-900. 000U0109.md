@@ -1,0 +1,46 @@
+REGIO DECRETO 25 marzo 1900 n. 109
+
+
+REGIO DECRETO 25 marzo 1900 n. 109
+==================================
+
+Col quale s'instituisce un nuovo capitolo, n. 35 ter, nella parte straordinaria dello stato di previsione della spesa del Ministero degli Affari Esteri per l'esercizio finanziario 1899-900. (000U0109)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/04/1900
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto l'[articolo 1 della legge 11 marzo 1900, n. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-03-11;86~art1), col quale e' autorizzata l'assegnazione di L. 67,035,40 pel pagamento del credito alla Banca d'Italia, a tutto il 31 dicembre 1898, per somme dalla medesima anticipate per la costruzione del R. Asilo «Garibaldi» in Tunisi;
+
+Visto l'articolo 2 della predetta legge, che dispone, allo scopo suindicato, lo stanziamento nella parte straordinaria dello stato di previsione della spesa del Ministero degli Affari Esteri per l'esercizio 1899-900 della detta somma, salvo ad aumentarla di quella che risultera' dovuta dal computo degli interessi relativi dal 1° gennaio 1899 fino all'epoca in cui avverra' il pagamento del debito;
+
+Vista la liquidazione definitiva del debito dello Stato verso la Banca d'Italia predetta, a tutto il 31 marzo 1900, dalla quale risulta da pagare la somma di L. 70,952,96;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Nella parte straordinaria dello stato di previsione della spesa del Ministero degli Affari Esteri per l'esercizio finanziario 1899-900, e' instituito il nuovo capitolo n. 35 ter «Capitale ed interessi dovuti alla Banca d'Italia per somme dalla medesima anticipate per la costruzione del R. Asilo «Garibaldi» in Tunisi» con lo stanziamento di lire settantamila novecentocinquantadue e centesimi novantasei (L. 70,952,96).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 marzo 1900.   
+  
+UMBERTO.   
+  
+P. BOSELLI.   
+  
+Visto, Il Guardasigilli: A. BONASI.   
+  

@@ -1,0 +1,45 @@
+REGIO DECRETO 04 febbraio 1909 n. 144
+
+
+REGIO DECRETO 04 febbraio 1909 n. 144
+=====================================
+
+Che aggiunge un posto di professore straordinario del terzo ordine di ruoli per la scuola tecnica di Alba. (009U0144)
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/04/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto l'[art. 3 della legge 13 giugno 1907, n. 342](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-06-13;342~art3), e l'art. 54 del regolamento approvato con Nostro decreto 29 luglio 1906, n. 469;   
+  
+Veduto il Nostro decreto 26 ottobre 1908, n. 681, col quale si stabiliva l'organico della scuola tecnica d'Alba convertita in governativa dal 1° ottobre 1908;   
+  
+Considerato che in seguito all'esame dei nuovi atti trasmessi dall'Amministrazione comunale si e' riconosciuto che l'insegnante di scienze naturali nella scuola pareggiata ha i requisiti voluti per l'assunzione nei ruoli dello Stato e che percio' e' mestieri stabilire nell'organico il relativo posto di ruolo;   
+  
+Sentito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Dal 1° ottobre 1908 ai posti di ruolo stabiliti col Nostro decreto 26 ottobre 1908, n. 681, per la scuola tecnica di Alba, e' aggiunto un posto di professore straordinario del terzo ordine di ruoli, gruppo A, per l'insegnamento delle scienze naturali.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 febbraio 1909.   
+  
+VITTORIO EMANUELE.   
+  
+GIOLITTI - RAVA.   
+  
+Visto, Il guardasigilli: ORLANDO.   
+  

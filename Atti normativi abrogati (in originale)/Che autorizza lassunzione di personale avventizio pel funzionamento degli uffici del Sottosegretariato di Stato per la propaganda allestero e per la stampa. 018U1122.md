@@ -1,0 +1,49 @@
+DECRETO LUOGOTENENZIALE 01 agosto 1918 n. 1122
+
+
+DECRETO LUOGOTENENZIALE 01 agosto 1918 n. 1122
+==============================================
+
+Che autorizza l'assunzione di personale avventizio pel funzionamento degli uffici del Sottosegretariato di Stato per la propaganda all'estero e per la stampa. (018U1122)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/09/1918
+
+Art. 1
+------
+
+  
+TOMASO DI SAVOIA DUCA DI GENOVA   
+  
+Luogotenente Generale di Sua Maesta'   
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+In virtu' dell'autorita' a Noi delegata;   
+  
+Vista la [legge 22 maggio 1915, n. 671](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671), sul conferimento al Governo dei poteri straordinari per la guerra;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta del ministro del tesoro, di concerto col presidente del Consiglio dei ministri, ministro dell'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Per imprescindibili bisogni del funzionamento degli affici del Sottosegretariato di Stato per la propaganda all'estero e per la stampa, e' autorizzata l'assunzione di personale avventizio da scegliersi fra le persone non aventi obbligo di servizio militare, e giudicate idonee alle funzioni da disimpegnare. Saranno preferiti i funzionari e gli agenti a riposo ed i militari mutilati o riformati per causa di guerra.   
+  
+Dette assunzioni avranno luogo con decreto Reale, su proposta del ministro del tesoro, di concerto col ministro dell'interno, e le retribuzioni relative saranno imputate all'apposito conto corrente, istituito per le spese del Sottosegretariato predetto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 1° agosto 1918.   
+  
+TOMASO DI SAVOIA.   
+  
+ORLANDO - NITTI.   
+  
+Visto, Il guardasigilli: SACCHI.   
+  

@@ -1,0 +1,45 @@
+REGIO DECRETO 09 agosto 1914 n. 939
+
+
+REGIO DECRETO 09 agosto 1914 n. 939
+===================================
+
+Col quale viene rettificata la tabella degli orari per le sezioni ginnasi e licei moderni. (014U0939)
+-----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/09/1914
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto il Nostro decreto 28 settembre 1913, n. 1213, che approva gli orari e i programmi d' insegnamento per le sezioni di ginnasii e licei moderni;
+
+Veduto che, per errore di trascrizione, la tabella degli orari annessa al predetto decreto, nella parte riguardante il ginnasio inferiore non e' conforme, come dovrebbe essere, a quella annessa al regolamento approvato con Nostro decreto 3 febbraio 1901, n. 31, recando una variazione delle ore d' insegnamento di latino, di storia e geografia, mentre gli orari delle tre prime classi rimangono invariati essendo comuni al ginnasio classico e al moderno;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La tabella degli orarii per le sezioni di ginnasi e licei moderni annessa al Nostro decreto 28 settembre 1913, n. 1213, e' rettificata nel seguente modo:   
+  
+Parte di provvedimento in formato grafico  
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 9 agosto 1914.   
+  
+VITTORIO EMANUELE.   
+  
+Daneo.   
+  
+Visto, Il guardasigilli: Dari.   

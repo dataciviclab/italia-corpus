@@ -1,0 +1,61 @@
+REGIO DECRETO 15 luglio 1866 n. 3083
+
+
+REGIO DECRETO 15 luglio 1866 n. 3083
+====================================
+
+Col quale i Comuni di Monteverdi e Sassetta sono aggregati alla Sezione 3 del Collegio elettorale di Volterra. (066U3083)
+-------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/07/1866   
+Il presente decreto e' stato erroneamente pubblicato in Gazzetta Ufficiale senza l'indicazione del numero di inserzione nella Raccolta Ufficiale delle leggi e dei decreti del Regno.
+
+EUGENIO
+-------
+
+PRINCIPE DI SAVOJA-CARIGNANO
+
+LUOGOTENENTE GENERALE DI S. M.
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+In vista dell'autorita' a Noi delegata;
+
+Visti gli articoli 64, 65, e 66 della Legge elettorale politica 17 dicembre 1860, n° 4513;
+
+Vista la Tabella ad essa Legge unita della circoscrizione territoriale dei Collegi elettorali;
+
+Viste le istanze dei Comuni di Monteverdi e Sassetta per essere aggregati alla Sezione di Castagneto del Collegio elettorale di Volterra, n° 332, perche' luogo per essi piu' centrale;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I Comuni di Monteverdi e Sassetta, che sino ad ora fecero parte della Sezione 2ª del Collegio elettorale di Volterra, n° 332, sono aggregati alla Sezione 3ª del Collegio stesso, la quale e' cosi' composta dei Comuni di Castagneto, Monteverdi e Sassetta.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato in Firenze addi' 15 luglio 1866.   
+  
+EUGENIO DI SAVOJA   
+  
+Registrato alla Corte dei conti addi' 23 luglio 1866   
+  
+Reg.° 36 Atti del Governo a c. 194. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli Borgatti.   
+  
+Ricasoli.   
+  

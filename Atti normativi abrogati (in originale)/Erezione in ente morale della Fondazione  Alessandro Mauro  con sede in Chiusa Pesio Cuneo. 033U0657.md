@@ -1,0 +1,21 @@
+REGIO DECRETO 08 maggio 1933 n. 657
+
+
+REGIO DECRETO 08 maggio 1933 n. 657
+===================================
+
+Erezione in ente morale della Fondazione « Alessandro Mauro », con sede in Chiusa Pesio (Cuneo). (033U0657)
+-----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/07/1933
+
+Art. 1
+------
+
+N.
+
+657. R. decreto 8 maggio 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, la Fondazione « Alessandro Mauro », con sede in Chiusa Pesio (Cuneo), viene eretta in ente morale sotto amministrazione autonoma, e ne e' approvato con alcune modifiche lo statuto organico.   
+  
+Visto, il Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 6 giugno 1933 - Anno XI.

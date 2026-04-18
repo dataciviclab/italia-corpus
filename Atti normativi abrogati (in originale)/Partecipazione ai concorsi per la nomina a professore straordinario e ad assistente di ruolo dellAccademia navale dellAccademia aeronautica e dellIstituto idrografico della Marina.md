@@ -1,0 +1,34 @@
+LEGGE 15 dicembre 1967 n. 1250
+
+
+LEGGE 15 dicembre 1967 n. 1250
+==============================
+
+Partecipazione ai concorsi per la nomina a professore straordinario e ad assistente di ruolo dell'Accademia navale, dell'Accademia aeronautica e dell'Istituto idrografico della Marina.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+Il limite massimo di eta' previsto dall'articolo 6 del regolamento approvato con [regio decreto 15 ottobre 1936, n. 2135, dall'articolo 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1936-10-15;2135~art5) delle norme approvate con [regio decreto 31 marzo 1941, n. 687](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1941-03-31;687), dall'articolo unico del [regio decreto 10 febbraio 1940, n. 187, e dall'articolo 2, terzo comma](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-02-10;187~art2-com3), del [decreto del Presidente della Repubblica 18 novembre 1965, n. 1483](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1965-11-18;1483), per la partecipazione ai concorsi per la nomina a professore straordinario e ad assistente di ruolo dell'Accademia navale, dell'Accademia aeronautica e dell'Istituto idrografico della Marina, e' abolito.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 15 dicembre 1967
+
+SARAGAT MORO - TREMELLONI - COLOMBO - GUI
+
+Visto, il Guardasigilli: REALE

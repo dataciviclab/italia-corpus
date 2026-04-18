@@ -1,0 +1,51 @@
+REGIO DECRETO 08 novembre 1901 n. 551
+
+
+REGIO DECRETO 08 novembre 1901 n. 551
+=====================================
+
+Che revoca le disposizioni di quello in data 19 ottobre 1893, n. 586, in quanto concernono le Confraternite. (001U0551)
+-----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/01/1902
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il [R. decreto 19 ottobre 1893, n. 586](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-10-19;586);
+
+Ritenuto che alle disposizioni della legge 17 luglio 1890, concernenti la vigilanza e tutela delle istituzioni pubbliche di beneficenza, sono soggette anche tutte indistintamente le Confraternite esistenti nel Regno, comprese quelle di mero culto;
+
+Che dopo la pubblicazione dell'anzidetta legge hanno cessato di aver vigore le RR. Patenti 19 maggio 1831, in quanto concerne l'autorizzazione da concedersi, per atti eccedenti l'ordinaria amministrazione, alle Confraternite delle provincie piemontesi;
+
+Visto il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti, d'accordo col Ministro dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+Sono revocate le disposizioni del [R. decreto 19 ottobre 1893, n. 586](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1893-10-19;586), in quanto concernono le Confraternite, e vi si mantiene per queste l'osservanza delle RR. Patenti 19 maggio
+
+1831. 
+  
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Capodimonte (Napoli), addi' 8 novembre 1901.   
+  
+VITTORIO EMANUELE.   
+  
+F. Cocco-Ortu.   
+Giolitti.   
+  
+Visto, Il Guardasigilli: Cocco-Ortu.

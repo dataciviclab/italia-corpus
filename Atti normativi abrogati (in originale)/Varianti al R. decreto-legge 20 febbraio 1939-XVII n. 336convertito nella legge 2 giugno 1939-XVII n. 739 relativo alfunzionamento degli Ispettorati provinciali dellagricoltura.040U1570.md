@@ -1,0 +1,44 @@
+LEGGE 21 ottobre 1940 n. 1570
+
+
+LEGGE 21 ottobre 1940 n. 1570
+=============================
+
+Varianti al R. decreto-legge 20 febbraio 1939-XVII, n. 336, 
+convertito nella legge 2 giugno 1939-XVII, n. 739, relativo al 
+funzionamento degli Ispettorati provinciali dell'agricoltura. 
+(040U1570)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/12/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+All'art. 18 del R. decreto-legge 20 febbraio 1939-XVII, n. 336, convertito nella legge 2 giugno 1939-XVII, n. 739, e' aggiunto il comma seguente:   
+  
+«Sui fondi delle gestioni potranno tuttavia gravare spese di viaggio, diarie ed altre competenze relative, per i sopraluoghi da eseguire nell'interesse delle iniziative e delle altre attivita' di cui al precedente art. 17. Il limite massimo per tali spese sara' stabilito, di volta in volta, dal Ministro per l'agricoltura e le foreste nel decreto di approvazione di cui al secondo comma del precedente articolo 17; ma non potra' comunque superare, in relazione all'importo di ciascun contributo, il rapporto percentuale complessivo che sara' stabilito, per tutti i contributi del genere, con decreto del Ministro per l'agricoltura e per le foreste, di concerto col Ministro per le finanze».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 21 ottobre 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - TASSINARI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   

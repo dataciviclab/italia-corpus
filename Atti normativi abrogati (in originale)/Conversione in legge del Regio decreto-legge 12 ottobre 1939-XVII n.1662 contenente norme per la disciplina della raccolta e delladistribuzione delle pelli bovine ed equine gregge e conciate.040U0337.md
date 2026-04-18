@@ -1,0 +1,42 @@
+LEGGE 04 aprile 1940 n. 337
+
+
+LEGGE 04 aprile 1940 n. 337
+===========================
+
+Conversione in legge del Regio decreto-legge 12 ottobre 1939-XVII, n. 
+1662, contenente norme per la disciplina della raccolta e della 
+distribuzione delle pelli bovine ed equine gregge e conciate. 
+(040U0337)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/05/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il [R. decreto-legge 12 ottobre 1939, n. 1662](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1939-10-12;1662), contenente norme per la disciplina della raccolta e della distribuzione delle pelli bovine ed equine, gregge e conciate.   
+  
+Ordiniamo che la presente, infinita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 4 aprile 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLLNI - GRANDI - DI REVEL - RICCI   
+  
+Visto, il Guardasigilli: GRANDI   

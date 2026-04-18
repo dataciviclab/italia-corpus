@@ -1,0 +1,46 @@
+LEGGE 24 dicembre 1908 n. 730
+
+
+LEGGE 24 dicembre 1908 n. 730
+=============================
+
+Che apporta modificazioni agli articoli 131 e 132 del testo unico delle leggi sul reclutamento del R. esercito. (008U0730)
+--------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/01/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Agli articoli 131 e 132 del testo unico delle leggi sul reclutamento del R. esercito, approvato con [R. decreto 6 agosto 1888, n. 5655](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-08-06;5655), e' sostituito il seguente:   
+  
+I militari in congedo possono essere chiamati in servizio in totalita', ovvero in parte, per classi, per categoria, per arma di ascrizione o di provenienza, per corpo, per specialita' di servizio o per distretto militare.   
+  
+Ogni chiamata avra' luogo per decreto reale; ma i detti militari, se invitati a presentarsi per precetto personale, hanno obbligo di rispondere nel termine loro assegnato, anche se non sia intervenuta ancora la pubblicazione del decreto reale di richiamo.   
+  
+A scopo d'istruzione, i militari ascritti alla seconda categoria possono essere chiamati alle armi una o piu' volte, ma per un tempo non superiore, in complesso, a sei mesi.   
+  
+Il ministro della guerra ha facolta' di concedere dispense da dette chiamate a coloro che comprano determinati impieghi e si trovino in posizioni speciali, da stabilirsi con regolamento, sentito il parere del Consiglio di Stato.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 24 dicembre 1908.   
+  
+VITTORIO EMANUELE.   
+  
+Casana.   
+  
+Visto, Il guardasigilli: Orlando.   

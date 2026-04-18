@@ -1,0 +1,41 @@
+REGIO DECRETO 26 giugno 1881 n. 361
+
+
+REGIO DECRETO 26 giugno 1881 n. 361
+===================================
+
+Che estende alle scuole comunitative ginnasiali e liceali della citta' di Ravenna e di quelle del collegio Cicognini di Prato la facolta' di conferire la licenza d'autore. (081U0361)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/09/1881
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vedute le leggi e le disposizioni che regolano gli esami nelle scuole secondarie classiche del Regno;   
+  
+Considerate le condizioni specialissime in cui si trovano le scuole ginnasiali e liceali comunitative della citta' di Ravenna e quelle del Collegio Cicognini di Prato;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Le scuole comunitative ginnasiali e liceali della citta' di Ravenna e quelle del Real Collegio Cicognini di Prato hanno facolta' di conferire ai propri alunni la licenza d'onore quando soddisfacciano alle condizioni poste dal Regio decreto 7 aprile prossimo passato.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 26 giugno 1881.   
+  
+UMBERTO.   
+  
+Baccelli.   
+  
+Visto, il Guardasigilli: Zanardelli.   
+  

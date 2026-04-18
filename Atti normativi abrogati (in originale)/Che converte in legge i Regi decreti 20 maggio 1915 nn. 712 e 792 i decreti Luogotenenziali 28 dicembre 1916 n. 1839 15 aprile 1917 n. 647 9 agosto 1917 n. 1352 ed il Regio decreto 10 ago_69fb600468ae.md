@@ -1,0 +1,39 @@
+LEGGE 14 maggio 1922 n. 713
+
+
+LEGGE 14 maggio 1922 n. 713
+===========================
+
+Che converte in legge i Regi decreti 20 maggio 1915, nn. 712 e 792; i decreti Luogotenenziali 28 dicembre 1916, n. 1839, 15 aprile 1917, n. 647, 9 agosto 1917, n. 1352, ed il Regio decreto 10 agosto 1919, n. 1419, concernenti il reclutamento degli ufficiali di Commissariato militare marittimo. (022U0713)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/06/1922
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Sono convertiti in legge i [Regi decreti 20 maggio 1915, nn. 712](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-20;712) e [792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-05-20;792), ed i [decreti Luogotenenziali 28 dicembre 1916, n. 1839](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-12-28;1839), [15 aprile 1917, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1917-04-15;647), [9 agosto 1917, n. 1352, ed il Regio decreto](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1917-08-09;1352) [10 agosto 1919, numero 1419](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-08-10;1419), riguardanti il reclutamento degli ufficiali di Commissariato militare marittimo.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 14 maggio 1922.   
+  
+VITTORIO EMANUELE.   
+  
+DE VITO.   
+  
+Visto, il guardasigilli: LUIGI ROSSI.   
+  

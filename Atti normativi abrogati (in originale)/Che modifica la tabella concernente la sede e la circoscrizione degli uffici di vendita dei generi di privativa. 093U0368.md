@@ -1,0 +1,47 @@
+REGIO DECRETO 29 giugno 1893 n. 368
+
+
+REGIO DECRETO 29 giugno 1893 n. 368
+===================================
+
+Che modifica la tabella concernente la sede e la circoscrizione degli uffici di vendita dei generi di privativa. (093U0368)
+---------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/07/1893
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visti gli articoli 62 e 63 del regolamento per l'esecuzione della legge sulla privativa dei sali e tabacchi, approvato con Nostro decreto del 14 luglio 1887 n. 4809;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+La tabella annessa al Nostro decreto 19 marzo 1893 n. 162, concernente la sede e circoscrizione degli uffici di vendita dei generi di privativa, e' modificata come all'allegato prospetto, visto, d'ordine Nostro, dal Ministro delle Finanze.   
+  
+Il Ministro proponente determinera' il giorno in cui dovranno avere effetto le modificazioni stabilite col presente decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 giugno 1893.   
+  
+UMBERTO.   
+  
+Gagliardo.   
+  
+Visto, Pel Guardasigilli: Giolitti.   
+  
+
+Tabella
+
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=093U036800100010110001&dgu=1893-07-13&art.dataPubblicazioneGazzetta=1893-07-13&art.codiceRedazionale=093U0368)
+  

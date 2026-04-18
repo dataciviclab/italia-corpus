@@ -1,0 +1,51 @@
+REGIO DECRETO 19 gennaio 1908 n. XL
+
+
+REGIO DECRETO 19 gennaio 1908 n. XL
+===================================
+
+Che sostituisce l'art. 5 dello statuto organico della Societa' di cremazione di cadaveri sedente in Genova. (0800040R)
+----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/03/1908
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduta la domanda in data 12 novembre 1907 del signor presidente della Societa' per la cremazione dei cadaveri in Genova, eretta in ente morale con R. decreto 13 aprile 1902, con la quale domanda si propone all'approvazione e sanzione Sovrana una modifica dell'art. 5 dello statuto organico, deliberata ed approvata dall'assemblea generale dei soci nella seduta di seconda convocazione del 27 giugno 1907;   
+  
+Udito il parere del Consiglio di Stato;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+All'art. 5 dello statuto organico della Societa' genovese di cremazione dei cadaveri, approvato col R. decreto di erezione in ente morale della Societa' stessa, in data 13 aprile 1902, e' sostituito il seguente:   
+  
+«Sono soci effettivi quanti fanno, per iscritto, adesione al programma della Societa' di cremazione e paghino una tassa unica di L. 25, ripartibili in tre rate annuali, e L. 2 annue per cinque anni consecutivi, per spese di amministrazione, dopo di che i soci rimarranno esenti da qualsiasi contributo annuale. Le cinque quote annuali di L. 2 potranno essere versate in una sola volta.   
+  
+I soci effettivi hanno diritto:   
+  
+a) di intervenire alle assemblee generali;   
+  
+b) di prendere parte alla elezione di amministrazione;   
+  
+c) di essere in caso di morte cremati gratuitamente in Genova, od in qualunque siasi luogo ove esista una Societa' di cremazione, fatta eccezione per la tassa governativa e municipale, e per quelle di trasporto della salma o delle ceneri».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 19 gennaio 1908.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

@@ -1,0 +1,45 @@
+REGIO DECRETO 15 ottobre 1914 n. 1268
+
+
+REGIO DECRETO 15 ottobre 1914 n. 1268
+=====================================
+
+Riguardante provvedimenti per il personale assistente tecnico della R. Universita' di Messina. (014U1268)
+---------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/12/1914
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Viste le tabelle I ed L annesse al testo unico delle leggi sull'istruzione superiore, approvato con Nostro decreto 9 agosto 1910, n. 795;   
+  
+Visto l'art. 510 del testo unico delle leggi pel terremoto del 28 dicembre 1908, approvato con Nostro decreto 12 ottobre 1913, n. 1261;   
+  
+Vista la convenienza di prorogare di un altro anno le disposizioni contenute nel suddetto art. 510 limitatamente al personale compreso nelle tabelle I ed L citate;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Le disposizioni riguardanti il personale assistente e tecnico della R. Universita' di Messina, contenute nell'art. 510 del citato testo unico delle leggi pel terremoto del 1908, sono prorogate a tutto l'anno scolastico 1914-915 limitatamente al solo personale assistente e tecnico che occupi posti compresi nelle tabelle I ed L del citato testo unico sulla istruzione superiore.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 15 ottobre 1914.   
+  
+VITTORIO EMANUELE.   
+  
+Salandra - Daneo.   
+  
+Visto, Il guardasigilli: Dari.   
+  

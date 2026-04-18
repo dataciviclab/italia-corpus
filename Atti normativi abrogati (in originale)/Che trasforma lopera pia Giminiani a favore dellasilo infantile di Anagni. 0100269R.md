@@ -1,0 +1,21 @@
+REGIO DECRETO 31 agosto 1901 n. CCLXIX
+
+
+REGIO DECRETO 31 agosto 1901 n. CCLXIX
+======================================
+
+Che trasforma l'opera pia Giminiani a favore dell'asilo infantile di Anagni. (0100269R)
+---------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/10/1901
+
+Art. 1
+------
+
+  
+Con cui l'opera pia Giminiani viene trasformata a favore dell'asilo infantile di Anagni. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
+  
+Registrato alla Corte dei conti addi' 14 settembre 1901.   
+  
+Reg. 231. Atti del Governo a f. 25.   
+  

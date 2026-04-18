@@ -1,0 +1,38 @@
+LEGGE 08 agosto 1895 n. 538
+
+
+LEGGE 08 agosto 1895 n. 538
+===========================
+
+Colla quale i Regi decreti (Parte supplementare) 29 novembre 1894 num. 509 e 20 gennaio 1895 n. 16, riguardanti l'uno la proroga delle elezioni della Camera di Commercio ed Arti di Messina, l'altro la convocazione dei Comizi elettorali nello stesso distretto camerale, sono convertiti in legge. (095U0538)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/08/1895
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Sono convertiti in legge il [R. decreto in data 29 novembre 1894, n. 509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-11-29;509) (parte supplementare) per la proroga a tempo indeterminato delle elezioni parziali della Camera di Commercio ed Arti di Messina, che avrebbero dovuto aver luogo il 2 dicembre 1894, ed il [R. decreto del 20 gennaio 1895, n. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-01-20;16) (parte supplementare) relativo alla convocazione dei Comizi elettorali nello stesso distretto camerale al 10 febbraio 1895.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 8 agosto 1895.   
+  
+UMBERTO.   
+  
+A. Barazzuoli.   
+  
+Visto, Il Guardasigilli: V. Calenda Di Tavani.   

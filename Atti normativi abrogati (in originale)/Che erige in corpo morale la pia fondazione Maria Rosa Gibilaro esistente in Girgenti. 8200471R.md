@@ -1,0 +1,53 @@
+REGIO DECRETO 02 marzo 1882 n. CCCCLXXI
+
+
+REGIO DECRETO 02 marzo 1882 n. CCCCLXXI
+=======================================
+
+Che erige in corpo morale la pia fondazione Maria Rosa Gibilaro esistente in Girgenti. (8200471R)
+-------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/05/1882
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;   
+  
+Veduto il testamento 7 marzo 1881 col quale la defunta Maria Rosa Gibilaro assegnava una parte delle sue sostanze per il mantenimento di orfane povere della citta' di Girgenti nel convitto Granata o in quello Schifano a scelta dell'esecutore testamentario, e altra parte ne assegnava per il conferimento di doti da. L. 200 a L. 300 a quelle tra le orfane suddette che andassero a marito e, in certi casi, anche ad altre orfane non accolte negli accennati istituti educativi;   
+  
+Veduta la domanda dell'esecutore testamentario per la erezione in ente morale della detta pia fondazione, che dagli atti presentati risulta essere costituita in beni immobili del valore di L. 11,412. 65 e da censi e crediti per L. 27,155. 54;   
+  
+Atteso che e' contraria alla legge ed e' quindi da considerarsi come non apposta la condizione voluta dalla testatrice, che il primo esecutore testamentario non sia obbligato a render conto della sua amministrazione ad alcuna autorita' civile ed ecclesiastica; ma i successivi lo debbano rendere all'ordinario diocesano;   
+  
+Che e' conveniente che i beni stabili compresi nel legato sieno venduti e impiegato il loro prezzo nell'acquisto di rendita pubblica;   
+  
+Udito il parere del consiglio di Stato;   
+  
+Vedute le leggi 5 giugno 1850, 3 agosto 1862 ed il corrispondente regolamento 27 novembre stesso anno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+La pia fondazione Maria Rosa Gibilaro in Girgenti e' costituita in ente morale sotto l'amministrazione dell'esecutore testamentario e dei suoi successori, a forma del testamento, coll'obbligo di rendere sempre i conti all'autorita' superiore in conformita' di legge, ed e' autorizzata ad accettare il lascito fatto, colla condizione di vendere i beni stabili e convertirne il prezzo in rendita pubblica.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 marzo 1882.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 23 marzo 1882   
+  
+Reg. 119 Atti del Governo a f. 27. Pellizzoli.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli.   
+  
+Depretis.   
+  

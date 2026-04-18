@@ -1,0 +1,45 @@
+REGIO DECRETO 23 agosto 1890 n. 7061
+
+
+REGIO DECRETO 23 agosto 1890 n. 7061
+====================================
+
+Che separa il comune di Formigara dalla sezione elettorale di Gombito (Cremona). (090U7061)
+-------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/09/1890
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Veduta la domanda del comune di Formigara per la sua separazione dalla Sezione elettorale di Gombito e per la sua costituzione a sezione elettorale autonoma;   
+  
+Veduta la tabella generale delle Sezioni dei Collegi elettorali, approvata col [Regio decreto del 24 settembre 1882, N. 997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-09-24;997) (Serie 3ª);   
+  
+Visto l'articolo 47 della legge elettorale politica 24 settembre 1882;   
+  
+Ritenuto che il comune di Formigara ha 128 elettori politici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il comune di Formigara e' separato dalla Sezione elettorale di Gombito ed e' costituito in sezione elettorale autonoma del 2° Collegio di Cremona.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Brescia, addi' 23 agosto 1890.   
+  
+UMBERTO.   
+  
+Crispi   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

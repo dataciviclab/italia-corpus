@@ -1,0 +1,54 @@
+DECRETO-LEGGE LUOGOTENENZIALE 01 ottobre 1916 n. 1318
+
+
+DECRETO-LEGGE LUOGOTENENZIALE 01 ottobre 1916 n. 1318
+=====================================================
+
+Col quale lo stanziamento del capitolo n. 58-bis dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1916-917 e' aumentato di L. 30.000; e di eguale somma e' diminuito lo stanziamento del capitolo n. 58. (016U1318)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/11/1916  
+Decreto-Legge Luogotenenziale convertito dalla [L. 15 ottobre 1923, n. 2293](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1923-10-15;2293) (in G.U. 12/11/1923, n.265).
+
+Art. 1
+------
+
+  
+TOMASO DI SAVOIA DUCA DI GENOVA   
+  
+Luogotenente Generale di Sua Maesta'   
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+In virtu' dell'autorita' a Noi delegata;   
+  
+Ritenuta la necessita' di inscrivere nello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1916-917 ulteriori fondi in lire 30.000 per spese di compensi vari al personale della Presidenza del Consiglio dei ministri;   
+  
+Considerato che detta somma si rende possibile trasportare dal capitolo n. 58 «Assegni ed indennita' di missione al personale della Presidenza del Consiglio dei ministri» dello stato di previsione predetto;   
+  
+Vista la [legge 9 luglio 1916, n. 814](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-07-09;814);   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta del ministro segretario di Stato per il tesoro, di concerto col presidente del Consiglio dei ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Lo stanziamento del capitolo n. 58-bis «Compensi vari al personale della presidenza del Consiglio dei ministri» dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1916-917 e' aumentato di lire trentamila (L. 30.000) e di egual somma e' diminuito lo stanziamento del capitolo n. 58 «Assegni ed indennita' di missione al personale dell'Ufficio di presidenza del Consiglio dei ministri» dello stato di previsione medesimo.   
+  
+Questo decreto sara' presentato al Parlamento per essere convertito in legge.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 1° ottobre 1916.   
+  
+TOMASO DI SAVOIA.   
+  
+Boselli - Carcano.   
+  
+Visto, Il guardasigilli: Sacchi.   
+  

@@ -1,0 +1,49 @@
+REGIO DECRETO 12 aprile 1943 n. 252
+
+
+REGIO DECRETO 12 aprile 1943 n. 252
+===================================
+
+Autorizzazione al comune dl Agnone ad applicare, fino al 31 dicembre 1944-XXIII, le imposte di consumo con la tariffa della classe superiore «G». (043U0252)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/05/1943
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Vista la domanda con la quale il comune di Agnone (Campobasso) appartenente agli effetti dell'applicazione delle imposte di consumo alla classe H, in dipendenza della [legge 29 gennaio 1934, n. 160](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-01-29;160), con la quale la frazione di Belmonte del Sannio fu ricostituita in Comune autonomo, chiede l'autorizzazione ad applicare le predette imposte con la tariffa della classe superiore G, alla quale apparteneva per ragioni di popolazione;   
+  
+Udita la Commissione centrale per la finanza locale;   
+  
+Visto l'art. 26 del testo unico per la finanza locale 14 settembre 1931, n. 1175;   
+  
+Sulla proposta del Nostro Ministero Segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+Il comune di Agnone e' autorizzato ad applicare fino al 31 dicembre 1944 le imposte di consumo con la tariffa della classe superiore G.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 12 aprile 1943-XXI   
+  
+VITTORIO EMANUELE   
+  
+ACERBO   
+  
+Visto, il Guardasigilli: DE MARSICO   
+  
+Registrato alla Corte dei conti, addi' 23 aprile 1943-XXI   
+  
+Atti del Governo, registro 456, foglio 85. - MANCINI   

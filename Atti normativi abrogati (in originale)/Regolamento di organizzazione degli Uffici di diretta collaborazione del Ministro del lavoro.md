@@ -1,0 +1,347 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 2001 n. 297
+
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 17 maggio 2001 n. 297
+=============================================================
+
+Regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro del lavoro.
+---------------------------------------------------------------------------------------------
+
+Entrata in vigore del decreto: 4-8-2001
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Visti gli [articoli 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87) e [97 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art97);
+
+Vista la [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), ed in particolare l'articolo 17, comma 4-bis;
+
+Visto il [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), ed in particolare gli articoli 14 e 19;
+
+Visti gli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11) e [13, comma 2, della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art13-com2);
+
+Visto l'[articolo 17, commi 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com14) e [27, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com27);
+
+Vista la [legge 3 aprile 1997, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-04-03;94);
+
+Visto il [decreto legislativo 7 agosto 1997, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-07;279);
+
+Visto il [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-02-26;150);
+
+Vista la direttiva del Presidente del Consiglio dei Ministri del 1o luglio 1999;
+
+Visto l'[articolo 7 del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art7);
+
+Visto il [decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286);
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 14 luglio 2000;
+
+Sentite, in data 22 settembre 2000, le organizzazioni sindacali maggiormente rappresentative e ritenuto di accogliere le proposte da esse formulate;
+
+Udito il parere del Consiglio di Stato, espresso dalla sezione
+
+consultiva per gli atti normativi nell'adunanza del 12 febbraio 2001;
+
+Acquisito il parere delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 maggio 2001;
+
+Sulla proposta dei Ministro del lavoro e della previdenza sociale, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e per la funzione pubblica;
+
+Emana
+-----
+
+Il seguente regolamento:
+
+Art. 1
+------
+
+Ambito di applicazione
+
+1. In attesa dei decreti di riordino del Ministero del lavoro e della previdenza sociale, il presente regolamento disciplina l'organizzazione degli uffici di diretta collaborazione del Ministro del lavoro e della previdenza sociale nonche' quelli di segreteria dei Sottosegretari di Stato assegnati al dicastero.
+
+Avvertenza:   
+Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente in materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.   
+Note alle premesse:   
+- L'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87) conferisce al Presidente della Repubblica il potere di promulgare le leggi ed emanare i decreti aventi valore di legge ed i regolamenti.   
+Si riporta il testo dell'[art. 97 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art97):   
+"Art. 97. - I pubblici uffici sono organizzati secondo disposizioni di legge, in modo che siano assicurati il buon andamento e l'imparzialita' della amministrazione.   
+Nell'ordinamento degli uffici sono determinate le sfere di competenza, le attribuzioni e le responsabilita' proprie dei funzionari.   
+Agli impieghi nelle pubbliche amministrazioni si accede mediante concorso, salvo i casi stabiliti dalla legge".   
+- Il testo del [comma 4-bis dell'art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), e' il seguente:   
+"4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei Ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono:   
+a) riordino degli uffici di diretta collaborazione con i Ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione;   
+b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilita' eliminando le duplicazioni funzionali;   
+c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati;   
+d) indicazione e revisione periodica della consistenza delle piante organiche;   
+e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali".   
+- Si riporta il testo degli [articoli 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art14) e [19 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art19) (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche) che hanno recepito, rispettivamente, gli [articoli 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14) e [19 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art19), abrogato dal medesimo [decreto legislativo n. 165/2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165):   
+"Art. 14 (Indirizzo politico-amministrativo) ([Art. 14 del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art14), come sostituito prima dall'[art. 8 del decreto legislativo n. 546 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;546~art8) e poi dall'[art. 9 del decreto legislativo n. 80 del 1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;80~art9)). - 1. Il Ministro esercita le funzioni di cui all'art. 4, comma 1. A tal fine periodicamente, e comunque ogni anno entro dieci giorni dalla pubblicazione della legge di bilancio, anche sulla base delle proposte dei dirigenti di cui all'art. 16:   
+a) definisce obiettivi, priorita', piani e programmi da attuare ed emana le conseguenti direttive generali per l'attivita' amministrativa e per la gestione;   
+b) effettua, ai fini dell'adempimento dei compiti definiti ai sensi della lettera a), l'assegnazione ai dirigenti preposti ai centri di responsabilita' delle rispettive amministrazioni delle risorse di cui all'art. 4, comma 1, lettera c), del presente decreto, ivi comprese quelle di cui all'[art. 3 del decreto legislativo 7 agosto 1997, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-07;279~art3), e successive modificazioni ed integrazioni, ad esclusione delle risorse necessarie per il funzionamento degli uffici di cui al comma 2; provvede alle variazioni delle assegnazioni con le modalita' previste dal medesimo [decreto legislativo 7 agosto 1997, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-07;279), tenendo altresi' conto dei procedimenti e subprocedimenti attribuiti ed adotta gli altri provvedimenti ivi previsti.   
+2. Per l'esercizio delle funzioni di cui al comma 1, il Ministro si avvale di uffici di diretta collaborazione, aventi esclusive competenze di supporto e di raccordo con l'amministrazione, istituiti e disciplinati con regolamento adottato ai sensi dell'[art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis). A tali uffici sono assegnati, nei limiti stabiliti dallo stesso regolamento: dipendenti pubblici anche in posizione di aspettativa, fuori ruolo o comando; collaboratori assunti con contratti a tempo determinato disciplinati dalle norme di diritto privato; esperti e consulenti per particolari professionalita' e specializzazioni con incarichi di collaborazione coordinata e continuativa. Per i dipendenti pubblici si applica la disposizione di cui all'[art. 17, comma 14, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com14). Con lo stesso regolamento si provvede al riordino delle segreterie particolari dei Sottosegretari di Stato. Con decreto adottato dall'autorita' di Governo competente, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, e' determinato, in attuazione dell'[art. 12, comma 1, lettera n) della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art12-com1-letn), senza aggravi di spesa e, per il personale disciplinato dai contratti collettivi nazionali di lavoro, fino ad una specifica disciplina contrattuale, il trattamento economico accessorio, da corrispondere mensilmente, a fronte delle responsabilita', degli obblighi di reperibilita' e di disponibilita' ad orari disagevoli, ai dipendenti assegnati agli uffici dei Ministri e dei Sottosegretari di Stato. Tale trattamento, consistente in un unico emolumento, e' sostitutivo dei compensi per il lavoro straordinario, per la produttivita' collettiva e per la qualita' della prestazione individuale. Con effetto dall'entrata in vigore del regolamento di cui al presente comma sono abrogate le norme del [regio decreto legge 10 luglio 1924, n. 1100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-07-10;1100), e successive modificazioni ed integrazioni, ed ogni altra norma riguardante la costituzione e la disciplina dei Gabinetti dei Ministri e delle segreterie particolari dei Ministri e dei Sottosegretari di Stato.   
+3. Il Ministro non puo' revocare, riformare, riservare o avocare a se' o altrimenti adottare provvedimenti o atti di competenza dei dirigenti. In caso di inerzia o ritardo il Ministro puo' fissare un termine perentorio entro il quale il dirigente deve adottare gli atti o i provvedimenti. Qualora l'inerzia permanga, o in caso di grave inosservanza delle direttive generali da parte del dirigente competente, che determinino pregiudizio per l'interesse pubblico, il Ministro puo' nominare, salvi i casi di urgenza previa contestazione, un commissario ad acta, dando comunicazione al Presidente del Consiglio dei Ministri del relativo provvedimento. Resta salvo quanto previsto dall'[art. 2, comma 3, lettera p) della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art2-com3-letp). Resta altresi' salvo quanto previsto dall'[art. 6 del testo unico delle leggi di pubblica sicurezza](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773~art6), approvato con [regio decreto 18 giugno 1931, n. 773](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-06-18;773), e successive modificazioni ed integrazioni, e dall'art. 10 del relativo regolamento emanato con [regio decreto 6 maggio 1940, n. 635](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1940-05-06;635). Resta salvo il potere di annullamento ministeriale per motivi di legittimita'".   
+"Art. 19 (Incarichi di funzioni dirigenziali) ([Art.19 del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art19), come sostituito prima dall'[art. 11 del decreto legislativo n. 546 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;546~art11) e poi dall'[art. 13 del decreto legislativo n. 80 del 1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;80~art13) e successivamente modificato dall'[art. 5 del decreto legislativo n. 387 del 1998](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1998;387~art5)). - 1. Per il conferimento di ciascun incarico di funzione dirigenziale e per il passaggio ad incarichi di funzioni dirigenziali diverse, si tiene conto della natura e delle caratteristiche dei programmi da realizzare, delle attitudini e della capacita' professionale del singolo dirigente, anche in relazione ai risultati conseguiti in precedenza, applicando di norma il criterio della rotazione degli incarichi. Al conferimento degli incarichi e al passaggio ad incarichi diversi non si applica l'[art. 2103 del codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art2103).   
+2. Tutti gli incarichi di direzione degli uffici delle amministrazioni dello Stato, anche ad ordinamento autonomo, sono conferiti a tempo determinato, secondo le disposizioni del presente articolo. Gli incarichi hanno durata non inferiore a due anni e non superiore a sette anni, con facolta' di rinnovo. Sono definiti contrattualmente, per ciascun incarico, l'oggetto, gli obiettivi da conseguire, la durata dell'incarico, salvi i casi di revoca di cui all'art. 21, nonche' il corrispondente trattamento economico.   
+Quest'ultimo e' regolato ai sensi dell'art. 24 ed ha carattere onnicomprensivo.   
+3. Gli incarichi di Segretario generale di Ministeri, gli incarichi di direzione di strutture articolate al loro interno in uffici dirigenziali generali e quelli di livello equivalente sono conferiti con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro competente, a dirigenti della prima fascia del ruolo unico di cui all'art. 23 o, con contratto a tempo determinato, a persone in possesso delle specifiche qualita' professionali richieste dal comma 6.   
+4. Gli incarichi di direzione degli uffici di livello dirigenziale generale sono conferiti con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro competente, a dirigenti della prima fascia del ruolo unico di cui all'art. 23 o, in misura non superiore ad un terzo, a dirigenti del medesimo ruolo unico ovvero, con contratto a tempo determinato, a persone in possesso delle specifiche qualita' professionali richieste dal comma 6.   
+5. Gli incarichi di direzione degli uffici di livello dirigenziale sono conferiti, dal dirigente dell'ufficio di livello dirigenziale generale, ai dirigenti assegnati al suo ufficio ai sensi dell'art. 4, comma 1, lettera c).   
+6. Gli incarichi di cui ai commi precedenti possono essere conferiti con contratto a tempo determinato, e con le medesime procedure, entro il limite del 5 per cento dei dirigenti appartenenti alla prima fascia del ruolo unico e del 5 per cento di quelli appartenenti alla seconda fascia, a persone di particolare e comprovata qualificazione professionale, che abbiano svolto attivita' in organismi ed enti pubblici o privati o aziende pubbliche e private con esperienza acquisita per almeno un quinquennio in funzioni dirigenziali o che abbiano conseguito una particolare specializzazione professionale, culturale e scientifica desumibile dalla formazione universitaria e postuniversitaria, da pubblicazioni scientifiche o da concrete esperienze di lavoro, o provenienti dai settori della ricerca, della docenza universitaria, delle magistrature e dei ruoli degli avvocati e procuratori dello Stato. Il trattamento economico puo' essere integrato da una indennita' commisurata alla specifica qualificazione professionale, tenendo conto della temporaneita' del rapporto e delle condizioni di mercato relative alle specifiche competenze professionali. Per il periodo di durata del contratto, i dipendenti di pubbliche amministrazioni sono collocati in aspettativa senza assegni, con riconoscimento dell'anzianita' di servizio.   
+7. Gli incarichi di direzione degli uffici dirigenziali di cui ai commi precedenti sono revocati nelle ipotesi di responsabilita' dirigenziale per inosservanza delle direttive generali e per i risultati negativi dell'attivita' amministrativa e della gestione, disciplinate dall'art. 21, ovvero nel caso di risoluzione consensuale del contratto individuale di cui all'art. 24, comma 2.   
+8. Gli incarichi di direzione degli uffici dirigenziali di cui al comma 3 possono essere confermati, revocati, modificati o rinnovati entro novanta giorni dal voto sulla fiducia al Governo. Decorso tale termine, gli incarichi per i quali non si sia provveduto si intendono confermati fino alla loro naturale scadenza.   
+9. Degli incarichi di cui ai commi 3 e 4 e' data comunicazione al Senato della Repubblica ed alla Camera dei deputati, allegando una scheda relativa ai titoli ed alle esperienze professionali dei soggetti prescelti.   
+10. I dirigenti ai quali non sia affidata la titolarita' di uffici dirigenziali svolgono, su richiesta degli organi di vertice delle amministrazioni che ne abbiano interesse, funzioni ispettive, di consulenza, studio e ricerca o altri incarichi specifici previsti dall'ordinamento. Le modalita' per l'utilizzazione dei predetti dirigenti sono stabilite con il regolamento di cui all'art. 23, comma 3.   
+11. Per la Presidenza del Consiglio dei Ministri, per il Ministero degli affari esteri nonche' per le amministrazioni che esercitano competenze in materia di difesa e sicurezza dello Stato, di polizia e di giustizia, la ripartizione delle attribuzioni tra livelli dirigenziali differenti e' demandata ai rispettivi ordinamenti.   
+12. Per il personale di cui all'art. 3, comma 1, il conferimento degli incarichi di funzioni dirigenziali continuera' ad essere regolato secondo i rispettivi ordinamenti di settore.".   
+- Il testo degli [articoli 11](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11) e [13, comma 2, della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art13-com2) (Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa), e' il seguente:   
+"Art. 11. - 1. Il Governo e' delegato ad emanare, entro dodici mesi dalla data di entrata in vigore della presente legge, uno o piu' decreti legislativi diretti a:   
+a) razionalizzare l'ordinamento della Presidenza del Consiglio dei ministri e dei Ministeri, anche attraverso il riordino, la soppressione e la fusione di Ministeri, nonche' di amministrazioni centrali anche ad ordinamento autonomo;   
+b) riordinare gli enti pubblici nazionali operanti in settori diversi dalla assistenza e previdenza, nonche' gli enti privati, controllati direttamente o indirettamente dallo Stato, che operano, anche all'estero, nella promozione e nel sostegno pubblico al sistema produttivo nazionale;   
+c) riordinare e potenziare i meccanismi e gli strumenti di monitoraggio e di valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche;   
+d) riordinare e razionalizzare gli interventi diretti a promuovere e sostenere il settore della ricerca scientifica e tecnologica nonche' gli organismi operanti nel settore stesso.   
+2. I decreti legislativi sono emanati previo parere della Commissione di cui all'art. 5, da rendere entro trenta giorni dalla data di trasmissione degli stessi.  
+Decorso tale termine i decreti legislativi possono essere comunque emanati.   
+3. Disposizioni correttive e integrative ai decreti legislativi possono essere emanate, nel rispetto degli stessi principi e criteri direttivi e con le medesime procedure, entro un anno dalla data della loro entrata in vigore.   
+4. Anche al fine di conformare le disposizioni del [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, alle disposizioni della presente legge e di coordinarle con i decreti legislativi emanati ai sensi del presente capo, ulteriori disposizioni integrative e correttive al [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, possono essere emanate entro il 31 dicembre 1997. A tal fine il governo, in sede di adozione dei decreti legislativi, si attiene ai principi contenuti negli [articoli 97](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art97) e [98 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art98), ai criteri direttivi di cui all'[art. 2 della legge 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421~art2), a partire dal principio della separazione tra compiti e responsabilita' di direzione politica e compiti e responsabilita' di direzione delle amministrazioni, nonche', ad integrazione, sostituzione o modifica degli stessi ai seguenti principi e criteri direttivi:   
+a) completare l'integrazione della disciplina del lavoro pubblico con quella del lavoro privato e la conseguente estensione al lavoro pubblico delle disposizioni del [codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262) e delle leggi sui rapporti di lavoro privato nell'impresa; estendere il regime di diritto privato del rapporto di lavoro anche ai dirigenti generali ed equiparati delle amministrazioni pubbliche, mantenendo ferme le altre esclusioni di cui all'[art. 2, commi 4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art2-com4) e [5, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art2-com5);   
+b) prevedere per i dirigenti, compresi quelli di cui alla lettera a), l'istituzione di un ruolo unico interministeriale presso la Presidenza del Consiglio dei Ministri, articolato in modo da garantire la necessaria specificita' tecnica;   
+c) semplificare e rendere piu' spedite le procedure di contrattazione collettiva; riordinare e potenziare l'agenzia per la rappresentanza negoziale delle pubbliche amministrazioni (ARAN) cui e' conferita la rappresentanza negoziale delle amministrazioni interessate ai fini della sottoscrizione dei contratti collettivi nazionali, anche consentendo forme di associazione tra amministrazioni, ai fini dell'esercizio del potere di indirizzo e direttiva all'ARAN per i contratti dei rispettivi comparti;   
+d) prevedere che i decreti legislativi e la contrattazione possano distinguere la disciplina relativa ai dirigenti da quella concernente le specifiche tipologie professionali, fatto salvo quanto previsto per la dirigenza del ruolo sanitario di cui all'[art. 15 del decreto legislativo 30 dicembre 1992, n. 502](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1992-12-30;502~art15), e successive modificazioni e stabiliscano altresi' una distinta disciplina per gli altri dipendenti pubblici che svolgano qualificate attivita' professionali, implicanti l'iscrizione ad albi, oppure tecnico-scientifiche e di ricerca;   
+e) garantire a tutte le amministrazioni pubbliche autonomi livelli di contrattazione collettiva integrativa nel rispetto dei vincoli di bilancio di ciascuna amministrazione; prevedere che per ciascun ambito di contrattazione collettiva le pubbliche amministrazioni, attraverso loro istanze associative o rappresentative, possano costituire un comitato di settore;   
+f) prevedere che, prima della definitiva sottoscrizione del contratto collettivo, la quantificazione dei costi contrattuali sia dall'ARAN sottoposta, limitatamente alla certificazione delle compatibilita' con gli strumenti di programmazione e di bilancio di cui all'[art. 1-bis della legge 5 agosto 1978, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468~art1bis), e successive modificazioni, alla Corte dei conti, che puo' richiedere elementi istruttori e di valutazione ad un nucleo di tre esperti, designati, per ciascuna certificazione contrattuale, con provvedimento del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro; prevedere che la Corte dei conti si pronunci entro il termine di quindici giorni, decorso il quale la certificazione si intende effettuata; prevedere che la certificazione e il testo dell'accordo siano trasmessi al comitato di settore e nel caso di amministrazioni statali, al Governo; prevedere che, decorso quindici giorni dalla trasmissione senza rilievi, il presidente del consiglio direttivo dell'ARAN abbia mandato di sottoscrivere il contratto collettivo il quale produce effetti dalla sottoscrizione definitiva; prevedere che, in ogni caso, tutte le procedure necessarie per consentire all'ARAN la sottoscrizione definitiva debbano essere completate entro il termine di quaranta giorni dalla data di sottoscrizione iniziale dell'ipotesi di accordo;   
+g) devolvere, entro il 30 giugno 1998, al giudice ordinario, tenuto conto di quanto previsto dalla lettera a), tutte le controversie relative ai rapporti di lavoro dei dipendenti delle pubbliche amministrazioni, ancorche' concernenti in via incidentale atti amministrativi presupposti, ai fini della disapplicazione, prevedendo: misure organizzative e processuali anche di carattere generale, atte a prevenire disfunzioni dovute al sovraccarico del contenzioso; procedure stragiudiziali di conciliazione ed arbitrato; infine, la contestale estensione della giurisdizione del giudice amministrativo alle controversie aventi ad oggetto diritti patrimoniali consequenziali, ivi comprese quelle relative al risarcimento del danno, in materia edilizia, urbanistica e di servizi pubblici, prevedendo altresi' un regime processuale transitorio per i procedimenti pendenti;   
+h) prevedere procedure di consultazione delle organizzazioni sindacali firmatarie dei contratti collettivi dei relativi comparti prima dell'adozione degli atti interni di organizzazione aventi riflessi sul rapporto di lavoro;   
+i) prevedere la definizione da parte della Presidenza del Consiglio dei Ministri - Dipartimento della funzione pubblica di un codice di comportamento dei dipendenti della pubblica amministrazione e le modalita' di raccordo con la disciplina contrattuale delle sanzioni disciplinari, nonche' l'adozione di codici di comportamento da parte delle singole amministrazioni pubbliche; prevedere la costituzione da parte delle singole amministrazioni di organismi di controllo e consulenza sull'applicazione dei codici e le modalita' di raccordo degli organismi stessi con il Dipartimento della funzione pubblica.   
+5. Il termine di cui all'[art. 2, comma 48, della legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art2-com48), e' riaperto fino al 31 luglio 1997.   
+6. Dalla data di entrata in vigore dei decreti legislativi di cui al comma 4, sono abrogate tutte le disposizioni in contrasto con i medesimi. Sono apportate le seguenti modificazioni alle disposizioni dell'[art. 2, comma 1, della legge 23 ottobre 1992, n. 421](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1992-10-23;421~art2-com1); alla lettera e) le parole: "ai dirigenti generali ed equiparati sono soppresse; alla lettera i) le parole: "prevedere che nei limiti di cui alla lettera h) la contrattazione sia nazionale e decentrata sono sostituite dalle seguenti: "prevedere che la struttura della contrattazione, le aree di contrattazione e il rapporto tra i diversi livelli siano definiti in coerenza con quelli del settore privato ; la lettera q) e' abrogata; alla lettera t) dopo le parole: "concorsi unici per profilo professionale sono inserite le seguenti: ", da espletarsi a livello regionale, .   
+7. Sono abrogati gli [articoli 38](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art38) e [39 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art39)".   
+"2. Gli schemi di regolamento di cui al [comma 4-bis dell'art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis), introdotto dal comma 1 del presente articolo, sono trasmessi alla Camera dei deputati ed al Senato della Repubblica perche' su di essi sia espresso il parere delle Commissioni parlamentari competenti per materia entro trenta giorni dalla data della loro trasmissione. Decorso il termine senza che i pareri siano stati espressi, il Governo adotta comunque i regolamenti".   
+- Il testo dell'[art. 17, commi 14](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com14) e [27, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com27) (Misure urgenti per lo snellimento dell'attivita' amministrativa e dei procedimenti di decisione e di controllo), e' il seguente:   
+"Art. 17 (Ulteriori disposizioni in materia di semplificazione dell'attivita' amministrativa e di snellimento dei procedimenti di decisione e di controllo).  
+- (Omissis).   
+14. Nel caso in cui disposizioni di legge o regolamentari dispongano l'utilizzazione presso le amministrazioni pubbliche di un contingente di personale in posizione di fuori ruolo o di comando, le amministrazioni di appartenenza sono tenute ad adottare il provvedimento di fuori ruolo o di comando entro quindici giorni dalla richiesta.   
+(Omissis).   
+27. Fatti salvi i termini piu' brevi previsti per legge, il parere del Consiglio di Stato e' reso nel termine di quarantacinque giorni dal ricevimento della richiesta; decorso il termine, l'amministrazione puo' procedere indipendentemente all'acquisizione del parere. Qualora, per esigenze istruttorie, non possa essere rispettato il termine di cui al presente comma, tale termine puo' essere interrotto per una sola volta e il parere deve essere reso definitivamente entro venti giorni dal ricevimento degli elementi istruttori da parte delle amministrazioni interessate".   
+- La [legge 3 aprile 1997, n. 94](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-04-03;94), pubblicata nella Gazzetta Ufficiale 8 aprile 1997, n. 81, reca: "Modifiche alla [legge 5 agosto 1978, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1978-08-05;468), e successive modificazioni e integrazioni, recante norme di contabilita' generale dello Stato in materia di bilancio. Delega al Governo per l'individuazione delle unita' revisionali di base del bilancio dello Stato".   
+- Il [decreto legislativo 7 agosto 1997, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-07;279), pubblicato nella Gazzetta Ufficiale 22 agosto 1997, n. 195, reca: Individuazione delle unita' previsionali di base del bilancio dello Stato, riordino del sistema di tesoreria unica e ristrutturazione del rendiconto generale dello Stato.   
+- Il [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-02-26;150), pubblicato nella Gazzetta Ufficiale 26 maggio 1999, n. 121, reca: "Regolamento recante disciplina delle modalita' di costituzione e tenuta del ruolo unico della dirigenza delle amministrazioni statali, anche ad ordinamento autonomo, e della banca dati informatica della dirigenza, nonche' delle modalita' di elezione del componente del comitato di garanti".   
+- La direttiva del Presidente del Consiglio dei Ministri 1o luglio 1999, pubblicata nella Gazzetta Ufficiale 24 luglio 1999, n. 172, reca: "Linee guida per la definizione dei contratti individuali della dirigenza".   
+- Il testo dell'[art. 7 del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art7), pubblicato nella Gazzetta Ufficiale 30 agosto 1999, n. 203, supplemento ordinario (Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11)), e' il seguente:   
+"Art. 7 (Uffici di diretta collaborazione con il Ministro). - 1. La costituzione e la disciplina degli uffici di diretta collaborazione del Ministro, per l'esercizio delle funzioni ad esso attribuite dagli [articoli 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art3) e [14 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14) e successive modificazioni ed integrazioni, l'assegnazione di personale a tali uffici e il relativo trattamento economico, il riordino delle segreterie particolari dei Sottosegretari di Stato, sono regolati dall'[art. 14, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14-com2).   
+2. I regolamenti di cui al suddetto [art. 14, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14-com2), si attengono, tra l'altro, ai seguenti principi e criteri direttivi:   
+a) attribuzione dei compiti di diretta collaborazione secondo criteri che consentano l'efficace e funzionale svolgimento dei compiti di definizione degli obiettivi, di elaborazione delle politiche pubbliche e di valutazione della relativa attuazione e delle connesse attivita' di comunicazione, nel rispetto del principio di distinzione tra funzioni di indirizzo e compiti di gestione;   
+b) assolvimento dei compiti di supporto per l'assegnazione e la ripartizione delle risorse ai dirigenti preposti ai centri di responsabilita', ai sensi dell'[art. 3 del decreto legislativo 7 agosto 1997, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-07;279~art3), anche in funzione della verifica della gestione effettuata dagli appositi uffici, nonche' del compito di promozione e sviluppo dei sistemi informativi;   
+c) organizzazione degli uffici preposti al controllo interno di diretta collaborazione con il Ministro, secondo le disposizioni del decreto legislativo di riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche, in modo da assicurare il corretto ed efficace svolgimento dei compiti ad essi assegnati dalla legge, anche attraverso la provvista di adeguati mezzi finanziari, organizzativi e personali;   
+d) organizzazione del settore giuridico-legislativo in modo da assicurare: il raccordo permanente con l'attivita' normativa del Parlamento, l'elaborazione di testi normativi del Governo garantendo la valutazione dei costi della regolazione, la qualita' del linguaggio normativo, l'applicabilita' delle norme introdotte, lo snellimento e la semplificazione della normativa, la cura dei rapporti con gli altri organi costituzionali, con le autorita' indipendenti e con il Consiglio di Stato;   
+e) attribuzione dell'incarico di capo degli uffici di cui al comma 1 ad esperti, anche estranei all'amministrazione, dotati di elevata professionalita'".   
+- Il [decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286), pubblicato nella Gazzetta Ufficiale 18 agosto 1999, n. 193, reca: "Riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11)".
+
+Art. 2
+------
+
+Uffici di diretta collaborazione
+
+1. Sono Uffici di diretta collaborazione con il Ministro:
+
+a) la Segreteria del Ministro;
+
+b) il Gabinetto;
+
+c) l'Ufficio legislativo;
+
+d) il Servizio di controllo interno;
+
+e) l'Ufficio stampa;
+
+f) le Segreterie dei Sottosegretari di Stato.
+
+2. I titolari degli uffici di cui al comma 1, lettere da
+
+a) ad e) sono nominati dal Ministro con proprio decreto.
+
+3. La Segreteria del Ministro e l'Ufficio stampa operano alle dirette dipendenze del Ministro. Le Segreterie dei Sottosegretari di Stato operano alle dirette dipendenze dei rispettivi Sottosegretari.  
+Il Servizio di controllo interno opera in posizione di autonomia operativa e riferisce al Ministro.
+
+4. Il Capo di Gabinetto, salvo quanto previsto dal comma 3, coordina l'attivita' degli uffici di diretta collaborazione, i quali, ai fini di cui al [decreto legislativo 7 agosto 1997, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-07;279), costituiscono un unico centro di responsabilita'.
+
+Art. 3
+------
+
+Funzioni degli Uffici di diretta collaborazione
+
+1. La Segreteria del Ministro e' composta dal Capo della Segreteria e dal Segretario particolare. Il Capo della Segreteria sovrintende alla cura degli uffici di segreteria del Ministro, provvede al coordinamento degli impegni e alla predisposizione dei materiali per gli interventi del Ministro. Il Segretario particolare cura l'agenda e la corrispondenza del Ministro, nonche' i rapporti personali dello stesso con altri soggetti pubblici e privati in ragione del suo incarico istituzionale.
+
+2. L'Ufficio di Gabinetto coadiuva il Capo di Gabinetto nell'attivita' di collaborazione col Ministro per lo svolgimento delle funzioni di indirizzo politico-amministrativo.
+
+3. L'Ufficio legislativo cura le iniziative legislative e regolamentari del Ministero, segue l'andamento dei lavori parlamentari, le concertazioni e le intese necessarie con le altre amministrazioni, i rapporti con il Parlamento e le istituzioni comunitarie. Provvede, altresi', allo studio e alla progettazione normativa, alla consulenza giuridica e legislativa degli uffici del Ministero e cura, inoltre, avvalendosi dei competenti uffici dirigenziali generali, il contenzioso internazionale, comunitario e costituzionale, l'organizzazione del settore giuridico-legislativo in modo da assicurare il raccordo permanente con l'attivita' normativa del Parlamento, l'elaborazione di testi normativi del Governo garantendo la valutazione dei costi della regolazione, la qualita' del linguaggio normativo, l'applicabilita' delle norme introdotte, lo snellimento e la semplificazione della normativa, i rapporti con gli altri organi costituzionali, con le autorita' indipendenti e con il Consiglio di Stato.
+
+4. L'Ufficio stampa svolge compiti di diretta collaborazione con il Ministro, curando, tra l'altro, i rapporti con il sistema e gli organi di informazione nazionali ed internazionali; effettua il monitoraggio dell'informazione italiana ed estera, promuove, anche in raccordo con le strutture amministrative del Ministero, programmi ed iniziative editoriali di informazione istituzionale.
+
+5. Le Segreterie particolari dei Sottosegretari di Stato curano la corrispondenza del Sottosegretario ed i rapporti personali dello stesso con altri soggetti pubblici e privati, nonche' ogni altro compito da questi affidato in ragione del suo incarico istituzionale.
+
+Art. 4
+------
+
+Servizio di controllo interno
+
+1. Il Servizio di controllo interno, di seguito denominato servizio, svolge i compiti di cui all'[articolo 6 del decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286~art6), e gli altri attribuitigli dalla legge.
+
+2. Le attivita' di controllo interno sono attribuite ad esperti in materia di organizzazione amministrativa, tecniche di valutazione, analisi e controllo particolarmente qualificati, anche estranei alla pubblica amministrazione. Uno dei componenti e' scelto tra i dirigenti della prima fascia del ruolo unico. Ai componenti estranei alla pubblica amministrazione e' corrisposto un emolumento omnicomprensivo, determinato all'atto della nomina ai sensi dell'[articolo 14, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14-com2).
+
+3. Il Servizio redige, con cadenza annuale, una relazione riservata agli organi di indirizzo politico sui risultati delle analisi effettuate, con proposte di miglioramento della funzionalita' dell'amministrazione.
+
+4. Il Servizio opera in collegamento con gli uffici di statistica di cui al [decreto legislativo 6 settembre 1989, n. 322](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322), si avvale del Sistema informativo statistico unitario costituito presso il Ministero e coordina la propria attivita' con il comitato tecnico scientifico e con l'osservatorio costituiti presso la Presidenza del Consiglio dei Ministri ai sensi dell'[articolo 7 del decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286~art7), nonche' con le altre unita' o strutture del controllo interno ai fini di cui alla lettera d), comma 2, dell'articolo 1 del predetto decreto legislativo.
+
+5. Il Servizio, ai fini dello svolgimento dei propri compiti, ha accesso agli atti ed ai documenti che si trovano nella disponibilita' dell'amministrazione.
+
+6. Al Servizio sono assegnati quattro dirigenti di seconda fascia del ruolo unico dei dirigenti delle amministrazioni dello Stato e un apposito contingente costituito da un massimo di venti unita' di personale. Si applicano i commi 1, secondo periodo, e 2, secondo periodo, e 4 dell'articolo 5.
+
+Nota all'art. 4, comma 1:   
+- Il testo dell'art. 6 del citato [decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286) e' il seguente:   
+"Art. 6 (La valutazione e il controllo strategico). - 1. L'attivita' di valutazione e controllo strategico mira a verificare, in funzione dell'esercizio dei poteri di indirizzo da parte dei competenti organi, l'effettiva attuazione delle scelte contenute nelle direttive ed altri atti di indirizzo politico. L'attivita' stessa consiste nell'analisi, preventiva e successiva, della congruenza e/o degli eventuali scostamenti tra le missioni affidate dalle norme, gli obiettivi operativi prescelti, le scelte operative effettuate e le risorse umane, finanziarie e materiali assegnate, nonche' nella identificazione degli eventuali fattori ostativi, delle eventuali responsabilita' per la mancata o parziale attuazione, dei possibili rimedi.   
+2. Gli uffici ed i soggetti preposti all'attivita' di valutazione e controllo strategico riferiscono in via riservata agli organi di indirizzo politico, con le relazioni di cui al comma 3, sulle risultanze delle analisi effettuate. Essi di norma supportano l'organo di indirizzo politico anche per la valutazione dei dirigenti che rispondono direttamente all'organo medesimo per il conseguimento degli obiettivi da questo assegnatigli.   
+3. Nelle amministrazioni dello Stato, i compiti di cui ai commi 1 e 2 sono affidati ad apposito ufficio, operante nell'ambito delle strutture di cui all'art. 14, comma 2, del decreto n. 29, denominato servizio di controllo interno e dotato di adeguata autonomia operativa. La direzione dell'ufficio puo' essere dal Ministro affidata anche ad un organo collegiale, ferma restando la possibilita' di ricorrere, anche per la direzione stessa, ad esperti estranei alla pubblica amministrazione, ai sensi del predetto art. 14, comma 2, del decreto n. 29. I servizi di controllo interno operano in collegamento con gli uffici di statistica istituiti ai sensi del [decreto legislativo 6 settembre 1989, n. 322](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322). Essi redigono almeno annualmente una relazione sui risultati delle analisi effettuate, con proposte di miglioramento della funzionalita' delle amministrazioni. Possono svolgere, anche su richiesta del Ministro, analisi su politiche e programmi specifici dell'amministrazione di appartenenza e fornire indicazioni e proposte sulla sistematica generale dei controlli interni nell'amministrazione".   
+Nota all'art. 4, comma 2:   
+- Per il testo dell'[art. 14, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14), come recepito dall'[art. 14 del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art14), si veda nelle note alle premesse.   
+Note all'[art. 4, comma 4:   
+- Il decreto legislativo 6 settembre 1989, n. 322](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1989-09-06;322~art4-com4), pubblicato nella Gazzetta Ufficiale 22 settembre 1989, n. 222 (V. errata-corrige Gazzetta Ufficiale 30 settembre 1989, n. 229), reca: "Norme sul Sistema statistico nazionale e sulla riorganizzazione dell'Istituto nazionale di statistica, ai sensi dell'[art. 24 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art24)".   
+- Il testo dell'art. 7 del citato [decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286), e' il seguente:   
+"Art. 7 (Compiti della Presidenza del Consiglio dei Ministri). - 1. Presso la Presidenza del Consiglio dei Ministri e' costituita una banca dati, accessibile in via telematica e pienamente integrata nella rete unitaria della pubblica amministrazione, alimentata dalle amministrazioni dello Stato, alla quale affluiscono, in ogni caso, le direttive annuali dei Ministri e gli indicatori di efficacia, efficienza, economicita' relativi ai centri di responsabilita' e alle funzioni obiettivo del bilancio dello Stato.   
+2. Per il coordinamento in materia di valutazione e controllo strategico nelle amministrazioni dello Stato, la Presidenza del Consiglio dei Ministri si avvale di un apposito comitato tecnico scientifico e dell'osservatorio di cui al comma 3. Il comitato e' composto da non piu' di sei membri, scelti tra esperti di chiara fama, anche stranieri, uno in materia di metodologia della ricerca valutativa, gli altri nelle discipline economiche, giuridiche, politologiche, sociologiche e statistiche. Si applica, ai membri del comitato, l'[art. 31 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art31), e ciascun membro non puo' durare complessivamente in carica per piu' di sei anni. Il comitato formula, anche a richiesta del Presidente del Consiglio dei Ministri, valutazioni specifiche di politiche pubbliche o programmi operativi plurisettoriali.   
+3. L'osservatorio e' istituito nell'ambito della Presidenza del Consiglio dei Ministri ed e' organizzato con decreto del Presidente del Consiglio. L'osservatorio, tenuto anche conto delle esperienze in materia maturate presso Stati esteri e presso organi costituzionali, ivi compreso il CNEL, fornisce indicazioni e suggerimenti per l'aggiornamento e la standardizzazione dei sistemi di controllo interno, con riferimento anche, ove da queste richiesto, alle amministrazioni pubbliche non statali".   
+- Il testo del comma 2, lettera d), dell'art. 1 del citato [decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286), e' il seguente:   
+"Art. 1 (Principi generali del controllo interno).   
+- Omissis.   
+2. La progettazione d'insieme dei controlli interni rispetta i seguenti principi generali, obbligatori per i Ministeri, applicabili dalle regioni nell'ambito della propria autonomia organizzativa e legislativa e derogabili da parte di altre amministrazioni pubbliche, fermo restando il principio di cui all'[art. 3 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art3), e successive modificazioni ed integrazioni, di qui in poi denominato "decreto n. 29 :   
+(Omissis).   
+d) le funzioni di cui alle precedenti lettere sono esercitate in modo integrato;".
+
+Art. 5
+------
+
+Personale degli uffici di diretta collaborazione
+
+1. Il contingente di personale degli uffici di diretta collaborazione, ad eccezione di quello di cui all'articolo 2, comma 1, lettere d) ed f), e' stabilito complessivamente in cento unita'.  
+In tale contingente possono essere assegnati dipendenti del Ministero ovvero altri dipendenti pubblici, anche in posizione di aspettativa, fuori ruolo, comando o in altre analoghe posizioni previste dai rispettivi ordinamenti, nonche' collaboratori estranei alla pubblica amministrazione in possesso di specifici titoli di studio e professionali, fra cui esperti e consulenti, da assumere previo provvedimento motivato con contratto a tempo determinato di durata non superiore alla scadenza del mandato del Ministro, nel rispetto del criterio dell'invarianza della spesa di cui all'[articolo 14, comma 2, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art14-com2), il cui numero non puo' superare il venti per cento del contingente sopraindicato.
+
+2. Nell'ambito del contingente di cui al comma 1, sono individuati, presso gli uffici di diretta collaborazione, per lo svolgimento di funzioni attinenti ai compiti di diretta collaborazione, specifici incarichi di funzione di livello dirigenziale non generale in numero non superiore a otto, ai sensi e per gli effetti di cui all'[articolo 19, comma 10, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art19-com10). Gli incarichi di cui al presente comma concorrono a determinare il limite degli incarichi conferibili dall'amministrazione a norma dell'[articolo 5, commi 6, del decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-02-26;150~art5-com6), e sono attribuiti anche ai sensi dell'[articolo 19, comma 6, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art19-com6).
+
+3. Le posizioni relative ai responsabili degli uffici, costituite dal Capo di Gabinetto, dal Capo dell'Ufficio legislativo, dal Capo della Segreteria del Ministro, dal Capo dell'Ufficio stampa del Ministro e dai Capi delle Segreterie dei Sottosegretari di Stato, si intendono aggiuntive rispetto al contingente di cui al comma 1. I predetti soggetti, qualora dirigenti del ruolo unico, sono incaricati ai sensi dell'[articolo 19 del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art19).
+
+4. L'attribuzione degli incarichi ad esperti e consulenti estranei all'amministrazione, di cui al primo comma, e' subordinata alla carenza o all'indisponibilita' delle necessarie professionalita' interne ed e' disposta previa verifica di adeguata competenza, desumibile da specifici e analitici requisiti culturali e professionali, coerenti all'incarico da conferire.
+
+Nota all'art. 5, comma 1:  
+- Per il testo dell'[art. 14 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14), come recepito dall'[art. 14 del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art14), si veda nelle note alle premesse.  
+Nota all'art. 5, comma 2:  
+- Per il testo dell'[art. 19 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art19), come recepito dall'[art. 19 del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art19), si veda nelle note alle premesse.  
+Nota all'art. 5, comma 2:  
+- Il testo del [comma 6 dell'art. 5 del decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-02-26;150~art5-com6), (Regolamento recante disciplina delle modalita' di costituzione e tenuta del ruolo unico della dirigenza delle amministrazioni statali, anche ad ordinamento autonomo, e della banca dati informatica della dirigenza, nonche' delle modalita' di elezione del componente del comitato di garanti), e' il seguente:  
+"Art. 5 (Inserimento nel ruolo unico). - Omissis.  
+6. Ogni amministrazione conferisce gli incarichi ai dirigenti inseriti nel ruolo unico nel limite delle dotazioni organiche dei due livelli dirigenziali definite alla data di entrata in vigore del presente regolamento incrementate da un numero di unita' corrispondente agli altri incarichi specifici di livello dirigenziale previsti dall'ordinamento".  
+Nota all'art. 5, comma 3:  
+- Per il testo dell'[art. 19, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art19), come recepito dall'[art. 19 del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art19), si veda nelle note alle premesse.
+
+Art. 6
+------
+
+Responsabili degli uffici di diretta collaborazione
+
+1. Il Capo di Gabinetto e' nominato fra persone, anche estranee alla pubblica amministrazione, in possesso di capacita' adeguate alle funzioni da svolgere, avuto riguardo ai titoli professionali, culturali e scientifici ed alle esperienze maturate.
+
+2. Il Capo dell'Ufficio legislativo e' nominato fra i magistrati ordinari, amministrativi e contabili, avvocati dello Stato e consiglieri parlamentari, fra dirigenti delle pubbliche amministrazioni, nonche' fra docenti universitari, avvocati ed altri aperatori professionali del diritto, anche estranei alla pubblica amministrazione, in possesso di adeguata capacita' ed esperienza nel campo della consulenza giuridica e legislativa e della progettazione e produzione normativa.
+
+3. Il Capo dell'Ufficio stampa del Ministro e' nominato fra operatori del settore dell'informazione iscritti nell'albo dei giornalisti, o fra persone, anche appartenenti alle pubbliche amministrazioni, iscritte nel medesimo albo ed in possesso di specifica capacita' ed esperienza nel campo dei mezzi e degli strumenti di comunicazione, ivi compresa quella istituzionale, nonche' dell'editoria e della comunicazione informatica. Ai fini della costituzione dell'ufficio stampa si applica la [legge 7 giugno 2000, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-06-07;150).
+
+4. Il Capo della Segreteria particolare ed il Segretario particolare del Ministro, nonche' i capi delle Segreterie dei Sottosegretari di Stato, sono scelti fra persone anche estranee alla pubblica amministrazione, sulla base di un rapporto fiduciario con il Ministro o con i Sottosegretari interessati.
+
+5. I capi degli uffici di cui al presente articolo sono nominati dal Minisro, per la durata massima del relativo mandato governativo.  
+I capi delle segreterie dei sottosegretari di Stato ed i segretari particolari sono nominati su designazione dei sottosegretari interessati. Al decreto di nomina dei responsabili degli uffici di cui ai commi 1, 2 e 3 e' allegata una scheda relativa ai titoli ed alle esperienze professionali dei soggetti prescelti.
+
+6. Gli incarichi di cui ai commi 1 e 2 sono incompatibili con lo svolgimento di qualsiasi attivita' professionale, a carattere continuativo. Dello svolgimento di altri incarichi o di attivita' professionali a carattere non continuativo e' informato il Ministro, che ne valuta la compatibilita' con le funzioni svolte. Per i dipendenti pubblici rientranti fra le categorie di cui al secondo comma si provvede in armonia con i regolamenti dell'amministrazione di appartenenza.
+
+Nota all'[art. 6, comma 3:  
+- La legge 7 giugno 2000, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-06-07;150~art6-com3), recante: "Disciplina delle attivita' di informazione e di comunicazione della pubbliche amministrazioni", e' pubblicata nella Gazzetta Ufficiale 13 giugno 2000, n. 136.
+
+Art. 7
+------
+
+Trattamento economico
+
+1. Al Capo di Gabinetto e al capo dell'Ufficio legislativo spetta un trattamento economico omnicomprensivo, determinato con la modalita' di cui all'[articolo 14, comma 2, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art14-com2), ed articolato:
+
+a) per il Capo di Gabinetto in una voce retributiva di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti preposti ad ufficio dirigenziale generale, incaricati ai sensi dell'[articolo 19, comma 3, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art19-com3) ed in un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai capi dei dipartimenti del Ministero;
+
+b) per il capo dell'ufficio legislativo e per il responsabile del servizio di controllo interno, in una voce retributiva di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti preposti ad uffici di livello dirigenziale generale del Ministero, incaricati ai sensi dell'[articolo 19, comma 4, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art19-com4), ed un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti di uffici dirigenziali generali dello stesso Ministero. Ai capi dei predetti uffici, dipendenti da pubbliche amministrazioni, in aggiunta al trattamento economico in godimento, e' corrisposto un emolumento accessorio fino alla misura massima del trattamento accessorio spettante, rispettivamente, ai Capi dei Dipartimenti dei Ministero ed ai dirigenti degli uffici dirigenziali generali dello stesso Ministero.
+
+2. Al Capo della Segreteria particolare ed al Segretario particolare del Ministro, ai Capi delle Segreterie dei sottosegretari di Stato, qualora nominati fra estranei alle pubbliche amministrazioni, spetta un trattamento economico omnicomprensivo determinato con apposito contratto individuale, articolato in una voce retributiva rapportata alla misura massima del trattamento economico fondamentale dei dirigenti preposti ad ufficio dirigenziale di livello non generale, esclusa la retribuzione di posizione, e in un emolumento accessorio determinato in un importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti titolari di uffici dirigenziali non generali del Ministero. Al Capo dell'Ufficio stampa del Ministro e' corrisposto un trattamento economico conforme a quello previsto dal contratto collettivo nazionale per i giornalisti con la qualifica di redattore capo. Ai capi degli uffici di cui al presente comma, dipendenti da pubbliche amministrazioni, in aggiunta al trattamento economico in godimento e' corrisposto un emolumento accessorio fino alla misura massima del trattamento accessorio spettante ai dirigenti di uffici dirigenziali non generali dell'amministrazione.
+
+3. Ai dirigenti della seconda fascia del ruolo unico, assegnati agli uffici di diretta collaborazione, e' corrisposta una retribuzione di posizione in misura equivalente ai valori economici massimi attribuiti ai dirigenti della stessa fascia del Ministero nonche', sentite le organizzazioni sindacali e in attesa di specifica disposizione contrattuale, un'indennita' sostitutiva della retribuzione di risultato, determinata ai sensi dell'[articolo 14, comma 2, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art14-com2), di importo non superiore al cinquanta per cento della retribuzione di posizione, a fronte delle responsabilita' connesse all'incarico attribuito, della specifica qualificazione professionale posseduta, della disponibilita' ad orari disagevoli, della qualita' della prestazione individuale.
+
+4. Il trattamento economico del personale con contratto a tempo determinato e di quello con rapporto di collaborazione coordinata e continuativa e' determinato dal Ministro all'atto del conferimento dell'incarico. Il relativo onere grava sugli stanziamenti dell'unita' previsionale di base "Gabinetto e uffici di diretta collaborazione all'opera del Ministro" dello stato di previsione della spesa del Ministero.
+
+5. Al personale non dirigenziale assegnato agli uffici di diretta collaborazione, a fronte delle responsabilita', degli obblighi di reperibilita' e di disponibilita' ad oraridisagevoli eccedenti quelli stabiliti in via ordinaria dalle disposizioni vigenti, nonche' dalle conseguenti ulteriori prestazioni richieste dai responsabili degli uffici, spetta un'indennita' accessoria di diretta collaborazione.  
+Tale trattamento, consistente in un emolumento da corrispondere mensilmente, e' sostitutivo degli istituti retributivi per il lavoro straordinario, per l'incentivazione alla produttivita' e per la qualita' della prestazione individuale. Il personale beneficiario della predetta indennita' e' determinato dal Capo di Gabinetto, sentiti i responsabili degli uffici di cui all'articolo 2, comma 2.  
+In attesa di specifica disposizione contrattuale la misura dell'indennita' e' determinata ai sensi dell'[articolo 14, comma 2, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art14-com2).
+
+6. Il personale dipendente da altre pubbliche amministrazioni, enti ed organismi pubblici e istituzionali assegnato agli uffici di diretta collaborazione, e' posto in posizione di aspettativa, comando o fuori ruolo.
+
+Note all'art. 7, comma 1:  
+- Per il testo dell'[art. 14 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14), come recepito dall'[art. 14 del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art14), si veda nelle note alle premesse.  
+- Per il testo dell'[art. 19, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art19), come recepito dall'[art. 19 del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art19), si veda nelle note alle premesse.  
+Nota all'art. 7, comma 3:  
+- Per il testo dell'[art. 14 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14), come recepito dall'[art. 14 del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art14), si veda nelle note alle premesse.  
+Nota all'art. 7, comma 5:  
+- Per il testo dell'[art. 14 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14), come recepito dall'[art. 14 del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art14), si veda nelle note alle premesse.
+
+Art. 8
+------
+
+Coordinamento degli Uffici di diretta collaborazione
+
+1. Ferme restando le posizioni di autonomia funzionale previste dalla legge e dal presente regolamento, il coordinamento degli uffici di diretta collaborazione e' attuato dal Capo di Gabinetto, che a tal fine puo' nominare uno o piu' Vice Capi di Gabinetto.
+
+Art. 9
+------
+
+Personale delle Segreterie dei Sottosegretari di Stato
+
+1. A ciascuna Segreteria dei Sottosegretari di Stato, oltre al Capo della Segreteria, sono assegnate al di fuori del contingente complessivo di cento unita' di cui all'articolo 1, fino ad un massimo di otto unita' di personale, scelte tra i dipendenti del Ministero ovvero fra i dipendenti di altre amministrazioni pubbliche in posizione di aspettativa, fuori ruolo, comando o in altre analoghe posizioni previste dai rispettivi ordinamenti.
+
+Art. 10
+-------
+
+Modalita' della gestione
+
+1. La gestione degli stanziamenti di bilancio per i trattamenti economici individuali e le indennita' spettanti al personale assegnato agli uffici di cui all'articolo 2, comma 1, per le spese di viaggio e di rappresentanza del Ministro e dei Sottosegretari di Stato, per l'acquisto di beni e servizi e per ogni altra spesa occorrente per le esigenze dei predetti uffici e' attribuita, ai sensi dell'[articolo 14, comma 1, lettera b), del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art14-com1-letb), alla responsabilita' del Capo di Gabinetto, che puo' attribuire i relativi adempimenti ad un dirigente generale del Ministero.
+
+Nota all'art. 10, comma 1:   
+- Per il testo dell'[art. 14, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14), come recepito dall'[art. 14 del decreto legislativo n. 165 del 2001](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001;165~art14), si veda nelle note alle premesse.
+
+Art. 11
+-------
+
+Norme transitorie e finali
+
+1. Gli incarichi di funzione di livello dirigenziale previsti dall'articolo 4, comma 2, e dall'articolo 5, comma 2, non comportano aumento dell'attuale dotazione organica del Ministero.
+
+2. Dall'attuazione del presente regolamento non possono derivare effetti di aumento della spesa.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 17 maggio 2001
+
+CIAMPI
+
+Amato, Presidente del Consiglio dei Ministri
+
+Salvi, Ministro del lavoro e della previdenza sociale
+
+Visco, Ministro del tesoro, del bilancio e della programmazione economica
+
+Bassanini, Ministro per la funzione pubblica
+
+Visto, il Guardasigilli: Fassino Registrato alla Corte dei conti il 16 luglio 2001 Ufficio di controllo preventivo sui Ministeri dei servizi alla
+
+persona e dei beni culturali, registro n. 5 Lavoro, foglio n. 391

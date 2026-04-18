@@ -1,0 +1,54 @@
+REGIO DECRETO 03 dicembre 1942 n. 1757
+
+
+REGIO DECRETO 03 dicembre 1942 n. 1757
+======================================
+
+Modificazione dell'art. 88 del regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con R. decreto 10 febbraio 1927-V, n. 443. (042U1757)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/02/1943
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il testo unico delle disposizioni legislative concernenti la amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con R. decreto 2 febbraio 1928-VI, n. 263, e successive modificazioni;
+
+Visto il regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con R. decreto 10 febbraio 1927-V, n. 443, e successive modificazioni;
+
+Visto l'art. 1, n. 1, della legge 31 gennaio 1926-IV, n. 100;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, d'intesa col Ministro per le finanze; Abbiamo; decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Per la durata dell'attuale stato di guerra e fino ad un anno dopo la cessazione di esso, il limite di lire diecimila stabilito per i fondi della cassa corrente dal primo comma dell'art. 88 del regolamento per l'amministrazione e la contabilita' dei corpi, istituti e stabilimenti militari, approvato con R. decreto 10 febbraio 1927-V, n. 443, e' elevato a lire ventimila.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 3 dicembre 1942-XXI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 6 febbraio 1943-XXI   
+Atti del Governo, registro 454, foglio 25. - MANCINI   

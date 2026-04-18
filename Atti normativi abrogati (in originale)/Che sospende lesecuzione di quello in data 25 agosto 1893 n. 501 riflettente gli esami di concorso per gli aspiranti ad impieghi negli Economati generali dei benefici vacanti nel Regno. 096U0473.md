@@ -1,0 +1,48 @@
+REGIO DECRETO 09 ottobre 1896 n. 473
+
+
+REGIO DECRETO 09 ottobre 1896 n. 473
+====================================
+
+Che sospende l'esecuzione di quello in data 25 agosto 1893 n. 501 riflettente gli esami di concorso per gli aspiranti ad impieghi negli Economati generali dei benefici vacanti nel Regno. (096U0473)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/11/1896
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto l'art. 18 dello Statuto;
+
+Visto il Nostro decreto del 25 agosto 1893, n. 501, che stabilisce gli esami di concorso per gli aspiranti ad impieghi negli Economati generali dei benefici vacanti nel Regno;
+
+Ritenuta la necessita' ed urgenza di procedere al riordinamento di alcuni fra i detti uffizi, pei quali, da straordinarie ispezioni e' risultato indispensabile provvedere senza indugio ad una riforma del personale;
+
+Ritenuto che il metodo del concorso, opportuno in tempi normali, mal si presterebbe allo intento;
+
+Sulla
+-----
+
+proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti; Abbiamo ordinato e ordiniamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+L'esecuzione del Nostro decreto del 25 agosto 1893, n. 501, e', fino a nuova disposizione, sospesa.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 9 ottobre 1896.   
+  
+UMBERTO.   
+  
+G. Costa.   
+  
+Visto, Il Guardasigilli: G. Costa.   
+  

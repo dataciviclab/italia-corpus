@@ -1,0 +1,61 @@
+LEGGE 01 aprile 1943 n. 352
+
+
+LEGGE 01 aprile 1943 n. 352
+===========================
+
+Sostituzione della tabella O annessa al testo unico delle leggi sull'istruzione universitaria, approvato con R. decreto 31 agosto 1933-XI, n. 1592. (043U0352)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/06/1943
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+RE D'ITALIA E DI ALBANIA   
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+A decorrere dal 29 ottobre 1943-XXII, la tabella O allegata al testo unico delle leggi sull'istruzione universitaria, approvato con R. decreto 31 agosto 1933-XI, n. 1592, e' sostituita dalla seguente:   
+  
+Tabella O (Art. 237).   
+  
+Tasse e sopratasse scolastiche per i Regi Istituti universitari orientale e navale di Napoli.   
+  
+  
+  
+Tassa d'immatricolazione . . . . . . . . . . . . . L. 300  
+Tassa annuale d'iscrizione . . . . . . . . . . . . " 450  
+Tassa di laurea o di diploma . . . . . . . . . . . " 300  
+Sopratassa annuale per esami di profitto  
+(dovuta da tutti gli studenti in corso di  
+studi, nonche' dagli studenti fuori corso  
+che sostengono esami) . . . . . . . . . . . . . . " 150  
+Sopratassa per esami di laurea o di diploma . . . " 75  
+Sopratasse di ripetizione:  
+per ciascun esame di profitto . . . . . . . . . " 20  
+per l'esame di laurea o di diploma . . . . . . . " 50  
+Tassa annuale per studenti fuori corso:  
+(dovuta dagli studenti fuori corso che  
+chiedono la ricognizione della qualita'  
+di studente) . . . . . . . . . . . . . . . . . . . " 100  
+  
+  
+E' inoltre, dovuta la sopratassa speciale annua d'iscrizione ai sensi del R. decreto-legge 21 giugno 1938-XVI, n. 1114, convertito nella legge 16 febbraio 1939-XVII, n. 226, aumentata a L. 350, giusta la legge 16 marzo 1942-XX, n. 294.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge delle Stato.   
+  
+Data a Roma, addi' 1° aprile 1943-XXI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - BIGGINI - ACERBO   
+  
+Visto, il Guardasigilli: DE MARSICO   

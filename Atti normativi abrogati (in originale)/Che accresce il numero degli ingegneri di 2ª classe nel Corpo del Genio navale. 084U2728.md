@@ -1,0 +1,43 @@
+REGIO DECRETO 11 ottobre 1884 n. 2728
+
+
+REGIO DECRETO 11 ottobre 1884 n. 2728
+=====================================
+
+Che accresce il numero degli ingegneri di 2ª classe nel Corpo del Genio navale. (084U2728)
+------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/11/1884
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la legge 3 dicembre 1878 sul riordinamento del personale della R. marina;   
+  
+Visti i RR. decreti 16 dicembre 1878, n. 4669, 2 gennaio e 25 dicembre 1881, nn. 18 e 557, e 3 maggio 1883, n. 1319;   
+  
+Visto lo stato di prima previsione della spesa del Ministero della Marina per l'esercizio finanziario dal 1° luglio 1884 al 30 giugno 1885;   
+  
+Sulla proposta del Nostro Ministro della Marina,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il numero degli ingegneri di 2ª classe nel Corpo del Genio navale e' portato da otto a dodici.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 11 ottobre 1884.   
+  
+UMBERTO.   
+  
+B. Brin.   
+  
+Visto, Il Guardasigilli: Ferracciu'.   
+  

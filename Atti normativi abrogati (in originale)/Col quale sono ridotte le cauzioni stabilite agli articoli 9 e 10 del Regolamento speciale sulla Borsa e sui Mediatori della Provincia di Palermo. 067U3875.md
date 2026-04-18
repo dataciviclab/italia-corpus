@@ -1,0 +1,54 @@
+REGIO DECRETO 15 agosto 1867 n. 3875
+
+
+REGIO DECRETO 15 agosto 1867 n. 3875
+====================================
+
+Col quale sono ridotte le cauzioni stabilite agli articoli 9 e 10 del Regolamento speciale sulla Borsa e sui Mediatori della Provincia di Palermo. (067U3875)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/09/1867
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il Titolo III, libro I, del Codice di commercio;
+
+Veduta la [Legge 6 luglio 1862, n. 680](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-07-06;680);
+
+Veduto il Nostro Decreto del 17 febbraio 1867, n. 3550;
+
+Veduta la deliberazione della Camera di Commercio ed Arti di Palermo del 25 giugno 1867;
+
+Sentito il Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Sono ridotte a lire quindicimila ciascuna le cauzioni stabilite agli articoli nove e dieci del Regolamento speciale sulla Borsa e sui Mediatori della Provincia di Palermo, approvato col ridetto Nostro Decreto del 17 febbraio 1867, n. 3550.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 15 agosto 1867.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 28 agosto 1867   
+  
+Reg. 40 Atti del Governo a c. 209. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli Tecchio.   
+  
+F. De Blasiis.   
+  

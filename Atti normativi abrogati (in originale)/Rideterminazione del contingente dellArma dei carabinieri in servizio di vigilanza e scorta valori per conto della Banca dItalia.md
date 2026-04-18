@@ -1,0 +1,62 @@
+LEGGE 22 luglio 1998 n. 254
+
+
+LEGGE 22 luglio 1998 n. 254
+===========================
+
+Rideterminazione del contingente dell'Arma dei carabinieri in servizio di vigilanza e scorta valori per conto della Banca d'Italia.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore della legge: 15-8-1998
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Promulga
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. La tabella annessa alla [legge 26 gennaio 1982, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-01-26;21), e' sostituita da quella allegata alla presente legge.
+
+2. Gli arruolamenti di personale dell'Arma dei carabinieri derivanti dall'aumento del contingente di cui al comma 1, a totale carico della Banca d'Italia ai sensi dell'articolo 3 della predetta [legge 26 gennaio 1982, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-01-26;21), non sono compresi nelle assunzioni programmate ai sensi dell'[articolo 39, comma 3, della legge 27 dicembre 1997, n. 449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449~art39-com3).
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 22 luglio 1998
+
+SCALFARO
+
+Prodi, Presidente del Consiglio dei Ministri
+
+Ciampi, Ministro del tesoro, del bilancio e della programmazione economica
+
+Andreatta, Ministro della difesa
+
+Visto, il Guardasigilli: Flick
+
+Note all'art. 1:  
+- Il testo dell'[art. 3 della legge 26 gennaio 1982, n. 21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-01-26;21~art3), recante: "Autorizzazione al Ministero della difesa a stipulare una convenzione con il Governatore della Banca d'Italia per l'impiego di militari dell'Arma dei carabinieri in servizio di vigilanza e scorta valori per conto della Banca d'Italia", e' il seguente:  
+"Art. 3. - Gli assegni, le competenze accessorie e le indennita' comunque spettanti al personale effettivamente impiegato nei limiti massimi fissati dall'art. 1, nonche' ogni altro elemento di onere connesso al servizio di vigilanza e scorta valori, sono a carico della Banca d'Italia".  
+- Il testo del [comma 3 dell'art. 39 della legge 27 dicembre 1997, n. 449](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-12-27;449~art39-com3) (Misure per la stabilizzazione della finanza pubblica), e' il seguente:  
+3. Il Consiglio dei Ministri, su proposta del Ministro per la funzione pubblica e del Ministro del tesoro, del bilancio e della programmazione economica, delibera trimestralmente il numero delle assunzioni delle singole amministrazioni di cui al comma 2 sulla base di criteri di priorita' che assicurino in ogni caso le esigenze della giustizia e il pieno adempimento dei compiti di sicurezza pubblica affidati alle Forze di polizia e ai Vigili del fuoco, nell'osservanza di quanto disposto dai commi 1 e 2. In sede di prima applicazione, tra i criteri si tiene conto delle procedure concorsuali avviate alla data del 27 settembre 1997, nonche' di quanto previsto dai commi 23 e 24 del presente articolo e dal comma 4 dell'art. 42. Le assunzioni sono subordinate alla indisponibilita' di personale da trasferire secondo procedure di mobilita' attuate anche in deroga alle disposizioni vigenti, fermi restando i criteri generali indicati dall'[art. 35 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art35), e successive modificazioni. Le disposizioni del presente articolo si applicano anche alle assunzioni previste da norme speciali o derogatorie".
+
+Tabella
+
+ Tabella   
+  
+PERSONALE DELL'ARMA DEI CARABINIERI DA IMPIEGARE IN SERVIZI   
+SPECIALI DI VIGILANZA E SCORTE VALORI PER CONTO DELLA BANCA D'ITALIA.   
+  
+Colonnelli .............................. 1   
+Tenenti colonnelli e maggiori ........... 3   
+Ufficiali inferiori ..................... 3   
+Ispettori ............................... 232   
+Sovrintendenti .......................... 91   
+Appuntati e carabinieri ................. 1670   

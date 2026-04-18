@@ -1,0 +1,41 @@
+LEGGE 24 agosto 1941 n. 1157
+
+
+LEGGE 24 agosto 1941 n. 1157
+============================
+
+Estensione del beneficio tributario di cui all'art. 4 della legge 23 marzo 1940-XVIII, n. 283, alle concentrazioni dei portafogli assicurativi di rappresentanze di imprese estere in Italia, che si attueranno fino alla cessazione dello stato di guerra. (041U1157)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/11/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Gli atti di concentrazione di portafogli assicurativi delle rappresentanze di Compagnie straniere in Italia, che si attueranno fino alla cessazione dello stato di guerra, beneficiano della riduzione ad un quarto delle normali imposte di registro ed ipotecarie, previste, per gli atti di fusione di societa' commerciali, dall'art. 4 della legge 23 marzo 1940-XVIII, n. 283.   
+  
+Non sono, pero', restituibili le imposte di registro ed ipotecarie gia' percette anteriormente all'entrata in vigore della presente legge.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Sant'Anna di Valdieri, addi' 24 agosto 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Ricci - Grandi - Di Revel   
+  
+Visto, il Guardasigilli: Grandi   

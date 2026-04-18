@@ -1,0 +1,66 @@
+REGIO DECRETO 11 febbraio 1915 n. 159
+
+
+REGIO DECRETO 11 febbraio 1915 n. 159
+=====================================
+
+Col quale viene modificato l'art. 25 del regolamento approvato con R decreto 4 maggio 1911, n. 424, sul Consiglio superiore dell'istruzione pubblica (015U0159)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/03/1915
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la [legge 19 luglio 1909, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;490);
+
+Veduti i regolamenti approvati con Nostri decreti in data 20 agosto 1909, n. 686 e 4 maggio 1911, n. 424;
+
+Considerata la necessita' di disciplinare in modo definitivo e permanente l'avvicendamento dei rappresentanti delle varie Facolta' e scuole nel Consiglio superiore di pubblica istruzione allo scopo di procurare un retto ed ordinato funzionamento dell'alto consesso;
+
+Sentito il Consiglio superiore di pubblica istruzione;
+
+Sentito il Consiglio di Stato;
+
+Udito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+In aggiunta alle disposizioni di cui all'art. 25 del regolamento approvato con Nostro decreto 4 maggio 1911, n. 424, sono approvato le seguenti disposizioni:   
+  
+« Nel 1915 le Facolta' di medicina e chirurgia, la sezione medica dell'Istituto di studi superiori in Firenze, i professori ordinari degli Istituti clinici di perfezionamento di Milano (contemplati nella tabella C annessa alla [legge 19 luglio 1909, n. 496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;496)) e le scuole superiori di medicina veterinaria saranno invitati a designare tre consiglieri, in luogo dei tre uscenti, che furono da essi designati nel 1911, e le scuole di applicazione per gl'ingegneri, i Politecnici e la scuola navale superiore di Genova saranno chiamate a designare due consiglieri in luogo dei due uscenti, da esse designati nel 1911.   
+  
+Quello fra i designati da ciascuno dei suddetti gruppi di Corpi scientifici, il quale avra' ottenuto il minore numero di voti, oppure (a parita' di voti) il meno anziano di eta', rimarra' in carica: sino al 30 giugno 1917 e rispettivamente gli altri due e l'altro designati, resteranno in carica per tutto il quadriennio 1915-1919.   
+  
+Nel 1917 la Facolta' di filosofia, e lettere, l'Accademia scientifica letteraria di Milano e la sezione corrispondente dell'Istituto di studi superiori di Firenze, e, separatamente le Facolta' di giurisprudenza saranno invitate a designare due consiglieri in luogo dei due uscenti da esse designati nel 1913, e, rispettivamente in ciascuno di questi due gruppi di consiglieri designati, quello il quale avra' ottenuto il minor numero di voti, oppure (a parita' di voti), il meno anziano di eta', rimarra' in carica sino al 30 giugno 1919, mentre l'altro restera' in carica per tutto il quadriennio 1917-1921 ».   
+  
+
+Art. 2
+------
+
+  
+  
+E' abrogata ogni disposizione contraria alle precedenti.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 11 febbraio 1915.   
+  
+VITTORIO EMANUELE.   
+  
+Salandra - Grippo.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

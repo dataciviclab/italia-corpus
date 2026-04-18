@@ -1,0 +1,19 @@
+REGIO DECRETO 25 aprile 1912 n. 438
+
+
+REGIO DECRETO 25 aprile 1912 n. 438
+===================================
+
+Istituzione di un Collegio di probiviri per talune industrie in Bergamo. (012U0438)
+-----------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/06/1912
+
+Art. 1
+------
+
+  
+N. 438   
+  
+Regio Decreto 25 aprile 1912, col quale, sulla proposta dei ministri di agricoltura, industria e commercio e di grazia, giustizia e dei culti, vengono soppressi i Collegi di probiviri per l'industria del cotone ed affini, in Albino, e per le industrie del cotone, del lino, della canapa e della juta, con sede in Capriate d'Adda, e viene istituito un Collegio di probiviri per le industrie del cotone, del lino, della canapa e della juta, con sede in Bergamo, composto di quattordici probiviri, dei quali sette industriali e sette operai, e con giurisdizione sul territorio della provincia di Bergamo.   
+  

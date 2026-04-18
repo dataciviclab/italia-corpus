@@ -1,0 +1,45 @@
+LEGGE 10 luglio 1940 n. 956
+
+
+LEGGE 10 luglio 1940 n. 956
+===========================
+
+Proroga dei termini per la presentazione delle domande di esonero dall'assicurazione obbligatoria per l'invalidita' e la vecchiaia. (040U0956)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/08/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Agli articoli 28 e 32 del Regio decreto-legge 14 aprile 1939-XVII, n. 636, convertito, con modificazioni, nella legge 6 luglio 1939-XVII, n. 1272, e successivamente modificato con la legge 4 dicembre 1939-XVIII, n. 2204, sono apportate le seguenti modificazioni:   
+  
+1) nell'art. 28, in fine del primo comma, alle parole «non oltre un anno dalla data di entrata in vigore del presente decreto» sono sostituite le parole «non oltre sei mesi dalla entrata in vigore delle norme di cui al successivo art. 42»;   
+  
+2) nell'art. 32, al secondo comma, alle parole «nel termine di un anno dalla entrata in vigore del presente decreto», sono sostituite le parole «nel termine di sei mesi dalla data di entrata in vigore delle norme di cui al successivo art. 42».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 10 giugno 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Ricci - Teruzzi - Grandi - Di Revel - Serena - Tassinari - Host Venturi.   
+  
+Visto, il Guardasigilli: Grandi   
+  
+  

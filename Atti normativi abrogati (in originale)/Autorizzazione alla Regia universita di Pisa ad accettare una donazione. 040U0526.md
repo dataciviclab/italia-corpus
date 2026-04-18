@@ -1,0 +1,21 @@
+REGIO DECRETO 11 aprile 1940 n. 526
+
+
+REGIO DECRETO 11 aprile 1940 n. 526
+===================================
+
+Autorizzazione alla Regia universita' di Pisa ad accettare una donazione. (040U0526)
+------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/06/1940
+
+Art. 1
+------
+
+N.
+
+526. R. decreto 11 aprile 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, la Regia universita' di Pisa viene autorizzata ad accettare la donazione di L. 35.200 nominali, di cui L. 33.200 in titoli del Prestito redimibile 5% e L. 2000 in buoni del Tesoro novennali 5%, disposta in suo favore dal comm. Severo Ceccanti, quale rappresentante dell'apposito Comitato costituito in seno alla Federazione dei Fasci di combattimento di Pisa, con atto pubblico in data 5 aprile 1939-XVII, per l'istituzione di due borse di studio da intitolarsi al nome del dott. Giulio Menna.   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 21 maggio 1940-XVIII

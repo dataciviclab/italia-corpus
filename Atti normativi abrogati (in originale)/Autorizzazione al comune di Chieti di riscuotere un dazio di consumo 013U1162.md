@@ -1,0 +1,48 @@
+REGIO DECRETO 03 settembre 1913 n. 1162
+
+
+REGIO DECRETO 03 settembre 1913 n. 1162
+=======================================
+
+Autorizzazione al comune di Chieti di riscuotere un dazio di consumo (013U1162)
+-------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/10/1913
+
+Art. 1
+------
+
+  
+N. 1162   
+  
+Regio Decreto 3 settembre 1913, col quale, sulla proposta del ministro delle finanze, il comune di Chieti e' autorizzato a continuare a riscuotere un dazio di consumo sui seguenti generi:   
+  
+106. Cati, mastelli, secchie e tinozze al quintale, L. 1,50.   
+  
+110. Cati, mastelli, secchi, tinozza e vasche da bagno di qualunque metallo al quintale, L. 5.   
+  
+111. Carta da scrivere e da stampa, da parati, da tappezzerie di qualunque specie al quintale, L. 5.   
+  
+112. Cartone di qualunque specie e carta da imballaggio al quintale, L. 2.   
+  
+113. Carta dorata, argentata, colorata, dipinta, aggiunta ed intagliata e vetrofonia al quintale, L. 10.   
+  
+119. Amido al quintale, L 5.   
+  
+120. Amidone al quintale, L. 1.   
+  
+121. Vetri di qualunque qualita' e forma al quintale, L. 2.   
+  
+123. Cristalli di qualunque forma al quintale, L. 6.   
+  
+125. Terraglie di 1ª classe al quintale, L. 15.   
+  
+128. Terraglie di 2ª classe al quintale, L. 5.   
+  
+127. Terraglie di 3ª classe al quintale. L. 1,50.   
+  
+128. Terraglie di 4ª classe al quintale, L. 0,50.   
+  
+129. Sughero lavorato al quintale, L. 10.   
+  
+130. Pallini da caccia al quintale, L. 2.   

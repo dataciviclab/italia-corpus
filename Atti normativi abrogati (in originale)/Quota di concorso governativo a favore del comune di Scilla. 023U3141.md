@@ -1,0 +1,21 @@
+REGIO DECRETO 30 dicembre 1923 n. 3141
+
+
+REGIO DECRETO 30 dicembre 1923 n. 3141
+======================================
+
+Quota di concorso governativo a favore del comune di Scilla. (023U3141)
+-----------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/02/1924
+
+Art. 1
+------
+
+N.
+
+3141. R. decreto 30 dicembre 1923, col quale, su proposta del Ministro per le finanze, si concede a favore del comune di Scilla (Reggio Calabria), la quota di concorso governativo di L. 550, pel primo semestre 1918, ad integrazione del bilancio comunale, per la diminuzione d'entrata dipendente dalla riduzione del canone di appalto accordata a quell'appaltatore daziario, per il detto anno 1918.   
+  
+Visto, il Guardasigilli: Oviglio.   
+  
+Registrato alla Corte dei conti, addi' 5 febbraio 1924.

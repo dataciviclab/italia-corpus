@@ -1,0 +1,54 @@
+REGIO DECRETO 06 maggio 1940 n. 778
+
+
+REGIO DECRETO 06 maggio 1940 n. 778
+===================================
+
+Deroga al limite di eta' nei riguardi degli avventizi per partecipare 
+a concorsi banditi dal Ministero dei lavori pubblici. (040U0778)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/07/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il R. decreto 30 dicembre 1923-II, n. 2960, sullo stato giuridico del personale dell'Amministrazione dello Stato, e successive modificazioni;   
+  
+Ritenuta l'opportunita' che nei pubblici concorsi banditi e da bandire presso l'Amministrazione dei lavori pubblici entro il 31 dicembre 1940-XIX si prescinda dai limiti di eta' fissati per l'ammissione ai concorsi stessi nei confronti del personale avventizio delle Amministrazioni dello Stato che trovisi in servizio ininterotto da almeno due anni alla data di pubblicazione dei relativi bandi di concorso;   
+  
+Visto l'art. 1 della legge 31 gennaio 1926-IV, n. 100;   
+  
+Visto l'art. 11 del R. decreto-legge 4 febbraio 1937-XV, n. 100;   
+  
+Udito il parere del Consiglio di Stato;   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Sulla proposta del DUCE del Fascismo, Capo del Governo, e del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto con quello per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Nei pubblici concorsi banditi e da bandire entro il 31 dicembre 1940-XIX presso l'Amministrazione dei lavori pubblici, si prescinde dai limiti di eta' fissati per l'ammissione ai concorsi stessi, nei confronti del personale avventizio delle Amministrazioni dello Stato (comprese quelle aventi ordinamento autonomo) che abbia prestato servizio ininterrotto da oltre due anni alla data di pubblicazione dei relativi bandi di concorso.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 6 maggio 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Serena - Di Revel   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 9 luglio 1940-XVIII   
+  
+Atti del Governo, registro 423, foglio 62. - Mancini   

@@ -1,0 +1,44 @@
+REGIO DECRETO 26 novembre 1896 n. 526
+
+
+REGIO DECRETO 26 novembre 1896 n. 526
+=====================================
+
+Riflettente disposizioni per l'ammissione nel Corpo del Genio navale. (096U0526)
+--------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/01/1897
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge 3 dicembre 1878 n. 4610](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1878-12-03;4610) (serie 2ª) sul riordinamento del personale della R. Marina;   
+  
+Visto il R. decreto 31 ottobre 1884, relativo alle norme per l'ammissione nel Corpo del Genio navale;   
+  
+Visto il [R. decreto 23 luglio 1896 n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-07-23;358), che modifica le norme per l'ammissione in detto Corpo;   
+  
+Sentito il Consiglio Superiore di Marina;   
+  
+Sulla proposta del Nostro Ministro della Marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+La disposizione contenuta nell'[art. 1 del R. decreto 23 luglio 1896 n. 358](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-07-23;358~art1) e' estesa a tutti i militari del Corpo R. Equipaggi in servizio che abbiano ottenuto la laurea d'Ingegnere in una delle Scuole di applicazione o degli Istituti Superiori del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e farlo osservare.   
+  
+Dato a Roma, addi' 26 novembre 1896.   
+  
+UMBERTO.   
+  
+B.Brin.   
+  
+Visto, Il Guardasigilli: G. Costa.   

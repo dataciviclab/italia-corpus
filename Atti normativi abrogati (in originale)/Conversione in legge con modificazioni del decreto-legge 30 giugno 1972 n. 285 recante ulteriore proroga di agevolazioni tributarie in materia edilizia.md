@@ -1,0 +1,39 @@
+LEGGE 08 agosto 1972 n. 461
+
+
+LEGGE 08 agosto 1972 n. 461
+===========================
+
+Conversione in legge, con modificazioni, del decreto-legge 30 giugno 1972, n. 285, recante ulteriore proroga di agevolazioni tributarie in materia edilizia.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+Il [decreto-legge 30 giugno 1972, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1972-06-30;285), recante ulteriore proroga di agevolazioni tributarie in materia edilizia, e' convertito in legge con le seguenti modificazioni:  
+  
+All'articolo 1, le parole: "al 31 dicembre 1972 ed al 31 dicembre 1974" sono sostituite con le parole: "al 31 dicembre 1973 ed al 31 dicembre 1975".  
+All'articolo 2, dopo le parole: "acquisto di aree" sono inserite le parole: "ed ai contratti di appalto".  
+E' aggiunto il seguente comma:  
+"L'aliquota del 4 per cento prevista dall'[articolo 44, primo comma, del decreto-legge 15 marzo 1965, n. 124](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1965-03-15;124~art44-com1), convertito nella [legge 13 maggio 1965, n. 431](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-05-13;431), e dalle successive proroghe per i trasferimenti a titolo oneroso effettuati fino al 31 dicembre 1970 deve intendersi applicabile a tutti gli atti e contratti indicati agli articoli 1 e 81, lettera c), della tariffa allegato "A" al [regio decreto 30 dicembre 1923, n. 3269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;3269), e successive modificazioni ed agli articoli che vi fanno richiamo".  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Napoli, addi' 8 agosto 1972
+
+LEONE ANDREOTTI - TAVIANI - MALAGODI - GULLOTTI
+
+Visto, il Guardasigilli: GONELLA

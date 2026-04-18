@@ -1,0 +1,47 @@
+REGIO DECRETO 05 settembre 1877 n. 4063
+
+
+REGIO DECRETO 05 settembre 1877 n. 4063
+=======================================
+
+All'elenco delle strade provinciali di Avellino aggiunge quella detta Cadore-Ofanto. (077U4063)
+-----------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/10/1877
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Viste le deliberazioni 12 ottobre 1875 e 17 novembre 1876 del Consiglio provinciale di Avellino, relative all'aggiunta fra le strade provinciali di quella Calore-Ofanto da Montella per Bagnoli alla provinciale Lioni-Materdomini, e quindi da sotto Teora per la provinciale medesima alla nazionale di Matera, nella localita' detta S. Ilarione;   
+  
+Visti i reclami prodotti da vari comuni contro la predetta aggiunta;   
+  
+Visti i Regi decreti 23 agosto e 20 ottobre 1868, 17 gennaio 1869, 17 marzo 1870, 17 novembre 1872, 17 agosto 1873, 23 agosto e 10 novembre 1875, riguardanti la classificazione delle strade provinciali di Avellino;   
+  
+Vista la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F;   
+  
+Considerando che l'aggiunta della linea del tratto dalla provinciale Lioni-Materdomini alla nazionale di Matera toglie la difficolta' mosse col Regio decreto 23 agosto 1875 alla iscrizione fra le provinciali del tratto precedente Montella-Bagnoli-Lioni-Materdomini, poiche' la strada si presenta oggi di grande importanza per le relazioni di una notevole parte della provincia, allacciandosi colle strade nazionali di Matera, di Valva-Bisaccia e delle Puglie;   
+  
+Uditi gli avvisi del Consiglio superiore dei Lavori Pubblici e del Consiglio di Stato,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+E' aggiunta alle strade provinciali di Avellino quella che dalla provinciale Montella-Acerno, nel sito detto Piazza di Montella, per la prossimita' dell'abitato di Bagnoli giunge alla provinciale Lioni-Materdomini, e quindi da sotto Teora sulla provinciale medesima alla nazionale di Matera, nella localita' detta Sant'Ilarione.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino, addi' 5 settembre 1877.   
+  
+VITTORIO EMANUELE.   
+  
+G. Zanardelli.   
+  

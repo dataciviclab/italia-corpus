@@ -1,0 +1,44 @@
+REGIO DECRETO 10 agosto 1888 n. 5638
+
+
+REGIO DECRETO 10 agosto 1888 n. 5638
+====================================
+
+Che costituisce in Sezione elettorale autonoma i comuni di Montesegale e Roccasusella del 2° Collegio di Pavia, il comune di Campagna Lupia del 2° collegio di Venezia e il comune di Lirio, del 2° collegio di Pavia. (088U5638)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/09/1888
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D' ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Veduta la domanda dei comuni di Montesegale e Roccasusella per la loro separazione dalla Sezione elettorale di Godiasco e per la loro costituzione a Sezione elettorale con sede del capoluogo della Sezione in Montesegale;   
+  
+Veduta la tabella generale delle Sezioni dei Collegi elettorali, approvata dal [Regio decreto del 24 settembre 1882, N. 997](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-09-24;997) (Serie 3ª)   
+Visto l'articolo 48 della legge elettorale politica 22 gennaio 1882;   
+  
+Ritenuto che i comuni di Montesegale e Roccasusella hanno 90 elettori politici ai quali l'esercizio del diritto elettorale e' reso difficile per la distanza dei detti comuni dal capoluogo di 7 e 8 chilometri rispettivamente, e perche', a cagione del prolungarsi delle operazioni elettorali in una Sezione piu' numerosa, molti elettori sono costretti a fermarsi quasi tutta la giornata e sottostare a spese forzate;   
+  
+Abbiamo decretato e decretiamo:   
+  
+I comuni di Montesegale e Roccasusella sono separati dalla Sezione elettorale di Godiasco e sono costituiti in Sezione elettorale autonoma dal 2° Collegio di Pavia con sede della Sezione in Montesegale.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 10 agosto 1888.   
+  
+UMBERTO.   
+  
+Crispi.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

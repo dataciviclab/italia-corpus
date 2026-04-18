@@ -1,0 +1,54 @@
+REGIO DECRETO 14 maggio 1894 n. 219
+
+
+REGIO DECRETO 14 maggio 1894 n. 219
+===================================
+
+Che concede a titolo gratuito dei terreni nell'Eritrea. (094U0219)
+------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/06/1894
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la [legge 1° luglio 1890 n. 7003](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1890-07-01;7003);
+
+Visto il Nostro decreto 19 giugno 1890 sulle facolta' accordate all'on. Leopoldo Franchetti, deputato al Parlamento;
+
+Udito il parere del Consiglio di Stato;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Ministro degli Affari Esteri: Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Vengono concessi, a titolo gratuito ed alle condizioni specificate negli atti firmati dal deputato in missione e ratificati dal governatore, i seguenti terreni nell'Eritrea:   
+  
+Ai fratelli Behar, nati a Costantinopoli, ed a Verzato Anastasio, nato a Pyrgos (Grecia), un terreno irregolare di metri quadrati 23,200, posto nella regione Sciabab al confluente del Dari coll'Anseba, a scopo di coltivazione di piante di ricino e lino e per la durata di anni cinque a decorrere dal 1° gennaio 1895.   
+  
+Al signor Lamberto Andreoli, nato a Sinigaglia (Marche), un terreno irregolare di ettari trecento, posto nelle adiacenze di Otumlo, a scopo di coltivazione e per la durata di anni trenta a decorrere dal 1° giugno 1893.   
+  
+Al signor Gilardi Enrico, nato a Lecco (Como), un terreno di ettari trenta e 700 m., posto presso Addi Bari (Sarae), a scopo di coltura e per la durata di anni dieci a decorrere dal 1° gennaio 1894.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Milano, addi' 14 maggio 1894.   
+  
+UMBERTO.   
+  
+BLANC.   
+  
+Visto, Il Guardasigilli: V. CALENDA DI TAVANI.   
+  

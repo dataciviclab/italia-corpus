@@ -1,0 +1,48 @@
+REGIO DECRETO 07 gennaio 1906 n. 10
+
+
+REGIO DECRETO 07 gennaio 1906 n. 10
+===================================
+
+Che nomina due membri della Commissione di vigilanza pel bonificamento dell'Agro romano. (006U0010)
+---------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/02/1906
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto l'[art. 16 della legge 13 dicembre 1903, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-13;474~art16) che istituisce, presso il Ministero di agricoltura, industria e commercio, una Commissione di vigilanza per la esecuzione della detta legge e delle precedenti sul bonificamento dell'Agro romano;
+
+Visto il [R. decreto del 22 dicembre 1904, n. 707](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-12-22;707), col quale e' costituita la Commissione predetta;
+
+Viste le dimissioni presentate dai membri della prefata Commissione comm. Rocco Santoliquido, quale rappresentante del Ministero dell'interno e comm. Augusto Silvestrelli in rappresentanza dei proprietari;
+
+Vista la nota del 24 ottobre n. 20,186, del Ministero dell'interno, con la quale e' designato il suo nuovo delegato;
+
+Sulla
+-----
+
+proposta del Nostro ministro segretario di Stato per l'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I signori principe don Giovanni Torlonia, deputato al Parlamento e cav. uff. dott. Angelo Pavone, direttore capo di divisione, medico nella direzione generale di Sanita', il primo in rappresentanza dei proprietari interessati nel bonificamento dell'Agro romano, e il secondo quale delegato del Ministero dell'interno, a tenore dell'art. 16 della citata [legge 13 dicembre 1903, n. 474](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1903-12-13;474), sono chiamati a far parte della Commissione di vigilanza istituita in virtu' dell'art. 16 predetto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 7 gennaio 1906.   
+  
+VITTORIO EMANUELE.   
+  
+N. Malvezzi.   
+  
+Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
+  

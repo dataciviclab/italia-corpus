@@ -1,0 +1,27 @@
+REGIO DECRETO 29 aprile 1897 n. CXL
+
+
+REGIO DECRETO 29 aprile 1897 n. CXL
+===================================
+
+Che modifica lo statuto organico della cassa di risparmio per le provincie lombarde sedente in Milano. (9700140R)
+-----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/06/1897
+
+Art. 1
+------
+
+  
+Che approva due nuove operazioni della cassa di risparmio per le provincie lombarde sedente in Milano, e sono percio' aggiunti i seguenti alinea all'art. 65 del suo statuto organico:   
+  
+«l) conti correnti duraturi non oltre un anno, contro pegno di titoli emessi dallo Stato, ovvero guarentiti dallo Stato. Le somme sovvenute in questa forma potranno raggiungere ma non oltrepassare i nove decimi del valore di borsa attribuito ai titoli costituiti in pegno nel giorno del prelevamento;   
+  
+«m) conti correnti guarentiti con cambiali recanti tre firme, ovvero anche due firme con la fideiussione di ditte commerciali di indiscutibile solidita'. Anche questi conti correnti non potranno essere stipulati con durata maggiore di un anno, e il comitato esecutivo dovra' presentare intorno ad essi una dettagliata   
+  
+relazione in ogni seduta ordinaria della commissione centrale.» - Firmato UMBERTO - Controfirmato Guicciardini - Visto G. Costa.   
+  
+Registrato alla Corte dei conti addi' 20 maggio 1897.   
+  
+Reg. 210. Atti del Governo a f. 136.   
+  

@@ -1,0 +1,51 @@
+REGIO DECRETO 28 aprile 1930 n. 423
+
+
+REGIO DECRETO 28 aprile 1930 n. 423
+===================================
+
+Aumenti al prezzo di vendita dei tabacchi lavorati nazionali. (030U0423)
+------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/05/1930
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la legge organica sul monopolio dei sali e dei tabacchi 21 gennaio 1929-VII, n. 67;
+
+Sentito il Consiglio di amministrazione dei monopoli di Stato;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+A decorrere dal 29 aprile 1930-VIII il prezzo di vendita al pubblico dei tabacchi lavorati nazionali e' modificato come segue:   
+  
+Parte di provvedimento in formato grafico  
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 28 aprile 1930 - Anno VIII   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 28 aprile 1930 - Anno VIII   
+  
+Atti del Governo, registro 295, foglio 138. - Mancini.   

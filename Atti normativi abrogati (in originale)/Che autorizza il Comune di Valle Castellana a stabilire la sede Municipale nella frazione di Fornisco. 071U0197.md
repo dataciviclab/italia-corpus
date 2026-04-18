@@ -1,0 +1,49 @@
+REGIO DECRETO 16 aprile 1871 n. 197
+
+
+REGIO DECRETO 16 aprile 1871 n. 197
+===================================
+
+Che autorizza il Comune di Valle Castellana a stabilire la sede Municipale nella frazione di Fornisco. (071U0197)
+-----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/05/1871
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
+
+Vista la Legge 20 marzo 1865, allegato A;
+
+Viste le deliberazioni del Consiglio comunale di Valle Castellana, in data 20 maggio e 9 ottobre 1870, relative al ristabilimento della sede del Comune nella frazione Fornisco;
+
+Vista
+-----
+
+la deliberazione emessa dal Consiglio provinciale di Teramo, in seduta del 24 febbraio 1871, in coerenza al disposto dall'articolo 176, n. 1, della succitata Legge; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il Comune di Valle Castellana, in Provincia di Teramo, e' autorizzato a stabilire la sede Municipale nella frazione Fornisco.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 16 aprile 1871.   
+  
+VITTORIO EMANUELE.   
+  
+Registrato alla Corte dei conti addi' 28 aprile 1871   
+Reg. 55 Atti del Governo a c. 119. Ayres.   
+Luogo del sigillo. V. Il Guardasigilli DE FALCO.   
+  
+G. LANZA.   
+  
+  

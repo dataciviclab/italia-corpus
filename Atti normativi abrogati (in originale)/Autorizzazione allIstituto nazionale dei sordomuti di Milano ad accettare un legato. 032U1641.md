@@ -1,0 +1,19 @@
+REGIO DECRETO 10 novembre 1932 n. 1641
+
+
+REGIO DECRETO 10 novembre 1932 n. 1641
+======================================
+
+Autorizzazione all'Istituto nazionale dei sordomuti di Milano ad accettare un legato. (032U1641)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/01/1933
+
+Art. 1
+------
+
+N.
+
+1641. R. decreto 10 novembre 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, il presidente dell'Istituto nazionale dei sordomuti di Milano viene autorizzato ad accettare il legato di L. 10.000 disposto a favore dell'Istituto medesimo dalla signora Virginia Brusoni ved. Coppola.   
+Visto, il Guardasigilli: DE FRANCISCI.   
+Registrato alla Corte dei conti, addi' 21 dicembre 1932 - Anno XI

@@ -1,0 +1,56 @@
+LEGGE 30 settembre 1988 n. 425
+
+
+LEGGE 30 settembre 1988 n. 425
+==============================
+
+Modifica all'articolo 3 della legge 7 ottobre 1957, n. 
+968, concernente l'ordinamento dell'aviazione 
+antisommergibili.
+------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore della legge: 22/10/1988.
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. La [lettera b) del primo comma dell'articolo 3 della legge 7 ottobre 1957, n. 968](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-10-07;968~art3-com1-letb), e' sostituita dalla seguente:  
+" b) da ufficiali della Marina militare in possesso del brevetto di pilota militare rilasciato dall'Aeronautica militare ed abilitati al pilotaggio di veicoli 'antisom' in dotazione ai reparti".
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 30 settembre 1988
+
+COSSIGA
+
+DE MITA, Presidente del Consiglio dei Ministri
+
+ZANONE, Ministro della difesa
+
+Visto, il Guardasigilli: VASSALLI
+
+NOTE  
+AVVERTENZA:  
+Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [decreto del Presidente della Repubblica 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura della disposizione di legge qui modificata, della quale restano invariati il valore e l'efficacia.  
+  
+Nota all'art. 1:  
+Il testo vigente del [primo comma dell'art. 3 della legge n. 968/1957](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957;968~art3-com1), come modificato dalla presente legge, e' il seguente:  
+"I reparti dell'aviazione 'Antisom' sono costituiti:  
+a) da personale dell'Aeronautica militare;  
+b) da ufficiali della Marina militare in possesso del brevetto di pilota militare rilasciato dall'Aeronautica militare ed abilitati al pilotaggio di veicoli "antisom" in dotazione ai reparti;  
+c) da ufficiali della Marina militare in possesso del brevetto di osservatore dall'aeroplano;  
+d) da personale del Corpo equipaggi militari marittimi (C.E.M.M.) delle categorie radaristi e radiotelegrafisti in possesso del brevetto di 'specialista aeronautico' rilasciato dall'Aeronautica militare.  
+Il numero dei piloti, degli osservatori e degli specialisti della Marina militare e' stabilito con decreto del Presidente della Repubblica su proposta del Ministro per la difesa, di concerto col Ministro per il tesoro".  
+  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

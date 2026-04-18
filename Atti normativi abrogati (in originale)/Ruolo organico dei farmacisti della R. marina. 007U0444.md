@@ -1,0 +1,46 @@
+LEGGE 07 luglio 1907 n. 444
+
+
+LEGGE 07 luglio 1907 n. 444
+===========================
+
+Ruolo organico dei farmacisti della R. marina. (007U0444)
+---------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/07/1907
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il ruolo organico del personale dei farmacisti della R. marina e' stabilito in conformita' della tabella seguente:   
+  
+1 farmacista direttore di 1ª classe, L. 5000   
+4 farmacisti direttori di 2ª classe, L. 4000   
+2 farmacisti di 1ª classe, L. 3500   
+7 farmacisti di 2ª classe, L. 2500   
+--   
+14   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 7 luglio 1907.   
+  
+VITTORIO EMANUELE.   
+  
+Carcano.   
+Mirabello.   
+  
+Visto, Il guardasigilli: Orlando.   

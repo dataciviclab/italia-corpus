@@ -1,0 +1,48 @@
+REGIO DECRETO 06 maggio 1935 n. 775
+
+
+REGIO DECRETO 06 maggio 1935 n. 775
+===================================
+
+Autorizzazione al comune di Villarosa Sicilia ad applicare le imposte di consumo con la tariffa della classe G. (035U0775)
+--------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/06/1935
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il [R. decreto 23 marzo 1933, n. 294](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-03-23;294), col quale il comune di Villarosa Sicilia fu autorizzato ad applicare, fino al 31 dicembre 1934, le imposte di consumo entro i limiti stabiliti per i Comuni della classe G, ai sensi dell'art. 26 del testo unico per la finanza locale approvato con Nostro decreto 14 settembre 1931, n. 1175;
+
+Vista la deliberazione 1° dicembre 1934 con la quale il detto Comune ha chiesto la proroga dell'accennata autorizzazione;
+
+Udito il parere della Commissione centrale per la finanza locale;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze: Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il comune di Villarosa Sicilia e' autorizzato a continuare ad applicare, fino al 31 dicembre 1936, le imposte di consumo entro i limiti stabiliti per i Comuni della classe G.   
+  
+Ordiniamo che il presente decreto, munito, del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, inamidando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 6 maggio 1935 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+Di Revel.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registralo alla Corte dei conti, addi' 1° giugno 1935 - Anno XIII   
+Atti del Governo, registro 361, foglio 6. - Mancini.   

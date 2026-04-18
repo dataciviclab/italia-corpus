@@ -1,0 +1,65 @@
+REGIO DECRETO 15 ottobre 1925 n. 1882
+
+
+REGIO DECRETO 15 ottobre 1925 n. 1882
+=====================================
+
+Ripartizione del Ministero delle colonie in uffici centrali. (025U1882)
+-----------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/11/1925
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visti i Nostri decreti 23 ottobre 1922, n. 1517; 31 gennaio 1924, n. 198, e 8 agosto 1924, n. 1265, concernenti la ripartizione del Ministero delle colonie in uffici centrali;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le colonie; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Gli articoli 1 e 2 del Nostro decreto 5 marzo 1914, n. 212, sono modificati nel modo seguente:   
+  
+« Art. 1. - Il Ministero delle colonie e' ripartito nei seguenti uffici centrali:   
+  
+1° Direzione generale degli affari politici ed amministrativi;   
+  
+2° Direzione generale degli affari economici e finanziari;   
+  
+3° Agenzia generale delle Colonie;   
+  
+4° Ragioneria ».   
+  
+« Art. 2. - Fanno pure parte integrante del detto Ministero:   
+  
+l'Ufficio del personale, alla diretta dipendenza del Ministro;   
+  
+l'Ufficio stampa e l'Ufficio cifra alla diretta dipendenza del Gabinetto del Ministro ».   
+  
+Il presente decreto entrera' in vigore all'atto della sua pubblicazione.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 15 ottobre 1925.   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - P. Lanza di Scalea.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 9 novembre 1925.   
+  
+Atti del Governo, registro 242, foglio 37. - Granata.   

@@ -1,0 +1,47 @@
+REGIO DECRETO 04 giugno 1938 n. 1036
+
+
+REGIO DECRETO 04 giugno 1938 n. 1036
+====================================
+
+Proroga al 16 ottobre 1938-XVI dell'entrata in vigore del R. decreto 22 novembre 1937-XVI, n. 2199, col quale viene modificato il numero dei corsi e la tabella organica della Regia scuola professionale femminile annessa alla Regia scuola di magistero professionale per la donna «Elena di Savoia» di Napoli. (038U1036)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/08/1938
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il R. decreto 22 novembre 1937-XVI, n. 2199, col quale, a decorrere dal 16 ottobre 1937-XV, vengono modificati i corsi e la tabella organica della Scuola professionale femminile annessa alla Regia scuola di magistero professionale per la donna «Elena di Savoia» di Napoli;   
+  
+Considerata l'opportunita' di differire al 16 ottobre 1938-XVI l'entrata in vigore del predetto provvedimento;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' differita al 16 ottobre 1938-XVI l'entrata in vigore del R. decreto 22 novembre 1937-XVI, n. 2199 col quale, a decorrere dal 16 ottobre 1937-XV, viene modificato il numero dei corsi e la tabella organica della Regia scuola professionale femminile annessa alla Regia scuola di magistero professionale per la donna «Elena di Savoia» di Napoli e viene contemporaneamente soppressa l'annessa scuola tecnica a indirizzo commerciale.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 giugno 1938 - Anno XVI   
+  
+VITTORIO EMANUELE   
+  
+Bottai - Di Revel   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 19 luglio 1939 - Anno XVI   
+  
+Atti del Governo, registro 399, foglio 109. - Mancini.   
+  
+  

@@ -1,0 +1,41 @@
+REGIO DECRETO 15 giugno 1874 n. 1941
+
+
+REGIO DECRETO 15 giugno 1874 n. 1941
+====================================
+
+Che proroga la sessione del Senato del Regno e della Camera dei Deputati. (074U1941)
+------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/07/1874
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D' ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno,   
+  
+Udito il Consiglio dei Ministri;   
+  
+Visto l'articolo 9 dello Statuto fondamentale del Regno, 4 marzo 1848;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'attuale Sessione del Senato del Regno e della Camera dei deputati e' prorogata.   
+  
+Con altro Nostro decreto sara' stabilito il giorno della riconvocazione del Parlamento.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze, addi' 15 giugno 1874.   
+  
+VITTORIO EMANUELE.   
+  
+G. Cantelli.   
+  

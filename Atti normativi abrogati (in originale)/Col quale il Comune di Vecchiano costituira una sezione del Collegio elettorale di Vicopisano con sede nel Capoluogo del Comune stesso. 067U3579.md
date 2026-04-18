@@ -1,0 +1,54 @@
+REGIO DECRETO 03 marzo 1867 n. 3579
+
+
+REGIO DECRETO 03 marzo 1867 n. 3579
+===================================
+
+Col quale il Comune di Vecchiano costituira' una sezione del Collegio elettorale di Vicopisano con sede nel Capoluogo del Comune stesso. (067U3579)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/03/1867
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduti gli articoli 64, 65 e 66 della Legge per le elezioni politiche 17 dicembre 1860, n° 4513, e la tabella annessavi della circoscrizione territoriale dei Collegi elettorali;
+
+Vedute le istanze del Comune di Vecchiano, ond'essere costituito sezione del Collegio elettorale di Vicopisano n° 331, separatamente da quella del Collegio stesso detta dei Bagni di San Giuliano cui fu sino ad ora unito;
+
+Considerando che per la distanza che intercede fra Vecchiano e i Bagni San Giuliano riesce disagevole agli Elettori di Vecchiano il concorrere alle votazioni;
+
+Noverandosi nel Comune stesso piu' di 40 Elettori iscritti;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il Comune di Vecchiano costituira' una sezione del Collegio elettorale di Vicopisano n° 331, la quale avra' sede nel Capoluogo del Comune stesso.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 3 marzo 1867.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 19 marzo 1867   
+  
+Reg. 39 Atti del Governo a c. 181. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli Ricasoli.   
+  
+Ricasoli.   
+  

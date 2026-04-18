@@ -1,0 +1,56 @@
+REGIO DECRETO 29 novembre 1937 n. 2442
+
+
+REGIO DECRETO 29 novembre 1937 n. 2442
+======================================
+
+Istituzione di nuove sedi notarili nell'Africa Orientale Italiana. (037U2442)
+-----------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/02/1938
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il R. decreto-legge 1° giugno 1936-XIV, n. 1019, sull'ordinamento e l'amministrazione dell'Africa Orientale Italiana, convertito nella legge 11 gennaio 1937-XV, n. 285;
+
+Considerata la necessita' di provvedere all'istituzione di alcune sedi notarili nell'Africa Orientale Italiana, oltre quelle previste dagli ordinamenti in vigore;
+
+Udito il parere del Consiglio superiore coloniale; Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per l'Africa Italiana, di concerto con i Ministri Segretari di Stato per la grazia e giustizia e per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' istituita una sede notarile ad Asmara in aggiunta a quella gia' prevista dall'Ordinamento giudiziario per l'Eritrea, approvato con R. decreto 20 giugno 1935-XIII, n. 1619.   
+  
+Sono inoltre istituite una sede notarile a Massaua ed una, a Dessie'.   
+  
+Con successivo decreto del Ministro per l'Africa Italiana saranno determinate le circoscrizioni dei nuovi uffici.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 novembre 1937 - Anno XVI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - SOLMI - DI REVEL   
+  
+Visto, il Guardasigilli: SOLMI   
+  
+Registrato alla Corte dei conti, addi' 8 febbraio 1938 - Anno XVI   
+Atti del Governo, registro 394, foglio 36, - MANCINI.   
+  
+  

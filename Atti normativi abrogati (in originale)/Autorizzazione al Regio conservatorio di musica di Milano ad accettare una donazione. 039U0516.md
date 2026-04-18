@@ -1,0 +1,21 @@
+REGIO DECRETO 05 gennaio 1939 n. 516
+
+
+REGIO DECRETO 05 gennaio 1939 n. 516
+====================================
+
+Autorizzazione al Regio conservatorio di musica di Milano ad accettare una donazione. (039U0516)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/04/1939
+
+Art. 1
+------
+
+N.
+
+516. R. decreto 5 gennaio 1939, col quale, sulla proposta del Ministro per l'educazione nazionale viene autorizzato il Regio conservatorio di musica di Milano ad accettare dalla signora Rosa Carcassola la donazione di L. 20.000 per l'istituzione di una borsa di studio.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 25 marzo 1939-XVII

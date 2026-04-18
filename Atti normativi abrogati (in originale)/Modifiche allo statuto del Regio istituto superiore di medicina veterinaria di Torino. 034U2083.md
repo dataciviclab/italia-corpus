@@ -1,0 +1,107 @@
+REGIO DECRETO 16 ottobre 1934 n. 2083
+
+
+REGIO DECRETO 16 ottobre 1934 n. 2083
+=====================================
+
+Modifiche allo statuto del Regio istituto superiore di medicina veterinaria di Torino. (034U2083)
+-------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/01/1935
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduto lo statuto del Regio istituto superiore di medicina veterinaria di Torino, approvato con [R. decreto 11 dicembre 1930, n. 1972](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-12-11;1972), e modificato con [R. decreto 22 ottobre 1931, n. 1801](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1931-10-22;1801);   
+  
+Vedute le nuove proposte di modifiche avanzate dalle Autorita' accademiche del Regio istituto superiore predetto;   
+  
+Veduto il testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);   
+  
+Sentito il Consiglio superiore dell'educazione nazionale;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Lo statuto del Regio istituto superiore di medicina veterinaria di Torino, approvato e modificato con i Regi decreti sopraindicati, e' ulteriormente modificato nel modo seguente:   
+  
+Art. 2. - E' sostituito dal seguente:   
+  
+« Gli insegnamenti dell'Istituto sono i seguenti:   
+  
+1. Biologia generale;   
+  
+2. Chimica inorganica ed organica;   
+  
+3. Fisica;   
+  
+4. Botanica bromatologica veterinaria;   
+  
+5. Anatomia degli animali domestici (biennale);   
+  
+6. Fisiologia degli animali domestici (biennale);   
+  
+7. Ezoognosia;   
+  
+8. Podologia;   
+  
+9. Patologia generale ed anatomia patologica (biennale);   
+  
+10. Zootecnia;   
+  
+11. Igiene zootecnica;   
+  
+12. Terapia generale e farmacologia;   
+  
+13. Patologia medica, clinica medica e polizia sanitaria (biennale);   
+  
+14. Patologia chirurgica e clinica chirurgica (biennale);   
+  
+15. Anatomia topografica degli animali domestici;   
+  
+16. Medicina operatoria;   
+  
+17. Ostetricia;   
+  
+18. Igiene generale sperimentale veterinaria ed ispezione delle carni;   
+  
+19. Tecnica delle autopsie e diagnostica cadaverica;   
+  
+20. Medicina veterinaria legale;   
+  
+21 Batteriologia e immunologia veterinaria;   
+  
+22. Apicoltura e piscicoltura;   
+  
+23. Zooeconomia;   
+  
+24. Parassitologia e profilassi delle malattie da infestione del bestiame.   
+  
+Le materie, di cui ai numeri dall'1 al 21, sono considerate tutte fondamentali e comportano obbligo d'iscrizione, di frequenza e di esame.   
+  
+Per le materie di cui ai numeri 22, 23 e 24, l'esame e' facoltativo e puo' essere sostenuto dagli studenti prima di presentarsi all'esame di laurea».   
+  
+Art. 4. - E' sostituito dal seguente:   
+  
+«La distribuzione degl'insegnamenti e delle esercitazioni nei singoli anni di corso, il numero e l'ordine degli esami sotto fissati dal Consiglio di facolta' e comunicati con il manifesto animale».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 16 ottobre 1934 - Anno XII   
+  
+VITTORIO EMANUELE   
+  
+ERCOLE   
+  
+Visto, il Guardasigilli: DE FRANCISCI.   
+  
+Registrato alla Corte dei conti, addi' 29 dicembre 1934 - Anno XIII   
+  
+Atti del Governo, registro 354, foglio 101. - MANCINI.   

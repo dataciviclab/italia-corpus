@@ -1,0 +1,65 @@
+REGIO DECRETO 11 maggio 1942 n. 686
+
+
+REGIO DECRETO 11 maggio 1942 n. 686
+===================================
+
+Variante al piano regolatore della citta' di Firenze per la sistemazione della zona di Monticelli. (042U0686)
+-------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/07/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il R. decreto-legge 13 gennaio 1924-II, n. 170, convertito nella legge 17 aprile 1925-III, n. 473, con il quale fu approvato il piano regolatore di ampliamento della citta' di Firenze;   
+  
+Vista la domanda in data 29 agosto 1940-XVIII del podesta' di Firenze intesa ad ottenere l'approvazione di una variante al detto piano regolatore, nella zona di Monticelli;   
+  
+Visto il relativo piano;   
+  
+Ritenuto che il procedimento seguito e' regolare e che durante le pubblicazioni non furono prodotte opposizioni;   
+  
+Considerato che la presente variazione mira ad una notevole semplificazione nelle correnti del traffico e ad un sensibile miglioramento estetico in quanto pur mantenendo le strade esistenti o in via di formazione, viene ad eliminare due nodi multipli, ricorrendo da un lato allo spostamento della nuova strada progettata come collegante i nodi stessi e dall'altro ad una rettificazione della strada che il piano prevede dipartirsi in curva dal nodo superiore;   
+  
+Considerato che la variante in parola appare quindi meritevole di approvazione;   
+  
+Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);   
+  
+Visto il voto n. 2220 del 31 ottobre 1941-XX del Consiglio superiore dei lavori pubblici;   
+  
+Udito il parere del Consiglio di Stato;   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici di concerto con i Ministri Segretari di Stato per l'interno e per l'educazione nazionale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata la variante al piano regolatore della citta' di Firenze per la sistemazione della zona di Monticelli.   
+  
+Per l'attuazione di tale variante rimane fermo il termine stabilito per il piano originario, giusta il R. decreto-legge 13 gennaio 1924-II, n. 170, convertito nella legge 17 aprile 1925-III, n. 473.   
+  
+Il detto piano di variante, visto d'ordine Nostro dal Ministro proponente, in scala 1:2500 in data 26 aprile 1940-XVIII, sara' depositato all'Archivio di Stato.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 11 maggio 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - GORLA - BOTTAI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 25 giugno 1942-XX   
+  
+Atti del Governo, registro 446, foglio 103. - MANCINI   

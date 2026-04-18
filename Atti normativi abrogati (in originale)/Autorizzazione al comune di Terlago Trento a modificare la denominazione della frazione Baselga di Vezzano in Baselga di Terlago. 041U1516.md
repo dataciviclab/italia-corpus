@@ -1,0 +1,51 @@
+REGIO DECRETO 24 novembre 1941 n. 1516
+
+
+REGIO DECRETO 24 novembre 1941 n. 1516
+======================================
+
+Autorizzazione al comune di Terlago (Trento) a modificare la denominazione della frazione Baselga di Vezzano in «Baselga di Terlago». (041U1516)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/02/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduta l'istanza con la quale il Commissario prefettizio per la temporanea amministrazione del comune di Terlago, in esecuzione della deliberazione 2 agosto 1940-XVIII, n. 64, chiede l'autorizzazione a mutare le denominazioni delle frazioni Baselga di Vezzano e Vigolo Baselga rispettivamente in «Baselga di Terlago» e «Vigolo di Terlago»;   
+  
+Veduto il parere espresso dal Rettorato della provincia di Trento in seduta del 19 dicembre 1940-XIX;   
+  
+Ritenuto che ragioni storiche consigliano di mantenere inalterata la denominazione della frazione Vigolo Baselga;   
+  
+Veduto l'art. 266 del testo unico della legge comunale e provinciale approvato con Nostro decreto 3 marzo 1934-XII, n. 383;   
+  
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' autorizzato il mutamento della denominazione della frazione Baselga di Vezzano del comune di Terlago in «Baselga di Terlago».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi'. 24 novembre 1941-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 18 gennaio 1942-XX   
+  
+Atti del Governo, registro 441, foglio 54. - MANCINI   
+  
+  

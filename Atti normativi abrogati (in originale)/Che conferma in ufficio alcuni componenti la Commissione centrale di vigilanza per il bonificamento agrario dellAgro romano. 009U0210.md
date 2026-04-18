@@ -1,0 +1,51 @@
+REGIO DECRETO 15 aprile 1909 n. 210
+
+
+REGIO DECRETO 15 aprile 1909 n. 210
+===================================
+
+Che conferma in ufficio alcuni componenti la Commissione centrale di vigilanza per il bonificamento agrario dell'Agro romano. (009U0210)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/05/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto l'art. 33 del testo unico delle leggi sull'Agro romano, approvato con [R. decreto 10 novembre 1905, n. 647](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-11-10;647);   
+  
+Visti i Nostri decreti 22 dicembre 1904, n. 707, e 7 gennaio 1906, n. 10;   
+  
+Visto che allo scadere del triennio 1904-907 non fu dalla Deputazione provinciale di Roma designato il proprio rappresentante in seno alla Commissione di vigilanza per l'Agro romano e che soltanto con nota del 25 febbraio 1909, n. 1575, la Deputazione stessa, ha partecipato la conferma del marchese Alberto Del Gallo di Roccagiovine a rappresentare il Consiglio provinciale nella Commissione predetta per il triennio 1908-910;   
+  
+Vista la nota del [ministro dell'interno 27 gennaio 1909, n. 20](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno::1909-01-27;20),[900](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.interno::1909-01-27;900), con la quale conferma il cav. uff. dott. Angelo Pavone per un altro triennio a proprio rappresentante nella Commissione anzidetta;   
+  
+Sulla proposta del Nostro ministro Segretario di Stato per l'agricoltura, l'industria e il commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A far parte della Commissione di vigilanza per il bonificamento dell'Agro romano sono nominati:   
+  
+il sig. marchese Alberto Del Gallo di Roccagiovine, rappresentante della provincia di Roma per il triennio 1908-910;   
+  
+il cav. uff. dott. Angelo Pavone, direttore capo di divisione, medico nella Direzione generale di sanita', quale delegato del Ministero dell'interno per il triennio 1909-911;   
+  
+l'on. principe don Giovanni Torlonia, quale rappresentante dei proprietari interessati nella bonifica pel triennio 1909-911.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 15 aprile 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Cocco-Ortu.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

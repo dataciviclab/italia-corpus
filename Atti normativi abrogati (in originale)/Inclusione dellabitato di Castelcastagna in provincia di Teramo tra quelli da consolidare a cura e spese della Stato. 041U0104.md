@@ -1,0 +1,47 @@
+REGIO DECRETO 23 gennaio 1941 n. 104
+
+
+REGIO DECRETO 23 gennaio 1941 n. 104
+====================================
+
+Inclusione dell'abitato di Castelcastagna, in provincia di Teramo, tra quelli da consolidare a cura e spese della Stato. (041U0104)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/03/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il [decreto Luogotenenziale 30 giugno 1918, n. 1019](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-30;1019);   
+  
+Visto il voto del Consiglio superiore dei lavori pubblici in data 12 dicembre 1940-XIX, n. 2658;   
+  
+Sulla proposta del Nostro Ministro, Segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A norma dell'art. 1, sub 7, del [decreto Luogotenenziale 30 giugno 1918, n 1019](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-30;1019), e' aggiunto, a tutti gli effetti della [legge 9 luglio 1908, n 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445) titolo IV, agli abitati indicati nella tabella D allegata alla legge stessa (consolidamento di frane minaccianti abitati) quello di Castelcastagna, in provincia di Teramo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d Italia, mandando a chiunque spetti di osservarla e di farlo osservare.   
+  
+Dato a Roma, addi' 23 gennaio 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+GORLA   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte del conti, addi' 9 marzo 1941-XIX   
+  
+Atti del Governo, registro 431, foglio 27. - MANCINI   
+  
+  

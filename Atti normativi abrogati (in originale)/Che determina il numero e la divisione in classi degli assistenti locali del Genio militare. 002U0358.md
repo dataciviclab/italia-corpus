@@ -1,0 +1,58 @@
+REGIO DECRETO 18 agosto 1902 n. 358
+
+
+REGIO DECRETO 18 agosto 1902 n. 358
+===================================
+
+Che determina il numero e la divisione in classi degli assistenti locali del Genio militare. (002U0358)
+-------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/09/1902
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la legge d'ordinamento del R. esercito e dei servizi dipendenti dall'Amministrazione della Guerra, testo unico, approvato con [R. decreto 14 luglio 1898, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;525), modificata con la [legge del 7 luglio 1901, n. 285](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-07-07;285), e con [legge del 21 luglio 1902, n. 303](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-07-21;303);
+
+Vista la legge sugli stipendi ed assegni fissi pel R. esercito, testo unico, approvato con [R. decreto 14 luglio 1898, n. 380](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;380), modificata dalla [legge del 7 luglio 1901, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-07-07;286);
+
+Vista la [legge del 22 giugno 1902, n. 196](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-06-22;196), che approva lo stato di previsione della spesa del Ministero della Guerra, per l'esercizio finanziario 1902-903;
+
+Visto il [R. decreto 30 dicembre 1900, n. 503](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-12-30;503), che determina il numero e la divisione in classi degli assistenti locali del genio;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il numero e la divisione in classi degli assistenti locali del genio, sono determinati come in appresso:   
+  
+1ª classe . . . . . . . . . . . . N. 113   
+  
+2ª id. . . . . . . . . . . . . » 75   
+  
+3ª id. . . . . . . . . . . . . » 48   
+  
+------   
+  
+Totale . . . N. 236   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 18 agosto 1902.   
+  
+VITTORIO EMANUELE.   
+  
+Ottolenghi.   
+  
+Visto, Il Guardasigilli: Cocco-Ortu.   
+  

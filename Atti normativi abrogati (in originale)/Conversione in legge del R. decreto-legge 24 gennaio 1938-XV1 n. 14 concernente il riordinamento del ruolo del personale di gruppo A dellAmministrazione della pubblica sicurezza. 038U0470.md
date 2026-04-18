@@ -1,0 +1,39 @@
+LEGGE 07 aprile 1938 n. 470
+
+
+LEGGE 07 aprile 1938 n. 470
+===========================
+
+Conversione in legge del R. decreto-legge 24 gennaio 1938-XV1, n. 14, concernente il riordinamento del ruolo del personale di gruppo A dell'Amministrazione della pubblica sicurezza. (038U0470)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/05/1938
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei deputati hanno approvato:   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il Regie decreto-legge 24 gennaio 1938-XVI, n. 14, concernente il riordinamento del ruolo del personale di gruppo A dell'Amministrazione della pubblica -sicurezza.   
+  
+Ordiniamo che la presente, munita de Sigillo dello Stato,e sia inserita nella raccolta Ufficiale, delle leggi e dei decreti del Regno d'Italia: mandando chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 7 aprile 1938 Anno XVI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: SOLMI.   

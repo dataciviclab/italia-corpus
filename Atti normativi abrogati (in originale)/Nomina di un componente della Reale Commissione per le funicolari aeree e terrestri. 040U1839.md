@@ -1,0 +1,48 @@
+REGIO DECRETO 19 dicembre 1940 n. 1839
+
+
+REGIO DECRETO 19 dicembre 1940 n. 1839
+======================================
+
+Nomina di un componente della Reale Commissione per le funicolari aeree e terrestri. (040U1839)
+-----------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/02/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il Nostro decreto 17 gennaio 1926, registrato alla [Corte dei conti il 10 febbraio 1926](https://e-justice.europa.eu/ecli/ECLI::::), al registro 2, foglio 764, con il quale venne istituita la Commissione per le funicolari aeree e terrestri;   
+  
+Visti i Nostri decreti 11 dicembre 1927, 10 gennaio 1929, 13 giugno 1935, 21 novembre 1935, 16 marzo 1939, 15 maggio 1939 e 29 giugno 1940, rispettivamente registrati alla [Corte dei conti il 29 dicembre 1927](https://e-justice.europa.eu/ecli/ECLI::::), al registro 1 pag. 53, il 25 gennaio 1929, al registro 1 pag. 283, il 28 giugno 1935, al registro 2 pag. 274, il 6 dicembre 1935, al registro 3 pag. 19, il 17 aprile 1939, al registro 5 pag. 392, il 24 giugno 1939, al registro 6 pag. 58 e il 16 luglio 1940, registro 423, pag. 95, con i quali fu variata la composizione dalla Commissione suddetta;   
+  
+Ritenuta l'opportunita' di integrare la nominata Commissione chiamandovi a far parte, per la sua particolare competenza, il sig.  
+Ceraso comm. dott. ing. Umberto, direttore del Circolo ferroviario d'ispezione di Bolzano, in qualita' di membro;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' chiamato a far parte della Reale Commissione per le funicolari aeree e terrestri istituita con Nostro decreto 17 gennaio 1926, in qualita' di membro, il signor Ceraso comm. dott. ing. Umberto, direttore del Circolo ferroviario d'ispezione di Bolzano.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 19 dicembre 1940-XIX   
+  
+VITTORIO EMANUELE   
+  
+HOST VENTURI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 16 gennaio 1941-XIX   
+  
+Atti del Governo, registro 429, foglio 84. - MANCINI   

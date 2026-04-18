@@ -1,0 +1,21 @@
+REGIO DECRETO 20 maggio 1935 n. 2120
+
+
+REGIO DECRETO 20 maggio 1935 n. 2120
+====================================
+
+Erezione in ente morale della Cassa scolastica del Regio istituto magistrale di Spoleto. (035U2120)
+---------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/01/1936
+
+Art. 1
+------
+
+N.
+
+2120. R. decreto 20 maggio 1935, col quale, sulla proposta del Ministro per l'educazione nazionale, viene eretta in ente morale la Cassa scolastica del Regio istituto magistrale di Spoleto, e ne viene approvato il relativo statuto.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 11 dicembre 1935 - Anno XIV

@@ -1,0 +1,17 @@
+REGIO DECRETO 21 gennaio 1923 n. 216
+
+
+REGIO DECRETO 21 gennaio 1923 n. 216
+====================================
+
+Autorizzazione a riscuotere dazi. (023U0216)
+--------------------------------------------
+
+Entrata in vigore del provvedimento: 03/04/1923
+
+Art. 1
+------
+
+  
+N. 216 Regio decreto 21 gennaio 1923, col quale, su proposta del Ministro delle finanze, il comune di Ventimiglia e' autorizzato a continuare a riscuotere un dazio proprio per quintale sui lavori di maiolica o porcellana di L. 30; sulla carta da stampa e da scrivere, lavori di cartone, articoli di cancelleria di L. 30; sulla carta da involgere di L. 10; lavori di vetro e di cristallo di L. 30; terraglie bianche di L. 20; terraglie ordinarie di L. 10; amido e amidone di L. 20; crine animale e vegetale di lire 20.   
+  

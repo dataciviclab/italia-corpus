@@ -1,0 +1,24 @@
+REGIO DECRETO 05 gennaio 1896 n. VIII
+
+
+REGIO DECRETO 05 gennaio 1896 n. VIII
+=====================================
+
+Con cui il comune di Sciacca e' autorizzato a riscuotere sulle bevande vinose e spiritose in luogo della tassa per la loro vendita al minuto dentro la linea daziaria, un dazio addizionale che oltrepassa il 50 per cento del dazio governativo dovuto tanto per le dette bevande quanto per l'uva ed il mosto. (9600008R)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/02/1896
+
+Art. 1
+------
+
+  
+Con cui il comune di Sciacca e' autorizzato a riscuotere sulle bevande vinose e spiritose in luogo della tassa per la loro vendita al minuto dentro la linea daziaria, un dazio addizionale che oltrepassa il 50 per % del dazio governativo dovuto tanto per le dette bevande quanto per l'uva ed il mosto conforme alla seguente tariffa:   
+  
+Vino ed aceto in fusti ettol. L. 4.00. - Vinello, mezzo vino, posca ed agresto ettol. L. 2.00. - Vino ed aceto in bottiglie caduna L.  
+0.10. - Mosto ettol. L. 3.00. - Uva in quantita' maggiore di chilog. cinque, quint. L. 2.00. - Alcool ed acquavite fino a 59° dell'alcoolometro di Gay Lussac ettol. L. 8.00. - Alcool ed acquavite a piu' di 59° del suddetto alcoolometro e liquori ettol. L. 12.00. - Alcool, acquavite e liquori in bottiglie caduna L. 0.20. - Firmato UMBERTO - Contrassegnato P. Boselli - Visto Calenda.   
+  
+Registrato alla Corte dei Conti addi' 17 gennaio 1896.   
+  
+Reg. 204. Atti del Governo a f. 40.   
+  

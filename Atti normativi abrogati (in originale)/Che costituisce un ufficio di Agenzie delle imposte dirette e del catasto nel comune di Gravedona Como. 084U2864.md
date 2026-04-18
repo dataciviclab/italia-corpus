@@ -1,0 +1,30 @@
+REGIO DECRETO 14 dicembre 1884 n. 2864
+
+
+REGIO DECRETO 14 dicembre 1884 n. 2864
+======================================
+
+Che costituisce un ufficio di Agenzie delle imposte dirette e del catasto nel comune di Gravedona (Como). (084U2864)
+--------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/01/1885
+
+Articolo unico
+--------------
+
+  
+  
+Nel comune di Gravedona (Como) e' costituito un ufficio di Agenzie delle imposte dirette e del catasto, con giurisdizione sui comuni componenti il mandamento di Gravedona e su quelli componenti il mandamento di Dongo, cioe': Bugiallo, Domaso, Dosso del Liro, Cera, Gravedona, Livo, Montemezzo, Peglio, Sorico, Traversa, Trezzone, Vercana, Consiglio di Rumo, Cremia, Dongo, Garzeno, Germasino, Musso, Pianello del Lario, Rezzonico, San Siro, Sant'Abbondio, Stazzona, che ne formano il distretto.   
+  
+Il presente decreto avra' effetto dal 1° gennaio 1885.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 14 dicembre 1884.   
+  
+UMBERTO.   
+  
+A. Magliani.   
+  
+Visto, Il Guardasigilli: Pessina.   
+  

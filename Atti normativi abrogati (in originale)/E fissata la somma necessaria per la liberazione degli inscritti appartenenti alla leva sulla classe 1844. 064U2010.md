@@ -1,0 +1,46 @@
+REGIO DECRETO 20 novembre 1864 n. 2010
+
+
+REGIO DECRETO 20 novembre 1864 n. 2010
+======================================
+
+E' fissata la somma necessaria per la liberazione degli inscritti appartenenti alla leva sulla classe 1844. (064U2010)
+----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/12/1864
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 115 della legge 20 marzo 1854;
+
+Visto l'art. 1 della legge 30 luglio 1864, colla quale il Governo del Re e' stato autorizzato ad operare una leva militare sui nati nell'anno 1844 in tutte le Provincie dello Stato;
+
+Sulla
+-----
+
+proposta del Nostro Ministro della Guerra; Abbiamo ordinato ed ordiniamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+La somma necessaria per la liberazione degli inscritti appartenenti alla leva sulla classe 1844 e' fissata in lire tremila, oltre a lire duecento per fondo di massa e corredo.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 20 novembre 1864.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 24 novembre 1864   
+Reg.° 31 Atti del Governo a c. 165. Ayres.   
+Luogo del Sigillo. V. Il Guardasigilli Vacca.   
+  
+A. Petitti.   
+  

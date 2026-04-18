@@ -1,0 +1,22 @@
+REGIO DECRETO 03 marzo 1895 n. CCCLXVII
+
+
+REGIO DECRETO 03 marzo 1895 n. CCCLXVII
+=======================================
+
+Che concentra le fondazioni di beneficenza Grossi Luigi, Grillanzoni Gio. Batta, Ragazzi Domenico, Opera pia degli infermi, Mazza Gregorio e Marchetti Giacomo, esistenti nel comune di Finale Emilia nella congregazione di carita' locale. (9500367R)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/12/1895
+
+Art. 1
+------
+
+  
+Con cui le fondazioni di beneficenza Grossi Luigi, Grillanzoni Gio.  
+Batta, Ragazzi Domenico, Opera pia degli infermi, Mazza Gregorio e Marchetti Giacomo, esistenti nel comune di Finale Emilia sono concentrate nella congregazione di carita' locale. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
+  
+Registrato alla Carte dei Conti addi' 27 novembre 1895.   
+  
+Reg. 201. Atti del Governo a f. 130.   
+  

@@ -1,0 +1,51 @@
+REGIO DECRETO 22 febbraio 1932 n. 233
+
+
+REGIO DECRETO 22 febbraio 1932 n. 233
+=====================================
+
+Norme circa la corresponsione d'indennita' al personale della Regia aeronautica per incarichi nel luogo di residenza. (032U0233)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/04/1932
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 29 del regolamento sulle indennita' da corrispondere al personale appartenente alla Regia aeronautica, approvato con il decreto Commissariale 27 giugno 1924;
+
+Vista la [legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100);
+
+Ritenuto necessario precisare il contenuto della norma prevista nell'art. 29, n. 1, del regolamento suddetto, nella parte riguardante l'indennita' da corrispondere al personale che disimpegna prestazioni di servizio superiori alle normali;
+
+Sentito il Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'aeronautica, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le prestazioni di servizio superiori alle normali, contemplate nell'art. 29, n. 1, del regolamento sulle indennita' per il personale della Regia aeronautica, approvato col decreto Commissariale 27 giugno 1924, non si riferiscono alle reggenze di uffici o servizi, anche se implichino l'esercizio di funzioni del grado superiore a quello rivestito dal funzionario.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 22 febbraio 1932 - Anno X   
+  
+VITTORIO EMANUELE.   
+  
+  
+Mussolini - Balbo - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 25 marzo 1932 - Anno X   
+Atti del Governo, registro 318, foglio 129. - Ferzi.   
+  

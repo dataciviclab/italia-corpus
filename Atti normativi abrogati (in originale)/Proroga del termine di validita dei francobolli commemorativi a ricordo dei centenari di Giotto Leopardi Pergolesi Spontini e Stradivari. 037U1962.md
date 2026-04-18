@@ -1,0 +1,52 @@
+REGIO DECRETO 27 ottobre 1937 n. 1962
+
+
+REGIO DECRETO 27 ottobre 1937 n. 1962
+=====================================
+
+Proroga del termine di validita' dei francobolli commemorativi a ricordo dei centenari di Giotto, Leopardi, Pergolesi, Spontini e Stradivari. (037U1962)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/12/1937
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il R. decreto 1° luglio 1937-XV, n. 1421, col quale fu autorizzata l'emissione di francobolli commemorativi dei centenari di Giotto, Leopardi, Pergolesi, Spontini e Stradivari, la cui validita' venne stabilita fino al 28 febbraio 1938-XVI e la vendita limitata al 31 dicembre 1937-XVI;
+
+Riconosciuta l'opportunita' di prorogare i termini di vendita e di validita' delle predette carte valori postali;
+
+Sentito il Consiglio di amministrazione delle poste e dei telegrafi;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stata per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+Ferme restando tutte le altre disposizioni contenute nel R. decreto 1° luglio 1937-XV, n. 1421, la vendita dei francobolli commemorativi dei centenari di Giotto, Leopardi, Pergolesi, Spontini e Stradivari e' prorogata fino a tutto il 30 giugno 1938-XVI e la loro validita' cessera' il 1° ottobre dello stesso anno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 27 ottobre 1937 - Anno XV   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Benni - Di Revel.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 30 novembre 1937 - Anno XVI   
+Atti del Governo, registro 391, foglio 189. - Mancini.   

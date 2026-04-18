@@ -1,0 +1,56 @@
+REGIO DECRETO 11 maggio 1911 n. 452
+
+
+REGIO DECRETO 11 maggio 1911 n. 452
+===================================
+
+Che apporta varianti nel decreto riguardante le Commissioni destinate a determinare gli ufficiali di artiglieria atti a coprire cariche tecniche. (011U0452)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/06/1911
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la [legge 10 luglio 1910, n. 443](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-10;443), che istituisce il servizio tecnico e il corso superiore tecnico di artiglieria;
+
+Visto il testo unico delle leggi sull'ordinamento del R. esercito, approvato con [R. decreto 14 luglio 1898, n. 525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-07-14;525), modificato con [leggi 7 luglio 1901, n. 285; 21 luglio 1902, n. 303; 2 giugno 1904, n. 216; 3 luglio 1904, n. 300; 9 luglio 1905, n. 347; 8 luglio 1906, n. 305; 12 luglio 1906, n. 343; 19 luglio 1906, n. 372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-19;372); 30 dicembre, 1906, n. 647; 21 marzo 1907, n. 84; 13 giugno 1907, n. 327; 14 luglio 1907, nn. 479 e 484; 5 gennaio 1908, n. 7; 2 luglio 1908, n. 328; 15 luglio 1909, n. 473; 17 luglio 1910, n. 515;
+
+Vista la [legge 2 luglio 1896, n. 254](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;254), sull'avanzamento nel R. esercito, modificata con [leggi 6 marzo 1898, n. 50; 3 luglio 1902, n. 247; 21 luglio 1902, n. 303; 30 dicembre 1906, n. 647; 14 luglio 1907, n. 495; 17 luglio 1910, n. 515](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-17;515);
+
+Visto il regolamento per l'esecuzione della legge sull'avanzamento nel R. esercito, approvato con Nostro decreto 21 luglio 1907, n. 626, modificato con Nostri decreti 25 luglio 1907, n. 678; 24 ottobre 1907, n. 700; 29 luglio 1909, n. 548; 16 dicembre 1909, n. 803; 31 agosto 1910, n. 732; 30 ottobre 1910, n. 762; 11 dicembre 1910, n. 893;
+
+Visto il Nostro decreto 30 ottobre 1910, n. 794, che designa le Commissioni destinate a determinare quali ufficiali di artiglieria siano atti a coprire cariche tecniche;
+
+Sentito il parere del Consiglio di Stato;
+
+Previa deliberazione del Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per gli affari della guerra; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Nell'art. 2 del Nostro decreto 30 ottobre 1910, n. 794, sopracitato, alle parole: «Quelli fra i prescelti, che contano meno di quattro anni di siffatto servizio, entreranno ugualmente a far parte del ruolo speciale, ma potranno essere trasferiti al ruolo combattente, sia d'autorita', sia a loro domanda, fino a che non abbiano compiuto i quattro anni ora detti» sono sostituite le seguenti:   
+  
+«Quelli fra i prescelti che contano meno di quattro anni di siffatto servizio, entreranno ugualmente a far parte del ruolo speciale, ma potranno essere trasferiti al ruolo combattente nell'interesse del servizio, sia d'autorita', sia a loro domanda, e fino a che non abbiano compiuto i quattro anni ora detti; sentite in ogni caso le Commissioni di cui all'art. 1».   
+  
+Ordiniamo che il presente decreto, munito del sigillo Stato, sia inserto nella raccolta ufficiale delle leggi dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 11 maggio 1911.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Spingardi.   
+  
+Visto, Il guardasigilli: Finocchiaro - Aprile.   
+  

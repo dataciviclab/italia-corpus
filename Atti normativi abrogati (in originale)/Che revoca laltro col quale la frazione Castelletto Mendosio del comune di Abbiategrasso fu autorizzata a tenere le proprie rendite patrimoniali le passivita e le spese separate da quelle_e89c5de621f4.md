@@ -1,0 +1,45 @@
+REGIO DECRETO 19 agosto 1894 n. 412
+
+
+REGIO DECRETO 19 agosto 1894 n. 412
+===================================
+
+Che revoca l'altro col quale la frazione Castelletto Mendosio del comune di Abbiategrasso fu autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del rimanente comune. (094U0412)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/09/1894
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Veduto il R. decreto 8 maggio 1870, col quale la frazione Castelletto Mendosio del comune di Abbiategrasso, in provincia di Milano, fu autorizzata a tenere le proprie rendite patrimoniali, le passivita' e le spese separate da quelle del rimanente comune;   
+  
+Veduta l'istanza 20 marzo 1894, con la quale la maggioranza dei contribuenti di Castelletto Mendosio domandano la revoca del detto decreto;   
+  
+Veduta la deliberazione del Consiglio comunale di Abbiategrasso del 10 giugno 1894;   
+  
+Veduta la legge comunale e provinciale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il Regio decreto 8 maggio 1870 sopracitato e' revocato.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Gran Piano sopra Ceresole Reale, addi' 19 agosto 1894.   
+  
+UMBERTO   
+  
+Crispi.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   
+  

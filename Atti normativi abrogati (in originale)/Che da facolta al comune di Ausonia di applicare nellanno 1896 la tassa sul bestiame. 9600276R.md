@@ -1,0 +1,24 @@
+REGIO DECRETO 12 luglio 1896 n. CCLXXVI
+
+
+REGIO DECRETO 12 luglio 1896 n. CCLXXVI
+=======================================
+
+Che da' facolta' al comune di Ausonia di applicare nell'anno 1896, la tassa sul bestiame. (9600276R)
+----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/08/1896
+
+Art. 1
+------
+
+  
+Che da' facolta' al comune di Ausonia di applicare nell'anno 1896, la tassa sul bestiame in base alla seguente tariffa:   
+  
+Per ogni animale cavallino, mulino e vaccino da uno a due anni L. 1.50, da due a tre anni L. 2, sopra i tre anni L. 2.50. Per ogni animale asinino da due a tre anni L. 1, superiore ai tre anni L.  
+1.25. Per ogni animale caprino inferiore ai sei mesi L. 0.25, superiore ai sei mesi L. 0.45. - Per ogni animale ovino inferiore a sei mesi L. 0.15, superiore ai sei mesi L. 0.25. - Firmato UMBERTO - Contrassegnato Branca - Visto G. Costa.   
+  
+Registrato alla Corte dei Conti addi' 20 luglio 1896.   
+  
+Reg. 206. Atti del Governo a f. 211.   
+  

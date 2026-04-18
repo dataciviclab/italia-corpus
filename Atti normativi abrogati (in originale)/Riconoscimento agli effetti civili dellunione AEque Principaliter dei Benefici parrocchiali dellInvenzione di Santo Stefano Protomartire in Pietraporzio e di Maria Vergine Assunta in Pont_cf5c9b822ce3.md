@@ -1,0 +1,18 @@
+DECRETO LUOGOTENENZIALE 12 aprile 1946 n. 494
+
+
+DECRETO LUOGOTENENZIALE 12 aprile 1946 n. 494
+=============================================
+
+Riconoscimento, agli effetti civili, dell'unione "AEque Principaliter" dei Benefici parrocchiali dell'Invenzione di Santo Stefano Protomartire, in Pietraporzio e di Maria Vergine Assunta, in Pontebernardo, in comune di Sambuco-Pietraporzio (Cuneo).
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Art. 1
+------
+
+N.
+
+494. Decreto Luogotenenziale 12 aprile 1946, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Cuneo in data 2 maggio 1944, con il quale fu disposta l'unione "AEque Principaliter" dei Benefici parrocchiali dell'invenzione di Santo Stefano Protomartire, in Pietraporzio e di Maria Vergine Assunta, in Pontebernardo, in comune di Sambuco-Pietraporzio (Cuneo).  
+  
+Visto, il Guardasigilli: TOGLIATTI  
+Registrato alla Corte dei conti, addi' 5 giugno 1946

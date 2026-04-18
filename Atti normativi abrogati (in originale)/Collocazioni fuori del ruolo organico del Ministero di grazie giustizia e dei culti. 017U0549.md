@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 22 marzo 1917 n. 549
+
+
+DECRETO LUOGOTENENZIALE 22 marzo 1917 n. 549
+============================================
+
+Collocazioni fuori del ruolo organico del Ministero di grazie, giustizia e dei culti. (017U0549)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/04/1917
+
+Art. 1
+------
+
+  
+N. 549   
+  
+Decreto Luogotenenziale 22 marzo 1917, col quale, sulla proposta del ministro di grazia e giustizia e dei culti, di concerto col ministro del tesoro, il commendator Raffaello De Notaristefani, procuratore generale presso la Corte d'appello di Cagliari, commissario del Governo presso la Commissione delle prede, e' collocato fuori del ruolo organico per motivi di servizio dal 22 marzo 1917, per un periodo di tempo non superiore a sei mesi dopo la pubblicazione della pace.   
+  

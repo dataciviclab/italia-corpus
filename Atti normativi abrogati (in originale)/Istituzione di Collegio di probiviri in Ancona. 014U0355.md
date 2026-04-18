@@ -1,0 +1,19 @@
+REGIO DECRETO 23 aprile 1914 n. 355
+
+
+REGIO DECRETO 23 aprile 1914 n. 355
+===================================
+
+Istituzione di Collegio di probiviri in Ancona. (014U0355)
+----------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/05/1914
+
+Art. 1
+------
+
+  
+N. 355   
+  
+Regio Decreto 23 aprile 1914, col quale, sulla proposta dei ministri di agricoltura, industria e commercio e di grazia e giustizia e dei culti, viene estesa anche all'industria edilizia la competenza per materia del Collegio di probiviri per l'industria dei laterizi, istituito in Ancona, con R. decreto 31 agosto 1910, n. CCCLXXI.   
+  

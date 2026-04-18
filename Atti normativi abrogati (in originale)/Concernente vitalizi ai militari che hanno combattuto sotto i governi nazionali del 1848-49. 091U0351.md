@@ -1,0 +1,55 @@
+LEGGE 28 giugno 1891 n. 351
+
+
+LEGGE 28 giugno 1891 n. 351
+===========================
+
+Concernente vitalizi ai militari che hanno combattuto sotto i governi nazionali del 1848-49. (091U0351)
+-------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/07/1891
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+All'articolo 7° della [legge 4 dicembre 1879, n. 5168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-04;5168), (serie 2ª) e' sostituito il seguente:   
+  
+Nei limiti stanziati in bilancio colla legge suddetta e con le successive 22 luglio 1881, n. 349, (serie 3ª) 3 luglio 1888, n. 5505 (serie 3ª), 2 marzo 1884, n. 1958 (serie 3ª), 22 aprile 1886, n. 3821, (serie 3ª), bastera' d'ora in poi per l'ammissione dei sott'ufficiali, caporali e soldati all'assegno vitalizio, che i medesimi, oltre all'aver servito con regolare arruolamento nei corpi combattenti sotto i Governi nazionali del 1848-49 ed essere privi di mezzi di sussistenza, soddisfacciano alle condizioni seguenti:   
+  
+a) Abbiano o ripreso servizio in una almeno delle guerre successive, compresa la campagna di Crimea, o provino con validi documenti dinanzi alla Commissione di esserne stati impediti da gravissimi ostacoli, o abbiano sofferta prigionia od esilio per causa politica;   
+  
+b) Non abbiano di propria volonta' servito posteriormente alcuno dei Governi restaurati;   
+  
+c) Non siansi resi indegni per fatti delittuosi o disonoranti.   
+  
+L'aggiudicazione degli assegni vitalizi sara' fatta dalla Commissione secondo le norme da essa finora seguite, ed il pagamento dei detti assegni avra' luogo a misura che vi saranno somme disponibili, sul fondo di lire 790,000 stanziate a questo effetto sul bilancio della guerra.   
+  
+I sott'ufficiali, caporali e soldati che in virtu' della presente legge o delle precedenti abbiano diritto ad assegno vitalizio e non lo abbiano fin qui fatto valere, invieranno, senza prescrizione di termini, le loro domande corredate dai relativi documenti, al Ministero della guerra o della marina.   
+  
+Questa disposizione si estende anche agli ufficiali, contemplati nella [legge del 7 luglio 1876, n. 3213](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1876-07-07;3213), (serie 2ª) i quali avendo titolo all'assegno non abbiano finora potuto farlo valere.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma il 28 giugno 1891.   
+  
+UMBERTO.   
+  
+Pelloux.   
+S. de Saint Bon.   
+L. Luzzatti.   
+  
+Visto, Il Guardasigilli: L. Ferraris.   
+  

@@ -1,0 +1,46 @@
+REGIO DECRETO 26 luglio 1883 n. 1529
+
+
+REGIO DECRETO 26 luglio 1883 n. 1529
+====================================
+
+Col quale sono prorogati i termini stabiliti dal regio decreto 21 giugno 1883, relativo all'ampliamento del territorio di Pavia. (083U1529)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/09/1883
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri,
+
+Visto il Regio decreto 21 giugno scorso, n. 1476, relativo all'ampliamento del territorio esterno di Pavia;
+
+Vista la nota 20 luglio corrente del prefetto di Pavia, colla quale chiede che vengano prorogati i termini stabiliti per l'esecuzione del decreto stesso;
+
+Vista
+-----
+
+la legge comunale e provinciale 20 marzo 185, allegato A, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I termini stabiliti dagli articoli 1, 2 e 5 del decreto Reale 21 giugno scorso sono rispettivamente prorogati al 1° ottobre ed al settembre prossimi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino, addi' 26 luglio 1883.   
+  
+UMBERTO.   
+  
+Depretis.   
+  
+Visto, Il Guardasigilli: Savelli.   
+  

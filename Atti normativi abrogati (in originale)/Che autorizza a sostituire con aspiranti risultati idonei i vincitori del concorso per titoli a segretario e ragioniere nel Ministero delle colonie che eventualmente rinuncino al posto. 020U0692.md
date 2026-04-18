@@ -1,0 +1,45 @@
+REGIO DECRETO 13 maggio 1920 n. 692
+
+
+REGIO DECRETO 13 maggio 1920 n. 692
+===================================
+
+Che autorizza a sostituire con aspiranti risultati idonei, i vincitori del concorso per titoli a segretario e ragioniere nel Ministero delle colonie, che eventualmente rinuncino al posto. (020U0692)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/06/1920
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto l'art. 10, secondo comma, del regolamento generale per la esecuzione del testo unico delle leggi sullo stato degli impiegati civili, approvato col Nostro decreto 24 novembre 1908, n. 756;   
+  
+Ritenuta la necessita' di tener completo il personale dei segretari e dei ragionieri dell'Amministrazione coloniale;   
+  
+Sentito il Consiglio di Stato;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per l'interno, interim per le colonie;   
+  
+Abbiamo decretato e decretiamo:   
+  
+I vincitori dei concorsi per titoli a segretario e ragioniere in prova di cui ai decreti 21 agosto e 7 novembre 1919 del ministro delle colonie i quali, entro tre mesi dalla data del decreto di nomina, rinuncino all'impiego, saranno sostituiti con altri aspiranti scelti secondo l'ordine di merito fra coloro che, negli stessi concorsi, abbiano riportato la migliore classificazione dopo i vincitori e siano stati dichiarati idonei dalle Commissioni esaminatrici.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 13 maggio 1920.   
+  
+VITTORIO EMANUELE.   
+  
+Nitti.   
+  
+Visto, Il guardasigilli: Falcioni.   
+  

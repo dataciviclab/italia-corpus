@@ -1,0 +1,19 @@
+REGIO DECRETO 03 gennaio 1915 n. 854
+
+
+REGIO DECRETO 03 gennaio 1915 n. 854
+====================================
+
+Aggiunta di posti di ruolo agli organici di scuole normali d'Altamura. (015U0854)
+---------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/07/1915
+
+Art. 1
+------
+
+  
+N. 854   
+  
+Regio Decreto 3 gennaio 1915, col quale, sulla proposta del ministro della istruzione pubblica, dal 1° ottobre 1914, sono aggiunti alcuni posti di ruolo agli organici delle scuole normali per l'anno scolastico 1914-915, posti che vengono assegnati alla scuola normale promiscua di Altamura.   
+  

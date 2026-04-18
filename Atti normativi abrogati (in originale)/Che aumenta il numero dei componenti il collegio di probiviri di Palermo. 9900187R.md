@@ -1,0 +1,48 @@
+REGIO DECRETO 04 giugno 1899 n. CLXXXVII
+
+
+REGIO DECRETO 04 giugno 1899 n. CLXXXVII
+========================================
+
+Che aumenta il numero dei componenti il collegio di probiviri di Palermo. (9900187R)
+------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/07/1899
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduta la [legge del 15 giugno 1893, n. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-15;295), sui collegi di probiviri per le industrie, e il regolamento approvato con [regio decreto del 26 aprile 1894, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-04-26;179), per la esecuzione di detta legge;   
+  
+Veduto il regio decreto del 12 dicembre 1895, numero DCCXXXVIII (parte supplementare), col quale fu istituito in Palermo un collegio di probiviri per le industrie metallurgica e meccanica, formato di dodici componenti;   
+  
+Sulla proposta dei Nostri ministri segretari di Stato per la grazia, la giustizia ed i culti e per l'agricoltura, l'industria ed il commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+Il collegio di probiviri per le industrie metallurgica e meccanica con sede a Palermo e' aumentato di otto componenti, di cui quattro industriali e quattro operai, di guisa che il numero complessivo dei probiviri del collegio da dodici e' portato a venti.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 giugno 1899.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 23 giugno 1899.   
+  
+Reg. 220. Atti del Governo a f. 15. F. Rostagno.   
+  
+Luogo del Sigillo. V. Il Guardasigilli A. BONASI.   
+  
+A. Salandra.   
+A. Bonasi.   
+  

@@ -1,0 +1,48 @@
+REGIO DECRETO 14 luglio 1932 n. 857
+
+
+REGIO DECRETO 14 luglio 1932 n. 857
+===================================
+
+Autorizzazione al comune di Varese a riscuotere, fino al 31 dicembre 1932, le imposte di consumo in base alla tariffa della classe superiore. (032U0857)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/08/1932
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 27 del testo unico per la finanza locale, approvato con Nostro decreto 14 settembre 1931, n. 1175;
+
+Vista la domanda avanzata dal comune di Varese per avvalersi della disposizione suaccennata;
+
+Visto il parere della Commissione centrale per la finanza locale;
+
+Sulla proposta del Nostro Ministro Segretario di Stato
+
+per
+---
+
+le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il comune di Varese e' autorizzato a riscuotere, fino al 31 dicembre 1932, le imposte di consumo con le aliquote stabilite per la classe D.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.   
+Dato a San Rossore, addi' 14 luglio 1932 - Anno X   
+  
+VITTORIO EMANUELE   
+  
+Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 26 luglio 1932 - Anno X   
+Atti del Governo, registro 322, foglio 62. - Mancini.   
+  

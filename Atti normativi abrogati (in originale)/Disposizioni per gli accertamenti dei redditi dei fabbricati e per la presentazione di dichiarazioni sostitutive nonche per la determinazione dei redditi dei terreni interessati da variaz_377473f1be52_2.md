@@ -1,0 +1,136 @@
+DECRETO-LEGGE 28 marzo 1989 n. 112
+
+
+DECRETO-LEGGE 28 marzo 1989 n. 112
+==================================
+
+Disposizioni per gli accertamenti dei redditi dei fabbricati e per la presentazione di dichiarazioni sostitutive, nonche' per la determinazione dei redditi dei terreni interessati da variazioni di colture non allibrate in catasto.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del decreto: 31/03/1989.Decreto-Legge decaduto per mancata conversione.
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Visti gli [articoli 77](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art77) e [87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87);
+
+Ritenuta la straordinaria necessita' ed urgenza di emanare disposizioni per gli accertamenti dei redditi dei fabbricati e per la presentazione di dichiarazioni sostitutive, nonche' per la determinazione dei redditi dei terreni interessati da variazioni di coltura non allibrate in catasto;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 marzo 1989;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle finanze, di concerto con il Ministro del tesoro;
+
+E M A N A il seguente decreto:
+
+CAPO I Capo I ACCERTAMENTI PARZIALI DEI REDDITI DI FABBRICATI E PRESENTAZIONE DI DICHIARAZIONI SOSTITUTIVE
+----------------------------------------------------------------------------------------------------------
+
+### Art. 1
+
+1. Gli uffici distrettuali delle imposte dirette, sulla base di dati trasmessi dal sistema informativo del Ministero delle finanze, qualora risultino elementi che consentono di stabilire l'esistenza di un reddito di fabbricati non dichiarato o di ammontare maggiore di quello dichiarato, che avrebbe dovuto concorrere a formare il reddito imponibile, provvedono ad accertare tale reddito o maggior reddito secondo le disposizioni degli articoli seguenti e senza pregiudizio per l'esercizio dell'ulteriore azione accertatrice nei termini stabiliti dall'[articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art43).
+
+2. La disposizione del comma 1 si applica altresi' sulla base dei dati che verranno trasmessi dagli uffici tecnici erariali relativamente al reddito dei fabbricati censiti anche mediante procedure di accatastamento automatico successivamente alla data di entrata in vigore del presente decreto.
+
+### Art. 2
+
+1. Per l'accertamento parziale previsto dall'articolo 1 la segnalazione dei dati conseguenti al controllo incrociato tra dichiarazioni dei redditi, atti e contratti soggetti a registrazione ai fini delle imposte sui trasferimenti ed elementi catastali e' effettuata mediante l'utilizzo del sistema informativo del Ministero delle finanze.
+
+2. Gli uffici distrettuali delle imposte dirette, acquisite le segnalazioni dei dati, inviano a mezzo del servizio postale ai contribuenti una richiesta di chiarimenti, da fornire per iscritto entro quarantacinque giorni, e provvedono all'accertamento parziale salvo che dagli elementi forniti risulti che il nominativo indicato non corrisponde al soggetto passivo ovvero che l'immobile non produce reddito o che compete una esenzione o una agevolazione.
+
+### Art. 3
+
+1. Agli accertamenti parziali previsti nell'articolo 1 si applicano le disposizioni di cui all'[articolo 41- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art41bis), introdotto dall'[articolo 1 del decreto del Presidente della Repubblica 14 aprile 1982, n. 309](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-04-14;309~art1). Gli accertamenti sono portati a conoscenza dei contribuenti mediante la notificazione di avvisi anche a mezzo del servizio postale ai sensi della [legge 20 novembre 1982, n. 890](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1982-11-20;890).
+
+2. Gli avvisi di accertamento devono recare l'indicazione del reddito imponibile dichiarato e accertato, della imposta o maggiore imposta accertata, delle sanzioni applicate e devono essere motivati in relazione agli elementi acquisiti dall'ufficio per effetto delle disposizioni recate dagli articoli 1 e 2.
+
+### Art. 4
+
+1. Il Ministero delle finanze, mediante procedure automatizzate di elaborazioni dei dati, provvede alla formazione di elenchi nei quali vengono indicate per comune, via e numero civico, le unita' immobiliari i cui redditi di fabbricati sono stati dichiarati nelle dichiarazioni annuali dei redditi presentate per l'anno 1983, nonche' le unita' che, pur non risultando dalle predette dichiarazioni, sono state individuate a seguito delle procedure di incrocio di cui all'articolo 2 e quelle per le quali sono state presentate denuncie di accatastamento successivamente al 31 dicembre 1983. Gli elenchi devono essere inviati, anche in piu' volte a partire dal 1› aprile 1990, ai comuni in cui sono ubicate le unita', utilizzando supporti cartacei o magnetici.
+
+2. I comuni provvedono, entro sei mesi dal ricevimento, ad indicare agli uffici tecnici erariali competenti le unita' immobiliari esistenti nel territorio comunale, non comprese in ciascuno degli elenchi di cui al comma 1. Gli uffici tecnici erariali provvedono, se necessario d'intesa con le conservatorie dei registri immobiliari, all'identificazione dei possessori nell'anno di riferimento, segnalandone i nominativi e la rendita catastale agli uffici distrettuali delle imposte dirette.
+
+3. Gli uffici distrettuali delle imposte dirette inviano a mezzo del servizio postale ai contribuenti una richiesta di chiarimenti, da fornire per iscritto entro 45 giorni; gli uffici provvedono ai sensi degli articoli 1 e 3 salvo che dagli elementi forniti a chiarimento risulti che il nominativo indicato non corrisponde al soggetto passivo ovvero che l'immobile non produce reddito o che compete una esenzione o agevolazione.
+
+4. Gli atti pubblici tra vivi, formati successivamente alla data di entrata in vigore del presente decreto, di trasferimento della proprieta' di unita' immobiliari urbane o di costituzione o trasferimento di diritti reali sulle stesse, devono contenere, a pena di nullita', la dichiarazione della parte, ai sensi della [legge 4 gennaio 1968, n. 15](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1968-01-04;15), dalla quale risulta che il reddito dell'immobile e' stato dichiarato nell'ultima dichiarazione dei redditi per la quale il termine di presentazione e' scaduto alla data dell'atto, ovvero l'indicazione del motivo per cui lo stesso non doveva essere oggetto di dichiarazione.
+
+### Art. 5
+
+1. Con decreto del Ministro delle finanze da pubblicare nella Gazzetta Ufficiale entro due mesi dalla data di entrata in vigore del presente decreto sono stabilite le modalita' per la predisposizione automatica delle richieste di chiarimenti, per la trasmissione degli elenchi ai comuni e dei dati tra gli uffici e per la convalidazione dei dati trasmessi agli uffici distrettuali delle imposte dirette ai fini dell'accertamento parziale nonche' per la conservazione dei dati su supporto magnetico.
+
+### Art. 6
+
+1. Agli effetti dell'imposta sul reddito delle persone fisiche, dell'imposta sul reddito delle persone giuridiche e dell'imposta locale sui redditi, dovute per i periodi di imposta relativamente ai quali il termine per la presentazione della dichiarazione e' scaduto anteriormente alla data di entrata in vigore del presente decreto, i contribuenti, sempreche' non sia intervenuto accertamento definitivo, sono ammessi a presentare dichiarazioni sostitutive in aumento per quanto riguarda i redditi dei fabbricati determinati mediante l'applicazione di tariffe d'estimo stabilite secondo le norme della legge catastale. Per i redditi prodotti in forma associata la dichiarazione sostitutiva presentata dai soggetti indicati nell'articolo 5 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), ha effetto anche per i soci, associati o partecipanti.
+
+2. Le dichiarazioni sostitutive devono essere redatte su stampati conformi ai modelli approvati con decreto del Ministro delle finanze e spedite, mediante raccomandata, nel periodo dal 1› al 30 novembre 1989, agli uffici competenti in ragione del domicilio fiscale alla data di presentazione della dichiarazione medesima.
+
+3. Le dichiarazioni sono irrevocabili. Esse possono comprendere anche periodi di imposta per i quali e' stato notificato accertamento non definitivo; in tal caso il rapporto si considera esaurito limitatamente ai redditi oggetto della dichiarazione sostitutiva.
+
+### Art. 7
+
+1. Per ciascuno dei periodi di imposta per i quali e' presentata la dichiarazione sostitutiva prevista dall'articolo 6 l'imposta sul reddito delle persone fisiche e' determinata applicando ai redditi o ai maggiori redditi imponibili dichiarati l'aliquota marginale dichiarata dal contribuente per i periodi di riferimento o risultante dal certificato di cui all'[articolo 1, quarto comma, lettera d), del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art1-com4-letd), presentato per tale anno; se dalla dichiarazione presentata per i periodi di riferimento non risultava un reddito imponibile si applica l'aliquota corrispondente al primo scaglione di reddito; per ciascuno dei periodi di imposta per i quali sono stati notificati accertamenti non definitivi l'imposta e' determinata applicando l'aliquota marginale corrispondente al reddito complessivo accertato; in caso di omissione della dichiarazione si applica l'aliquota del 27 per cento.  
+Per l'imposta sul reddito delle persone giuridiche si applica in ogni caso l'aliquota del 36 per cento; per l'imposta locale sui redditi si applica in ogni caso l'aliquota del 16,2 per cento.
+
+2. Le imposte dovute sulla base delle dichiarazioni sostitutive sono riscosse mediante versamento diretto per delega alle aziende di credito o alla Amministrazione delle poste e delle telecomunicazioni.  
+Le caratteristiche e le modalita' di conferimento delle deleghe, di rilascio delle attestazioni da parte delle aziende di credito e della Amministrazione delle poste e delle telecomunicazioni delegate, nonche' quelle per l'esecuzione dei versamenti e per la trasmissione dei relativi dati e documenti all'Amministrazione finanziaria e per i relativi controlli sono stabilite con decreto del Ministro delle finanze, di concerto con i Ministri del tesoro e delle poste e delle telecomunicazioni.
+
+3. A richiesta del contribuente i versamenti delle somme dovute sulla base delle dichiarazioni sostitutive possono essere effettuati in ragione del 70 per cento entro il termine di presentazione della dichiarazione e per la differenza nel mese di aprile dell'anno 1990.  
+Sull'importo rateizzato e' dovuto l'interesse nella misura del 12 per cento annuo.
+
+### Art. 8
+
+1. Al controllo e alla liquidazione, ai sensi dell'[articolo 36- bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art36bis), introdotto dall'[articolo 2 del decreto del Presidente della Repubblica 24 dicembre 1976, n. 920](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1976-12-24;920~art2), come sostituito dall'[articolo 1 del decreto del Presidente della Repubblica 27 settembre 1979, n. 506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1979-09-27;506~art1), delle dichiarazioni sostitutive previste dall'articolo 6, alle eventuali iscrizioni a ruolo ed ai rimborsi provvedono sulla base dei dati memorizzati negli archivi del sistema informativo del Ministero delle finanze avvalendosi di procedure automatizzate, gli uffici delle imposte o i centri di servizi che hanno ricevuto le dichiarazioni, entro l'anno successivo alla scadenza del termine di cui al [primo comma dell'articolo 17 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;602~art17-com1). Per i periodi di imposta per i quali e' stato notificato avviso di accertamento non definitivo, provvedono gli uffici delle imposte che hanno eseguito l'accertamento in rettifica o d'ufficio sulla base di copia conforme della dichiarazione sostitutiva inviata dall'ufficio delle imposte o dal centro di servizio che l'ha ricevuta. Le maggiori somme dovute e quelle non versate sono iscritte in ruoli speciali, entro lo stesso termine, ai sensi del [decreto del Presidente della Repubblica 29 settembre 1973, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;602), secondo le modalita' ed i criteri stabiliti con decreto del Ministro delle finanze.
+
+2. Sulle somme non versate con le modalita' e nei termini di cui ai commi 2 e 3 dell'articolo 7 si applicano gli interessi di cui all'[articolo 9 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;602~art9), e la soprattassa del 40 per cento di cui al primo comma dell'articolo 92 dello stesso decreto.
+
+3. Le somme dovute a seguito delle dichiarazioni sostitutive non sono deducibili.
+
+### Art. 9
+
+1. Gli imponibili e le imposte dichiarati ai sensi dell'articolo 6 non costituiscono base di commisurazione per le pene pecuniarie per omessa, tardiva, incompleta e infedele dichiarazione e non si applicano le sanzioni amministrative per ogni altra violazione di obblighi fiscali relativi ai redditi dichiarati. Sugli importi risultanti dalla dichiarazione non sono dovuti interessi e soprattasse.
+
+2. La dichiarazione sostitutiva presentata ai sensi dell'articolo 6 non costituisce titolo per il rilascio di autorizzazioni o concessioni edilizie ovvero per il rilascio delle stesse ai sensi della [legge 28 febbraio 1985, n. 47](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1985-02-28;47), e successive modificazioni ed integrazioni.
+
+3. Il sistema informativo del Ministero delle finanze sulla base dei dati rilevati dalle dichiarazioni sostitutive integra gli elenchi da inviare ai comuni a norma dell'articolo 4.
+
+CAPO II Capo II DETERMINAZIONE DEL REDDITO DEI TERRENI A SEGUITO DI VARIAZIONI DI COLTURA NON ANCORA ALLIBRATE IN CATASTO
+-------------------------------------------------------------------------------------------------------------------------
+
+### Art. 10
+
+1. Il [comma 1 dell'articolo 11- bis del decreto-legge 14 marzo 1988, n. 70](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1988-03-14;70~art11bis-com1), convertito, con modificazioni, dalla [legge 13 maggio 1988, n. 154](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-05-13;154), e' sostituito dal seguente:  
+"1. In caso di mancata corrispondenza tra le colture effettivamente praticate e quelle risultanti dal catasto a partire dal periodo di imposta da cui hanno effetto i fatti indicati nei commi 1 e 2 dell'articolo 26 del testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), fino al periodo anteriore a quello nel corso del quale le variazioni di coltura sono allibrate in catasto, il reddito dominicale e agrario dei terreni e' determinato applicando la tariffa d'estimo media attribuibile alla qualita' di coltura praticata nonche' le deduzioni fuori tariffa. La tariffa media e' costituita dal rapporto tra la somma delle tariffe imputate alle diverse classi in cui e' suddivisa la qualita' di coltura ed il numero delle classi stesse. Per le qualita' di coltura non censite nello stesso comune o sezione censuaria si applicano le tariffe medie e le deduzioni fuori tariffa attribuite a terreni con le stesse qualita' di cultura ubicati nel comune o sezione censuaria viciniore nell'ambito della stessa provincia. Qualora la coltura praticata non trovi riscontro nel quadro di qualificazione della provincia si applica la tariffa media della coltura del comune o sezione censuaria in cui i redditi sono comparabili per ammontare.".
+
+2. Alla dichiarazione dei redditi relativa al periodo di imposta da cui hanno effetto i fatti indicati nel comma 1 dell'articolo 26 del testo unico sulle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), deve essere allegato un apposito prospetto, recante l'indicazione degli estremi di presentazione della denuncia delle variazioni della qualita' di coltura e con riferimento ad ogni partita catastale, la superficie catastalmente suddivisa tra le diverse qualita' di coltura comprese quelle non variate, nonche' la tariffa d'estimo e le deduzioni fuori tariffa relative a ciascuna qualita' e la data di ultimazione dei miglioramenti e dei nuovi impianti di colture ai fini della esenzione di cui all'[articolo 8 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;601~art8). In caso di mancata allegazione o di incompletezza del prospetto, si applica la sanzione prevista dal [secondo comma dell'articolo 48 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1973-09-29;600~art48-com2).
+
+3. Le disposizioni del presente articolo hanno effetto per le variazioni di coltura verificatesi nei periodi di imposta che hanno inizio dopo il 31 dicembre 1988.
+
+4. Alle minori entrate per l'anno 1989 stimate in lire 400 miliardi conseguenti alla decorrenza stabilita dal comma 3 si fa fronte mediante utilizzo fino al predetto importo con le maggiori entrate assicurate per il medesimo anno dalle disposizioni del capo I.
+
+### Art. 11
+
+1. Al testo unico delle imposte sui redditi, approvato con [decreto del Presidente della Repubblica 22 dicembre 1986, n. 917](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-12-22;917), sono apportate le seguenti modificazioni:
+
+a) nell'articolo 25 dopo il comma 4 e' aggiunto il seguente:  
+"4- bis. Il reddito dominicale delle superfici adibite alle colture prodotte in serra o alla funghicoltura, in mancanza della corrispondente qualita' nel quadro di qualificazione catastale, e' determinato mediante l'applicazione della tariffa d'estimo piu' alta in vigore nella provincia.";
+
+b) il comma 4 dell'articolo 31 e' sostituito dal seguente:  
+"4. Per la determinazione del reddito agrario delle superfici adibite alle colture prodotte in serra o alla funghicoltura si applica la disposizione del comma 4- bis dell'articolo 25.".
+
+### Art. 12
+
+1. Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e sara' presentato alle Camere per la conversione in legge.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 28 marzo 1989
+
+COSSIGA
+
+DE MITA, Presidente del Consiglio dei Ministri
+
+COLOMBO, Ministro delle finanze
+
+AMATO, Ministro del tesoro
+
+Visto, il Guardasigilli: VASSALLI

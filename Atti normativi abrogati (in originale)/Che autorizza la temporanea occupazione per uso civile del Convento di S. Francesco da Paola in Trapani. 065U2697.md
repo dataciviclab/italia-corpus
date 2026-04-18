@@ -1,0 +1,46 @@
+REGIO DECRETO 17 dicembre 1865 n. 2697
+
+
+REGIO DECRETO 17 dicembre 1865 n. 2697
+======================================
+
+Che autorizza la temporanea occupazione per uso civile del Convento di S. Francesco da Paola in Trapani. (065U2697)
+-------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/01/1866
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la Legge 22 dicembre 1861 sull'occupazione temporanea delle Case religiose per servizio civile o militare;
+
+Sulla
+-----
+
+proposizione del Nostro Ministro Segretario di Stato dell'Interno, incaricato interinalmente del Portafoglio della pubblica Istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' fatta facolta' al Nostro Ministro suddetto di occupare temporaneamente per uso dell'istruzione primaria il Convento di S.  
+Francesco da Paola in Trapani, provvedendo ai termini dell'art. 1 della cennata Legge per quanto concerne il culto, e la conservazione delle opere d'arte.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 17 dicembre 1865.   
+  
+VITTORIO EMANUELE.   
+  
+Registrato alla Corte dei conti addi' 31 dicembre 1865   
+Reg.° 34 Atti del Governo a c. 185. Ayres.   
+Luogo del sigillo. V. Il Guardasigilli CORTESE.   
+  
+NATOLI.   
+  
+  

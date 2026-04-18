@@ -1,0 +1,39 @@
+REGIO DECRETO 18 dicembre 1890 n. 7355
+
+
+REGIO DECRETO 18 dicembre 1890 n. 7355
+======================================
+
+Che stabilisce che i componenti del Consiglio per la istruzione agraria non possono essere nuovamente nominati se non dopo un anno dal giorno della loro cessazione. (090U7353)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/01/1891
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA.   
+  
+Visti i Nostri decreti 24 luglio 1885, n. 3287 e 28 aprile 1887, n. 4495, che istituiscono il Consiglio per la istruzione agraria e ne determinano le attribuzioni;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'Agricoltura, Industria e Commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+I componenti del Consiglio per la istruzione agraria, i quali scadono dal loro ufficio, non possono essere nuovamente nominati se non dopo un anno dal giorno della loro cessazione.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 18 dicembre 1890.   
+  
+UMBERTO.   
+  
+Miceli.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

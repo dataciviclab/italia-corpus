@@ -1,0 +1,36 @@
+LEGGE 14 gennaio 1953 n. 50
+
+
+LEGGE 14 gennaio 1953 n. 50
+===========================
+
+Periodo di prova del personale scolastico assunto per effetto dei concorsi riservati ai perseguitati politici e razziali.
+-------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+Coloro che siano stati assunti nei ruoli degli insegnanti degli Istituti e seno di istruzione media di ogni tipo e grado, nei ruoli dei direttori delle scuole secondarie di avviamento professionale e nei ruoli dei maestri elementari per effetto dei concorsi riservati ai perseguitati politici e razziali di cui all'[art. 17 del decreto legislativo del Capo provvisorio dello Stato 21 aprile 1947, n. 373](http://www.normattiva.it/uri-res/N2Ls?urn:nir:capo.provvisorio.stato:decreto.legislativo:1947-04-21;373~art17), ratificato, con modificazioni, con la [legge 19 maggio 1950, n. 323](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-05-19;323), qualora si trovino dalla data di decorrenza della nomina in ruolo in congedo per mandato politico, sono promossi ordinari o stabili dopo un anno dalla nomina in ruolo predetta, purche' documentino di avere prestato servizio, per la durata di un anno, quali incaricati o supplenti, in scuole di Stato, o pareggiate, oppure legalmente riconosciute.  
+Coloro che saranno assunti nei ruoli dei direttori didattici per effetto dei concorsi riservati ai perseguitati politici e razziali di cui al citato art. 17, qualora si trovino, dalla data di decorrenza della nomina nei ruoli predetti, in congedo per mandato politico, saranno confermati stabili dopo sei mesi da tale data.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 14 gennaio 1953
+
+EINAUDI DE GASPERI - SEGNI PELLA
+
+Visto, il Guardasigilli: ZOLI

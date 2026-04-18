@@ -1,0 +1,36 @@
+REGIO DECRETO 21 luglio 1872 n. CCCLXXI
+
+
+REGIO DECRETO 21 luglio 1872 n. CCCLXXI
+=======================================
+
+Concernente la tassa di famiglia nei Comuni di Terranova e Naro. (7200371R)
+---------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/09/1872
+
+Articolo unico
+--------------
+
+  
+  
+Sono approvate:   
+  
+1° La deliberazione del 31 gennaio 1872 della Deputazione provinciale di Caltanissetta, colla quale si autorizza il Comune di Terranova di Sicilia ad eccedere, nell'applicazione della tassa di famiglia o focatico, il limite massimo di L. 40 stabilito nell'art. 3 del relativo Regolamento, elevandolo fino a L. 50, e portando a 25 il numero delle classi.   
+  
+2° La deliberazione dell'8 aprile 1872 della Deputazione provinciale di Girgenti, colla quale si autorizza il Comune di Naro ad eccedere, nell'applicazione della tassa di famiglia o focatico per il corrente esercizio, il limite massimo stabilito nell'art. 2 del relativo Regolamento, elevandolo fino a L. 50 pei contribuenti ascritti alla prima classe.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Valsavaranche addi' 21 luglio 1872.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 30 luglio 1872   
+  
+Vol. 62 Atti del Governo a c. 90. D. Gherardi.   
+  
+Luogo del sigillo. V. Il Guardasigilli De Falco.   
+  
+Quintino Sella.   
+  

@@ -1,0 +1,80 @@
+REGIO DECRETO 23 maggio 1932 n. 679
+
+
+REGIO DECRETO 23 maggio 1932 n. 679
+===================================
+
+Caratteristiche tecniche e termini di validita' dei francobolli speciali di propaganda per la Societa' nazionale «Dante Alighieri». (032U0679)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/07/1932
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 18 del testo unico delle leggi postali, approvato con [R. decreto 24 dicembre 1899, n. 501](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1899-12-24;501);
+
+Visto l'art. 137 del regolamento generale sul servizio postale, approvato con [R. decreto 10 febbraio 1901, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-10;120), e modificato col [R. decreto 7 giugno 1923, n. 1257](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-07;1257);
+
+Visto il [R. decreto 28 febbraio 1930, n. 172](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-02-28;172), che autorizza la emissione di speciali francobolli di propaganda per la Societa' nazionale «Dante Alighieri»;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+I francobolli speciali di propaganda per la Societa' nazionale «Dante Alighieri» sono emessi, con riproduzione a sistema fotocalcografico e su carta filigranata, nelle due seguenti serie:   
+A) Serie per l'affrancatura delle corrispondenze in genere che comprende i valori da:   
+1° L. 0,10 nel colore bruno, riproducente l'effigie di Giovanni Boccaccio;   
+2° L. 0,15 nel colore verde nero, riproducente l'effigie di Nicolo' Macchiavelli;   
+3° L. 0,20 nel colore rosso, riproducente l'effigie di Fra Paolo Sarpi;   
+4°L. 0,25 nel colore verde, riproducente l'effigie di Vittorio Alfieri;   
+5° L. 0,30 nel colore bruno, riproducente l'effigie di Ugo Foscolo;   
+6° L. 0,50 nel colore violetto, riproducente l'effigie di Giacomo Leopardi;   
+7° L. 0,75 nel colore rosso, riproducente l'effigie di Giosue' Carducci;   
+8° L. 1,25 nel colore bleu, riproducente l'effigie di Carlo Botta; 9° L. 1,75 nel colore arancio, riproducente l'effigie di Torquato Tasso;   
+10° L. 2,75 nel colore verde nero, riproducente l'effigie di Francesco Petrarca;   
+11° L. 5 + 2 nel colore rosso scuro, riproducente l'effigie di Ludovico Ariosto;   
+12° L. 10 + 2,50 nel colore verde bronzo, riproducente l'effigie di Dante Alighieri.   
+B) Serie per la sopratassa di posta aerea che comprende i valori da:   
+1° L. 0,50 nel colore bruno, riproducente la macchina volante di Leonardo da Vinci;   
+2° L. 1 nel colore viola, riproducente Leonardo da Vinci;   
+3° L. 3 nel colore rosso sanguigno, riproducente Leonardo da Vinci;   
+4° L. 5 nel colore verde, riproducente Leonardo da Vinci;   
+5° L. 7,70 + 2 nel colore bleu, riproducente la macchina volante; 6° L. 10 + 2,50 nel colore ardesia, riproducente Leonardo da Vinci.   
+Nei francobolli della serie per l'affrancatura delle corrispondenze in genere il ritratto ed il nome di ogni personaggio figurano racchiusi in un rettangolo, con a sinistra lo Stemma italiano ed a destra l'indicazione del valore, di tonalita' scura su fondo bianco.  
+Ai lati due Fasci Littori, con la scure in basso rivolta verso l'esterno.   
+Nella parte superiore, in una fascia, risulta la leggenda «Poste italiane» e in basso la dicitura «Societa' nazionale Dante Alighieri», che occupa tutta la lunghezza del francobollo.   
+Nei valori da L. 0,10 - 0,20 - 1,25 - 1,75 - 2,75 e 10 + 2,50 figurano ornati simmetrici decorativi che ricordano lo stile fiorentino; negli altri valori invece risultano motivi simmetrici decorativi che rappresentano foglie d'alloro e volute geometriche.   
+Inoltre lo stemma di Stato e l'indicazione del valore sono chiusi in un esagono, nei primi dei detti valori, ed in un ottagono nei rimanenti.   
+Nel margine inferiore appare la scritta «Officina Carte Valori Roma».   
+Nei francobolli per la sopratassa di posta aerea, quelli da L. 0,50 e 7,70 + 2 riproducono la «macchina volante di Leonardo»; a sinistra, tale dicitura ed al disotto della medesima la leggenda «Societa' nazionale Dante Alighieri»; a destra, in basso, l'indicazione del valore, in alto lo Stemma italiano e tra lo Stemma ed il valore la dicitura «Italia Posta Aerea»; gli altri quattro presentano il ritratto di Leonardo da Vinci, visto di faccia e racchiuso in un rettangolo, il quale contiene inoltre la riproduzione della macchina volante di Leonardo, circoscritta da una aureola di luce e la leggenda «Pigliera' il suo primo volo empiendo l'Universo di stupore (Leonardo)». Ai lati del rettangolo figurano a sinistra lo Stemma italiano, la dicitura «Italia Posta Aerea» e l'indicazione del valore con l'eventuale sopraprezzo, a destra la leggenda «Societa' nazionale Dante Alighieri», e di nuovo l'indicazione del valore con l'eventuale sopraprezzo.   
+In tutti sei valori della serie risulta, nel margine inferiore, la leggenda «Off. Carte-Valori Roma»,   
+  
+
+Art. 2
+------
+
+I francobolli speciali, di cui al presente decreto, saranno venduti fino al 31 dicembre 1932 e saranno validi fino a tutto il 31 gennaio
+
+1933. Essi non saranno ammessi al cambio.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 23 maggio 1932 - Anno X   
+  
+VITTORIO EMANUELE.   
+  
+  
+Ciano - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 13 giugno 1932 - Anno X   
+Atti del Governo, registro 321, foglio 4. - Mancini.

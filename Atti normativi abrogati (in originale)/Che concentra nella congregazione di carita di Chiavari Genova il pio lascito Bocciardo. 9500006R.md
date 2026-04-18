@@ -1,0 +1,21 @@
+REGIO DECRETO 06 gennaio 1895 n. VI
+
+
+REGIO DECRETO 06 gennaio 1895 n. VI
+===================================
+
+Che concentra nella congregazione di carita' di Chiavari (Genova) il pio lascito Bocciardo. (9500006R)
+------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/02/1895
+
+Art. 1
+------
+
+  
+Che concentra nella congregazione di carita' di Chiavari (Genova) il pio lascito Bocciardo. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda.   
+  
+Registrato alla Corte dei Conti addi' 21 gennaio 1895.   
+  
+Reg. 197. Atti del Governo a. f. 88.   
+  

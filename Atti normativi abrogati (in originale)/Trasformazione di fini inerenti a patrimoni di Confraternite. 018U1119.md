@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 28 luglio 1918 n. 1119
+
+
+DECRETO LUOGOTENENZIALE 28 luglio 1918 n. 1119
+==============================================
+
+Trasformazione di fini inerenti a patrimoni di Confraternite. (018U1119)
+------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/09/1918
+
+Art. 1
+------
+
+N.
+
+1119. Decreto Luogotenenziale 28 luglio 1918, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il fine inerente ai patrimoni delle confraternite del Sacramento, del Carmine e del Rosario in Lapedona (Ascoli Piceno) e' trasformato parzialmente a favore dell'ospedale del Buon Gesu' di quel Comune, riservando ai tre sodalizi l'annuo assegno complessivo di L. 500 per le spese di culto, e i patrimoni medesimi sono interamente devoluti all'ospedale predetto.

@@ -1,0 +1,53 @@
+LEGGE 09 febbraio 1942 n. 379
+
+
+LEGGE 09 febbraio 1942 n. 379
+=============================
+
+Conversione in legge del Regio decreto-legge 17 giugno 1941 XIX, n. 
+494, contenente disposizioni circa i beni esistenti in Italia ed 
+appartenenti a persone aventi la nazionalita' degli Stati Uniti 
+d'America, nonche' del R. decreto-legge 23 giugno 1941 XIX, n. 608, 
+relativo a nuove norme in materia di beni appartenenti a persone 
+aventi la nazionalita' degli Stati Uniti d'America. (042U0379)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/05/1942
+
+Art. 1
+------
+
+  
+  
+Eguale divieto si applica agli stranieri, aventi la loro residenza in Italia, od anche, se residenti altrove, per i titoli, valori, ed altri beni, da essi detenuti nel territorio dello Stato.   
+  
+Il divieto di cui al primo comma del presente articolo non si applica alle persone di nazionalita' italiana residenti negli' Stati Uniti d'America.   
+  
+Art. 2. - E' nullo di pieno diritto qualsiasi atto di disposizione compiuto da persone aventi la nazionalita' degli Stati Uniti d'America in ordine ai crediti, titoli, valori e beni indicati nell'articolo precedente, nonche' sui beni immobili esistenti nel territorio dello Stato, ad esse appartenenti.   
+  
+Art. 3. - Le persone di nazionalita' italiana, nonche', le associazioni e gli enti di fatto, aventi nel territorio dello Stato il domicilio o la residenza o la loro sede principale, devono presentare alla piu' vicina filiale della Banca d'Italia - quale cassiera dell'Istituto nazionale per i cambi con l'estero - denuncia scritta dei debiti, anche se tuttora non liquidi ed esigibili, verso persone aventi la nazionalita' degli Stati Uniti d'America, nonche' dei titoli, valori ed altri beni appartenenti alle stesse persone e da esse detenuti.   
+  
+Sono tenuti inoltre alla stessa denuncia, anche quando non ricorrono le condizioni prevedute nel comma precedente, le persone di qualsiasi nazionalita' per i titoli, valori ed altri beni appartenenti a persone aventi la nazionalita' degli Stati Uniti d'America, da esse detenuti nel territorio dello Stato e per i debiti verso dette persone, afferenti ad attivita' commerciali da esse ivi esercitate.   
+  
+La denuncia di cui ai comma precedenti deve essere fatta entro 20 giorni decorrenti dalla data di entrata in vigore del presente decreto, e per le obbligazioni sopravvenute, dalla data in cui queste siano sorte.   
+  
+Art. 4. - In casi di comprovata necessita' o per altri speciali motivi possono essere autorizzati pagamenti ed operazioni in deroga alle disposizioni del presente decreto.   
+  
+Art. 5. - Chiunque effettua pagamenti o consegne di beni in contravvenzione alle disposizioni del presente decreto e' punito con la reclusione fino a tre anni e con la multa pari al quintuplo della somma pagata o del valore dei beni consegnati ed in ogni caso non inferiore a lire 10.000.   
+  
+Chiunque partecipa o comunque da' esecuzione alle operazioni indicate nell'art. 2 e' punito, salvo che non ricorra l'ipotesi preveduta nel comma precedente, con la reclusione fino a sei mesi e con la multa fino a lire 3000.   
+  
+Chiunque, essendovi tenuto, omette di fare la denuncia preveduta nell'art. 3 nel termine ivi stabilito, e' punito con l'arresto fino a tre mesi e con l'ammenda fino a lire 3000. La pena e' della reclusione fino a sei mesi e della multa fino a lire 6000 quando la denuncia sia stata presentata ma contenga false indicazioni.   
+  
+Art. 6. - Con decreti Reali, emanati ai sensi dell'articolo 3, n. 1, della legge 31 gennaio 1926 IV, n. 100, su proposta dei Ministri per le finanze e per gli scambi e per le valute, di concerto con i Ministri per la grazia e giustizia e per le corporazioni possono essere dettate norme in materia di beni appartenenti a persone aventi la nazionalita' degli Stati Uniti d'America o comunque per disciplinare gli interessi di dette persone in Italia anche in deroga alle disposizioni gia' emanate e possono essere stabilite sanzioni penali nei limiti massimi di quelle indicate nell'art. 6 del R. decreto-legge 17 giugno 1941-XIX, n. 494.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia incerta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 9 febbraio 1942 XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL - RICCARDI - CIANO - GRANDI - PARESCHI - HOST   
+VENTURI - RICCI   
+  
+Visto, il Guardasigilli: GRANDI   

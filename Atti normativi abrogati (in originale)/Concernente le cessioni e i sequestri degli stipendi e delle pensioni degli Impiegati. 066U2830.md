@@ -1,0 +1,42 @@
+LEGGE 18 marzo 1866 n. 2830
+
+
+LEGGE 18 marzo 1866 n. 2830
+===========================
+
+Concernente le cessioni e i sequestri degli stipendi e delle pensioni degli Impiegati. (066U2830)
+-------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/04/1866
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Le cessioni e i sequestri degli stipendi, anteriori alle Leggi 14 aprile e 17 giugno 1864, n 1731 e 1807, da queste Leggi vietati, non sortiranno effetto tranne per gli arretrati e per la parte di rata in corso di maturazione a tempo della promulgazione dell'una e dell'altra delle accennate Leggi.   
+  
+Le cessioni e i sequestri delle pensioni anteriori alle Leggi stesse conservano la loro giuridica efficacia.   
+  
+Sara' pero' sempre salva l'autorita' della cosa giudicata dopo la pubblicazione delle menzionate Leggi e prima della pubblicazione della presente Legge.   
+  
+Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Firenze addi' 18 marzo 1866.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del Sigillo. V. Il Guardasigilli De Falco.   
+A. Scialoja.   
+  

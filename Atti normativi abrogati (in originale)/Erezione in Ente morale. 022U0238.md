@@ -1,0 +1,17 @@
+REGIO DECRETO 29 gennaio 1922 n. 238
+
+
+REGIO DECRETO 29 gennaio 1922 n. 238
+====================================
+
+Erezione in Ente morale. (022U0238)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 11/04/1922
+
+Art. 1
+------
+
+N.
+
+238. Regio decreto 29 gennaio 1922, col quale, sulla proposta del ministro per l'industria ed il commercio, l'Istituto autonomo per le case popolari di Cornigliano Ligure viene eretto in Ente morale ed approvato lo statuto organico relativo.

@@ -1,0 +1,62 @@
+REGIO DECRETO 16 novembre 1870 n. 6036
+
+
+REGIO DECRETO 16 novembre 1870 n. 6036
+======================================
+
+Col quale sul credito straordinario aperto ai Ministri della Guerra e della Marina e' ordinata una quinta assegnazione di lire 7,640,900 al bilancio del Ministero della Guerra. (070U6036)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/12/1870
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduta la [Legge in data del 28 agosto 1870, n. 5833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-28;5833) colla quale fu aperto un credito straordinario di quaranta milioni di lire ai Ministri della Guerra e della Marina, con facolta' al Governo di provvedere alla ripartizione del detto credito fra i capitoli dei bilanci 1870 dei Ministeri della Guerra e della Marina;   
+  
+Veduti i Reali Decreti in data 7, 15, e 25 settembre,   
+  
+13 ottobre e 16 novembre 1870, n. 5883, 5884, 5891, 5895, 5896, 5933, e coi quali furono gia' ordinati sul credito stesso assegnazioni per una somma di L.17,178,000;   
+  
+Sulla proposizione dei Ministri delle Finanze e della Guerra, ed a seguito di deliberazione presa in Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+Sul credito straordinario di quaranta milioni di lire, aperto ai Ministri della Guerra e della Marina colla [Legge del 28 agosto 1870, n. 5833](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-28;5833), e' ordinata una quinta assegnazione di lire sette milioni seicentoquarantamila novecento (L. 7,640,900) al bilancio 1870 del Ministero della Guerra, ripartibile fra i capitoli seguenti:   
+  
+Spesa ordinaria.   
+  
+Capitolo 3. Stati Maggiori . . . . . . . . . . . . . . L. 100,000   
+» 4. Esercito . . . . . . . . . . . . . . . . . » 6,000,000   
+» 9. Personale di contabilita' pei servizi   
+dell'Amministrazione della Guerra . . . . . . . . . » 40,900   
+» 11. Pane . . . . . . . . . . . . . . . . . . . » 1,000,000   
+» 14. Trasporti e spese relative . . . . . . . . » 500,000   
+-------------   
+L. 7,640,900   
+-------------   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 16 novembre 1870.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 22 novembre 1870   
+  
+Reg. 53 Atti del Governo a c. 52. Crodara Visconti.   
+  
+Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
+  
+Quintino Sella.   
+Ricotti.   
+  

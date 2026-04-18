@@ -1,0 +1,46 @@
+REGIO DECRETO 19 ottobre 1893 n. 608
+
+
+REGIO DECRETO 19 ottobre 1893 n. 608
+====================================
+
+Che sopprime lo spaccio dei sali e tabacchi all'ingrosso in Moggio (Udine). (093U0608)
+--------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/11/1893
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto l'art. 63 del regolamento approvato con Reale decreto 14 luglio 1887 n. 4809 (serie 3ª), per l'esecuzione della legge sulla privativa dei sali e tabacchi;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Lo spaccio all'ingrosso dei sali e tabacchi in Moggio e' soppresso.   
+  
+Le rivendite dipendenti dal suddetto spaccio sono aggregate allo spaccio all'ingrosso dei sali e tabacchi in Gemona.   
+  
+Il Ministro proponente determinera' il giorno in cui dovranno avere effetto le premesse disposizioni.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 19 ottobre 1893.   
+  
+UMBERTO.   
+  
+GAGLIARDO.   
+  
+Visto, Il Guardasigilli G. ARMO'.   
+  

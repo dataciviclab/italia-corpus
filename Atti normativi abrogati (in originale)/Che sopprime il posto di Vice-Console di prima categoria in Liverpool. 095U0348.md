@@ -1,0 +1,39 @@
+REGIO DECRETO 25 maggio 1895 n. 348
+
+
+REGIO DECRETO 25 maggio 1895 n. 348
+===================================
+
+Che sopprime il posto di Vice-Console di prima categoria in Liverpool. (095U0348)
+---------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/06/1895
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la legge consolare 28 gennaio 1866, n. 2804;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il posto di Vice-Console di prima categoria, in Liverpool, con obbligo di residenza in Newcastle on Tyne, e' soppresso, a datare dal 1° giugno 1895.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 maggio 1895.   
+  
+UMBERTO.   
+  
+A. Blanc.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   
+  

@@ -1,0 +1,45 @@
+REGIO DECRETO 04 maggio 1884 n. 2423
+
+
+REGIO DECRETO 04 maggio 1884 n. 2423
+====================================
+
+Che istituisce due posti di maestra nell'Istituto femminile della SS. 
+Annunziata di Firenze. (084U2423)
+--------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/07/1884
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D' ITALIA
+
+Veduto il nuovo ruolo del personale direttivo, insegnante, amministrativo e di servizio, approvato per l'Istituto femminile della SS. Annunziata di Firenze con Nostro decreto del 30 marzo 1884, n. 2187 (Serie 3ª);
+
+Riconosciuta la necessita' di aumentare di due il numero delle maestre stabilito col predetto ruolo;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+In aggiunta al nuovo ruolo del personale direttivo, insegnante, amministrativo e di servizio approvato per l'Istituto femminile della SS. Annunziata di Firenze, sono istituiti due posti di maestra con l'annuo stipendio di lire mille per ciascuna.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 maggio 1884.   
+  
+UMBERTO.   
+  
+Coppino.   
+  
+Visto, Il Guardasigilli: Ferracciu'.   
+  

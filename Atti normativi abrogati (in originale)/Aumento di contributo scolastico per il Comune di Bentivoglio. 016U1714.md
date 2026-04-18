@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 05 novembre 1916 n. 1714
+
+
+DECRETO LUOGOTENENZIALE 05 novembre 1916 n. 1714
+================================================
+
+Aumento di contributo scolastico per il Comune di Bentivoglio. (016U1714)
+-------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/01/1917
+
+Art. 1
+------
+
+  
+N. 1714   
+  
+Decreto Luogotenenziale 5 novembre 1916, col quale, sulla proposta del ministro della istruzione pubblica, di concerto con il ministro del tesoro, a carico del comune di Bentivoglio, della provincia di Bologna, e' consolidato un maggior contributo di L. 386 dovuto per il riordinamento delle scuole di Castagnolino e non compreso nel contributo consolidato con il decreto Reale 14 febbraio 1915, n. 276.   
+  

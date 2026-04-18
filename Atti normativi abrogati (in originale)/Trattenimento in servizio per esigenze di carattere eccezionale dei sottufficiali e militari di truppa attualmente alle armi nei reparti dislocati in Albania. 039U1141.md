@@ -1,0 +1,51 @@
+REGIO DECRETO 06 luglio 1939 n. 1141
+
+
+REGIO DECRETO 06 luglio 1939 n. 1141
+====================================
+
+Trattenimento in servizio, per esigenze di carattere eccezionale, dei sottufficiali e militari di truppa attualmente alle armi nei reparti dislocati in Albania. (039U1141)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/04/1939
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto l'art. 170 del testo unico delle leggi sul reclutamento del Regio esercito, approvato con R. decreto 24 febbraio 1938-XVI, n. 329;
+
+Vista la legge 22 gennaio 1934-XII, n. 115, sui soccorsi giornalieri alle famiglie bisognose dei militari richiamati o trattenuti alle armi, modificata dal R. decreto-legge 13 maggio 1935-XIII, n. 1101;
+
+Sulla
+-----
+
+proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I sottufficiali e militari di truppa del Regio esercito attualmente alle armi, nei reparti dislocati in Albania, che abbiano compiuto o che compiranno la ferma di leva o quella volontariamente assunta, continueranno a prestare servizio, quali trattenuti per esigenze di carattere eccezionale, fino al giorno che sara' determinato, d'ordine Nostro, dal DUCE del Fascismo, Capo del Governo, Ministro per la guerra.   
+  
+Il presente decreto ha vigore dal 1° aprile 1939-XVII.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 6 luglio 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 11 agosto 1939-XVII   
+  
+Atti del Governo, registro 412, foglio 38. - MANCINI   

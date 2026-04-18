@@ -1,0 +1,21 @@
+REGIO DECRETO 22 novembre 1896 n. CCCCXLIX
+
+
+REGIO DECRETO 22 novembre 1896 n. CCCCXLIX
+==========================================
+
+Che trasforma il monte frumentario detto di San Michele Arcangelo esistente nel comune di Senerchia (Avellino) in una cassa di prestanze agrarie, approva lo statuto organico. (9600449R)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/02/1897
+
+Art. 1
+------
+
+  
+Che trasforma il monte frumentario detto di San Michele Arcangelo esistente nel comune di Senerchia (Avellino) in una cassa di prestanze agrarie, approva lo statuto organico per detta cassa in data 4 settembre 1896 di numero 15 articoli ed affida l'amministrazione di questa alla locale congregazione di carita'. - Firmato UMBERTO - Contrassegnato Rudini' - Visto G. Costa.   
+  
+Registrato alla Corte dei Conti addi' 16 gennaio 1897.   
+  
+Reg. 209. Atti del Governo a f. 41.   
+  

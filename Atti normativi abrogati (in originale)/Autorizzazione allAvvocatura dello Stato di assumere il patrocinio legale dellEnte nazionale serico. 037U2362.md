@@ -1,0 +1,48 @@
+REGIO DECRETO 23 dicembre 1937 n. 2362
+
+
+REGIO DECRETO 23 dicembre 1937 n. 2362
+======================================
+
+Autorizzazione all'Avvocatura dello Stato di assumere il patrocinio legale dell'Ente nazionale serico. (037U2362)
+-----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/02/1938
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto l'[art. 43 del testo unico delle leggi sull'Avvocatura dello Stato](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-10-30;1612~art43), approvato con R. decreto 30 ottobre 1933-XII, n. 1611;   
+  
+Vista la legge 13 dicembre 1928-VII, n. 3107, relativa alla istituzione ed alla disciplina dell'Ente nazionale serico, e viste le modifiche di cui al R. decreto-legge 24 febbraio 1936-XIV, n. 516;   
+  
+Visti la legge 18 giugno 1931-IX, n. 923, ed il R. decreto 1° maggio 1932-X, n. 544;   
+  
+Visto il R. decreto-legge 29 maggio 1937-XV, n. 1267;   
+  
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, di concerto col Ministro per le corporazioni;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'Avvocatura dello Stato e' autorizzata ad assumere la rappresentanza e la difesa dell'Ente nazionale serico in tutti i giudizi attivi e passivi davanti all'autorita' giudiziaria, ai collegi arbitrali ed alle giurisdizioni amministrative e speciali.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 23 dicembre 1937 - Anno XVI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - LANTINI   
+  
+Visto, il Guardasigilli: SOLMI   
+  
+Registrato alla Corte dei canti, addi' 27 gennaio 1938 - Anno XVI   
+Atti del Governo, registro 393, foglio 139. - MANCINI.   

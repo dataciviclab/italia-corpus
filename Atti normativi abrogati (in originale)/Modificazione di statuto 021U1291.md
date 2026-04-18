@@ -1,0 +1,17 @@
+REGIO DECRETO 31 agosto 1921 n. 1291
+
+
+REGIO DECRETO 31 agosto 1921 n. 1291
+====================================
+
+Modificazione di statuto (021U1291)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 16/10/1921
+
+Art. 1
+------
+
+N.
+
+1291. Regio decreto 31 agosto 1921, col quale, sulla proposta del ministro per l'agricoltura, viene modificato il vigente statuto della scuola mineraria di Agordo.

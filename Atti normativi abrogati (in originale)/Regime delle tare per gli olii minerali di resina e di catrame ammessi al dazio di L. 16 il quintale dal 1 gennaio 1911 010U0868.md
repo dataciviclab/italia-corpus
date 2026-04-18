@@ -1,0 +1,41 @@
+LEGGE 22 dicembre 1910 n. 868
+
+
+LEGGE 22 dicembre 1910 n. 868
+=============================
+
+Regime delle tare per gli olii minerali, di resina e di catrame ammessi al dazio di L. 16 il quintale dal 1° gennaio 1911 (010U0868)
+------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/01/1911
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati danno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' data facolta' al Governo del Re di stabilire con decreto Reale il regime delle tare cui dovranno essere ammessi a partire dal 1° gennaio 1911 gli oli minerali, di resina e di catrame che, dal detto giorno, godranno del dazio convenzionale di L. 16 il quintale in applicazione del vigente trattato di commercio con la Russia.   
+  
+Il detto decreto Reale sara' presentato al Parlamento per la conversione in legge.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 22 dicembre 1910.   
+  
+VITTORIO EMANUELE.   
+  
+Facta.   
+  
+Visto, Il guardasigilli: Fani.   
+  

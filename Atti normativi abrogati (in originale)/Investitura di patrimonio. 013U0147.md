@@ -1,0 +1,19 @@
+REGIO DECRETO 09 febbraio 1913 n. 147
+
+
+REGIO DECRETO 09 febbraio 1913 n. 147
+=====================================
+
+Investitura di patrimonio. (013U0147)
+-------------------------------------
+
+Entrata in vigore del provvedimento: 27/03/1913
+
+Art. 1
+------
+
+  
+N. 147   
+  
+Regio Decreto 9 febbraio 1913, col quale, sulla proposta del ministro dell'interno, il fine inerente al patrimonio della Confraternita di Maria SS. del Perugino in Giove e' parzialmente invertito a favore degli ammalati poveri a domicilio e degli inabili al lavoro, ed il patrimonio medesimo e' concentrato nella locale Congregazione di carita', con l'obbligo in questa di corrispondere al predetto sodalizio L. 29,65 all'anno per spese di culto.   
+  

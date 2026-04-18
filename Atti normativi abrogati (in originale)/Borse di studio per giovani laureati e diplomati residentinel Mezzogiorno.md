@@ -1,0 +1,58 @@
+LEGGE 01 agosto 1988 n. 326
+
+
+LEGGE 01 agosto 1988 n. 326
+===========================
+
+Borse di studio per giovani laureati e diplomati residenti 
+nel Mezzogiorno.
+----------------------------------------------------------------------------
+
+Entrata in vigore della legge: 24/8/1988
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+----------------------------------------------------------
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. Il Consiglio nazionale delle ricerche (CNR) e' autorizzato a bandire, in coerenza con gli obiettivi e le finalita' del piano generale di intervento nel Mezzogiorno, entro un mese dalla data di entrata in vigore della presente legge, concorsi per l'attribuzione di borse di studio a carattere biennale, non rinnovabili, da concludere entro il 31 dicembre 1990, in favore di giovani laureati e giovani diplomati di eta', rispettivamente, non superiore a ventinove e ventidue anni compiuti alla data del bando e residenti alla stessa data nelle regioni meridionali, definite ai sensi dell'[articolo 1 del decreto del Presidente della Repubblica 6 marzo 1978, n. 218](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978-03-06;218~art1).
+
+2. Il bando deve prevedere, oltre ai requisiti di partecipazione, l'ammontare lordo dell'assegno mensile, non superiore rispettivamente a lire 1 milione e 800 mila per i borsisti laureati e a lire 1 milione e 500 mila per i borsisti diplomati. In caso di utilizzazione all'estero delle borse di studio il relativo importo sara' pari a quello ordinariamente corrisposto dal CNR per le borse di studio da fruire all'estero.
+
+3. Le borse di studio sono utilizzate presso gli organi di ricerca del CNR, ovvero presso istituti universitari e di ricerca nazionali, stranieri o internazionali della rete scientifica o di quella del sistema produttivo di beni e servizi, di riconosciuta competenza nei settori connessi con gli obiettivi e le finalita' di cui al comma 1.
+
+4. All'onere derivante dall'applicazione della presente legge, valutato in lire 25.000 milioni per ciascuno degli anni 1988, 1989 e 1990, si provvede mediante utilizzo dello stanziamento iscritto, ai fini del bilancio triennale 1988-1990, nel capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1988, all'uopo utilizzando lo specifico accantonamento "Contributo al CNR per borse di studio per giovani laureati nel Mezzogiorno".
+
+5. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 1 agosto 1988
+
+COSSIGA
+
+DE MITA, Presidente del Consiglio dei Ministri
+
+RUBERTI, Ministro per il coordinamento delle iniziative per la ricerca scientifica e tecnologica
+
+Visto, il Guardasigilli: VASSALLI
+
+N O T E  
+AVVERTENZA:  
+Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio e della quale restano invariati il valore e l'efficacia.  
+Nota all'art. 1:  
+L'art. 1 del testo unico delle leggi sugli interventi nel Mezzogiorno, approvato con [D.P.R. n. 218/1978](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1978;218), e' cosi' formulato:  
+"Art. 1 (Sfera territoriale di applicazione). - Il presente testo unico si applica, qualora non sia prescritto diversamente dalle singole disposizioni, alle regioni Abruzzo, Molise, Campania, Puglie, Basilicata, Calabria, Sicilia e Sardegna, alle province di Latina e di Frosinone, ai comuni della provincia di Rieti gia' compresi nell'ex circondario di Cittaducale, ai comuni compresi nella zona del comprensorio di bonifica del fiume Tronto, ai comuni della provincia di Roma compresi nella zona della bonifica di Latina, all'Isola d'Elba, nonche' agli interi territori dei comuni di Isola del Giglio e di Capraia Isola.  
+Qualora il territorio dei comprensori di bonifica di cui al precedente comma comprenda parte di quello di un comune con popolazione superiore ai 10.000 abitanti alla data del 18 agosto 1957, l'applicazione del testo unico sara' limitata al solo territorio di quel comune facente parte dei comprensori medesimi.  
+Gli interventi comunque previsti da leggi in favore del Mezzogiorno d'Italia, escluse quelle che hanno specifico riferimento ad una zona particolare, si intendono, in ogni caso, estesi a tutti i territori indicati nel presente articolo".

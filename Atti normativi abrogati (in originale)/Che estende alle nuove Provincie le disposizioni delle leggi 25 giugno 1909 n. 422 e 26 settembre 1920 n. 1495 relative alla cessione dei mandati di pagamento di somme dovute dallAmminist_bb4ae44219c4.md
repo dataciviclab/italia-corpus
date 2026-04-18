@@ -1,0 +1,51 @@
+REGIO DECRETO 06 luglio 1922 n. 1266
+
+
+REGIO DECRETO 06 luglio 1922 n. 1266
+====================================
+
+Che estende alle nuove Provincie le disposizioni delle leggi 25 giugno 1909, n. 422, e 26 settembre 1920, n. 1495, relative alla cessione dei mandati di pagamento di somme dovute dall'Amministrazione a Cooperative o Consorzi per appalti di opere pubbliche. (022U1266)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/10/1922
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il [R. decreto-legge 3 aprile 1921, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-04-03;573);
+
+Vista la [legge 25 giugno 1909, n. 422](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-06-25;422);
+
+Vista la [legge 26 settembre 1920, n. 1495](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-26;1495);
+
+Viste le [leggi 26 settembre 1920, n. 1322, e 19 dicembre 1920, n. 1778](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-12-19;1778);
+
+Sentito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del ministro per le terre liberate, di concerto col presidente del Consiglio dei ministri, ministro per l'interno, e con i ministri pel tesoro, per le finanze, per l'industria e il commercio e per il lavoro e la previdenza sociale; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le disposizioni di cui nelle [leggi 25 giugno 1909, n. 422, e 26 settembre 1920, n. 1495](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1920-09-26;1495), per quanto concerne la cessione dei mandati di pagamento di somme dovute dall'Amministrazione a Cooperative o Consorzi di Cooperative di produzione e lavoro per appalti di opere pubbliche sono estese alle operazioni che l'Istituto nazionale di credito per la Cooperazione e' autorizzato a compiere nelle nuove provincie d'Italia in forza del [Regio decreto-legge 3 aprile 1921, n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1921-04-03;573), con le Cooperative di lavoro nonche' con i Consorzi fra danneggiati per la ricostruzione degli immobili danneggiati dalla guerra costituiti a termini del [Regio decreto-legge 28 novembre 1920, n. 1766](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1920-11-28;1766).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 6 luglio 1922.   
+  
+VITTORIO EMANUELE.   
+  
+FACTA - MAGGIORINO FERRARIS - BERTONE   
+- PEANO - TEOFILO ROSSI - DELLO SBARBA.   
+  
+Visto, il guardasigilli: LUIGI ROSSI.   
+  

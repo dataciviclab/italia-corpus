@@ -1,0 +1,42 @@
+DECRETO MINISTERIALE 22 febbraio 1867 n. 3555
+
+
+DECRETO MINISTERIALE 22 febbraio 1867 n. 3555
+=============================================
+
+Che fissa il prezzo del sale comune da vendersi ad uso esclusivo della fabbricazione della soda e della riduzione dei minerali dal Magazzino delle privative in Torino pel triennio 1867-1869. (067U3555)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/04/1867
+
+Art. 1
+------
+
+  
+IL MINISTRO DELLE FINANZE   
+  
+Visto il Decreto Reale 28 giugno 1866, n° 3018, e l'annessavi Tariffa dei sali;   
+  
+Visto l'art. 123 del Regolamento sulle privative approvato con [R.  
+Decreto 15 giugno 1865, n° 2398](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1865-06-15;2398);   
+  
+Visto l'art. 2 del Decreto Ministeriale 28 settembre ultimo, n° 3287;   
+  
+DETERMINA:   
+  
+Il prezzo del sale comune da vendersi ad uso esclusivo della fabbricazione della soda, e della riduzione dei minerali dal Magazzino delle privative in Torino e' fissato per il triennio 1867 - 1869 a lire tre e centesimi quindici per quintale decimale, restando a carico dell'acquisitore la provvista delle sostanze occorrenti per l'adulterazione del sale.   
+  
+Il presente Decreto sara' registrato alla Corte dei conti ed inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia.   
+  
+Firenze, addi' 22 febbraio 1867.   
+  
+Depretis.   
+  
+Registrato alla Corte dei conti addi' 4 marzo 1867   
+  
+Reg° 39 Atti del Governo a c. 112. Ayres.   
+  
+Luogo del Sigillo, V. Il Guardasigilli Ricasoli.   
+  
+Il Ministro.   
+  

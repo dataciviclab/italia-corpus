@@ -1,0 +1,45 @@
+REGIO DECRETO 24 ottobre 1935 n. 1930
+
+
+REGIO DECRETO 24 ottobre 1935 n. 1930
+=====================================
+
+Soppressione della tramvia Piacenza-Cremona e disarmo del binario della tramvia stessa escluso il tratto Piacenza-Cimitero Piacenza. (035U1930)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/12/1935
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il [decreto Luogotenenziale 20 dicembre 1919, n. 4792](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-12-20;4792)-42846, con il quale fu approvata la convenzione 8 gennaio 1916 per la concessione, senza sussidio dello Stato, alla Societa' italiana di ferrovie e tramvie dell'esercizio delle esistenti tramvie a trazione a vapore Piacenza-Cremona, Piacenza-Bettola e Grazzano-Rivergaro;   
+  
+Vista la nota Ministeriale 26 marzo 1934, n. 768-702/899, con la quale fu autorizzata fra l'altro, in via provvisoria, la soppressione del servizio viaggiatori sulla tramvia Piacenza-Cremona;   
+  
+Vista l'istanza 7 giugno 1935, con la quale la Societa' italiana di ferrovie e tramvie ha chiesto la soppressione definitiva ed il disarmo della tramvia predetta ad eccezione del tratto da Piacenza al Cimitero di Piacenza;   
+  
+Sentito il Consiglio superiore dei lavori pubblici;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Sono autorizzati ad ogni effetto, con decorrenza dalla data del presente decreto, la soppressione ed il disarmo della tramvia a vapore Piacenza-Cremona ad esclusione del tratto da Piacenza al Cimitero di Piacenza.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 24 ottobre 1935 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+Benni   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 14 novembre 1935 - Anno XIV Atti del Governo, registo n. 366, foglio 70. - MANCINI   

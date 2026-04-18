@@ -1,0 +1,43 @@
+LEGGE 22 maggio 1939 n. 805
+
+
+LEGGE 22 maggio 1939 n. 805
+===========================
+
+Inclusione di un rappresentante dell'Unione fascista fra le famiglie numerose nei Comitati per l'amministrazione degli Enti comunali di assistenza. (039U0805)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/07/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico   
+  
+Il fiduciario del nucleo comunale dell'Unione fascista fra le famiglie numerose e' chiamato a far parte del Comitato per l'amministrazione dell'Ente comunale di assistenza, previsto dall'art. 2 della legge 3 giugno 1937-XV, n. 847.   
+  
+Un rappresentante dell'Unione fascista fra le famiglie numerose, designato dal presidente, e' chiamato a far parte del Comitato per l'amministrazione dell'Ente di assistenza di Roma, previsto dall'art. 3 della stessa legge.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 22 maggio 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI   
+  
+Visto, il Guardasigilli: SOLMI   
+  
+  

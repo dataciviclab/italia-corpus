@@ -1,0 +1,23 @@
+REGIO DECRETO 15 luglio 1923 n. 1832
+
+
+REGIO DECRETO 15 luglio 1923 n. 1832
+====================================
+
+Modificazioni al regolamento del comune di Coldirodi (Porto Maurizio) per l'applicazione della tassa di soggiorno. (023U1832)
+-----------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/09/1923
+
+Art. 1
+------
+
+N.
+
+1832. R. decreto 15 luglio 1923, con cui, su proposta del Ministro dell'interno, Presidente del Consiglio dei Ministri, si omologano le modificazioni apportate agli articoli 1, 2, 4 e 14 del regolamento del comune di Coldirodi (Porto Maurizio) per l'applicazione della tassa di soggiorno nella frazione Ospedaletti.   
+  
+Visto, il Guardasigilli: Oviglio.   
+  
+Registrato alla Corte dei conti, addi' 30 agosto 1923.   
+  
+Atti del Governo, registro 215, foglio 218. - Gisci.

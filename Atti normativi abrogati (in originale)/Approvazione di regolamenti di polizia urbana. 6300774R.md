@@ -1,0 +1,27 @@
+REGIO DECRETO 31 maggio 1863 n. DCCLXXIV
+
+
+REGIO DECRETO 31 maggio 1863 n. DCCLXXIV
+========================================
+
+Approvazione di regolamenti di polizia urbana. (6300774R)
+---------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/07/1863
+
+Art. 1
+------
+
+  
+DCCLXXIV.   
+  
+Regio Decreto che approva:   
+  
+1.° Il regolamento di polizia urbana deliberato dal Municipio di Faverzano (Brescia) nelle adunanze del 19 maggio 1862 e 9 marzo 1863;   
+  
+2.° Il regolamento di polizia urbana deliberato dal Municipio di Iesi (Ancona) nelle adunanze delli 21 marzo, 20 e 26 maggio 1862, e 12 marzo ed 8 maggio 1863;   
+  
+3.° Il regolamento di polizia urbana deliberato dal Municipio di Sili (Cagliari) nelle sedute delli 10 novembre 1861 e 19 aprile p. p.   
+  
+Torino 31 maggio 1863.   
+  

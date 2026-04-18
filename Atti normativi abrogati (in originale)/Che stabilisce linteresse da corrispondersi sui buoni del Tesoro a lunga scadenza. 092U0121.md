@@ -1,0 +1,44 @@
+REGIO DECRETO 10 aprile 1892 n. 121
+
+
+REGIO DECRETO 10 aprile 1892 n. 121
+===================================
+
+Che stabilisce l'interesse da corrispondersi sui buoni del Tesoro a lunga scadenza. (092U0121)
+----------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/05/1892
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduta la [legge 7 aprile 1892 n. 111](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-04-07;111), con la quale il Governo del Re e' autorizzato ad emettere buoni del Tesoro a lunga scadenze, da collocarsi alla pari;
+
+Veduto il regolamento per la esecuzione di detta legge, approvato col Reale decreto 10 aprile 1892 n. 120.
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli affari del Tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+L'interesse da corrispondersi sui buoni del Tesoro a lunga scadenze, che in conto della emissione autorizzata per l'esercizio 1891-92 si alieneranno a tutto giugno p. v., e' fissato nella misura annua di 5.1843318 per cento al lordo, e del 450 per cento al netto della ritenuta per imposta di ricchezza mobile.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 10 aprile l892.   
+  
+UMBERTO.   
+  
+L. LUZZATTI.   
+  
+Visto, Il Guardasigilli: B CHIMIRRI.   
+  

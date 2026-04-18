@@ -1,0 +1,42 @@
+REGIO DECRETO 21 febbraio 1878 n. 4299
+
+
+REGIO DECRETO 21 febbraio 1878 n. 4299
+======================================
+
+Col quale alla pianta del personale telegrafico sono aggiunti venti posti di guardafili di 1ª classe. (078U4299)
+----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/03/1878
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visti i RR. decreti delli 11 aprile 1875, n. 2442 e 31 dicembre 1876, n. 3628;
+
+Vista la [legge del 20 dicembre 1877, n. 4204](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-12-20;4204) (Serie 2ª);
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Sono aggiunti alla pianta del personale telegrafico venti posti di guardafili di 1ª classe a lire novecentosessanta annue.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 21 febbraio 1878.   
+  
+UMBERTO.   
+  
+F. Perez.   
+  

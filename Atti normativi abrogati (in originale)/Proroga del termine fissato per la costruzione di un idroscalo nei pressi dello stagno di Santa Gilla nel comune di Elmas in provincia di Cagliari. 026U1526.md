@@ -1,0 +1,48 @@
+REGIO DECRETO 26 agosto 1926 n. 1526
+
+
+REGIO DECRETO 26 agosto 1926 n. 1526
+====================================
+
+Proroga del termine fissato per la costruzione di un idroscalo nei pressi dello stagno di Santa Gilla, nel comune di Elmas, in provincia di Cagliari. (026U1526)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/09/1926
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359), sulle espropriazioni per causa di pubblica utilita';   
+  
+Visto il [R. decreto in data 22 gennaio 1925, n. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-22;180), registrato alla [Corte dei conti il 28 febbraio 1925](https://e-justice.europa.eu/ecli/ECLI::::) (reg. 233, foglio 196) pubblicato nella Gazzetta Ufficiale del Regno d'Italia del 4 marzo 1925, n. 52, col quale Regio decreto veniva dichiarata opera di pubblica utilita' la costruzione di un idroscalo nei pressi dello stagno di Santa Gilla, nel comune di Elmas, in provincia di Cagliari;   
+  
+Accertato che per eccezionali circostanze gli incombenti voluti dalla legge per l'espropriazione degli immobili all'uopo necessari, non possono compiersi nel termine di un anno com'era fissato nel Regio decreto soprarichiamato che percio' va prorogato;   
+  
+Visto l'art. 13 della citata [legge 26 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-26;2359);   
+  
+Sulla proposta del Capo del Governo Primo Ministro Segretario di Stato e Ministro Segretario di Stato per l'aeronautica;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il termine di un anno, fissato dal [R. decreto 22 gennaio 1925, n. 180](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-01-22;180), per la costruzione di un idroscalo nei pressi dello stagno di Santa Gilla nel comune di Elmas, in provincia di Cagliari, e che e' scaduto il 21 gennaio 1926, viene prorogato per altri due anni e cioe' fino al 21 gennaio 1928.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 26 agosto 1926.   
+  
+VITTORIO EMANUELE   
+  
+Mussolini.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato atta Corte dei conti, addi' 9 settembre 1926.   
+  
+Atti dei Governo, registro 252, foglio 61. - Coop   

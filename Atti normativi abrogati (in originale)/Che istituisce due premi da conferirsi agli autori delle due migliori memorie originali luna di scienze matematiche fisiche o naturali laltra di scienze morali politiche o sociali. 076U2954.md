@@ -1,0 +1,46 @@
+REGIO DECRETO 26 gennaio 1876 n. 2954
+
+
+REGIO DECRETO 26 gennaio 1876 n. 2954
+=====================================
+
+Che istituisce due premi da conferirsi agli autori delle due migliori memorie originali, l'una di scienze matematiche, fisiche o naturali, l'altra di scienze morali, politiche o sociali. (076U2954)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/03/1876
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;
+
+Visti gli atti verbali del 17 settembre 1874 e 18 settembre 1875 del Consiglio comunale di Castel del Piano, circa la proposta d'invertire a favore del civico Ospedale l'annualita' di lire 60 48 dovuta al comune dall'Ospedale di S. M. della Scala di Siena, che prima erogavasi in distribuzione di pane ai poveri;
+
+Vista la relativa deliberazione della Deputazione provinciale di Grosseto del 9 giugno 1875;
+
+Veduto il parere del Consiglio di Stato emesso in adunanza del 7 gennaio 1876;
+
+Vista
+-----
+
+la legge 3 agosto 1862 sulle Opere pie; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' autorizzata a favore dell'Ospedale civile di Castel del Piano (Grosseto) la inversione dell'annualita' come sopra dovuta al comune dall'Ospedale di S. M. della Scala di Siena, e che veniva erogata prima per distribuzione di pane ai poveri.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a S. Rossore, addi' 26 gennaio 1876.   
+  
+VITTORIO EMANUELE.   
+  
+G. Cantelli.   
+  

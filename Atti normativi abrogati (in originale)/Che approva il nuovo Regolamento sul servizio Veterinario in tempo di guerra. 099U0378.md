@@ -1,0 +1,52 @@
+REGIO DECRETO 25 agosto 1899 n. 378
+
+
+REGIO DECRETO 25 agosto 1899 n. 378
+===================================
+
+Che approva il nuovo Regolamento sul servizio Veterinario in tempo di guerra. (099U0378)
+----------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/11/1899
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il R. decreto del 14 gennaio 1881, col quale venne approvato il Regolamento sul servizio delle Intendenze in guerra;
+
+Visto il R. decreto del 26 novembre 1882, col quale venne approvata la Parte I del Regolamento di servizio in guerra - Servizio delle truppe;
+
+Visto il R. decreto del 16 settembre 1896, col quale venne approvato un nuovo Regolamento di servizio in guerra - Parte I:
+
+Servizio delle truppe, - il quale sostituisce alcune parti del predetto Regolamento approvato col R. decreto 26 novembre 1882;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' approvato l'annesso Regolamento, d'ordine Nostro firmato dal Ministro della Guerra, per il servizio veterinario in guerra, che fa parte del Regolamento di servizio in guerra - Parte II: Servizio delle Intendenze, - e che sostituisce il libro IX del predetto Regolamento sul servizio delle Intendenze in guerra.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare   
+  
+Dato a Monza, addi' 25 agosto 1899.   
+  
+UMBERTO.   
+  
+G. Mirri.   
+  
+Visto, Il Guardasigilli: A. Bonasi.   
+  
+---------------   
+  
+N. B. Il Regolamento e' integralmente inserito nella Raccolta ufficiale degli atti del Governo.   
+  

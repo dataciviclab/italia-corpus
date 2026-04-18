@@ -1,0 +1,39 @@
+REGIO DECRETO 04 febbraio 1932 n. 260
+
+
+REGIO DECRETO 04 febbraio 1932 n. 260
+=====================================
+
+Modifiche all'elenco delle Regie soprintendenze bibliografiche, annesso al R. decreto-legge 2 ottobre 1919, n. 2074. (032U0260)
+-------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/04/1932
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+RE D'ITALIA   
+  
+Visto il [R. decreto-legge 2 ottobre 1919, n. 2074](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-02;2074), convertito in legge con la [legge 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473);   
+Considerata l'opportunita' di aggregare alla Regia soprintendenza bibliografica del Lazio la Regione Umbra, distaccandola dalla Regia soprintendenza bibliografica per le Marche e l'Umbria;   
+Sentito il parere della Commissione centrale delle biblioteche;   
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'elenco delle Regie soprintendenze bibliografiche, annesso al [R. decreto-legge 2 ottobre 1919, n. 2074](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1919-10-02;2074), e' cosi' modificato ai nn. 6 e 7:   
+6. Soprintendenza per le provincie delle Marche (con sede provvisoria presso la Biblioteca Medicea Laurenziana di Firenze).   
+7. Soprintendenza per il Lazio e l'Umbria (con sede presso la Biblioteca nazionale centrale «Vittorio Emanuele» di Roma).   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 4 febbraio 1932 - Anno X   
+  
+VITTORIO EMANUELE.   
+  
+Giuliano.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 1° aprile 1932 - Anno X   
+Atti del Governo, registro 319, foglio 2. - Ferzi.   

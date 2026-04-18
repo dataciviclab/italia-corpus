@@ -1,0 +1,45 @@
+REGIO DECRETO 02 marzo 1902 n. 98
+
+
+REGIO DECRETO 02 marzo 1902 n. 98
+=================================
+
+Modificazioni da apportarsi alla pianta organica del personale dell'Amministrazione delle Poste e dei Telegrafi. (002U0098)
+---------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/04/1902
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto del 26 gennaio 1889, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-01-26;43);   
+  
+Visto il [R. decreto del 26 gennaio 1902, n. 19](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1902-01-26;19), che approva e rende esecutorio, dal 16 febbraio successivo, il Regolamento per l'esecuzione del citato [R. decreto del 26 gennaio 1889, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1889-01-26;43);   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le Poste e per i Telegrafi;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Nella pianta organica del personala dell'Amministrazione delle Poste e dei Telegrafi - Tabella D (quadro I) - sono apportate, con effetto dal 1° aprile corrente anno, le seguenti modificazioni:   
+  
+Parte di provvedimento in formato grafico  
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 marzo 1902.   
+  
+VITTORIO EMANUELE.   
+  
+G. Zanardelli.   
+T. Galimberti.   
+  
+Visto, Il Guardasigilli: Cocco-Ortu.   

@@ -1,0 +1,32 @@
+REGIO DECRETO 26 marzo 1893 n. CCCCXCVI
+
+
+REGIO DECRETO 26 marzo 1893 n. CCCCXCVI
+=======================================
+
+Che concentra nella congregazione di carita' di Casalserugo (Padova) l'amministrazione dell'opera pia Gruato. (9300496R)
+------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/12/1893
+
+Articolo unico
+--------------
+
+  
+  
+L'amministrazione dell'opera pia Gruato e' concentrata nella congregazione di carita' di Casalserugo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 26 marzo 1893.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei Conti addi' 22 novembre 1893.   
+  
+Reg. 193. Atti del Governo a f. 210. Petrecca.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Armo'.   
+  
+G. Giolitti.   
+  

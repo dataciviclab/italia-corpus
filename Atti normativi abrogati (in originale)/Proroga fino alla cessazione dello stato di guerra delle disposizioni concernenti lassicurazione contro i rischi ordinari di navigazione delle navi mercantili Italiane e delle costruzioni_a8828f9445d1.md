@@ -1,0 +1,39 @@
+LEGGE 06 maggio 1943 n. 526
+
+
+LEGGE 06 maggio 1943 n. 526
+===========================
+
+Proroga, fino alla cessazione dello stato di guerra, delle disposizioni concernenti l'assicurazione contro i rischi ordinari di navigazione delle navi mercantili Italiane e delle costruzioni navali. (043U0526)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/07/1943
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il senato e la Camera del Fasci e delle Corporazioni, a mezzo delle loro Corporazioni a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Le disposizioni emanate con le leggi 3 giugno 1940-XVIII, n. 767, e 11 luglio 1941-XIX n. 935, concernenti l'assicurazione contro i rischi ordinari delle navi mercantili italiane delle costruzioni navali, disposizioni gia' prorogate fino al 31 dicembre 1942-XXI, con la legge 12 febbraio 1942-XX, n. 300, avranno effetto fino al termine dell'anno solare in cui verra' dichiarata la cessazione dello stato di guerra.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 6 maggio 1943-XXI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - CIANETTI - ACERBO - CINI - BONOMI   
+  
+Visto il Guardasigilli: DE MARSICO   

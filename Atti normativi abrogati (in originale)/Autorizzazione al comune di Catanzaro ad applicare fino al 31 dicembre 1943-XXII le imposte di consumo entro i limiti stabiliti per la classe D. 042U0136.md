@@ -1,0 +1,51 @@
+REGIO DECRETO 16 febbraio 1942 n. 136
+
+
+REGIO DECRETO 16 febbraio 1942 n. 136
+=====================================
+
+Autorizzazione al comune di Catanzaro ad applicare fino al 31 dicembre 1943-XXII, le imposte di consumo entro i limiti stabiliti per la classe D. (042U0136)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/03/1942
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il Nostro decreto in data 11 marzo 1940-XVIII, n. 181, col quale, ai sensi dell'art. 27 del testo unico per la finanza locale, approvato con Nostro decreto 14 settembre 1931-IX, n. 1175, il comune di Catanzaro, appartenente alla classe E, fu autorizzato ad applicare fino al 31 dicembre 1941-XX le imposte di consumo con la tariffa della classe superiore D;
+
+Vista la deliberazione 13 ottobre 1941-XIX con la quale il Comune suddetto chiede di potere mantenere ulteriormente in applicazione la tariffa della classe D;
+
+Udita la Commissione centrale per la finanza locale;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo
+
+Articolo unico
+--------------
+
+  
+  
+E comune di Catanzaro e' autorizzato ad applicare lo imposte di consumo entro i limiti stabiliti per la classe D, fino al 31 dicembre 1943-XXII.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 febbraio 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+DI REVEL   
+  
+Visto, 11 Guardasigilli: GRANDI   
+  
+Registrato alta Corte dei conti, addi' 11 marzo 1942-XX   
+  
+Atti del Governo, registro 443, foglio 41. - MANCINI   

@@ -1,0 +1,21 @@
+REGIO DECRETO 11 luglio 1941 n. 798
+
+
+REGIO DECRETO 11 luglio 1941 n. 798
+===================================
+
+Autorizzazione all'Istituto Giuseppe Toniolo di studi superiori di Milano ad accettare una donazione. (041U0798)
+----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/09/1941
+
+Art. 1
+------
+
+N.
+
+798. R. decreto 11 luglio 1941, col quale, sulla proposta del Ministro per l'educazione nazionale, l'Istituto Giuseppe Toniolo di studi superiori di Milano viene autorizzato ad accettare la donazione disposta dalla signora Maddalena Desmanet di Biesme fu visconte Federico Carlo, con atto pubblico in data 22 novembre 1940-XIX del castello con adiacenze, esistente in S. Colombano al Lambro, allo scopo di farne sede di preghiera e di studio per persone colte, e con riserva del diritto di usare, vita natural durante, dei locali e del giardino del castello medesimo.   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 7 agosto 1941-XIX

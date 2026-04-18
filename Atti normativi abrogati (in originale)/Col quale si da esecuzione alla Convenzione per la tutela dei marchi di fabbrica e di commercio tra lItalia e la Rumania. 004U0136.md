@@ -1,0 +1,53 @@
+REGIO DECRETO 13 marzo 1904 n. 136
+
+
+REGIO DECRETO 13 marzo 1904 n. 136
+==================================
+
+Col quale si da' esecuzione alla Convenzione per la tutela dei marchi di fabbrica e di commercio tra l'Italia e la Rumania. (004U0136)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/04/1904
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto l'articolo 5 dello Statuto fondamentale del Regno;   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Sulla proposta dei Nostri Ministri Segretari di Stato per gli Affari Esteri e per l'Agricoltura, l'Industria ed il Commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+Piena ed intiera esecuzione e' data alla Convenzione conclusa fra l'Italia e la Rumania, il 6 giugno 1903, per la tutela dei marchi di fabbrica e di commercio le cui ratifiche furono scambiate a Bucarest, il di' 11 marzo 1904.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 13 marzo 1904.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+Tittoni.   
+Rava.   
+  
+Visto: Il Guardasigilli: Ronchetti.   
+  
+
+Convenzione
+
+  
+CONVENZIONE fra l'Italia e la Rumania per la tutela dei marchi di fabbrica e di commercio.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=004U013600100010110001&dgu=1904-04-13&art.dataPubblicazioneGazzetta=1904-04-13&art.codiceRedazionale=004U0136)
+  

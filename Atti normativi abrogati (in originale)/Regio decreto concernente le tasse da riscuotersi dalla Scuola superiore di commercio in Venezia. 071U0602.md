@@ -1,0 +1,69 @@
+REGIO DECRETO 05 agosto 1871 n. 602
+
+
+REGIO DECRETO 05 agosto 1871 n. 602
+===================================
+
+Regio decreto concernente le tasse da riscuotersi dalla Scuola superiore di commercio in Venezia. (071U0602)
+------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/01/1872
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'articolo 4 del Regio Decreto 6 agosto 1868, che approva lo Statuto organico della R. Scuola superiore di commercio in Venezia;
+
+Visto il Decreto 15 maggio che approva il Regolamento di detta Scuola;
+
+Sulla
+-----
+
+proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+L'articolo 109 del Regolamento 15 maggio 1870, riguardante le tasse da riscuotersi dalla Scuola superiore di commercio in Venezia, e' modificato come segue:   
+  
+La R. Scuola superiore di commercio riscuote le seguenti tasse:   
+  
+A) Per la iscrizione, cosi' dando l'esame di   
+ammissione come essendone dispensati . . . . . . L. 50   
+  
+B) Per l'iscrizione a ciascuno degli anni   
+successivi . . . . . . . . . . . . . . . . . . . » 100   
+  
+C) Per l'iscrizione degli uditori a speciali   
+lezioni del primo anno e per ogni materia . . . . » 15   
+  
+D) Per l'iscrizione degli uditori a speciali   
+lezioni degli anni successivi e per ogni materia » 10   
+  
+E) Per l'attestato di frequentazione della   
+Scuola, e sopra gli esami presi se rilasciato ad   
+allievi del corso ordinario . . . . . . . . . . . » 50   
+  
+Se ad uditori, per ogni materia . . . . . . . . . . » 5   
+  
+F) Per il diploma regio la tassa e' erariale e verra' stabilita dal Governo.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 5 agosto 1871.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 5 gennaio 1872   
+  
+Reg. 59 Atti del Governo. A. C. 4 D. Gherardi   
+  
+Luogo del sigillo. V. Il Guardasigilli De Falco.   
+  
+Castagnola.   

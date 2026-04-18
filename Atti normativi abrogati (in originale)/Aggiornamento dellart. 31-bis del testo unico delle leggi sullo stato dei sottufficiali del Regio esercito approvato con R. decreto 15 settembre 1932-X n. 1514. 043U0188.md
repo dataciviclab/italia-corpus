@@ -1,0 +1,49 @@
+LEGGE 15 marzo 1943 n. 188
+
+
+LEGGE 15 marzo 1943 n. 188
+==========================
+
+Aggiornamento dell'art. 31-bis del testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con R. decreto 15 settembre 1932-X, n. 1514. (043U0188)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/04/1943
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+L'art. 31-bis del testo unico delle leggi sullo stato dei sottufficiali del Regio esercito, approvato con R. decreto 15 settembre 1932-X, n. 1514, e successive modificazioni, e' sostituito dal seguente:   
+  
+«Art. 31-bis. - Il sottufficiale in servizio o in congedo illimitato o assoluto incorre di diritto nella perdita del grado anche:   
+  
+a) per assunzione in servizio, con qualsiasi grado, nella Regia marina, nella Regia aeronautica, nella Regia guardia di finanza, nella Milizia forestale, nella Milizia della strada, nella Milizia portuaria, nel Corpo degli agenti di pubblica sicurezza o di custodia delle carceri, nel Corpo di polizia dell'Africa italiana, ovvero, con grado inferiore a quello di sottufficiale, nella Milizia volontaria per la sicurezza nazionale;   
+  
+b) per assunzione in servizio non autorizzata nelle Forze armate di Stati esteri;   
+  
+c) per decisione insindacabile del Ministro, sentito il parere del Tribunale supremo militare, quando il sottufficiale, prosciolto dal giudice penale, sia stato sottoposto ad una delle misure di sicurezza personali prevedute dall'[art. 215 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art215), ovvero quando il sottufficiale, condannato fuori dei casi preveduti dal [Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398) militare o dal regolamento sullo stato dei sottufficiali, sia stato ricoverato, a cagione di infermita' psichica, in una casa di cura o di custodia.   
+  
+Nel caso che il sottufficiale prosciolto sia stato ricoverato in una manicomio giudiziario ([art. 222 del Codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398~art222)) e nel caso che il sottufficiale condannato sia stato ricoverato per infermita' psichica in una casa di cura o di custodia (articoli 219 e 220 del Codice stesso), la decisione del Ministro e' presa quando il sottufficiale ne viene dimesso».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi 15 marzo 1943-XXI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - ACERBO   
+  
+Visto, il Guardasigilli: DE MARSICO   

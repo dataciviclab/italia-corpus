@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 09 giugno 1918 n. 838
+
+
+DECRETO LUOGOTENENZIALE 09 giugno 1918 n. 838
+=============================================
+
+Autorizzazione ad accettare una donazione (018U0838)
+----------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/07/1918
+
+Art. 1
+------
+
+N.
+
+838. Decreto Luogotenenziale 9 giugno 1918, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'Orfanotrofio militare di Napoli e' autorizzato ad accettare la donazione nell'interesse della fondazione Anna Saladino, la quale in pari tempo e' eretta in ente morale con sede nel comune di Napoli e sotto l'amministrazione del Consiglio dell'Orfanotrofio militare predetto.

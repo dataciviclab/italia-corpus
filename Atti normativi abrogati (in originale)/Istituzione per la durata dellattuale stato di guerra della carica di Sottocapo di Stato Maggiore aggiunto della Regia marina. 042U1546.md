@@ -1,0 +1,36 @@
+LEGGE 03 dicembre 1942 n. 1546
+
+
+LEGGE 03 dicembre 1942 n. 1546
+==============================
+
+Istituzione, per la durata dell'attuale stato di guerra, della carica di Sottocapo di Stato Maggiore aggiunto della Regia marina. (042U1546)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/01/1943
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato:   
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Per la durata dell'attuale stato di guerra il Capo di Stato Maggiore della Regia marina e' coadiuvato nell'esercizio delle sue attribuzioni, oltreche' dal Sottocapo di Stato Maggiore della Regia marina, anche da un Sottocapo di Stato Maggiore aggiunto della Regia marina, avente grado di ammiraglio.   
+Per la nomina del Sottocapo di Stato Maggiore aggiunto della Regia marina si applicano le norme stabilite per la nomina del Sottocapo di Stato Maggiore della Regia marina.   
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+Data a Roma, addi' 3 dicembre 1942-XXI   
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   

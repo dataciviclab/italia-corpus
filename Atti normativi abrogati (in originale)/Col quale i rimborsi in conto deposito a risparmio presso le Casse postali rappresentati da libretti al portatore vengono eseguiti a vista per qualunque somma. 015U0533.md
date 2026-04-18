@@ -1,0 +1,43 @@
+REGIO DECRETO 01 aprile 1915 n. 533
+
+
+REGIO DECRETO 01 aprile 1915 n. 533
+===================================
+
+Col quale i rimborsi in conto deposito a risparmio presso le Casse postali, rappresentati da libretti al portatore, vengono eseguiti a vista per qualunque somma. (015U0533)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/05/1915
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto 20 dicembre 1914, n. 1378, per l'istituzione dei libretti al portatore per depositi a risparmio presso le Casse postali;   
+  
+Ritenuta l'opportunita' di togliere ogni limite di tempo e di somma per l'esecuzione dei rimborsi in conto dei depositi inscritti nei libretti al portatore;   
+  
+Sentito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per le poste ed i telegrafi, di concerto con quelli per il tesoro e per l'agricoltura, industria e commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A parziale modificazione dei comma 4 e 5 dell'articolo unico del [Regio decreto 20 dicembre 1914, n. 1378](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-12-20;1378), i rimborsi in conto deposito a risparmio presso le Casse postali, rappresentati da libretti al portatore, sono eseguiti a vista, per qualunque somma.   
+  
+Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 1° aprile 1915.   
+  
+VITTORIO EMANUELE.   
+  
+Salandra - Riccio - Carcano - Cavasola.   
+  
+Visto, Il guardasigilli: ORLANDO.   
+  

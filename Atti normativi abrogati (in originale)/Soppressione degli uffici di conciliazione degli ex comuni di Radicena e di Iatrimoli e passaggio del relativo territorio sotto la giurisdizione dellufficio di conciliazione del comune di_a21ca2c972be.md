@@ -1,0 +1,49 @@
+REGIO DECRETO 13 febbraio 1939 n. 502
+
+
+REGIO DECRETO 13 febbraio 1939 n. 502
+=====================================
+
+Soppressione degli uffici di conciliazione degli ex comuni di Radicena e di Iatrimoli e passaggio del relativo territorio sotto la giurisdizione dell'ufficio di conciliazione del comune di Taurianova. (039U0502)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/04/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il [R. decreto 16 febbraio 1928, n. 377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-16;377), con il quale i comuni di Radicena e Iatrimoli sono stati aggregati al comune di Taurianova;   
+  
+Vista la deliberazione del 18 maggio 1938 del podesta' del comune di Taurianova, con la quale si chiede che siano soppressi gli uffici di conciliazione degli ex comuni di Radicena e Iatrimoli e che il relativo territorio sia sottoposto alla giurisdizione dell'ufficio di conciliazione del comune di Taurianova;   
+  
+Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte di appello di Catanzaro;   
+  
+Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728;   
+  
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Gli uffici di conciliazione degli ex comuni di Radicena, e Iatrimoli sono soppressi e il relativo territorio e' sottoposto alla, giurisdizione dell'ufficio di conciliazione del comune di Taurianova.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 13 febbraio 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+Solmi.   
+  
+Visto, il Guardasigilli: Solmi   
+  
+Registrato alla Corte dei conti, addi' 22 marzo 1939-XVII   
+  
+Atti del Governo, registro 407, foglio 62. - Mancini.   

@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 14 novembre 1915 n. 1693
+
+
+DECRETO LUOGOTENENZIALE 14 novembre 1915 n. 1693
+================================================
+
+Applicazione di tassa sul bestiame. (015U1693)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 23/12/1915
+
+Art. 1
+------
+
+  
+N. 1693   
+  
+Decreto Luogotenenziale 14 novembre 1915, col quale, sulla proposta del ministro delle finanze, e' approvato il testo di regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Pisa, deliberato da quella Giunta provinciale amministrativa in seduta del 23 dicembre 1914 in sostituzione di quello sanzionato con R. decreto 25 marzo 1900, n. XCV.   
+  

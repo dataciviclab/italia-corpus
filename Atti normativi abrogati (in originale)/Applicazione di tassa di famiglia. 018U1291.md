@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 11 agosto 1918 n. 1291
+
+
+DECRETO LUOGOTENENZIALE 11 agosto 1918 n. 1291
+==============================================
+
+Applicazione di tassa di famiglia. (018U1291)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 13/10/1918
+
+Art. 1
+------
+
+N.
+
+1291. Decreto Luogotenenziale 11 agosto 1918, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Carpi (Modena) di applicare soltanto negli anni 1918 e 1919 la tassa di famiglia col limite massimo di L. 1250, in base alla tabella deliberata dal R. commissario il 20 marzo 1918.

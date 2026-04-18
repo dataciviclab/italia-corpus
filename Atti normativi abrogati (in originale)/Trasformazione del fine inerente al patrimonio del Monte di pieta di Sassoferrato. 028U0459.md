@@ -1,0 +1,21 @@
+REGIO DECRETO 16 febbraio 1928 n. 459
+
+
+REGIO DECRETO 16 febbraio 1928 n. 459
+=====================================
+
+Trasformazione del fine inerente al patrimonio del Monte di pieta' di Sassoferrato. (028U0459)
+----------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/04/1928
+
+Art. 1
+------
+
+N.
+
+459. R. decreto 16 febbraio 1928, col quale, su proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, il fine inerente al patrimonio del Monte di pieta' di Sassoferrato viene trasformato a favore dell'Orfanotrofio Montanari, esistente nel Comune medesimo.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 20 marzo 1928 - Anno VI

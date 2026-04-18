@@ -1,0 +1,51 @@
+REGIO DECRETO 31 gennaio 1879 n. 4700
+
+
+REGIO DECRETO 31 gennaio 1879 n. 4700
+=====================================
+
+Che da' esecuzione alla dichiarazione del 28 gennaio 1879 per mantenere in vigore la convezione sulla proprieta' letteraria e quella consolare e di stabilimento fra l'Italia e la Svizzera. (079U4700)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/02/1879
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 5 dello Statuto fondamentale del Regno;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Presidente del Consiglio, Ministro interinale degli Affari Esteri, Abbiamo decretato e decretiamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+Piena ed intera esecuzione sara' data alla dichiarazione firmata a Roma il 28 gennaio 1879 dai Plenipotenziari italiano e svizzero, in forza della quale venne stabilito che la Convenzione per la proprieta' artistica e letteraria, come pure la Convenzione di stabilimento e consolare, conchiuse l'una a Firenze e l'altra a Berna il 22 luglio 1868, siano mantenute in vigore, salvo facolta' di denunziarle di dodici in dodici mesi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 31 gennaio 1879.   
+  
+UMBERTO.   
+  
+DEPRETIS.   
+  
+  
+
+Declaration
+
+  
+DECLARATION.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=079U470000100010110001&dgu=1879-01-31&art.dataPubblicazioneGazzetta=1879-01-31&art.codiceRedazionale=079U4700)
+  

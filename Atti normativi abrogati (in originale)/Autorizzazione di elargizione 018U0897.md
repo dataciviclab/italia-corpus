@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 20 giugno 1918 n. 897
+
+
+DECRETO LUOGOTENENZIALE 20 giugno 1918 n. 897
+=============================================
+
+Autorizzazione di elargizione (018U0897)
+----------------------------------------
+
+Entrata in vigore del provvedimento: 27/07/1918
+
+Art. 1
+------
+
+N.
+
+897. Decreto Luogotenenziale 20 giugno 1918, col quale, sulla proposta del ministro per l'industria, il commercio e il lavoro, la Cassa centrale di risparmio e depositi di Firenze, e' autorizzata ad elargire gli utili netti dell'esercizio chiuso al 31 dicembre 1917, fino a concorrenza di tre decimi, per scopi di beneficenza e di pubblica utilita'.

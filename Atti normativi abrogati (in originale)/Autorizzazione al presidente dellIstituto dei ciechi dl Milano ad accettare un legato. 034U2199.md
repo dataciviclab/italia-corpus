@@ -1,0 +1,21 @@
+REGIO DECRETO 02 dicembre 1934 n. 2199
+
+
+REGIO DECRETO 02 dicembre 1934 n. 2199
+======================================
+
+Autorizzazione al presidente dell'Istituto dei ciechi dl Milano ad accettare un legato. (034U2199)
+--------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/02/1935
+
+Art. 1
+------
+
+N.
+
+2199. R. decreto 2 dicembre 1934, col quale, sulla proposta del Ministro per l'educazione nazionale, il presidente dell'Istituito dei ciechi di Milano viene autorizzato ad accettare il legato di L. 2000 disposto a favore dell'Istituto dal sig. Giuseppe Marangoni, con l'obbligo che, al termine di trent'anni, l'Istituto medesimo provveda a rinnovare col municipio di Milano la concessione della tomba del benefattore nel Cimitero monumentale di Milano.   
+  
+Visto, il Guardasigilli: DE FRANCISCI.   
+  
+Registrato alla Corte dei conti, addi' 15 gennaio 1935 - Anno XIII

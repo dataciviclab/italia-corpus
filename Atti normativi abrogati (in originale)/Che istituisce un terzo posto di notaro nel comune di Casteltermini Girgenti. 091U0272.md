@@ -1,0 +1,48 @@
+REGIO DECRETO 20 maggio 1891 n. 272
+
+
+REGIO DECRETO 20 maggio 1891 n. 272
+===================================
+
+Che istituisce un terzo posto di notaro nel comune di Casteltermini (Girgenti). (091U0272)
+------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/07/1891
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la domanda del comune di Casteltermini perche' sia ivi istituito un terzo posto di notaro;
+
+Viste le deliberazioni del Consiglio provinciale e del Consiglio notarile di Girgenti;
+
+Visto l'articolo 4 della legge sul notariato, approvata con Nostro decreto 25 maggio 1879, N. 4900, ed il nuovo testo della tabella del numero e delle residenze dei notari, approvato con Nostro decreto 11 giugno 1882, n. 810;
+
+Ritenuto che e' dimostrata la necessita' della istituzione del posto anzidetto;
+
+Sulla
+-----
+
+proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' istituito un terzo posto di notaro nel comune di Casteltermini, distretto notarile di Girgenti.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Milano, addi' 20 maggio 1891.   
+  
+UMBERTO.   
+  
+LUIGI FERRARIS.   
+  
+Visto, Il Guardasigilli: L. FERRARIS.   
+  

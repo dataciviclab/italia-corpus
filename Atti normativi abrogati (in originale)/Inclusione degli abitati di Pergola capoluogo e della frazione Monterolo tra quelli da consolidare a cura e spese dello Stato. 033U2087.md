@@ -1,0 +1,42 @@
+REGIO DECRETO 07 dicembre 1933 n. 2087
+
+
+REGIO DECRETO 07 dicembre 1933 n. 2087
+======================================
+
+Inclusione degli abitati di Pergola (capoluogo) e della frazione Monterolo tra quelli da consolidare a cura e spese dello Stato. (033U2087)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/03/1934
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA Di DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il [decreto Luogotenenziale 30 giugno 1918, n. 1019](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-30;1019);   
+  
+Sentito il Consiglio superiore dei lavori pubblici;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A norma dell'art. 1, sub 7, del [decreto Luogotenenziale 30 giugno 1918, n. 1019](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-06-30;1019), sono aggiunti, a tutti gli effetti della [legge 9 luglio 1908, n. 445](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;445), titolo IV, agli abitati indicati nella tabella D allegata alla legge stessa (consolidamento di frane minaccianti abitati) quello di Pergola (capoluogo) e della frazione Monterolo, in provincia di Pesaro.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 7 dicembre 1933 - Anno XII   
+  
+VITTORIO EMANUELE   
+  
+DI CROLLALANZA   
+  
+Visto, il Guardasigilli: DE FRANCISCI.   
+  
+Registrato atta Corte dei conti, addi' 9 febbraio 1934 - Anno XII   
+Atti del Governo, registro 344, foglio 73. - MANCINI.   

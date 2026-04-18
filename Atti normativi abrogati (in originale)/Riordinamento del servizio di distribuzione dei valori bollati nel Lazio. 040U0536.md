@@ -1,0 +1,203 @@
+REGIO DECRETO 16 maggio 1940 n. 536
+
+
+REGIO DECRETO 16 maggio 1940 n. 536
+===================================
+
+Riordinamento del servizio di distribuzione dei valori bollati nel Lazio. (040U0536)
+------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/06/1940
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il [R. decreto 14 luglio 1921, n. 1099](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-07-14;1099);
+
+Visto il R. decreto 14 agosto 1935-IX, n. 1031;
+
+Visto l'art. 1, n. 3, della legge 31 gennaio 1926-IV, n. 100;
+
+Visto il R. decreto 15 dicembre 1938-XVII, n. 1943, che approva la convenzione 29 ottobre 1938-XVII, con la quale fu affidato, a titolo di esperimento per un biennio dal 1° gennaio 1939, il servizio di distribuzione dei valori bollati nel Piemonte all'Istituto S. Paolo di Torino;
+
+Considerata la opportunita' e la convenienza di provvedere, anche a titolo di esperimento per un biennio dal 1° gennaio 1940, al riordinamento del servizio di distribuzione dei valori bollati nel Lazio al fine di alleviare i compiti degli Uffici del registro perche' possano attendere prevalentemente alle attribuzioni di loro istituto;
+
+Sentito il Consiglio di Stato;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del nostro Ministro, Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' approvata l'annessa convenzione stipulata in rappresentanza del Governo dal Ministro per le finanze, con il Presidente del Banco di Santo Spirito, con la quale e' affidato al detto Banco il servizio di distribuzione dei valori bollati nel Lazio, finora disimpegnato a cura del locale Deposito generale e degli Uffici del registro e del bollo, e precisamente nelle provincie di Roma, Frosinone, Littoria, Rieti e Viterbo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 maggio 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 9 giugno 1940-XVIII   
+  
+Atti del Governo, registro 422, foglio 44. - Mancini   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.1
+
+Convenzione per la distribuzione dei valori bollati ai rivenditori secondari del Lazio   
+  
+Fra il Ministero delle finanze, rappresentato da S. E. il Ministro per le finanze Paolo Thaon di Revel ed il Banco di Santo Spirito (Regionale del Lazio) con sede in Roma, rappresentato dal suo Presidente gr. uff. Luigi Capri Cruciani si stabilisce e si conviene quanto segue:   
+  
+Art. 1.   
+  
+Il Ministero delle finanze consente al Banco di Santo Spirito di effettuare il servizio di distribuzione dei valori bollati ai rivenditori secondari delle Provincie seguenti: Roma, Frosinone, Littoria, Rieti e Viterbo.   
+  
+E' peraltro in facolta' del Ministero delle finanze di riservare la distribuzione di alcuni valori bollati agli Uffici del registro giusta le norme vigenti.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.2
+
+ Art. 2.   
+  
+Il Banco di Santo Spirito assume il detto servizio e si obbliga di eseguirlo con l'osservanza delle norme contenute nella presente convenzione.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.3
+
+ Art. 3.   
+  
+Il Banco di Santo Spirito si obbliga di istituire a proprio spese in Roma un magazzino compartimentale dei valori bollati quale centro di distribuzione dei valori stessi. Il Ministero delle finanze, al momento dell'entrata in vigore della presente convenzione, dotera' il detto Magazzino di una scorta di valori bollati per un importo complessivo di sessanta milioni come da apposito dettagliato elenco firmato dai rappresentanti delle parti contraenti.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.4
+
+ Art. 4.   
+  
+Il Banco di Santo Spirito assume in deposito la dotazione di valori bollati di cui sopra all'art. 3 e se ne rende responsabile obbligandosi a restituirla integralmente in valori o in denaro al termine della durata della presente convenzione, o della proroga prevista dal successivo art. 14.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.5
+
+ Art. 5.   
+  
+Il Ministro per le finanze autorizza il Banco a disporre sulla detta dotazione, per la distribuzione, senza obbligo di pagamento anticipato del prezzo relativo, salvo peraltro l'obbligo della restituzione ai sensi del precedente art. 4, di un ammontare di valori bollati per lire cinquanta milioni giusta i vari tagli e specie che verranno determinati in apposito elenco firmato dai rappresentanti delle parti contraenti.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.6
+
+ Art. 6.   
+  
+Il Banco di Santo Spirito si obbliga a tenere ferma costantemente nel magazzino compartimentale come scorta la rimanente dotazione dei valori bollati per un importo di lire dieci milioni giusta i vari tagli e specie dei valori bollati che saranno del pari determinati con apposito elenco firmato dai rappresentanti delle parti contraenti.   
+  
+Di tale scorta non potra' disporre se non previa autorizzazione del Ministero delle finanze.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.7
+
+ Art. 7.   
+  
+Il Banco di Santo Spirito si obbliga ad effettuare almeno ogni quindici giorni ed in ogni caso non oltre il 20 ed il 5 di ogni mese, il rifornimento dei valori bollati per un ammontare pari alle somme introitate, rispettivamente, nella quindicina precedente dal 1° al 15 e dal 16 a fine mese, dalle proprie dipendenze e rappresentanze e dai propri corrispondenti in ordine alla distribuzione dei valori bollati dai medesimi effettuata.   
+  
+Il rifornimento si effettua con ordinazione al Deposito generale dei valori bollati in Roma, pagandone il prezzo anticipato ad ogni ordinazione, mediante versamento del relativo importo presso la Regia Tesoreria di Roma. Alla ordinazione deve essere allegata la relativa quietanza.   
+  
+Ai fini del controllo di quanto sopra convenuto, il Banco di Santo Spirito si obbliga a trasmettere entro il giorno 31 ed entro il giorno 16 di ogni mese all'Ispettorato compartimentale delle tasse e delle imposte indirette sugli affari di Roma, un prospetto indicante globalmente l'ammontare degli introiti conseguiti rispettivamente nella quindicina antecedente dal 1° al 15 e dal 16 a fine mese da ogni singola dipendenza o rappresentanza e dai corrispondenti che provvedono alla distribuzione dei valori, con indicazione degli estremi delle quietanze di Tesoreria relative ai versamenti di cui al comma precedente.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.8
+
+ Art. 8.   
+  
+Le spese relative al concentramento nel magazzino centrale compartimentale di Roma della dotazione di valori di cui sopra all'art. 3 come pure la spese relative al trasporto dei valori bollati dal Deposito generale dei valori bollati di Roma, al detto magazzino compartimentale ad ogni ordinazione dell'Istituto, sono a carico del Banco di Santo Spirito.   
+  
+Sono del pari a carico del Banco di Santo Spirito le spese di gestione del magazzino compartimentale dal giorno in cui avra' luogo la consegna della scorta di cui sopra all'art. 3 comprese quelle per la custodia e conservazione della scorta stessa, nonche' le spese di trasporto per la distribuzione dei valori dal magazzino centrale compartimentale.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.9
+
+ Art. 9.   
+  
+Il Banco di Santo Spirito si obbliga a provvedere alla distribuzione dei valori bollati a mezzo delle proprie dipendenze (filiali, agenzie, succursali, sub-agenzie), nonche' di Istituti di credito corrispondenti o di apposite rappresentanze nelle piazze indicate nell'allegato A alla presente convenzione ed in altre che potranno successivamente essere determinate d'intesa fra l'Amministrazione delle finanze ed il Banco, assumendo in pieno ogni responsabilita' al riguardo.   
+  
+Qualora il Banco intenda spostare le proprie dipendenze o comunque variare la rete di distribuzione dei valori bollati quale risulta dall'allegato A alla presente convenzione, dovra' ottenerne il preventivo assenso dal Ministero delle finanze, Direzione generale delle tasse e delle imposte indirette sugli affari.   
+  
+Il Banco di Santo Spirito si obbliga a tenere presso ciascun centro di distribuzione indicato nell'allegato A una congrua dotazione di ogni specie e taglio di valori bollati per la vendita ai distributori secondari.   
+  
+Entro il terzo mese dell'entrata in vigore della presente convenzione il Banco deve comunicare al Ministero delle finanze - Direzione generale delle tasse e delle imposte indirette sugli affari - mediante apposito dettagliato prospetto, i quantitativi costituenti le dotazioni di cui al comma precedente.   
+  
+E' in facolta' del Ministero delle finanze di stabilire i quantitativi dei valori per ogni specie e taglio che devono costituire le dette dotazioni e quale parte di esse deve rappresentare la dotazione fissa della dipendenza che non puo' essere posta in vendita se non con particolare autorizzazione dell'Intendente di finanza competente.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.10
+
+ Art. 10.   
+  
+Sull'importo dei valori bollati, prelevati annualmente dall'Istituto contro pagamento dal Deposito generale dei valori bollati compete al Banco stesso la seguente provvigione:   
+  
+del 0,30 per cento fino ad un importo di 100 milioni;   
+  
+del 0,15 per cento sull'importo eccedente i 100 milioni e non i 150 milioni;   
+  
+del 0,10 per cento sull'importo eccedente i 150 milioni e non i 200 milioni;   
+  
+del 0,05 per cento sull'importo eccedente i 200 milioni.   
+  
+Nessun altro aggio, provvigione o compenso spetta al Banco di Santo Spirito e alle sue dipendenze, corrispondenti o rappresentanze per la distribuzione dei valori bollati oggetto della presente convenzione. 
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.11
+
+ Art. 11.   
+  
+La provvigione di cui al precedente articolo e l'aggio che il Banco di Santo Spirito deve consentire a sua volta per conto dello Stato ai rivenditori di valori bollati nella misura determinata dall'art. 8 dell'allegato C al [R. decreto-legge 15 novembre 1937, n. 1924](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1937-11-15;1924) e da altre eventuali disposizioni di legge, saranno liquidati, nei rapporti fra Amministrazione finanziaria e Banco, mensilmente, con l'osservanza delle norme, che saranno determinate dal Ministero delle finanze, alle quali il Banco di Santo Spirito dichiara fin da ora di aderire.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.12
+
+ Art. 12.   
+  
+Il Banco si obbliga di tenere, per la gestione del servizio di distribuzione dei valori bollati ad esso affidato con la presente convenzione, le contabilita' che sono attualmente in uso presso i magazzini gestiti dall'Amministrazione e presso gli Uffici del registro e bollo e quelle altre che il Ministero delle finanze riterra' di dover istituire per il riscontro delle giacenze, delle entrate e delle uscite dei valori sia presso il magazzino compartimentale, sia presso gli organi di distribuzione.   
+  
+Il Banco si obbliga altresi' di sottoporsi per quanto riguarda la gestione del servizio ad esso affidato con la presente convenzione, ad ogni controllo, tanto presso il magazzino compartimentale come presso gli organi periferici di distribuzione, dei funzionari della carriera ispettiva dell''Amministrazione delle tasse e delle imposte indirette sugli affari e di altri funzionari dell'Amministrazione delle finanze appositamente delegati dal Ministero delle finanze, nonche' alla resa del conto giudiziale a norma dell'art. 74 della vigente legge sulla contabilita' generale dello Stato.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.13
+
+ Art. 13.   
+  
+Il Banco di Santo Spirito, a garantire l'esatto adempimento degli obblighi che esso si assume con la presente convenzione, si obbliga di effettuare entro il mese di dicembre 1939, un deposito cauzionale di L. 5 milioni (val. nominale) in Buoni del Tesoro a se' stesso intestati, con annotazione di vincolo in favore dell'Amministrazione delle tasse e delle imposte indirette sugli affari.   
+
+Convenzione-art.14
+
+ Art. 14.   
+  
+La presente convenzione ha effetto dal 1° gennaio 1940-XVIII ed ha la durata di due anni. Ove non venga data disdetta dall'una o dall'altra parte almeno un semestre prima della scadenza del termine s'intende rinnovata per un altro biennio.   
+  
+Per il periodo di un semestre, a decorrere dal giorno in cui entrera' in vigore la presente convenzione, gli Uffici del registro continueranno ad effettuare, come si pratica attualmente, la distribuzione di tutti i valori bollati di cui sono forniti, contemporaneamente alla distribuzione effettuata dal Banco di Santo Spirito per mezzo dei suoi organi.   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-art.15
+
+ Art. 15.   
+  
+La presente convenzione fatta in triplice esemplare come pure l'elenco indicato nel precedente art. 9, sono esenti da ogni tassa ed imposta di bollo e registro.   
+  
+Roma, addi' 28 dicembre 1939-XVIII   
+  
+Il Presidente del Banco di Santo Spirito   
+  
+(Regionale del Lazio)   
+  
+Capri Cruciani   
+  
+Il Ministro per le finanze   
+  
+Di Revel   
+
+Convenzione per la distribuzione valori bollati ai rivenditori secondari del Lazio-Allegato A
+
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=040U053600100160110001&dgu=1940-06-13&art.dataPubblicazioneGazzetta=1940-06-13&art.codiceRedazionale=040U0536)
+  

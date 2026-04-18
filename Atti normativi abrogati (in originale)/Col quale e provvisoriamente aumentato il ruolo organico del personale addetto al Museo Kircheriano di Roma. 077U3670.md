@@ -1,0 +1,43 @@
+REGIO DECRETO 02 febbraio 1877 n. 3670
+
+
+REGIO DECRETO 02 febbraio 1877 n. 3670
+======================================
+
+Col quale e' provvisoriamente aumentato il ruolo organico del personale addetto al Museo Kircheriano di Roma. (077U3670)
+------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/03/1877
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il ruolo organico del personale del museo Kircheriano di Roma, approvato con decreto Reale del 28 marzo 1875, n. 2426 (Serie 2ª);
+
+Veduto l'altro Nostro decreto del 29 luglio 1875, n. 2635 (Serie 2ª), con cui furono istituiti tre nuovi musei nello stesso edificio del Collegio Romano;
+
+Veduto il bilancio passivo della Pubblica Istruzione per l'anno corrente;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Al ruolo organico del personale del museo Kircheriano di Roma sono temporaneamente aggiunti gli uffici di due assessori, con lo stipendio di lire millenovecento (1900) ciascuno, di un economo con lo stipendio di lire duemila (2000), di un segretario con lo stipendio di lire millecinquecento (1500), di un ufficiale di scrittura con lo stipendio di lire millecinquecento (1500) e di un usciere con lo stipendio di lire ottocento (800).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Napoli, addi' 2 febbraio 1877.   
+  
+VITTORIO EMANUELE.   
+  
+Coppino.   

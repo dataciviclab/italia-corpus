@@ -1,0 +1,38 @@
+LEGGE 15 maggio 1967 n. 283
+
+
+LEGGE 15 maggio 1967 n. 283
+===========================
+
+Elevazione, a favore delle popolazioni dei Comuni colpiti dalle 
+alluvioni o mareggiate dell'autunno 1966, del termine di 120 giorni 
+previsto dalla legge 23 dicembre 1966, n. 1139, concernente il 
+condono delle sanzioni non aventi natura penale in materia 
+tributaria.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+  
+Il termine di 120 giorni previsto dagli [articoli 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1139~art1), [2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1139~art2), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1139~art3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1139~art4) e [5 della legge 23 dicembre 1966, n. 1139](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1139~art5), per la concessione del condono delle sanzioni non aventi natura penale in materia tributaria e' elevato a 240 giorni per i contribuenti aventi il domicilio o la residenza e per le societa' e gli Enti aventi la sede sociale nei Comuni colpiti dalle alluvioni o mareggiate dell'autunno 1966, elencati nell'articolo 1 del decreto del Presidente della Repubblica 9 novembre 1966, negli articoli 1 e 2 del decreto del Presidente della Repubblica 15 novembre 1966 e nei decreti da emanare ai sensi dell'[articolo 1 del decreto-legge 9 novembre 1966, n. 914](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1966-11-09;914~art1), convertito nella [legge 23 dicembre 1966, n. 1141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-23;1141).  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 15 maggio 1967
+
+SARAGAT MORO - PRETI
+
+Visto, il Guardasigilli: REALE

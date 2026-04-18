@@ -1,0 +1,22 @@
+REGIO DECRETO 24 luglio 1930 n. 1237
+
+
+REGIO DECRETO 24 luglio 1930 n. 1237
+====================================
+
+Autorizzazione alla « Casa Umberto I per i veterani ed invalidi delle guerre nazionali », in Turate, ad accettare una donazione. (030U1237)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/09/1930
+
+Art. 1
+------
+
+N.
+
+1237. R. decreto 24 luglio 1930, col quale, sulla proposta del Ministro per la guerra, la « Casa Umberto I per i veterani ed invalidi delle guerre nazionali » in Turate, e' autorizzata ad accettare la donazione di L. 5000 fatta a suo favore dagli eredi del comm. Giuseppe Candiani.   
+  
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 3 settembre 1930 - Anno VIII

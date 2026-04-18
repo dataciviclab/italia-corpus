@@ -1,0 +1,53 @@
+REGIO DECRETO 04 febbraio 1943 n. 49
+
+
+REGIO DECRETO 04 febbraio 1943 n. 49
+====================================
+
+Autorizzazione al comune di La Spezia ad applicare, fino al 31 dicembre 1944-XXIII, le imposte di consumo con la tariffa della classe superiore B. (043U0049)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/03/1943
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il Nostro decreto 28 gennaio 1939-XVII, n. 20, col quale si autorizzava il comune di La Spezia appartenente agii effetti dell'applicazione delle imposte di consumo alla classe C, ad applicare le imposte stesse con le aliquote della classe superiore B;
+
+Vista l'istanza con la quale il Comune suddetto chiede, per necessita' di bilancio, la proroga dell'autorizzazione come sopra concessa;
+
+Udita la Commissione centrale per la finanza locale;
+
+Visto l'art. 27 del testo unico per la finanza locale 14 settembre 1931, n. 1175 ;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il comune di La Spezia e' autorizzato ad applicare fino al 31 dicembre 1944 le imposte di consumo con la tariffa della classe superiore B.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 febbraio 1943-XXI   
+  
+VITTORIO EMANUELE   
+  
+DI REVEL   
+  
+Visto, il Guardasigilli: DE MARSICO   
+  
+Registrato alla Corte dei conti, addi' 25 febbraio 1943-XXI   
+  
+Atti del Governo, registro 454, foglio 101. - MANCINI   

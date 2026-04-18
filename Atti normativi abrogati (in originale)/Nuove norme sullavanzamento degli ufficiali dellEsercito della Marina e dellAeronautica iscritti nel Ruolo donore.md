@@ -1,0 +1,46 @@
+LEGGE 16 ottobre 1964 n. 1148
+
+
+LEGGE 16 ottobre 1964 n. 1148
+=============================
+
+Nuove norme sull'avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica, iscritti nel Ruolo d'onore.
+------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei Deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+L'[articolo 120 della legge 12 novembre 1955, n. 1137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-11-12;1137~art120), sull'avanzamento degli ufficiali dell'Esercito, della Marina e dell'Aeronautica quale sostituito dalla [legge 7 novembre 1962, n. 1598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1962-11-07;1598), e' ulteriormente sostituito dal seguente:  
+"Gli ufficiali iscritti nel Ruolo d'onore possono conseguire avanzamento al grado superiore a quello col quale vi furono iscritti dopo aver compiuti cinque anni di anzianita' di grado ed almeno un anno di permanenza in detto ruolo oppure, nel caso di richiamo in servizio ai sensi dell'[articolo 116 della legge 10 aprile 1964, numero 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1964-04-10;113~art116), dopo almeno un anno di servizio.  
+Gli stessi ufficiali possono conseguire una seconda promozione:  
+a) dopo altri cinque anni di permanenza nel ruolo;  
+b) ovvero quando abbiano maturata una anzianita' complessiva minima di 10 anni cumulativamente nell'attuale grado ed in quello precedente, con almeno 16 anni di permanenza nel ruolo;  
+c) ovvero, nel caso di richiamo in servizio ai sensi dell'articolo 116 della citata [legge 10 aprile 1954, n. 113](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1954-04-10;113), dopo un anno di servizio dalla data del precedente avanzamento.  
+Gli ufficiali che abbiano conseguita la promozione ai sensi del comma precedente, possono conseguire una terza promozione allorche', successivamente alla data della seconda promozione, maturino le condizioni di cui alle lettere a) e c) del comma stesso.  
+Possono conseguire una quarta promozione gli ufficiali che siano titolari di pensione di prima categoria di cui alla tabella A annessa alla [legge 10 agosto 1950, n. 648](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-08-10;648), e che fruiscano di assegno di superinvalidita', allorche' si verifichino per essi, dopo la terza promozione, le condizioni di cui alle stesse lettere a) e c).  
+Le promozioni per merito di guerra, ovvero conseguite in tempo di guerra, non sono comprese tra quelle previste nei precedenti commi.  
+Gli ufficiali di cui ai commi precedenti non possono conseguire avanzamento oltre il grado massimo previsto per il ruolo dal quale provengono. Peraltro, gli ufficiali provenienti dal ruolo di complemento, possono, in deroga all'articolo 112, conseguire avanzamento ai sensi del presente articolo sino al grado di colonnello, purche' non superino il grado massimo previsto per il corrispondente ruolo del servizio permanente effettivo.  
+L'avanzamento ha luogo ad anzianita', senza che occorra determinare aliquota di ruolo e prescindendo dal requisito dell'idoneita' fisica.  
+L'ufficiale giudicato idoneo e' promosso senza iscrizione in quadro di avanzamento, con anzianita' corrispondente alla data di compimento del prescritto periodo di permanenza, nel ruolo o di servizio".  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 16 ottobre 1964
+
+Per il Presidente della Repubblica Il Presidente del Senato MERZAGORA MORO - ANDREOTTI - COLOMBO
+
+Visto, il Guardasigilli: REALE

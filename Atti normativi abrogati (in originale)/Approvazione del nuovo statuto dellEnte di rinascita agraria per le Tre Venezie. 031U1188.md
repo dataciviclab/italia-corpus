@@ -1,0 +1,19 @@
+REGIO DECRETO 14 agosto 1931 n. 1188
+
+
+REGIO DECRETO 14 agosto 1931 n. 1188
+====================================
+
+Approvazione del nuovo statuto dell'Ente di rinascita agraria per le Tre Venezie. (031U1188)
+--------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/10/1931
+
+Art. 1
+------
+
+N.
+
+1188. R. decreto 14 agosto 1931, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto dell'Ente di rinascita agraria per le Tre Venezie.   
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 25 settembre 1931 - Anno IX

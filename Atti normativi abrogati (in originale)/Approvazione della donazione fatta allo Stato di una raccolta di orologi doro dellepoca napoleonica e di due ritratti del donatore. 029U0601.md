@@ -1,0 +1,21 @@
+REGIO DECRETO 08 aprile 1929 n. 601
+
+
+REGIO DECRETO 08 aprile 1929 n. 601
+===================================
+
+Approvazione della donazione, fatta allo Stato, di una raccolta di orologi d'oro dell'epoca napoleonica e di due ritratti del donatore. (029U0601)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/05/1929
+
+Art. 1
+------
+
+N.
+
+601. R. decreto 8 aprile 1929, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvata la donazione, disposta dal conte Vay de Vaya Luskod a favore dello Stato, di una raccolta di cinquanta orologi d'oro dell'epoca napoleonica, dal Direttorio al Secondo Impero, nonche' di due ritratti del donatore, per essere esposti nelle sale del Palazzo Pitti in Firenze.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 30 aprile 1929 - Anno VII

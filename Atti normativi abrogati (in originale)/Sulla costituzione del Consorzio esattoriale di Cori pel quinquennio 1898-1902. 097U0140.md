@@ -1,0 +1,46 @@
+REGIO DECRETO 15 aprile 1897 n. 140
+
+
+REGIO DECRETO 15 aprile 1897 n. 140
+===================================
+
+Sulla costituzione del Consorzio esattoriale di Cori, pel quinquennio 1898-1902. (097U0140)
+-------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/05/1897
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il Nostro decreto del 28 febbraio 1897 n. 94 mediante il quale furono approvati diversi Consorzi obbligatori, agli effetti della riscossione delle imposte pel quinquennio 1898-1902;
+
+Ritenuto che col decreto stesso fu compreso il Comune di Roccasinibalda fra quelli che devono costituire il Consorzio di Cori, in provincia di Roma, mentre invece, giusta la deliberazione emessa dal Consiglio provinciale addi' 30 dicembre 1896 e giusta la proposta del Prefetto, al detto Consorzio di Cori doveva essere aggregato, non il Comune di Rocca Sinibalda, ma quello di Roccamassima;
+
+Visto l'[art. 2 della legge 20 aprile 1871 n. 192](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1871-04-20;192~art2) modificato dall'altra [legge 2 aprile 1882 n. 674](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-04-02;674);
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il Consorzio esattoriale di Cori dovra' essere, pel quinquennio 1898-1902, costituito dai Comuni di Cori, Norma e Roccamassima.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 15 aprile 1897.   
+  
+UMBERTO.   
+  
+Branca.   
+  
+Visto, Il Guardasigilli: G. Costa.   
+  

@@ -1,0 +1,60 @@
+REGIO DECRETO 03 febbraio 1876 n. 2955
+
+
+REGIO DECRETO 03 febbraio 1876 n. 2955
+======================================
+
+Che autorizza la provincia di Grosseto a stabilire un pedaggio per il transito sul ponte in costruzione sul fiume Ombrone. (076U2955)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/03/1876
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Viste le deliberazioni 11 maggio 1871, 29 ottobre 1872 e 10 agosto 1874 del Consiglio provinciale di Grosseto, colla prima delle quali si stabilisce l'istituzione di un pedaggio per il transito sul ponte da costruirsi sopra il fiume Ombrone presso il Castello d' Istia, colla seconda si approva la relativa tariffa e colla terza si chiede che la durata del pedaggio sia fissata ad anni cento;   
+  
+Vista l'altra deliberazione dell'11 agosto 1875 dello stesso Consiglio e quella 1° dicembre successive, prese dalla Deputazione provinciale a forma dell'art. 180 n. 9 della legge comunale e provinciale, colle quali venne in alcune parti modificata la tariffa precedentemente adottata;   
+  
+Visti i pareri 7 maggio e 19 novembre 1875 del Consiglio Superiore dei Lavori Pubblici;   
+  
+Vista la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), allegato F;   
+  
+Considerando:   
+  
+Che l' instituzione in massima di un pedaggio per il transito lungo il ponte sull'Ombrone ad Istia, onde rimborsare la provincia di Grosseto delle spese di costruzione del medesimo, non puo' incontrare difficolta' essendo appoggiata all'articolo 38 della predetta legge, e che la tariffa deliberata, inferiore a quella stabilita pel passaggio del fiume sulle barche, non si presenta gravosa ai contribuenti, ne' eccessiva a fronte del dispendio cui deve sottostare la provincia per la costruzione del ponte;   
+  
+Che pero' questo non essendo ancora compiuto, e' opportuno limitare provvisoriamente la durata del pedaggio ad un decennio, sia per potere accertare in modo positivo la spesa occorsa per la costruzione del ponte, sia per aver dati sufficienti a conoscere il vero annuale prodotto del pedaggio e fissarne definitivamente la durata a termini di legge:   
+  
+Udito l'avviso del Consiglio di Stato;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici,   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' autorizzata la provincia di Grosseto a stabilire un pedaggio per il transito sopra il ponte in costruzione sul fiume Ombrone, lungo la strada provinciale da Grosseto a Scansano, da esigerai tale pedaggio provvisoriamente per un decennio in base alla tariffa, che, vista d'ordine Nostro dal predetto Ministro, stara' unita al presente decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 3 febbraio 1876.   
+  
+VITTORIO EMANUELE.   
+  
+S. Spaventa.   
+  
+  
+
+Tariffa
+
+  
+Tariffa di pedaggio per il traffico lungo il ponte sull'Ombrone presso Castello d'Istia.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=076U295500100010110001&dgu=1876-02-24&art.dataPubblicazioneGazzetta=1876-02-24&art.codiceRedazionale=076U2955)
+  

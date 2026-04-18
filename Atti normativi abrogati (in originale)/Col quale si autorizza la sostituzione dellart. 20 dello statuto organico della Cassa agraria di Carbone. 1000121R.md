@@ -1,0 +1,19 @@
+REGIO DECRETO 27 febbraio 1910 n. CXXI
+
+
+REGIO DECRETO 27 febbraio 1910 n. CXXI
+======================================
+
+Col quale si autorizza la sostituzione dell'art. 20 dello statuto organico della Cassa agraria di Carbone. (1000121R)
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/05/1910
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro di agricoltura, industria e commercio:   
+  
+N. CXXI (Dato a Roma, il 27 febbraio 1910), col quale si autorizza la sostituzione dell'art. 20 dello statuto organico della Cassa agraria di Carbone.   
+  

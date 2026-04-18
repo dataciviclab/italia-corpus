@@ -1,0 +1,49 @@
+REGIO DECRETO 29 gennaio 1925 n. 142
+
+
+REGIO DECRETO 29 gennaio 1925 n. 142
+====================================
+
+Assegnazione del territorio di Fiume e di quello della provincia di Zara alla circoscrizione del Regio provveditorato agli studi di Trieste. (025U0142)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/03/1925
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduto il Nostro decreto 22 febbraio 1924, n. 211;   
+  
+Veduto il Nostro decreto 5 marzo 1923, che stabilisce le sedi dei Regi provveditorati agli studi e le relative circoscrizioni;   
+  
+Veduto il Nostro decreto 7 giugno 1923, che apporta modificazioni alla circoscrizione di alcuni Regi provveditorati agli stadi;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il territorio di Fiume annesso al Regno d'Italia col [R. decreto 22 febbraio 1924, n. 211](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-02-22;211), e quello della provincia di Zara, gia' assegnato col R. decreto 5 marzo 1923 al Regio provveditorato agli studi di Ancona, entrano a far parte della circoscrizione del Regio provveditorato agli studi di Trieste.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 gennaio 1925.   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Fedele.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 25 febbraio 1925.   
+  
+Atti del Governo, registro 233, foglio 1 9. - Granata.   
+  

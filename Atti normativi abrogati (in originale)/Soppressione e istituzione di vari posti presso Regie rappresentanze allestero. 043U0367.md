@@ -1,0 +1,22 @@
+REGIO DECRETO 15 marzo 1943 n. 367
+
+
+REGIO DECRETO 15 marzo 1943 n. 367
+==================================
+
+Soppressione e istituzione di vari posti presso Regie rappresentanze all'estero. (043U0367)
+-------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/06/1943
+
+Art. 1
+------
+
+N.
+
+367. R. decreto 15 marzo 1943, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per gli affari esteri, vengono soppressi i seguenti posti: il posto di console ad Orano; il posto di 2° interprete a Pechino; il posto di console a Sussak; il posto di 2° interprete a Shanghai, il posto di 2° interprete a Tokio.  
+Vengono istituiti i seguenti posti: un posto di console aggiunto presso il Regio consolato generale in Nizza, un secondo posto di 1° cancelliere presso il Regio consolato generale in Istambul, un secondo posto di 1° cancelliere presso la Regia legazione in Zagabria, un posto di 2° cancelliere presso il Regio consolato generale in Colonia, un secondo posto di 1° cancelliere presso il Regio consolato generale in Lugano.   
+  
+Visto, il Guardasigilli: De Marsico   
+  
+Registrato alla Corte dei conti, addi' 19 maggio 1943-XXI

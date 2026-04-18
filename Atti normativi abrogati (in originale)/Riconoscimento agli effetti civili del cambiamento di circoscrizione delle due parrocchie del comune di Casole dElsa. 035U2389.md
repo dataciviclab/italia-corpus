@@ -1,0 +1,19 @@
+REGIO DECRETO 28 novembre 1935 n. 2389
+
+
+REGIO DECRETO 28 novembre 1935 n. 2389
+======================================
+
+Riconoscimento, agli effetti civili, del cambiamento di circoscrizione delle due parrocchie del comune di Casole d'Elsa. (035U2389)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/02/1936
+
+Art. 1
+------
+
+N.
+
+2389. R. decreto 28 novembre 1935; col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Colle Val d'Elsa in data 26 ottobre 1934, relativo al cambiamento di circoscrizione delle due parrocchie di San Pietro a Gallena e di San Tommaso a Querceto, situate entrambe nel comune di Casole d'Elsa.   
+Visto, il Guardasigilli: Solmi.   
+Registrato alla Corte dei conti, addi' 11 gennaio 1936 - Anno XIV

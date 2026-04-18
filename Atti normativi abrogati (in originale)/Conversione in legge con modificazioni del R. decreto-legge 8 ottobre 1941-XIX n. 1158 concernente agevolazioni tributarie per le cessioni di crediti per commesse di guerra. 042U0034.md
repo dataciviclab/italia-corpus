@@ -1,0 +1,45 @@
+LEGGE 22 gennaio 1942 n. 34
+
+
+LEGGE 22 gennaio 1942 n. 34
+===========================
+
+Conversione in legge, con modificazioni, del R. decreto-legge 8 ottobre 1941-XIX, n. 1158, concernente agevolazioni tributarie per le cessioni di crediti per commesse di guerra. (042U0034)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/02/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il R. decreto-legge 8 ottobre 1941-XIX, n. 1158, concernente agevolazioni tributarie per le cessioni di crediti per commesse di guerra, con le seguenti modificazioni:   
+  
+All'art. 1, i comma 2° e 3° sono sostituiti con i seguenti:   
+  
+« Alla imposta fissa di registro di lire 20 sono altresi' soggette le cessioni dei crediti previsti nel 1° comma, anche quando siano direttamente effettuate dalle aziende di credito cessionarie a favore dell'Ente finanziamenti industriali o del Consorzio per sovvenzioni su valori industriali, nonche' le cessioni dei crediti stessi dall'Ente anzidetto al Consorzio.   
+  
+Alla stessa imposta fissa di registro sono soggetti gli atti con i quali le ditte assuntrici cedono in tutto o in parte le somme loro dovute dal Consorzio per sovvenzioni su valori industriali o dall'Ente finanziamenti industriali ai sensi degli articoli 2 e 3 del R. decreto-legge 13 gennaio 1941-XIX, n. 27, alle aziende di credito a favore delle quali sia stata in precedenza effettuata con atti registrati la cessione pro-solvendo o pro-soluto dei crediti verso le Amministrazioni militari, oppure la costituzione in pegno dei crediti medesimi ».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data, a Roma, addi' 22 gennaio 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   

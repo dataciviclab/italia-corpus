@@ -1,0 +1,19 @@
+REGIO DECRETO 29 settembre 1912 n. 1466
+
+
+REGIO DECRETO 29 settembre 1912 n. 1466
+=======================================
+
+Approvazione di convenzione. (012U1466)
+---------------------------------------
+
+Entrata in vigore del provvedimento: 30/03/1913
+
+Art. 1
+------
+
+  
+N. 1466   
+  
+Regio Decreto 29 settembre 1912, col quale, sulla proposta dei ministri dell'istruzione pubblica e del tesoro, viene approvata la convenzione stipulata il 18 settembre 1912 tra lo Stato ed il comune di Caltagirone pel mantenimento di quel Regio liceo con effetto dal 1° ottobre 1904.   
+  

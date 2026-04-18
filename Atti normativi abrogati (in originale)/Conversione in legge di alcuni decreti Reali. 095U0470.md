@@ -1,0 +1,44 @@
+LEGGE 04 agosto 1895 n. 470
+
+
+LEGGE 04 agosto 1895 n. 470
+===========================
+
+Conversione in legge di alcuni decreti Reali. (095U0470)
+--------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/08/1895
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Sono convertiti in legge i seguenti decreti reali:   
+  
+a) 3 gennaio 1895, n. 1, che modifica l'organico del personale di ragioneria delle Intendenze di finanza;   
+  
+b) 8 gennaio 1895, n. 2, che stabilisce le variazioni da portarsi allo stato di previsione della spesa del Ministero del Tesoro per l'esercizio 1894-95, in conseguenza dell'ordinamento del personale di delegazione, di gestione e controllo negli uffici dipendenti dal Tesoro, approvato col [regio decreto 10 dicembre 1894, n. 536](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-12-10;536), e delle modificazioni organiche approvate col [regio decreto 3 gennaio 1895, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1895-01-03;1);   
+  
+c) 8 gennaio 1895, n. 9, che stabilisce le variazioni da portarsi allo stato di previsione della spesa del Ministero del Tesoro per l'esercizio 1894-95, in conseguenza dell'ordinamento dell'Ufficio centrale di ispezione per la vigilanza sugli Istituti d'emissione e sui servizi del Tesoro approvato col [regio decreto 10 dicembre 1894, n. 535](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-12-10;535).   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 4 agosto 1895.   
+  
+UMBERTO.   
+  
+Sidney Sonnino.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   

@@ -1,0 +1,59 @@
+REGIO DECRETO 27 novembre 1898 n. 475
+
+
+REGIO DECRETO 27 novembre 1898 n. 475
+=====================================
+
+Autorizzante l'annullamento sulle iscrizioni del Gran Libro del Debito Pubblico di rendita Consolidata 5%. (098U0475)
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/12/1898
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto l'art. 1° della [legge 2 luglio 1896, n. 253](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1896-07-02;253);
+
+Veduti i Reali decreti 17 marzo e 14 agosto 1898, n. 97 e 417, con i quali furono autorizzate le variazioni al bilancio della spesa del Ministero del Tesoro ed al bilancio dell'Entrata per l'esercizio 1897-98 occorrenti in seguito alle conversioni in rendita Consolidata 4,50% netto di titoli di debiti redimibili eseguite dal 1° luglio 1897 al 30 giugno 1898;
+
+Ritenuto che nel detto periodo di tempo furono presentate alla conversione in rendita Consolidata 4,50% netto ventidue Obbligazioni 5% per l'annua rendita di L. 335, con godimento dal 1° aprile 1897, dell'Asse Ecclesiastico - Emissione 1870 (2ª categoria) -, debito compreso fra quelli indicati nella tabella A annessa all'allegato M approvato con l'[art. 13 della legge 22 luglio 1894, n. 339](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1894-07-22;339~art13), al cui pagamento venne provveduto coi frutti semestrali e mediante graduale alienazione della rendita Consolidata 5 % di L. 15 milioni messa a disposizione della Cassa dei Depositi e Prestiti giusta l'art. 4 del detto allegato M;
+
+Considerato che, in corrispondenza della rendita Consolidata 4,50% netto di L. 268, con godimento dal 1° luglio 1897, inscritta nel Gran Libro del Debito Pubblico, per darsi in cambio delle mentovate Obbligazioni, deve essere annullata l'annua rendita Consolidata 5% di L. 335 con pari godimento dal 1° luglio 1897, da prelevarsi dal residuo di quella dei 15 milioni messi a disposizione della Cassa Depositi e Prestiti per lo scopo come sovra indicato;
+
+Ritenuto che il detto residuo di rendita presentemente ha il godimento dal 1° luglio 1898, per essere le due rate semestrali scadute col 1° gennaio e 1° luglio 1898 state soddisfatte ed introitato l'importo netto relativo con attribuzione all'apposito capitolo del bilancio dell'Entrata;
+
+Considerato che, in conseguenza, venendo la rendita di L. 335 annullata soltanto con decorrenza dal 1° luglio 1898, il corrispondente importo netto in L. 268, per le due rate semestrali scadute come sopra, gia' ricavato insieme agli altri fondi occorrenti pel servizio dei debiti redimibili anzidetti, dev'essere rimborsato dalla Cassa Depositi e Prestiti a favore del Tesoro;
+
+Ritenuto che per l'introito della mentovata somma di L. 268, occorre istituire apposito capitolo nel bilancio dell'Entrata per l'esercizio in corso;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per il Tesoro; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+null
+
+Art. 2
+------
+
+null
+
+  
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 27 novembre 1898.   
+  
+UMBERTO.   
+  
+P. Vacchelli.   
+  
+Visto, Il Guardasigilli: C. Finocchiaro-Aprile.   
+  

@@ -1,0 +1,54 @@
+REGIO DECRETO 19 ottobre 1865 n. 2560
+
+
+REGIO DECRETO 19 ottobre 1865 n. 2560
+=====================================
+
+Col quale dei Comuni di Bedizzole, Burago, Carzago, Calvagese, Castrazzone e Moscoline e' formata una Sezione speciale del Collegio elettorale di Lonato. (065U2560)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/11/1865
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduti gli articoli 64, 65 e 66 della Legge per le elezioni politiche 17 dicembre 1860, n.° 4513, e la tabella ad essa Legge unita della circoscrizione territoriale dei Collegi elettorali;
+
+Vedute le istanze del Comune di Bedizzole (Provincia di Brescia), per ottenere che il Comune stesso, unitamente a quelli di Burago, Carzago, Calvagese, Castrazzone e Moscoline, sia dichiarato Sezione separata da quella detta di Lonato, cui fu unito sin qui, del Collegio elettorale di Lonato, n.° 80;
+
+Vedute le istanze del Comune di Soiano per essere separato dalla Sezione detta di Lonato, ed essere invece aggregato alla Sezione costituita in Desenzano sul Lago con Decreto Reale del 23 settembre ultimo scorso;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I Comuni di Bedizzole, Burago, Carzago, Calvagese, Castrazzone e Moscoline che sin qui fecero parte della Sezione del Collegio elettorale di Lonato, numero 80, detta di Lonato, costituiranno d'ora in poi una Sezione speciale del Collegio medesimo che si radunera' in Bedizzole.   
+  
+Il Comune di Soiano che sin qui fece parte della Sezione di Lonato viene aggregato alla Sezione del Collegio medesimo di Lonato detta di Desenzano sul Lago.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato in Firenze, addi' 19 ottobre 1865.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 23 ottobre   
+  
+Reg.° 54 Atti dei Governo a c. 20. Crodara-Visconti   
+  
+Luogo del Sigillo. V. Il Guardasigilli Cortese.   
+  
+Natoli.   
+  

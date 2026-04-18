@@ -1,0 +1,21 @@
+REGIO DECRETO 19 luglio 1941 n. 855
+
+
+REGIO DECRETO 19 luglio 1941 n. 855
+===================================
+
+Autorizzazione alla Regia universita' di Bologna ad accettare una donazione. (041U0855)
+---------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/09/1941
+
+Art. 1
+------
+
+N.
+
+855. R. decreto 19 luglio 1941, col quale, sulla proposta del Ministro per l'educazione nazionale, la Regia universita' di Bologna viene autorizzata ad accettare la donazione della somma di L. 20.000 nominali in titoli di rendita italiana 5 %, disposta in suo favore dalla signora Anita Luisa Rava in Bellini, in rappresentanza anche delle sorelle signore Giuseppina Rava in Fagnocchi e Bianca Rava in Mercalli e della cognata signora Elisa Mus, vedova Rava, con atto rogato in forma pubblica amministrativa il 6 giugno 1940-XVIII dal comm. Gildo Borsari fu Giulio, direttore amministrativo della Regia universita' di Bologna, per l'istituzione di un premio annuale da intitolarsi «Premio Luigi Rava» e da conferirsi ad un laureato in giurisprudenza dell'Universita' stessa, secondo modalita' fissate in apposito regolamento.   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 12 agosto 1941-XIX

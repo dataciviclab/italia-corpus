@@ -1,0 +1,47 @@
+LEGGE 27 giugno 1929 n. 1273
+
+
+LEGGE 27 giugno 1929 n. 1273
+============================
+
+Anticipazione di L. 15,000,000 all'Ente autonomo per l'Acquedotto pugliese. (029U1273)
+--------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/08/1929
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+La Cassa depositi e prestiti e' autorizzata a concedere all'Ente autonomo per l'Acquedotto pugliese, per il rimborso della somma di L. 15,000,000, anticipata dal Consorzio di credito per le opere pubbliche., un mutuo per la somma di L. 15,375,000 comprensivo degli interessi spettanti al Consorzio in ragione del 5 % relativi al 1° semestre 1929.   
+  
+Il mutuo e' ammortizzabile, dal 1° luglio 1929, all'interesse del 6.25 % in trenta annualita' posticipate di L. 1,147,018.67 ciascuna a carico del bilancio del Ministero dei lavori pubblici, con versamento al 30 giugno di ogni anno.   
+  
+Gli interessi che siano eventualmente liquidati a favore del Consorzio posteriormente al 1° luglio 1929 saranno prelevati dagli interessi rimborsabili dalla Cassa per il periodo dal 1° luglio 1929 alla data del pagamento del mutuo.   
+  
+Gli utili netti che sono stati e saranno accertati dall'Ente autonomo per l'Acquedotto pugliese in dipendenza della propria gestione non potranno ulteriormente essere impegnati fino alla emanazione dei provvedimenti riguardanti il finanziamento dell'Acquedotto pugliese.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 27 giugno 1929 - Anno VII   
+  
+VITTORIO EMANUELE.   
+  
+  
+Mussolini - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   

@@ -1,0 +1,47 @@
+REGIO DECRETO 10 ottobre 1929 n. 1945
+
+
+REGIO DECRETO 10 ottobre 1929 n. 1945
+=====================================
+
+Approvazione ed esecutorieta' della convenzione concernente la costruzione e l'esercizio della funicolare aerea Cassino stazione Ferrovie Stato - Abbazia Montecassino. (029U1945)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/12/1929
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447;   
+  
+Sentiti la Regia commissione per le funicolari aeree e terrestri ed il Consiglio di Stato;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta dei Nostri Ministri Segretari di Stato per le comunicazioni e per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione stipulata il 12 settembre 1929 fra i delegati dei Ministri per le comunicazioni e per le finanze ed il rappresentante della «Societa' anonima Funicolari e Funivie Meridionali» per la concessione alla medesima della costruzione e dell'esercizio della funicolare aerea Cassino stazione Ferrovie Stato - Abbazia Montecassino.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 10 ottobre 1929 Anno VII   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Ciano - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 15 novembre 1929 - Anno VIII   
+  
+Atti del Governo, registro 290, foglio 60. - Mancini.   
+  

@@ -1,0 +1,48 @@
+REGIO DECRETO 01 marzo 1928 n. 677
+
+
+REGIO DECRETO 01 marzo 1928 n. 677
+==================================
+
+Approvazione del progetto di separazione patrimoniale e di reparto delle attivita' e passivita' fra le provincie di Aosta e di Torino. (028U0677)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/05/1928
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduto il [R. decreto-legge 2 gennaio 1927, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-01-02;1), convertito nella [legge 29 dicembre 1927, n. 2584](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-12-29;2584);   
+  
+Vedute le deliberazioni, rispettivamente in data 24 e 26 agosto 1927, con le quali i commissari straordinari per le Amministrazioni provinciali di Aosta e di Torino hanno concordemente determinato il progetto di separazione patrimoniale e di reparto delle attivita' e passivita' fra le provincie stesse;   
+  
+Veduti i pareri favorevoli espressi su tale progetto dalle Giunte provinciali amministrative di Aosta e di Torino;   
+  
+Udito il parere del Consiglio di Stato - Sezione prima le cui considerazioni si intendono nel presente decreto riportate;   
+  
+Sulla proposta del Capo da Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il progetto di separazione patrimoniale e di reparto delle attivita' e passivita' fra le provincie di Aosta e di Torino, stabilito dai commissari straordinari per le rispettive Amministrazioni provinciali con le deliberazioni su richiamate, e' approvato.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 1° marzo 1928 - Anno VI   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 12 aprile 1928 - Anno VI   
+Atti del Governo, registro 271, foglio 80. - Sirovich.   
+  

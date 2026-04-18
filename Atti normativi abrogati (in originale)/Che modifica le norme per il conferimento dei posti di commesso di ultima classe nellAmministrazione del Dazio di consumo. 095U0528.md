@@ -1,0 +1,55 @@
+REGIO DECRETO 08 agosto 1895 n. 528
+
+
+REGIO DECRETO 08 agosto 1895 n. 528
+===================================
+
+Che modifica le norme per il conferimento dei posti di commesso di ultima classe nell'Amministrazione del Dazio di consumo. (095U0528)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/09/1895
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze;
+
+Veduto l'articolo 6 del Nostro Decreto del 23 ottobre 1890 n. 7246 (serie 3ª) il quale determina le norme per il conferimento dei posti di commesso di ultima classe nel personale incaricato della riscossione diretta dei dazi di consumo nei Comuni di Roma e di Napoli;
+
+Attesoche'
+----------
+
+l'esperienza ha fatto palese la necessita' di modificare i modi di reclutamento del personale summentovato, nel fine di rialzarne le condizioni morali, fisiche ed intellettuali; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+All'art. 6 del Nostro Decreto del 23 ottobre 1890 n. 7246 (serie 3ª) suindicato, e' sostituito il seguente;   
+  
+I posti di Commesso di ultima classe che si renderanno disponibili nell'Amministrazione del Dazio di Consumo, assunta direttamente dal Governo, saranno conferiti per esame di concorso secondo le norme ed il programma che verranno fissati con Decreto Ministeriale.   
+  
+All'esame possono presentarsi tutti i cittadini italiani o naturalizzati celibi o vedovi senza prole.   
+  
+1. che abbiano compiuto il 18° anno di eta' e non superato il 25°;   
+  
+2. che siano di costituzione fisica robusta, senza difetti o deformita';   
+  
+3. che non abbiano riportata condanna e non siano imputati di delitti o contravvenzioni designate dal vigente [codice penale](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.penale:1930-10-19;1398);   
+  
+4. che provino con documenti originali o legalizzati di avere ottenuto la licenza dal ginnasio o dalla scuola tecnica governativa.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 8 agosto 1895.   
+  
+UMBERTO.   
+  
+P. Boselli.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   

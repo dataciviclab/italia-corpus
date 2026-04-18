@@ -1,0 +1,48 @@
+REGIO DECRETO 06 luglio 1879 n. 4978
+
+
+REGIO DECRETO 06 luglio 1879 n. 4978
+====================================
+
+Che accorda al consorzio irriguo, detto del Rivo Rizzolo in San Giorgio Piacentino (Piacenza), la facolta' di riscuotere le quote sociali coi privilegi del fisco. (079U4978)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/08/1879
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la domanda con la quale la rappresentanza del Consorzio irriguo del Rivo Rizzolo, in San Giorgio Piacentino (Piacenza), chiede la facolta' di riscuotere il contributo dei soci coi privilegi e nelle forme fiscali;
+
+Visto l'atto di costituzione del Consorzio, rogato in Rizzolo, villaggio del comune di S. Giorgio Piacentino, dal notaio dott.
+
+Luchino Della Cella, di residenza in Piacenza, addi' 15 ottobre 1877, lo statuto e gli altri atti relativi;
+
+Vista la deliberazione dell'assemblea generale dei soci del di' 26 marzo 1879, con cui vengono accettate le modificazioni suggerite con nota 24 aprile 1878, n. 2752, del Ministero dell'Interno (Divisione Agricoltura);
+
+Vista la [legge 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (Serie 2ª);
+
+Sulla
+-----
+
+proposta del Nostro Ministro per gli affari d'Agricoltura, Industria e Commercio, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Al Consorzio irriguo, detto del Rivo Rizzolo, costituitosi in S.  
+Giorgio Piacentino, provincia di Piacenza, con atto rogato dal notaio dott. Luchino Della Cella addi' 15 ottobre 1877, per la irrigazione di terreni in quel comune, e' concessa la facolta' di riscuotere il contributo dei soci col privilegio nelle forme fiscali.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 6 luglio 1879.   
+  
+UMBERTO.   
+  
+MAJORANA-CALATABIANO.   

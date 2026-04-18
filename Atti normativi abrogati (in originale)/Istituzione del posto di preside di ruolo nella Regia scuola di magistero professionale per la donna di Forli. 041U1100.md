@@ -1,0 +1,45 @@
+REGIO DECRETO 11 luglio 1941 n. 1100
+
+
+REGIO DECRETO 11 luglio 1941 n. 1100
+====================================
+
+Istituzione del posto di preside di ruolo nella Regia scuola di magistero professionale per la donna di Forli'. (041U1100)
+--------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/10/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Vista la legge 15 giugno 1931-IX, n. 889, sul riordinamento dell'istruzione media tecnica e successive modificazioni;   
+  
+Vista la tabella organica annessa allo statuto della Regia scuola di magistero professionale per la donna di Forli' approvato col R. decreto 31 agosto 1933-XI, n. 2116;   
+  
+Su proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A decorrere dal 16 ottobre 1940-XVIII il posto di direttrice di ruolo con l'obbligo dell'insegnamento (gruppo A, grado 7°) previsto nella tabella organica allegata allo statuto della Regia scuola di magistero professionale per la donna di Forli' approvato col R. decreto 31 agosto 1933-XI, n. 2116, e' soppresso e sostituito con un posto di preside di ruolo senza obbligo di insegnamento (gruppo A, grado 6°).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 11 luglio 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+Bottai - Di Revel   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 8 ottobre 1941-XIX   
+  
+Atti del Governo, registro 438, foglio 20. - Mancini   

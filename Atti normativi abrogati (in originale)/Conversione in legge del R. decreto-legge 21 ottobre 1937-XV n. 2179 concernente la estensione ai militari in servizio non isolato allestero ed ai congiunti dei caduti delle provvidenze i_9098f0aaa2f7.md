@@ -1,0 +1,41 @@
+LEGGE 31 marzo 1938 n. 610
+
+
+LEGGE 31 marzo 1938 n. 610
+==========================
+
+Conversione in legge del R. decreto-legge 21 ottobre 1937-XV, n. 2179, concernente la estensione ai militari in servizio non isolato all'estero ed ai congiunti dei caduti delle provvidenze in vigore per i reduci, gli orfani e congiunti dei caduti nella guerra europea. (038U0610)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/06/1938
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA Dl DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il Regio decreto-legge 21 ottobre 1937-XV, n. 2179, concernente la estensione ai militari in servizio non isolato all'estero ed ai congiunti dei caduti delle provvidenze in vigore per i reduci, gli orfani e congiunti dei caduti nella guerra europea.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 31 marzo 1938 - Anno XVI   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Cobolli-Gigli - Solmi -   
+Bottai - Rossoni - Lantini - Di   
+Revel   
+  
+Visto, il Guardasigilli: Solmi   

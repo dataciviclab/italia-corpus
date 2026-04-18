@@ -1,0 +1,21 @@
+REGIO DECRETO 12 febbraio 1928 n. 482
+
+
+REGIO DECRETO 12 febbraio 1928 n. 482
+=====================================
+
+Riconoscimento, agli effetti del R. decreto 13 agosto 1926, n. 1907, del Consorzio irriguo di Monticelli, con sede in Monticelli Bagni, frazione del comune di Montechiarugolo. (028U0482)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/04/1928
+
+Art. 1
+------
+
+N.
+
+482. R. decreto 12 febbraio 1928, col quale, sulla proposta del Ministro per l'economia nazionale, viene riconosciuto, ai sensi del [R. decreto 13 agosto 1926, n. 1907](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-08-13;1907), il Consorzio irriguo di Monticelli, con sede in Monticelli Bagni, frazione del comune di Montechiarugolo, provincia di Parma.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 22 marzo 1928 - Anno VI

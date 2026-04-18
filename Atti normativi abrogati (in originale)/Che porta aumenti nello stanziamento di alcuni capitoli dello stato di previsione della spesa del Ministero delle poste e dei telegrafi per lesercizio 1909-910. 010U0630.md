@@ -1,0 +1,58 @@
+REGIO DECRETO 18 agosto 1910 n. 630
+
+
+REGIO DECRETO 18 agosto 1910 n. 630
+===================================
+
+Che porta aumenti nello stanziamento di alcuni capitoli dello stato di previsione della spesa del Ministero delle poste e dei telegrafi per l'esercizio 1909-910. (010U0630)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/10/1910
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la [legge 7 luglio 1910, n. 418](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-07-07;418), che aumenta, a decorrere dal 1° luglio 1909, gli stipendi minimi degli agenti subalterni dell'Amministrazione delle poste e dei telegrafi, autorizzando il Governo ad introdurre in bilancio le variazioni necessarie per l'attuazione della legge stessa;
+
+Ritenuto che la maggiore spesa derivante dall'applicazione di detta legge a carico del bilancio dell'esercizio 1909-910 ammonta alla somma di L. 651,633 di cui L. 409,508 per gli agenti di ruolo retribuiti sul capitolo n. 3 e L. 242,125 per gli agenti fuori ruolo retribuiti sul capitolo n. 37 dello stato di previsione della spesa del Ministero delle poste e dei telegrafi;
+
+Vista la [legge 16 marzo 1910, n. 95](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-16;95), che approva lo stato di previsione predetto;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato, per il tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Lo stanziamento dei seguenti capitoli dello stato di previsione della spesa del Ministero delle poste o dei telegrafi per l'esercizio 1909-910 e' aumentato della somma per ciascuno di essi indicata:   
+  
+Cap. n. 3 «Personale subalterno dell'Amministrazione   
+centrale e provinciale, ecc.» lire   
+quattrocentonovemilacinquecentotto. . . . . . . . . . . L. 409,508   
+  
+Cap. n. 37 «Retribuzioni agli agenti subalterni   
+fuori ruolo, ecc.» lire   
+duecentoquarantaduemilacentoventicinque . . . . . . . . » 242,125   
+  
+-------   
+L. 651,633   
+-------   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Venezia, addi' 18 agosto 1910.   
+  
+VITTORIO EMANUELE.   
+  
+Tedesco.   
+  
+Visto, Il guardasigilli: Fani.   
+  

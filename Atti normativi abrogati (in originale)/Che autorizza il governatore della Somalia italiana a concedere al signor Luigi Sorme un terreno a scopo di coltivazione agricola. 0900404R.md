@@ -1,0 +1,231 @@
+REGIO DECRETO 01 ottobre 1909 n. CCCCIV
+
+
+REGIO DECRETO 01 ottobre 1909 n. CCCCIV
+=======================================
+
+Che autorizza il governatore della Somalia italiana a concedere al signor Luigi Sorme' un terreno a scopo di coltivazione agricola. (0900404R)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/12/1909
+
+Art. 1
+------
+
+  
+  
+Il Governatore della Somalia italiana e' autorizzato a concedere al sig. Luigi Sorme' a scopo di coltivazione agricola e alle condizioni tutte contenute nell'unito schema di contratto, una estensione di 3000 ettari di terreno sulla sponda dell'Uebi Scebeli, in localita' da determinarsi dal Governo coloniale tenendo conto delle condizioni locali e della natura delle coltivazioni.   
+  
+
+Art. 2
+------
+
+  
+  
+Il Governatore della Somalia italiana non usera' della facolta' concessagli, se non quando il ministro degli affari esteri avra' riconosciuto a suo giudizio insindacabile che il concessionario abbia fornito tutte le garanzie necessarie ad assicurare la messa in valore della concessione e fatto pervenire al governatore il relativo nulla osta.   
+  
+
+Art. 3
+------
+
+  
+  
+La facolta' concessa al governatore per il rilascio di tremila ettari di terreno al sig. Sorme' cessera' di avere vigore qualora nel termine di quattro mesi dalla data della pubblicazione del presente decreto nella Gazzetta ufficiale del Regno il sig. Sorme' non abbia ottenuto dal ministro degli affari esteri il nulla osta di cui all'articolo precedente. La domanda di lui in tal caso si intendera' senz'altro ed a tutti gli effetti decaduta.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 1° ottobre 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Tittoni.   
+  
+Visto, Il guardasigilli: Orlando.   
+  
+
+Schema-art. 1
+
+  
+MINISTERO DEGLI AFFARI ESTERI   
+  
+Direzione centrale degli affari coloniali   
+  
+Schema di contratto per concessioni di terreno a scopo di coltivazioni tropicali nella Somalia italiana.   
+  
+Art. 1.   
+  
+Il Governo della colonia del Benadir rappresentato dal . . . . . . , concede al signor . . . . . . per la durata di . . . . . . anni un terreno a scopo di coltivazioni tropicali sito . . . . . . , dell'estensione di ettari 3000 da determinarsi di accordo fra il concessionario ed il governatore, in maniera che non ne rimangano in alcun modo lesi i diritti degli indigeni, quali saranno riconosciuti al momento della concessione o lo potranno essere piu' tardi in base all'assetto del regime fondiario.   
+  
+
+Schema-art. 2
+
+  
+Art. 2.   
+  
+A spese del concessionario sara' fatta dal Governo coloniale la delimitazione del terreno ed entro tre mesi dall'avvenuta determinazione il rilievo topografico di esso alla scala di 1:25,000 in due esemplari, uno dei quali col visto del Governo dovra' essere allegato alla copia del presente contratto a mani del signor . . . .  
+. . .   
+  
+
+Schema-art. 3
+
+  
+Art. 3.   
+  
+Il signor . . . . . . si obbliga, sotto pena di decadimento dell'intera concessione, ad iniziare entro il primo anno dalla data della delimitazione i lavori di coltivazione, a porre in coltura 120 ettari per la fine del secondo anno, 240 per la fine del terzo, 420 per la fine del quarto, 600 alla fine del quinto.   
+  
+E' pure fatto obbligo al signor . . . . . . sotto pena di decadimento dell'intera concessione, di aver fatto percorrere dalle colture in un periodo di 10 anni l'intera superficie coltivabile della concessione e di giustificare, secondo le norme stabilite dal Governo coloniale, l'impiego nello stesso periodo, per lo sviluppo ed il miglioramento dei terreni, di una somma non minore di lire duecentomila.   
+  
+
+Schema-art. 4
+
+  
+Art. 4.   
+  
+I terreni concessi saranno per i primi 5 anni esenti da qualsiasi canone o imposta fondiaria.   
+  
+Per il susseguente periodo di 20 anni i canoni e le imposte da pagarsi dal concessionario, non potranno superare un massimo di lire italiane 2 per ogni ettaro di terreno, a meno che il Governo non provveda alla costruzione di una linea ferroviaria che congiunga la zona delle concessioni alla costa, nel qual caso il limite massimo ne potra' essere aumentato, sino a raggiungere la cifra di 4 lire per ettaro, di una percentuale proporzionata al plus valore acquistato dai terreni con l'esercizio della ferrovia, in relazione alla loro distanza dalla ferrovia stessa ed ai vantaggi che essa porti alla concessione.   
+  
+Dopo il periodo di 25 anni il concessionario sara' tenuto a corrispondere quei canoni e quelle imposte che fossero a quell'epoca adottate o venissero in seguito adottate nella colonia del Benadir per le concessioni della stessa specie di quella in discorso.   
+  
+Saranno in ogni caso esclusi dal pagamento di canoni ed imposte gli appezzamenti coltivati a granaglie od ortaggi per il mantenimento degli agricoltori ed operai impiegati nella concessione, e quelli tenuti incolti per necessita' di pascolo.   
+  
+
+Schema-art. 5
+
+  
+Art. 5.   
+  
+Il periodo di esenzione dalle imposte, di cui all'articolo precedente, sara' portato ad anni 10, qualora il concessionario impieghi nella concessione, conducendole a proprie spese, un certo numero di famiglie di coltivatori italiani con non meno di 10 uomini adulti atti al lavoro, esclusi i macchinisti e simili.   
+  
+
+Schema-art. 6
+
+  
+Art. 6.   
+  
+Il concessionario sara' tenuto a pagare i diritti doganali vigenti nella colonia.   
+  
+
+Schema-art. 7
+
+  
+Art. 7.   
+  
+Il macchinario, gli attrezzi e le sementi da impiegarsi nella concessione godranno di franchigia doganale nella colonia.   
+  
+
+Schema-art. 8
+
+  
+Art. 8.   
+  
+La concessione s'intende limitata alla superficie del terreno, restando il sottosuolo di esclusiva proprieta' del Demanio della colonia.   
+  
+
+Schema-art. 9
+
+  
+Art. 9.   
+  
+Il concessionario avra' la facolta' di scavare pozzi d'acqua, di aprire strade e di compiere tutte le altre opere che risultino necessarie a conseguire gli scopi della concessione.   
+  
+I fiumi e canali irrigatori ora esistenti sono di esclusiva proprieta' del Governo, essendone riservato al concessionario solo l'uso gratuito, salvo il disposto dell'art. 18.   
+  
+
+Schema-art. 10
+
+  
+Art. 10.   
+  
+Si intendono riservati i diritti dei terzi sui terreni concessi, diritti per le cui conseguenze il Governo, cosi' della colonia come della madre patria, non assume nessuna responsabilita' in nessun caso, fino a che non siano determinati i beni demaniali della colonia.   
+  
+
+Schema-art. 11
+
+  
+Art. 11.   
+  
+E' fatto obbligo al concessionario di rilasciare nel terreno concesso, a richiesta del Governo della colonia, in qualsiasi tempo, gratuitamente e senza indennita' di sorta, le zone di terreno occorrenti alla pubblica viabilita' e alle opere di fortificazione militare secondo i tracciati, le modalita' e le dimensioni che verranno dal Governo della colonia determinati.   
+  
+
+Schema-art. 12
+
+  
+Art. 12.   
+  
+Il concessionario sara' naturalmente esonerato dal pagemento dei canoni e delle imposte che gravavano sugli appezzamenti di terreno rilasciati in virtu' degli articoli 10 e 11.   
+  
+
+Schema-art. 13
+
+  
+Art. 13.   
+  
+Il concessionario non avra' diritto ad indennita' per le conseguenze delle servitu' militari e dei regolamenti di polizia militare, ne' per qualsiasi imposta o tassa che potra' essere per l'avvenire applicata in colonia, eccezione fatta per quelle sopra specificate.   
+  
+In caso di decadenza della concessione, per le opere di qualsiasi genere esistenti nel terreno concesso, verra' applicato l'[articolo 450 del Codice civile](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile:1942-03-16;262~art450).   
+  
+
+Schema-art. 14
+
+  
+Art. 14.   
+  
+Il concessionario e' tenuto a rispettare le strade esistenti nella regione, il diritto di passaggio e quello di presa d'acqua dai pozzi esistenti.   
+  
+
+Schema-art. 15
+
+  
+Art. 15.   
+  
+Il concessionario si obbliga a rispettare e far rispettare i regolamenti che verranno emanati relativamente ai rapporti dei lavoratori bianchi con gli indigeni.   
+  
+
+Schema-art. 16
+
+  
+Art. 16.   
+  
+La presente concessione non potra' essere ceduta a terzi, ne' appezzamenti di essa potranno essere dati in affitto o a mezzadria, senza l'autorizzazione del Governo.   
+  
+
+Schema-art. 17
+
+  
+Art. 17.   
+  
+In caso di morte del concessionario la concessione passera' di diritto agli eredi, i quali rimarranno sempre responsabili in solido verso l'amministrazione per quanto si riferisce alla esecuzione del contratto.   
+  
+
+Schema-art. 18
+
+  
+Art. 18.   
+  
+La presente concessione s'intende soggetta a tutte le norme in vigore o che andranno in vigore nella colonia per quanto riguarda le acque, i boschi, le strade ed altri interessi d'ordine pubblico.   
+  
+
+Schema-art. 19
+
+  
+Art. 19.   
+  
+Il presente contratto e' convenuto provvisoriamente fra le parti, fino a che non sia pubblicato il regolamento per la concessione dei terreni nella colonia del Benadir, in base al quale sara' fatta la concessione definitiva a condizioni non inferiori per il concessionario, con le norme e' le forme che saranno stabilite dal regolamento stesso.   
+  
+
+Schema-art. 20
+
+  
+Art. 20.   
+  
+Il signor . . . . . . per gli effetti del presente contratto elegge il suo domicilio in Mogadiscio.   
+  
+
+Schema-art. 21
+
+  
+Art. 21.   
+  
+Il presente contratto sara' obbligatorio pel concessionario dal giorno della firma e pel Governo della colonia soltanto quando sara' approvato con decreto Reale.   
+  

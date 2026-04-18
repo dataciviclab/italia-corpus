@@ -1,0 +1,18 @@
+REGIO DECRETO 01 luglio 1909 n. CCXXVII
+
+
+REGIO DECRETO 01 luglio 1909 n. CCXXVII
+=======================================
+
+Che applica la tassa sulle aree fabbricabili in Viareggio. (0900227R)
+---------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/08/1909
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro delle finanze:   
+  
+N. CCXXVII (Dato a Roma, il 1° luglio 1909), col quale si autorizza il comune di Viareggio ad applicare la tassa sulle aree fabbricabili e si approva il regolamento per l'applicazione della tassa sulle aree fabbricabili deliberato dal comune di Viareggio nelle adunanze consiliari in data 20 luglio 1906, 4 maggio 1907 e 15 ottobre 1908.   

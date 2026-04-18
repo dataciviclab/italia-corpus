@@ -1,0 +1,47 @@
+REGIO DECRETO 04 novembre 1904 n. 601
+
+
+REGIO DECRETO 04 novembre 1904 n. 601
+=====================================
+
+Distacco dei comuni di Livemmo e Avenone dalla sezione elettorale politica di Navono e loro costituzione in sezione separata con sede in Livemmo. (004U0601)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/12/1904
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la proposta per il distacco dei comuni di Livemmo e Avenone dalla sezione elettorale di Navono del collegio elettorale politico di Salo', e la loro costituzione in sezione separata con sede a Livemmo.   
+  
+Esaminati gli atti;   
+  
+Ritenuto che il comune di Navono ha n. 57 elettori politici, il comune di Livemmo 52 e 35 quello di Avenone;   
+  
+Vista la deliberazione 29 ottobre corrente anno, con la quale la Commissione elettorale provinciale di Brescia ha, su analoghe deliberazioni delle Commissioni elettorali comunali, approvato la costituzione in sezione autonoma del comune di Navono ed ha approvato altresi' la costituzione dei comuni di Livemmo e Avenone in seziono separata;   
+  
+Vista la legge elettorale politica, [testo unico, 28 marzo 1895, n. 83](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1895-03-28;83);   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+I comuni di Livemmo e Avenone sono distaccati dalla sezione elettorale politica di Navono del collegio elettorale politico di Salo' e sono costituiti in sezione separata con sede a Livemmo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 4 novembre 1904.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+  
+Visto, Il Guardasigilli: Ronchetti.   
+  

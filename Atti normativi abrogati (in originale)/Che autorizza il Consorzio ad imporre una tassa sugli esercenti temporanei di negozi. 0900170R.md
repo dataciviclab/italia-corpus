@@ -1,0 +1,49 @@
+REGIO DECRETO 20 maggio 1909 n. CLXX
+
+
+REGIO DECRETO 20 maggio 1909 n. CLXX
+====================================
+
+Che autorizza il Consorzio ad imporre una tassa sugli esercenti temporanei di negozi. (0900170R)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/07/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'lTALIA   
+  
+Veduta l'istanza dell'amministratore giudiziario presso il Consorzio irriguo del Cavo Montebello in comune di Biandrate, provincia di Novara, trasmessa dal prefetto con nota 2 aprile 1909, con la quale si chiede la concessione del privilegio fiscale per esigere i contributi dei soci;   
+  
+Veduta la deliberazione del 1° febbraio 1898 con la quale i soci del detto Consorzio, il cui termine scadeva il 29 maggio 1901, in base all'art. 176 dello statuto allora vigente, deliberarono la proroga del Consorzio per un altro trentennio;   
+  
+Veduto il nuovo statuto approvato dall'assemblea rappresentativa del Consorzio nell'adunanza del 26 luglio 1904;   
+  
+Veduto il parere favorevole del prefetto, per l'accoglimento di detta istanza, espresso nella ricordata nota 2 aprile 1909;   
+  
+Veduti gli atti;   
+  
+Veduta la [legge 29 maggio 1873, n. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387) (serie 2ª);   
+  
+Sulla proposta del Nostro ministro d'agricoltura, industria e commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il Consorzio irriguo Cavo Montebollo, in comune di Biandrate, provincia di Novara, e' autorizzato a riscuotere il contributo dei soci con i privilegi e nelle forme fiscali.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 maggio 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Cocco-Ortu.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 09 aprile 1916 n. 456
+
+
+DECRETO LUOGOTENENZIALE 09 aprile 1916 n. 456
+=============================================
+
+Applicazione di tassa di esercizio di Monza. (016U0456)
+-------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/05/1916
+
+Art. 1
+------
+
+  
+N. 456   
+  
+Decreto Luogotenenziale 9 aprile 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Monza (Milano), di applicare in confronto degli esercizi industriali e commerciali di speciale importanza ivi esistenti la tassa di esercizio nella misura massima di L. 2000, dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.   
+  

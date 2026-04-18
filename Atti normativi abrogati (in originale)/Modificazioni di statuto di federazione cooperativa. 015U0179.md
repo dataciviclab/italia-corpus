@@ -1,0 +1,19 @@
+REGIO DECRETO 11 febbraio 1915 n. 179
+
+
+REGIO DECRETO 11 febbraio 1915 n. 179
+=====================================
+
+Modificazioni di statuto di federazione cooperativa. (015U0179)
+---------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/03/1915
+
+Art. 1
+------
+
+  
+N. 179   
+  
+Regio Decreto 11 febbraio 1915, col quale sulla proposta del ministro di agricoltura, industria e commercio, d'accordo col ministro dei lavori pubblici, sono approvate alcune modifiche allo statuto del Consorzio « Federazione delle cooperative della provincia di Ravenna », con sede in Ravenna.   
+  

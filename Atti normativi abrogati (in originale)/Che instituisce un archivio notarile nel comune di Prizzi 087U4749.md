@@ -1,0 +1,43 @@
+REGIO DECRETO 10 luglio 1887 n. 4749
+
+
+REGIO DECRETO 10 luglio 1887 n. 4749
+====================================
+
+Che instituisce un archivio notarile nel comune di Prizzi (087U4749)
+--------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/08/1887
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visti gli articoli 3, 101 e 105 del testo unico delle leggi sul riordinamento del Notariato pubblicato col Nostro decreto 25 maggio 1879, n. 4900; 94 e 150 del relativo [Regolamento 23 novembre 1879, n. 5170](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1879-11-23;5170); Veduta la domanda inoltrata dal comune di Prizzi, capoluogo di mandamento, per la istituzione di un Archivio notarile mandamentale in quel luogo e l'analoga deliberazione approvata dalla Deputazione provinciale di Palermo;   
+  
+Ritenuto che il comune di Prizzi rappresenta la maggioranza della popolazione del mandamento;   
+  
+Sulla proposta del Nostro Guardasigilli Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+E' istituito un Archivio notarile mandamentale nel comune di Prizzi, capoluogo di mandamento, distretto notarile di Palermo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 10 luglio 1887.   
+  
+UMBERTO.   
+  
+G. Zanardelli   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

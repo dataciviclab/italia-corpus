@@ -1,0 +1,41 @@
+LEGGE 15 luglio 1911 n. 741
+
+
+LEGGE 15 luglio 1911 n. 741
+===========================
+
+Per l'interpretazione del comma quarto dell'art. 1 della legge 15 luglio 1906, n. 383, sui provvedimenti del Mezzogiorno e le isole di Sicilia e Sardegna. (011U0741)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/08/1911
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dai deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il limite stabilito dal [quarto comma dell'art. 1 della legge 15 luglio 1906, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-07-15;383~art1-com4), per i comuni e le provinciale, che alla pubblicazione di quella legge avevano aggiunto il limite legale dei cinquanta centesimi dell'imposta erariale, deve intendersi nel senso che i comuni, e le provincie possano applicare la sovrimposta nella somma effettiva di sovrimposta sui terreni e sui fabbricati inscritta nel bilancio 1906, o in quella che risulti dalla i media delle somme inscritte nei bilanci del quinquennio 1902-906 oppure in quella che insulti dalla applicazione della aliquota degli stessi esercizi.   
+  
+Nulla e' innovato all'art. 305 del testo unico della legge comunale e provinciale approvato con [R. decreto 21 maggio 1908, n. 269](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-21;269).   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 15 luglio 1911.   
+  
+VITTORIO EMANUELE.   
+  
+GIOLITTI.   
+  
+Visto, il guardasigilli: FINOCCHIARO-APRILE.   
+  

@@ -1,0 +1,19 @@
+REGIO DECRETO 31 dicembre 1911 n. 1432
+
+
+REGIO DECRETO 31 dicembre 1911 n. 1432
+======================================
+
+Aggiunta di posti alla tabella F annessa alla legge 8 aprile 1908, n. 142. (011U1432)
+-------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/02/1912
+
+Art. 1
+------
+
+  
+N. 1432   
+  
+Regio decreto 31 dicembre 1911, col quale, sulla proposta del ministro della pubblica istruzione, dall'1 ottobre 1911 vengono aggiunti alla tabella F annessa alla [legge 8 aprile 1908, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-04-08;142), un posto di macchinista; tre di bidello, tre d'inserviente, in seguito alla regificazione del ginnasio pareggiato di Savona e del ginnasio-liceo pareggiato di Bitonto.   
+  

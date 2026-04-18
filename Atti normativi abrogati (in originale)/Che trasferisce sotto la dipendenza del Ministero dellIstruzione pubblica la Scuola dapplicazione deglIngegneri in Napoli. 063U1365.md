@@ -1,0 +1,44 @@
+REGIO DECRETO 24 giugno 1863 n. 1365
+
+
+REGIO DECRETO 24 giugno 1863 n. 1365
+====================================
+
+Che trasferisce sotto la dipendenza del Ministero dell'Istruzione pubblica la Scuola d'applicazione degl'Ingegneri in Napoli. (063U1365)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/08/1863
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla
+-----
+
+proposizione del Nostro Ministro Segretario di Stato pei Lavori pubblici, d'accordo col Ministro Segretario di Stato pella pubblica Istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+A partire dal 1.° luglio prossimo, la Scuola d'applicazione degli Ingegneri del Genio civile stabilita nella citta' di Napoli attualmente nella dipendenza del Ministero dei Lavori pubblici, e' attribuita al Dicastero dell'Istruzione pubblica.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino il 24 giugno 1863.   
+  
+VITTORIO EMANUELE.   
+  
+Registrato alla Corte dei conti addi' 7 luglio 1863   
+Reg.° 24 Atti del Governo a c. 83. Ayres.   
+Luogo del Sigillo. V. Il Guardasigilli G. PISANELLI.   
+  
+L. F. MENABREA.   
+M. AMARI.   
+  
+  

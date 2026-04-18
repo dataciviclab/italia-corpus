@@ -1,0 +1,52 @@
+REGIO DECRETO 01 giugno 1897 n. 213
+
+
+REGIO DECRETO 01 giugno 1897 n. 213
+===================================
+
+Che approva il Capitolato-tipo per l'appalto dei lavori da eseguirsi nel territorio della Direzione del Genio militare di Milano. (097U0213)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/07/1897
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il Nostro decreto del 7 febbraio 1886 n. 3663 (serie 3ª) che approva il Capitolato-tipo pei lavori di competenza del Genio militare, da eseguirsi nei territorii delle Direzioni del Genio militare di Perugia, Genova e Milano;
+
+Viste le condizioni generali per l'appalto dei lavori del Genio militare, approvato con R. decreto del 14 luglio 1887;
+
+Visto il nuovo Capitolato-tipo per l'appalto dei lavori del Genio militare, da eseguirsi nel territorio della Direzione del Genio militare di Milano;
+
+Visto il parere in merito a detto Capitolato-tipo, emesso dal sig.
+
+Ispettore delle Costruzioni del Genio con foglio del 4 novembre 1895 n. 1947;
+
+Visto il parere favorevole espresso dal Consiglio di Stato nell'adunanza del 14 maggio 1897;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli Affari della Guerra; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' approvato il Capitolato-tipo per l'appalto dei lavori del Genio militare da eseguirsi nel territorio della Direzione del Genio militare di Milano, compilato in data 6 giugno 1896, e, d'ordine Nostro, firmato dal Ministro della Guerra, e depositato, in originale, presso l'Archivio di Stato e per copia autentica presso la Corte dei Conti e presso la Direzione del Genio militare di Milano.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 1 giugno 1897.   
+  
+UMBERTO.   
+  
+Pelloux.   
+  
+Visto, Il Guardasigilli: G. Costa.   
+  

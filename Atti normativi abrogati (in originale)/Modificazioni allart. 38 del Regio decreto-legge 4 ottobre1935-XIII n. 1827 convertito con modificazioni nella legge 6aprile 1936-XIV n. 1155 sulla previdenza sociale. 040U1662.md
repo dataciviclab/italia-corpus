@@ -1,0 +1,43 @@
+LEGGE 04 settembre 1940 n. 1662
+
+
+LEGGE 04 settembre 1940 n. 1662
+===============================
+
+Modificazioni all'art. 38 del Regio decreto-legge 4 ottobre 
+1935-XIII, n. 1827, convertito con modificazioni, nella legge 6 
+aprile 1936-XIV, n. 1155, sulla previdenza sociale. (040U1662)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/12/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+La prima parte del n. 2 dell'art. 38 del R. decreto-legge 4 ottobre 1935-XIII, n. 1827, convertito, con modificazioni, nella legge 6 aprile 1936-XIV, n. 1155, modificato col R. decreto-legge 14 aprile 1939-XVII, n. 636, convertito, con modificazioni, nella legge 6 luglio 1939-XVII, n. 1272, e' modificata come segue:   
+  
+"2) gli operai, agenti e impiegati delle Amministrazioni statali, comprese quelle ad ordinamento autonomo, dell'Amministrazione della Real Casa, delle Provincie, dei Comuni, delle Istituzioni pubbliche di beneficenza e delle Associazioni sindacali legalmente riconosciute ai sensi della legge 3 aprile 1926-IV, n. 563, purche' ad essi sia assicurato un trattamento di quiescenza o di previdenza".   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 4 settembre 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - RICCI - DI REVEL - TERUZZI - GRANDI - SERENA - TASSINARI - HOST VENTURI   
+  
+Visto, il Guardasigilli: GRANDI   

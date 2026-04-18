@@ -1,0 +1,45 @@
+REGIO DECRETO 29 gennaio 1893 n. 35
+
+
+REGIO DECRETO 29 gennaio 1893 n. 35
+===================================
+
+Che apporta modificazioni al ruolo organico dell'Amministrazione provinciale per l'arte antica. (093U0035)
+----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/03/1893
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il ruolo organico dell'Amministrazione provinciale per l'arte antica, approvato con Nostro Decreto 19 agosto 1891 n. 549;   
+  
+Visto l'altro Nostro Decreto 17 dicembre 1891 n. 726, che apporta alcune modificazioni al ruolo predetto;   
+  
+Considerata la necessita' di aggiungere un posto di Ispettore nella categoria del personale scientifico;   
+  
+Considerato che puo' sopprimersi il posto vacante di Adiutore di ultima classe, e uno dei posti parimenti vacanti di custode con stipendio annuo di lire mille;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Nel ruolo organico dell'Amministrazione provinciale per l'arte antica, a cominciare dal 1° febbraio 1893, sono aboliti un posto di Adiutore a L. 2000 (lire duemila) ed un posto di custode a L. 1000 (lire mille), ed e' aggiunto un posto di Ispttore a L. 3000 (lire tremila.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 gennaio 1893.   
+  
+UMBERTO.   
+  
+Martini.   
+  
+Visto, Il Guardasigilli: Bonacci.   
+  

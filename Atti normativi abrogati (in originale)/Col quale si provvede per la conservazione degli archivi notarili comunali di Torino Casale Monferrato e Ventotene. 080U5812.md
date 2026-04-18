@@ -1,0 +1,47 @@
+REGIO DECRETO 12 dicembre 1880 n. 5812
+
+
+REGIO DECRETO 12 dicembre 1880 n. 5812
+======================================
+
+Col quale si provvede per la conservazione degli archivi notarili comunali di Torino, Casale Monferrato e Ventotene. (080U5812)
+-------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/01/1881
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'articolo 146 della legge sul riordinamento del Notariato, in conformita' del testo unico approvato con Nostro decreto 25 maggio 1879, n. 4900 (Serie 2ª), e 147 del relativo [regolamento 23 novembre 1879, n. 5170](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1879-11-23;5170) (Serie 2ª);
+
+In virtu' della facolta' concessa dall'articolo 145 della summentovata legge, per la quale il Governo del Re e' autorizzato a provvedere alla sistemazione degli Archivi notarili attualmente esistenti;
+
+Viste le deliberazioni e le istanze dei comuni interessati;
+
+Sulla
+-----
+
+proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli affari di Grazia e Giustizia e dei Culti, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Gli Archivi notarili comunali attualmente esistenti a Torino, Casale Monferrato e Ventotene sono conservati e rispettivamente posti sotto la dipendenza degli Archivi notarili distrettuali e sotto la vigilanza dei Consigli notarili di Torino, Casale Monferrato e Napoli, ai termini dell'articolo 146 della legge sul riordinamento del Notariato.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 12 dicembre 1880.   
+  
+UMBERTO.   
+  
+T. Villa.   
+  
+Visto - Il Guardasigilli   
+T. Villa.   
+  

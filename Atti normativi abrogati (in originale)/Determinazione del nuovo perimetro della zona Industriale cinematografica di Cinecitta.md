@@ -1,0 +1,35 @@
+LEGGE 15 marzo 1949 n. 88
+
+
+LEGGE 15 marzo 1949 n. 88
+=========================
+
+Determinazione del nuovo perimetro della zona Industriale cinematografica di Cinecitta'.
+----------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+L'area della zona industriale cinematografica costituita nel territorio del comune di Roma, ai sensi dell'[art. 1 della legge 29 maggio 1939, n. 927](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1939-05-29;927~art1), e' contenuta nel nuovo perimetro fissato nella pianta allegata alla presente legge.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 15 marzo 1949
+
+EINAUDI DE GASPERI - TUPINI - LOMBARDO
+
+Visto, il Guardasigilli: GRASSI

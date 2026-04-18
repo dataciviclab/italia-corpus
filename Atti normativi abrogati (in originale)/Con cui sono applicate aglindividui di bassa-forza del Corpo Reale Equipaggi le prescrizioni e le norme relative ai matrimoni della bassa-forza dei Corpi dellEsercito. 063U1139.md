@@ -1,0 +1,48 @@
+REGIO DECRETO 05 febbraio 1863 n. 1139
+
+
+REGIO DECRETO 05 febbraio 1863 n. 1139
+======================================
+
+Con cui sono applicate agl'individui di bassa-forza del Corpo Reale Equipaggi le prescrizioni e le norme relative ai matrimoni della bassa-forza dei Corpi dell'Esercito. (063U1139)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/03/1863
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il Regolamento di disciplina militare approvato con Decreto 30 ottobre 1859;
+
+Considerato come debba tornare sommamente utile al servizio ed alla disciplina del Corpo Reale Equipaggi che le norme e le prescrizioni sui matrimoni dei militari di bassa-forza dei Corpi dello Esercito, stabilite dal Regolamento suddetto, vengano applicate agli individui di bassa-forza del Corpo sovranominato, secondo che e' eziandio prescritto pel Corpo Fanteria Real Marina;
+
+Sulla
+-----
+
+proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le prescrizioni e le norme relative ai matrimoni della bassa-forza dei Corpi dell'Esercito determinate dall'articolo 53 del Regolamento di disciplina militare approvato con Decreto 30 ottobre 1859 sono estese e verranno integralmente applicate ai sotto uffiziali, marinari ed operai del Corpo Reale Equipaggi.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 5 febbraio 1863.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 12 febbraio 1863   
+  
+Reg.° 22 Atti del Governo a c. 75. Wehrlin.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
+  
+O. Di Negro.   
+  

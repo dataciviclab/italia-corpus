@@ -1,0 +1,22 @@
+REGIO DECRETO 03 aprile 1930 n. 1127
+
+
+REGIO DECRETO 03 aprile 1930 n. 1127
+====================================
+
+Fissazione dei contributi scolastici dei comuni di Aramengo e Passerano Marmorito, ed annullamento di quelli degli ex comuni di Marmorito, Passerano e Primeglio Schierano. (030U1127)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/09/1930
+
+Art. 1
+------
+
+N.
+
+1127. R. decreto 3 aprile 1930, col quale, sulla proposta del Ministro per l'educazione nazionale, di concerto con quello per le finanze, i contributi scolastici che i nuovi comuni di Aramengo e Passerano Marmorito, della provincia di Alessandria, devono annualmente versare alla Regia tesoreria dello Stato in applicazione dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), sono rispettivamente fissati in L. 2819,44 ed in L. 3259,02, a decorrere dal 1° gennaio 1930, e sono annullati, con pari decorrenza, i contributi liquidati, ai sensi della medesima disposizione legislativa, a carico dei cessati comuni di Marmorito, Passerano e Primeglio Schierano, rispettivamente in lire 1624,41, L. 1580,02 e L. 866,80.   
+  
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 19 agosto 1930 - Anno VII

@@ -1,0 +1,61 @@
+LEGGE 11 novembre 1986 n. 765
+
+
+LEGGE 11 novembre 1986 n. 765
+=============================
+
+Applicabilita' della legge 1 giugno 1977, n. 286, sulla sospensione e 
+decadenza degli amministratori degli enti locali in dipendenza di 
+procedimenti penali, ai presidenti ed ai componenti degli organi esecutivi di enti, aziende ed organismi dipendenti o comunque 
+derivanti da enti territoriali.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+----------------------------------------------------------
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+Le disposizioni contenute nella [legge 1 giugno 1977, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-06-01;286), sulla sospensione e decadenza degli amministratori degli enti locali in dipendenza di procedimenti penali, si applicano anche ai presidenti ed ai componenti del comitato di gestione delle unita' sanitarie locali, ai presidenti ed ai componenti dell'organo esecutivo delle comunita' montane, ai presidenti dei consigli circoscrizionali aventi le funzioni di cui all'[articolo 13 della legge 8 aprile 1976, n. 278](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976-04-08;278~art13), ai presidenti e ai componenti degli organi esecutivi di associazioni tra enti locali ed ai presidenti ed ai componenti degli organi esecutivi di aziende municipalizzate comunali e provinciali.   
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 11 novembre 1986
+
+COSSIGA
+
+CRAXI, Presidente del Consiglio dei Ministri
+
+SCALFARO, Ministro dell'interno
+
+Visto, il Guardasigilli: ROGNONI
+
+NOTE  
+  
+Note all'articolo unico:  
+- Si ritiene opportuno trascrivere il testo dell'intera [legge n. 286/1977](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977;286), [pubblicata nella Gazzetta Ufficiale n. 158 dell'11 giugno 1977](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1977-06-11&numeroGazzetta=158):  
+"Art. 1. - L'art. 270 del testo unico della legge comunale e provinciale approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), modificato dalla [legge 10 novembre 1970, n. 852](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-11-10;852), e' sostituito dal seguente:  
+"I sindaci, i presidenti delle giunte provinciali, gli assessori comunali e provinciali, i presidenti ed i componenti degli organi esecutivi dei consorzi fra enti locali sono sospesi dalle funzioni quando siano condannati con sentenza di primo grado, ad una pena restrittiva della liberta' personale della durata superiore a mesi sei per delitto commesso nella qualita' di pubblico ufficiale, o con abuso dei poteri o con violazione dei doveri inerenti ad una pubblica funzione, o alla pena della reclusione di durata superiore ad un anno per qualsiasi delitto non colposo.  
+I predetti amministratori rimangono pure sospesi finche' dura lo stato detentivo quando contro di essi sia emesso ordine o mandato di cattura, o quando ne sia legittimato l'arresto per qualsiasi reato".  
+Art. 2 - La sospensione opera dalla data della pronuncia della condanna. Di tale pronuncia deve essere data, a cura dell'autorita' giudiziaria, immediata comunicazione agli organi che hanno proceduto all'elezione.  
+Art. 3 - Qualora l'amministratore, sospeso in forza della presente legge, sia successivamente prosciolto con sentenza passata in giudicato la sentenza deve essere pubblicata all'albo pretorio e comunicata alla prima adunanza dell'organo che ha proceduto alla elezione.  
+Art. 4 - L'art. 271 del testo unico della legge comunale e provinciale, approvato con [regio decreto 3 marzo 1934, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-03-03;383), e' sostituito dal seguente:  
+"Gli amministratori che ricoprono taluna delle cariche indicate nell'articolo precedente decadono da essa di pieno diritto, quando siano condannati, con sentenza divenuta irrevocabile, per delitto commesso nella qualita' di pubblico ufficiale, o con abuso di poteri o con violazione dei doveri inerenti ad una pubblica funzione, ad una pena restrittiva della liberta' personale della durata superiore a sei mesi o per qualsiasi altro delitto alla pena della reclusione di durata superiore ad un anno, salvo la riabilitazione ai termini di legge"".  
+- L'[art. 13 della legge n. 278/1976](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1976;278~art13) (Norme sul decentramento e sulla partecipazione dei cittadini nell'amministrazione del comune).  
+[pubblicata nella Gazzetta Ufficiale n. 133 del 20 maggio 1976](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=1976-05-20&numeroGazzetta=133), prevede:  
+"Nei comuni e nelle frazioni di cui al primo e secondo comma dell'art. 3, oltre quanto stabilito nel precedente articolo il regolamento puo' delegare funzioni deliberative ai consigli circoscrizionali, nelle materie attinenti i lavori pubblici e servizi comunali che si svolgono nelle rispettive circoscrizioni, con particolare riguardo alle opere di urbanizzazione primaria e secondaria, all'uso di istituto e alla gestione dei beni e dei servizi destinati ad attivita' sanitarie, assistenziali, scolastiche, culturali, sportive, ricreative e di ogni altro ordine.  
+La gestione dei beni relativi a detti servizi puo' essere affidata direttamente al consiglio della circoscrizione, che vi provvede mediante gli uffici di cui al successivo art. 16 (uffici per l'espletamento delle funzioni di istituto).  
+La delega nelle materie di cui al primo comma e' conferita in base a programmi di massima nei quali siano fissati i criteri direttivi e previsti i fondi disponibili stanziati nel bilancio".

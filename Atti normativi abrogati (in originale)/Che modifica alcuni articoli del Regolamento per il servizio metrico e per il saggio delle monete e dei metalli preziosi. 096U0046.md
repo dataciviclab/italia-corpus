@@ -1,0 +1,68 @@
+REGIO DECRETO 20 febbraio 1896 n. 46
+
+
+REGIO DECRETO 20 febbraio 1896 n. 46
+====================================
+
+Che modifica alcuni articoli del Regolamento per il servizio metrico e per il saggio delle monete e dei metalli preziosi. (096U0046)
+------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/03/1896
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduta la [legge 2 maggio 1872 n. 800](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1872-05-02;800) (serie 2ª), sulla fabbricazione ed il commercio degli oggetti d'oro e d'argento di qualunque titolo;
+
+Veduto il [R. decreto 7 novembre 1890 n. 7249](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1890-11-07;7249) (serie 3ª), che approva il Regolamento per il servizio metrico e per il saggio delle monete e dei metalli preziosi;
+
+Sentito il parere della Commissione Superiore metrica e del saggio delle monete e dei metalli preziosi;
+
+Sentito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Ministro di Agricoltura, Industria e Commercio, di concerto con quello delle Finanze; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+Agli [articoli 101](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1890-11-07;7249~art101), [108](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1890-11-07;7249~art108) e [109 del Regolamento 7 novembre 1890 n. 7249](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1890-11-07;7249~art109) (serie 3ª) sono, a datare dal 1° marzo 1896, sostituiti i seguenti:   
+  
+Articolo 101. - Delle spese occorrenti per l'esecuzione dei saggi, lo Stato indennizza i Saggiatori, lasciando a loro vantaggio il 3% sui proventi dei saggi eseguiti sugli oggetti lavorati ed il 20% su quelli delle determinazioni di titolo, delle verghe e dei pezzetti d'oro e d'argento.   
+  
+Tali indennita' sono alla fine di ogni semestre divise fra quelli che hanno fatto i saggi ed in ragione del tempo in cui sono stati presenti in ufficio, e sono pagate dal Ministero dopo l'approvazione della relativa specifica semestrale.   
+  
+Articolo 108. - I diritti da pagarsi pel saggio e marchio dei lavori d'oro e d'argento sono stabiliti nella proporzione di L. 100 per ogni chilogramma d'oro e di L. 20 per ogni chilogramma d'argento o d'argento dorato.   
+  
+Il diritto di solo saggio sui lavori pei quali il presentatore non richiede o non consente il marchio o per quelli riconosciuti inferiori al piu' basso dei titoli legali, e' stabilito nella proporzione di L. 50 per ogni chilogramma di lavori d'oro e di L. 10 per ogni chilogramma di lavori d'argento o d'argento dorato.   
+  
+Pero' il diritto non potra' essere in verun caso inferiore a centesimi venti.   
+  
+Articolo 109. - Pel saggio delle verghe e dei pezzetti sono stabiliti i seguenti diritti:   
+  
+Oro e dorato Argento   
+---- ---- Per ogni pezzetto o verga non   
+eccedente l'ettogramma . . . . . . . . . . L. 2 -- 1 -- Per ogni verga maggiore di un   
+ettogramma e non eccedente il   
+chilogramma . . . . . . . . . . . . . . . » 2,50 1,50 Per ogni verga di peso maggiore   
+di un chilogramma . . . . . . . . . . . . » 3 -- 2 --   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 febbraio 1896.   
+  
+UMBERTO.   
+  
+A. Barazzuoli. P. Boselli.   
+  
+Visto, Il Guardasigilli: V. Calenda Di Tavani.   
+  

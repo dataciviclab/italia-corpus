@@ -1,0 +1,37 @@
+REGIO DECRETO 25 maggio 1905 n. 303
+
+
+REGIO DECRETO 25 maggio 1905 n. 303
+===================================
+
+Accertazione delle rendite dovute per la conversione dei beni immobili degli enti morali ecclesiastici. (005U0303)
+------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/07/1905
+
+Art. 1
+------
+
+  
+  
+Le rendite dovute per la conversione dei beni immobili degli enti morali ecclesiastici indicati nell'elenco controfirmato dai Nostri ministri segretari di Stato per le finanze e per gli affari di grazia, giustizia e dei culti, ed annesso al presente decreto (l), sono accertate nelle somme esposte nella colonna 8 dell'elenco stesso.   
+  
+In relazione all'articolo precedente, dalla rendita consolidata cinque per cento, inscritta in esecuzione del [R. decreto 17 febbraio 1870, n. 5519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-02-17;5519), sul Gran Libro, del Debito pubblico, a favore del Demanio dello Stato per gli enti morali ecclesiastici assoggettati a conversione, sara' trasferita, con decorrenza dal 1° gennaio 1905, la complessiva rendita di lire quattromilaquattrocentoquarantacinque e centesimi cinquanta (L. 4445.50) agli enti morali ecclesiastici indicati nell'elenco annesso al presente decreto, ripartitamente per le somme loro assegnate alla colonna 8 dell'elenco medesimo.   
+  
+Sono definitivamente accertate in lire settantasettemilaquattrocentouna e centesimi sessantasette (L.  
+77,401.67) le rate di rendita maturate nel tempo decorso dalle rispettive prese di possesso dei beni immobili a tutto dicembre 1904, e gia' pagate sul fondo costituito dagli interessi della rendita iscritta in esecuzione del [R. decreto 17 febbraio 1870, n. 5519](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1870-02-17;5519), nelle somme depurate dalla imposta di ricchezza mobile, esposto nella colonna 20 dell'annesso elenco.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 maggio 1905.   
+  
+VITTORIO EMANUELE.   
+  
+A. Majorana.   
+C. Finocchiaro-Aprile.   
+  
+Visto, il guardasigilli: C. Finocchiaro-Aprile.   
+  
+---------------   
+(1) L'elenco viene integralmente inserito nella raccolta ufficiale delle leggi e dei decreti del Regno.   
+  

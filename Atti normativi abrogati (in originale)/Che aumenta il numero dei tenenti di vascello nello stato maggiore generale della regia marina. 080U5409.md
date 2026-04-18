@@ -1,0 +1,47 @@
+REGIO DECRETO 18 aprile 1880 n. 5409
+
+
+REGIO DECRETO 18 aprile 1880 n. 5409
+====================================
+
+Che aumenta il numero dei tenenti di vascello nello stato maggiore generale della regia marina. (080U5409)
+----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/06/1880
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il [Regio decreto 16 dicembre 1878, n. 4669](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1878-12-16;4669);
+
+Vista la legge 3 dicembre 1878 sul riordinamento del personale della R. Marina militare;
+
+Visto il bilancio di prima previsione della spesa del Ministero della Marina per l'anno 1880, stato approvato dai due rami del Parlamento;
+
+Sulla
+-----
+
+proposta del Nostro Ministro della Marina, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il numero dei tenenti di vascello nello stato maggiore generale della R. Marina e' portato da duecento a duecentocinque.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 18 aprile 1880.   
+  
+UMBERTO.   
+  
+F. Acton.   
+  
+Visto - Il Guardasigilli   
+T. Villa.   
+  

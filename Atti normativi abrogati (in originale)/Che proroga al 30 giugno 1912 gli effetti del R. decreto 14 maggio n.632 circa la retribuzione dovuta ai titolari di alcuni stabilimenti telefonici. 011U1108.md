@@ -1,0 +1,211 @@
+REGIO DECRETO 13 luglio 1911 n. 1108
+
+
+REGIO DECRETO 13 luglio 1911 n. 1108
+====================================
+
+Che proroga al 30 giugno 1912 gli effetti del R. decreto 14 maggio, n.632, circa la retribuzione dovuta ai titolari di alcuni stabilimenti telefonici. (011U1108)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/11/1911
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il testo unico delle leggi sui telefoni 3 maggio 1903, n. 196;
+
+Vista la [legge 15 luglio 1907, n. 506](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-15;506), sul riscatto dei telefoni e sul loro esercizio di Stato;
+
+Visto il [R. decreto del 14 maggio 1908, n. 632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-14;632);
+
+Visto il [R. decreto n. 771 del 1° ottobre 1909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-10-01;771);
+
+Visto il [R. decreto n. 246 del 17 aprile 1910](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-04-17;246);
+
+Sentito il parere del Consiglio di Stato;
+
+Udito il Consiglio dei ministri;
+
+Su proposta del Nostro ministro, segretario di Stato per le poste e per i telegrafi; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Gli effetti del [Regio decreto 14 maggio 1908, n 632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1908-05-14;632), nei riguardi della retribuzione dovuta ai titolari degli stabilimenti telefonici qui appresso indicati, ai quali il servizio venne affidato alle condizioni di compenso stabilite dal Regio decreto stesso, s' intendono protratti a tutto il 30 giugno 1912.   
+  
+1. Piacenza - Negozio Gonni.   
+  
+2. Piacenza - Stazione.   
+  
+3. S. Agata Bolognese.   
+  
+4. Sesto Fiorentino.   
+  
+5. Impruneta.   
+  
+6. Tavernuzze.   
+  
+7. S. Piero a Ponti.   
+  
+8. Compiobbi.   
+  
+9. Settignano.   
+  
+10. Bivigliano.   
+  
+11. Bolzaneto.   
+  
+12. Bogliasco.   
+  
+13. Camogli.   
+  
+14. Campomorone.   
+  
+15. Giovi.   
+  
+16. Isoverde.   
+  
+17. Mignanego.   
+  
+18. Pegli.   
+  
+19. Pieve di Sori.   
+  
+20. Rivarolo.   
+  
+21. Sestri Ponente.   
+  
+22. Sori.   
+  
+23. Santa Margherita Ligure.   
+  
+24. Nervi.   
+  
+25. Brunate.   
+  
+26. Rho - P. P.   
+  
+27. Atripalda.   
+  
+28. Avellino Borgo - Ferrovia.   
+  
+29. Benevento - Stazione.   
+  
+30. Catanzaro Marina.   
+  
+31. Catanzaro Sala.   
+  
+32. Gragnano.   
+  
+33. S. Giorgio a Cremano.   
+  
+34. Tufara.   
+  
+35. Vico Equense.   
+  
+36. Scansano.   
+  
+37. Bagheria.   
+  
+38. Catania - Piazza Duca di Genova.   
+  
+39. Artena.   
+  
+40. Cave.   
+  
+41. Chieti - Stazione.   
+  
+42. Civitalavinia.   
+  
+43. Colonna.   
+  
+44. Giulianova Paese.   
+  
+45. Grottaferrata.   
+  
+46. La Forma.   
+  
+47. Marcellina.   
+  
+48. Montecelio.   
+  
+49. Montecompatri.   
+  
+50. Monteporzio.   
+  
+51. Nemi.   
+  
+52. Paliano.   
+  
+53. Piglio.   
+  
+54. Rocca Priora.   
+  
+55. S. Polo de' Cavalieri.   
+  
+56. Segni - Stazione.   
+  
+57. Rocca di Papa.   
+  
+58. Serrone.   
+  
+59. Valmontone.   
+  
+60. Zagarolo.   
+  
+61. Alberoni.   
+  
+62. Burano.   
+  
+63. Venezia - Succursale n. 2 Castello.   
+  
+64. Venezia - Ferrovia G. V.   
+  
+65. Venezia - Ferrovia P. V.   
+  
+66. Venezia - Succursale n. 3 Frari.   
+  
+67. Venezia - S. Maria Elisabetta di Lido.   
+  
+68. Venezia Marittima.   
+  
+69. Venezia Mira Porte.   
+  
+70. Oriago.   
+  
+71. Venezia - Succursale n. 7 S. Felice.   
+  
+72. Venezia - Succursale n. 5 SS. Giovanni e Paolo.   
+  
+73. Venezia - S. Nicolo' di Lido.   
+  
+74. Venezia - Sylos.   
+  
+75. Venezia - Succursale n. 6 S. Stefano.   
+  
+76. Venezia - Salute Dogana.   
+  
+77. Mestre - Chirignago.   
+  
+78. Mestre - Carpendo.   
+  
+79. Visone.   
+  
+80. Castion.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 13 luglio 1911.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Calissano.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   
+  

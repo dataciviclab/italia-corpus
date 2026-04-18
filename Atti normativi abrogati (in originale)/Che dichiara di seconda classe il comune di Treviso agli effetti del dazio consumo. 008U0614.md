@@ -1,0 +1,66 @@
+REGIO DECRETO 01 novembre 1908 n. 614
+
+
+REGIO DECRETO 01 novembre 1908 n. 614
+=====================================
+
+Che dichiara di seconda classe il comune di Treviso agli effetti del dazio consumo. (008U0614)
+----------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/11/1908
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduti gli articoli 2 e 3 del testo unico di [legge 7 maggio 1908, n. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-05-07;248), e 13 del regolamento generale daziario 27 febbraio 1898, n. 84;
+
+Veduti i RR. decreti 22 luglio 1870, n. 5781, e 23 novembre 1885, n. 3542 (serie 3ª), coi quali vennero approvate le tabelle di classificazione e di qualificazione dei Comuni rispetto al dazio consumo;
+
+Vedute le deliberazioni 15 luglio e 26 agosto 1908, approvate dalla Giunta provinciale amministrativa, con le quali il Consiglio comunale di Treviso stabili' di far domanda per il passaggio del Comune dalla terza alla seconda classe nei riguardi del dazio consumo, obbligandosi a corrispondere allo Stato il dovuto aumento del canone;
+
+Veduta la deliberazione 24 ottobre 1908 della Giunta municipale, adottata coi poteri del Consiglio ed approvata dalla Giunta provinciale amministrativa, riguardante modificazioni alla tariffa daziaria;
+
+Considerato, rispetto alla popolazione agglomerata nel centro principale, che, quantunque nella statistica del censimento del 1901, pubblicata dal competente Ministero d'agricoltura, la popolazione suddetta figura di abitanti 18,237, il comune di Treviso ha potuto dimostrare con gli estratti del censimento stesso, di non aver computati gli abitanti in contiguita' della cinta urbana e cio' contrariamente al disposto dell'[art. 30, lettera c) del R. decreto 17 ottobre 1900, n. 350](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-10-17;350~art30-letc), giusta il quale esistendo una cinta daziaria con sobborghi in immediata continuazione, il totale della popolazione del centro principale doveva essere costituito addizionando la popolazione compresa nella cinta, con quella agglomerata dei sobborghi contigui;
+
+Attesoche' dagli anzidetti estratti risulta che gli abitanti non compresi nel computo della popolazione agglomerata all'epoca dell'ultimo censimento, erano 3259;
+
+Che aggiungendo tale cifra ai 18,237 gia' conteggiati nell'anzidetta statistica, si ha la vera popolazione agglomerata di abitanti 21,496, superiore ai 21,001 richiesti dalla legge (art. 3 del summentovato testo unico delle leggi daziarie);
+
+Ritenuto che il Comune si trova nelle condizioni volute dall'art. 87 del detto testo unico, nei riguardi della applicazione della sovrimposta ai tributi diretti e delle tasse comunali;
+
+Veduta la decisione 30 ottobre 1908 emessa dalla Commissione centrale del dazio consumo, a sensi e per gli effetti degli [articoli 87](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1908-05-07;248~art87), [88](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1908-05-07;248~art88) e [110 del testo unico 7 maggio 1908, n. 248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1908-05-07;248~art110);
+
+Sulla
+-----
+
+proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+A decorrere dal giorno 10 novembre 1908, il comune di Treviso e' dichiarato di seconda classe, agli effetti del dazio consumo, rimanendo con la qualifica di Comune chiuso.   
+  
+
+Art. 2
+------
+
+  
+  
+Dal detto giorno, il canone daziario corrisposto allo Stato dal Comune suddetto e' aumentato da annue lire centosessantasettemilaquattrocentoquaranta e centesimi quarantasette (L. 167,440.47) ad annue lire centosettantanovemilanovecentottantaquattro e centesimi ottantasei (L. 179,984.86).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 1° novembre 1908.   
+  
+VITTORIO EMANUELE.   
+  
+Lacava.   
+  
+Visto, il guardasigilli: Orlando.   
+  

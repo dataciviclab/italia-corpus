@@ -1,0 +1,41 @@
+REGIO DECRETO 28 dicembre 1911 n. 1363
+
+
+REGIO DECRETO 28 dicembre 1911 n. 1363
+======================================
+
+Col quale la data dell'ultima estrazione della lotteria nazionale a favore dei comitati esecutivi di Roma e di Torino per le feste commemorative della proclamazione del Regno d'Italia viene prorogata al 2 giugno 1912. (011U1363)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/01/1912
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge 24 dicembre 1908, n. 751](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-12-24;751), con la quale il Governo del Re fu autorizzato a concedere, con esenzione da tasse, una lotteria nazionale per un numero di biglietti non eccedente 4.000.000 a favore, in parti eguali, dei due Comitati esecutivi di Roma e Torino per le feste commemorative della proclamazione del Regno d'Italia, da tenersi in Roma e Torino nell'anno 1911;   
+  
+Visto il Nostro decreto in data 28 luglio 1910, n. 739, col quale fu approvato il piano di esecuzione della lotteria predetta e furono stabilite le date delle tre estrazioni da effettuarsi al 1° giugno 1911 in Roma, al 15 ottobre stesso anno in Torino ed al 15 gennaio 1912 in Roma, fissandosi la chiusura della vendita dei biglietti al 31 dicembre 1911.   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+La data dell'ultima delle predette estrazioni e' prorogata al 2 giugno 1912 e la vendita dei biglietti dovra' cessare col primo dello stesso mese.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 28 dicembre 1911.   
+  
+VITTORIO EMANUELE.   
+  
+Facta.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   
+  

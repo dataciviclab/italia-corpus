@@ -1,0 +1,21 @@
+REGIO DECRETO 26 dicembre 1936 n. 2493
+
+
+REGIO DECRETO 26 dicembre 1936 n. 2493
+======================================
+
+Autorizzazione all'Opera nazionale Dopolavoro ad accettare una donazione disposta in suo favore dal comune di Sant'Elia Fiumerapido (Frosinone). (036U2493)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/03/1937
+
+Art. 1
+------
+
+N.
+
+2493. R. decreto 26 dicembre 1936, col quale, sulla proposta del Ministro per le corporazioni, l'Opera nazionale Dopolavoro viene autorizzata ad accettare la donazione disposta in suo favore dal comune di Sant'Elia Fiumerapido (Frosinone) mediante atto 10 febbraio 1934-XII del segretario del Comune predetto, di un'area di metri quadrati 100 di terreno sito in Sant'Elia Fiumerapido localita' Largario comunale S. Sebastiano, da servire per la costruzione della sede del Dopolavoro di Sant'Elia Fiumerapido.   
+  
+Visto, il Guardasigilli. Solmi.   
+  
+Registrato alla Corte dei conti, addi' 22 febbraio 1937- Anno XV

@@ -1,0 +1,21 @@
+REGIO DECRETO 11 settembre 1925 n. 1708
+
+
+REGIO DECRETO 11 settembre 1925 n. 1708
+=======================================
+
+Modificazione dello statuto dell'Istituto di belle arti Tadini, in Lovere. (025U1708)
+-------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/10/1925
+
+Art. 1
+------
+
+N.
+
+1708. R. decreto 11 settembre 1925, col quale, sulla proposta del Ministro per la pubblica istruzione, vengono modificati alcuni articoli dello statuto dell'Istituto di belle arti Tadini, in Lovere.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 9 ottobre 1925.

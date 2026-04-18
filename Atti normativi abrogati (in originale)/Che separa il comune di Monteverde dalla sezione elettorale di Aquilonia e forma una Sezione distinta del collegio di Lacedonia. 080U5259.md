@@ -1,0 +1,51 @@
+REGIO DECRETO 22 gennaio 1880 n. 5259
+
+
+REGIO DECRETO 22 gennaio 1880 n. 5259
+=====================================
+
+Che separa il comune di Monteverde dalla sezione elettorale di Aquilonia e forma una Sezione distinta del collegio di Lacedonia. (080U5259)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/02/1880
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduti gli articoli 63, 64, 65 e 66 della legge elettorale 17 dicembre 1860, n. 4513, e la tabella annessavi della circoscrizione territoriale dei Collegi elettorali;
+
+Veduta l'istanza del comune di Monteverde per essere costituito sezione del Collegio elettorale di Lacedonia, separatamente da quella del Collegio stesso, detta di Aquilonia, cui fu sino ad ora unito;
+
+Ritenuto che Monteverde dista da Aquilonia 5 chilometri, e che tale distanza, congiunta alle cattive condizioni della viabilita', rende assai incomodo agli elettori il recarsi a votare;
+
+Che Monteverde conta 51 elettori, numero questo alquanto superiore al minimo stabilito dall'art. 64 della legge elettorale;
+
+Considerato che con la istituzione di una sezione in Monteverde si rende piu' facile agli elettori l'esercizio del loro diritto;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il comune di Monteverde e' separato dalla sezione elettorale di Aquilonia, e formera' una sezione distinta del Collegio elettorale di Lacedonia.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 22 gennaio 1880.   
+  
+UMBERTO.   
+  
+Depretis.   
+  
+Visto - Il Guardasigilli   
+T. Villa.   
+  

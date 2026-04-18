@@ -1,0 +1,48 @@
+REGIO DECRETO 02 febbraio 1922 n. 81
+
+
+REGIO DECRETO 02 febbraio 1922 n. 81
+====================================
+
+Che reca modificazioni alle circoscrizioni dei Compartimenti delle ferrovie dello Stato di Napoli e di Bari. (022U0081)
+-----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/03/1922
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la [legge 7 luglio 1907, n. 429](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-07-07;429), modificata dal [R. decreto 28 giugno 1912, n. 728](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-06-28;728);
+
+Visto il [R. decreto 5 agosto 1912, n. 907](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-08-05;907);
+
+Udito il Consiglio di amministrazione delle ferrovie dello Stato;
+
+Sentito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro segretario di Stato per i lavori pubblici; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La stazione di Potenza Inferiore, compresa, secondo la tabella A, annessa al [Regio decreto 5 agosto 1912, n. 907](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-08-05;907), nella circoscrizione del compartimento ferroviario di Napoli, viene inclusa nella circoscrizione del compartimento di Bari.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 febbraio 1922.   
+  
+VITTORIO EMANUELE.   
+  
+BONOMI - MICHELI.   
+  
+Visto, il guardasigilli: RODINO'.   
+  

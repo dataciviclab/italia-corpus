@@ -1,0 +1,17 @@
+REGIO DECRETO 12 novembre 1921 n. 1781
+
+
+REGIO DECRETO 12 novembre 1921 n. 1781
+======================================
+
+Erezione in Ente morale. (021U1781)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 03/01/1922
+
+Art. 1
+------
+
+N.
+
+1781. Regio decreto 12 novembre 1921, col quale, sulla proposta del ministro per il lavoro e la previdenza sociale, il Consorzio bolognese per imprese ed appalti fra nuove cooperative operaie (Consorzio B. I. A. N. C. O.), con sede in Bologna, viene eretto in Ente morale, e ne e' approvato lo statuto organico.

@@ -1,0 +1,42 @@
+LEGGE 08 luglio 1996 n. 369
+
+
+LEGGE 08 luglio 1996 n. 369
+===========================
+
+Conversione in legge del decreto-legge 17 maggio 1996, n. 275, recante modalita' per l'erogazione di una anticipazione sui contributi per il rimborso delle spese elettorali per le elezioni del Senato della Repubblica del 21 aprile 1996.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore della legge: 13-7-1996
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. E' convertito in legge il [decreto-legge 17 maggio 1996, n. 275](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-05-17;275), recante modalita' per l'erogazione di una anticipazione sui contributi per il rimborso delle spese elettorali per le elezioni del Senato della Repubblica del 21 aprile 1996.
+
+2. Restano validi gli atti ed i provvedimenti adottati e sono fatti salvi gli effetti prodottisi ed i rapporti giuridici sorti sulla base del [decreto-legge 19 marzo 1996, n. 136](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-03-19;136).
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 8 luglio 1996
+
+SCALFARO
+
+PRODI, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: FLICK ------------
+
+AVVERTENZA:  
+Il [decreto-legge 17 maggio 1996, n. 275](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-05-17;275), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 116 del 20 maggio 1996.  
+In questa stessa Gazzetta Ufficiale, alla pag. 37, e' ripubblicato il testo del [decreto-legge 17 maggio 1996, n. 275](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1996-05-17;275), corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-03-14;217).

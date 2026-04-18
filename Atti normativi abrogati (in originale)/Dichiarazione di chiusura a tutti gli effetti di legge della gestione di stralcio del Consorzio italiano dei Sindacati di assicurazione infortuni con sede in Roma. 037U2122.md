@@ -1,0 +1,52 @@
+REGIO DECRETO 29 novembre 1937 n. 2122
+
+
+REGIO DECRETO 29 novembre 1937 n. 2122
+======================================
+
+Dichiarazione di chiusura, a tutti gli effetti di legge, della gestione di stralcio del Consorzio italiano dei Sindacati di assicurazione infortuni, con sede in Roma. (037U2122)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/01/1938
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Veduto il [R. decreto 29 maggio 1933, n. 516](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-05-29;516), concernente le norme per la liquidazione dei Sindacati di assicurazione mutua contro gli infortuni sul lavoro;
+
+Veduto il R. decreto 22 giugno 1933, con il quale fu messo in liquidazione il Consorzio italiano dei Sindacati di assicurazione infortuni, con sede in Roma, riconosciuto giuridicamente con R. decreto 9 dicembre 1929;
+
+Veduto il R. decreto 28 dicembre 1933, con cui fu approvato il bilancio consuntivo della liquidazione del Consorzio e ne fu dichiarata la chiusura, affidandosi la gestione di stralcio derivante dal bilancio stesso all'on. avv. Giuseppe Steiner, deputato al Parlamento;
+
+Ritenuto che, a seguito dell'approvazione del rendiconto finale della gestione di stralcio, il liquidatore ha adempiuto alle disposizioni impartitegli relativamente alla destinazione del residuo attivo, ed alla conservazione degli archivi e che pertanto la gestione stessa puo' ritenersi definitivamente esaurita;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le corporazioni; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' dichiarata chiusa, a tutti gli effetti di legge, la gestione di stralcio del Consorzio italiano dei Sindacati di assicurazione infortuni, con sede in Roma, disposta con il Regio decreto 28 dicembre 1933.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 novembre 1937 - Anno XVI   
+  
+VITTORIO EMANUELE.   
+  
+Lantini.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 24 dicembre 1937 - Anno XVI   
+Atti del Governo, registro 392, foglio 144. - Mancini.   

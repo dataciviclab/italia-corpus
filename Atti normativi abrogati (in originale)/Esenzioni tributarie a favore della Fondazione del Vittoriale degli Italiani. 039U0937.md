@@ -1,0 +1,45 @@
+LEGGE 10 giugno 1939 n. 937
+
+
+LEGGE 10 giugno 1939 n. 937
+===========================
+
+Esenzioni tributarie a favore della Fondazione del «Vittoriale degli Italiani». (039U0937)
+------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/07/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+L'art. 4 del R. decreto-legge 17 luglio 1937-XV, n. 1447, convertito nella legge 27 dicembre 1937-XVI, n. 2554, e' sostituito dal seguente:   
+  
+«La Fondazione e' esente dalla imposta di ricchezza mobile sui redditi propri, nonche' dalle imposte sui terreni e sui fabbricati e da ogni imposta e tassa presente e futura per i beni costituenti il «Vittoriale degli Italiani», per le rendite che percepisce e gli atti che compie nell'interesse proprio.   
+  
+«Ove tali atti siano soggetti a registrazione, sconteranno la tassa fissa minima di registro di lire 20.   
+  
+«L'esenzione di cui al primo comma si estende ai tributi locali».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta, nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 10 giugno 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Solmi - Di Revel - Bottai   
+  
+Visto, il Guardasigilli: Solmi   

@@ -1,0 +1,43 @@
+REGIO DECRETO 30 giugno 1889 n. 6249
+
+
+REGIO DECRETO 30 giugno 1889 n. 6249
+====================================
+
+Che stabilisce il quadro organico degli scrivani locali (089U6249)
+------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/08/1889
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' dalla Nazione   
+  
+RE D'ITALIA   
+  
+Vista la legge 29 giugno 1889, che approva lo stato di previsione della spesa del Ministero della Marina per l'esercizio finanziario dal 1° luglio 1889 al 30 giugno 1890;   
+  
+Visti i RR. decreti 17 febbraio 1884, N. 1954, e 1° luglio 1888, N. 5527; Sulla proposta del Nostro Ministro della Marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il quadro organico degli scrivani locali della R. Marina e' stabilito come segue:   
+  
+Scrivani locali di lª classe N. 38   
+Scrivani locali di 2ª classe » 34   
+Scrivani locali di 3ª classe » 20.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 giugno 1889.   
+  
+UMBERTO.   
+  
+B. Brin.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

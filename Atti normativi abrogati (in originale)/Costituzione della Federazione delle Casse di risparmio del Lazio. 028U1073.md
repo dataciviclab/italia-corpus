@@ -1,0 +1,21 @@
+REGIO DECRETO 26 aprile 1928 n. 1073
+
+
+REGIO DECRETO 26 aprile 1928 n. 1073
+====================================
+
+Costituzione della Federazione delle Casse di risparmio del Lazio. (028U1073)
+-----------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/06/1928
+
+Art. 1
+------
+
+N.
+
+1073. R. decreto 26 aprile 1928, col quale, sulla proposta del Ministro per l'economia nazionale, viene costituita la Federazione delle Casse di risparmio del Lazio tra le Casse di Roma, di Civitavecchia, di Rieti e di Viterbo ed il Monte di pieta' di Roma, ed e' approvato lo statuto della Federazione medesima.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 28 maggio 1928 - Anno VI

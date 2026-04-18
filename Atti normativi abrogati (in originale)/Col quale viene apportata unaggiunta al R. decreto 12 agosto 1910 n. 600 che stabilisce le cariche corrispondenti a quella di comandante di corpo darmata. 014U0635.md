@@ -1,0 +1,43 @@
+REGIO DECRETO 28 giugno 1914 n. 635
+
+
+REGIO DECRETO 28 giugno 1914 n. 635
+===================================
+
+Col quale viene apportata un'aggiunta al R. decreto 12 agosto 1910, n. 600, che stabilisce le cariche corrispondenti a quella di comandante di corpo d'armata. (014U0635)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/07/1914
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto l'[art. 26 della legge 8 giugno 1913, n. 601](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-06-08;601~art26), portante modificazioni alle leggi sull'avanzamento nel R. esercito;   
+  
+Visto il [R. decreto 12 agosto 1910, n. 600](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-08-12;600), che stabilisce le cariche corrispondenti a quella di comandante di corpo d'armata;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per gli affari della guerra;   
+  
+Abbiamo decretato e decretiamo:   
+  
+All'articolo unico del R. decreto succitato e' apportata la seguente aggiunta con effetto dal 1° luglio 1914:   
+  
+e) Ispettore capo di sanita' militare appena sarebbe seguito da tenenti generali comandanti di corpo d'armata, se fosse considerato inscritto fra essi in base alla sua anzianita' come tenente generale medico.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 28 giugno 1914.   
+  
+VITTORIO EMANUELE.   
+  
+Grandi.   
+  
+Visto, Il guardasigilli: Dari.   
+  

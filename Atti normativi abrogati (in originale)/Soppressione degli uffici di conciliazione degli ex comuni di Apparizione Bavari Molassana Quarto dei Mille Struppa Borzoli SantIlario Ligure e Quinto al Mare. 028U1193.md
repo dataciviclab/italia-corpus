@@ -1,0 +1,60 @@
+REGIO DECRETO 06 maggio 1928 n. 1193
+
+
+REGIO DECRETO 06 maggio 1928 n. 1193
+====================================
+
+Soppressione degli uffici di conciliazione degli ex comuni di Apparizione, Bavari, Molassana, Quarto dei Mille, Struppa, Borzoli, Sant'Ilario Ligure e Quinto al Mare. (028U1193)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/07/1928
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto-legge 14 gennaio 1926, n. 74](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-14;74), col quale i comuni di Apparizione, Baveri, Bolzaneto, Borzoli, Cornigliano Ligure, Molassana, Nervi, Pegli, Pontedecimo, Pra', Quarto dei Mille, Quinto al Mare, Rivarolo Ligure, San Pier d'Arena, San Quirico, Sant'Ilario Ligure, Sestri Ponente, Struppa e Voltri sono stati riuniti nell'unico comune di Genova;   
+  
+Vista la deliberazione del podesta' del comune di Genova in data 20 dicembre 1926, con cui si chiede:   
+  
+che siano soppressi gli uffici di conciliazione degli ex comuni di Apparizione, Bavari, Molassana, Quarto dei Mille e Struppa, e che i rispettivi territori vengano sottoposti alla giurisdizione del IV Ufficio di conciliazione di Genova;   
+  
+che sia soppresso l'ufficio di conciliazione dell'ex comune di Borzoli, e che la parte del territorio del detto ex comune giacente ad ovest della linea di demarcazione che partendo da quota 550, alla testata del rio Trasta, segue in direzione sud il displuvio tra la Valle Polcevera e il rio Cassinelle e che poi piega fino alla biforcazione della vie Gelsomini, proseguendo pel primo tronco di tale via fino al confine dell'ex comune di Cornigliano Ligure in localita' Cristo sulla via Umberto I, venga sottoposta alla giurisdizione dell'ufficio di conciliazione dell'ex comune di Sestri Ponente; e che la rimanente parte del territorio del detto ex comune di Borzoli venga sottoposta alla giurisdizione dell'ufficio di conciliazione dell'ex comune di Rivarolo Ligure;   
+  
+che siano soppressi gli uffici di conciliazione degli ex comuni di Sant'Ilario Ligure e di Quinto al Mare, e che i rispettivi territori vengano sottoposti alla giurisdizione dell'ufficio di conciliazione dell'ex comune di Nervi;   
+  
+Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte di appello di Genova;   
+  
+Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del relativo regolamento 26 dicembre stesso anno, n. 728;   
+  
+Sulla proposta del Nostro Guardasigilli Ministro Segretario di Stato per la giustizia e gli affari di culto;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Gli uffici di conciliazione degli ex comuni di Apparizione, Bavari, Molassana, Quarto dei Mille e Struppa sono soppressi, e i rispettivi territori sono sottoposti alla giurisdizione del IV Ufficio di conciliazione di Genova.   
+  
+L'ufficio di conciliazione dell'ex comune di Borzoli e' soppresso: la parte del territorio del detto ex comune giacente ad ovest della linea di demarcazione che partendo da quota 550, alla testata del rio Trasta, segue in direzione sud il displuvio tra la Valle Polcevera e il rio Cassinelle e che poi piega fino alla biforcazione della via Gelsomini, proseguendo pel primo tronco di tale via fino al confine dell'ex comune di Cornigliano Ligure in localita' Cristo sulla via Umberto I, e' sottoposta alla giurisdizione dell'ufficio di conciliazione dell'ex comune di Sestri Ponente, e la rimanente parte del territorio del detto ex comune di Borzoli e' sottoposta alla giurisdizione dell'ufficio di conciliazione dell'ex comune di Rivarolo Ligure.   
+  
+Gli uffici di conciliazione degli ex comuni di Sant'Ilario Ligure e di Quinto al Mare sono soppressi e i rispettivi territori sono sottoposti alla giurisdizione dell'ufficio di conciliazione dell'ex comune di Nervi.   
+  
+Il presente decreto entrera' in vigore nel trentesimo giorno dopo quello della sua pubblicazione nella Gazzetta Ufficiale.   
+  
+Ordiniamo che il presente decreto, munito del sigilla dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 6 maggio 1928 - Anno VI   
+  
+VITTORIO EMANUELE.   
+  
+Rocco.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 11 giugno 1928 - Anno VI   
+Atti del Governo, registro 273, foglio 58. - Sirovich.   
+  

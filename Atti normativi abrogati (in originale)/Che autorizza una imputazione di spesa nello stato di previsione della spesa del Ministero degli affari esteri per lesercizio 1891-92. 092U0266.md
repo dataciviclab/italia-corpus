@@ -1,0 +1,40 @@
+LEGGE 17 giugno 1892 n. 266
+
+
+LEGGE 17 giugno 1892 n. 266
+===========================
+
+Che autorizza una imputazione di spesa nello stato di previsione della spesa del Ministero degli affari esteri per l'esercizio 1891-92. (092U0266)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/07/1892
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' dalla Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata l'imputazione della spesa di lire 28,650, occorsa per la costruzione di un ascensore idraulico al palazzo della Consulta, ai residui 1890-91 e retro del capitolo n. 32 Riparazioni straordinarie al palazzo della Consulta, dello stato di previsione della spesa del Ministero degli affari esteri per l'esercizio finanziario 1891-92.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 17 giugno 1892.   
+  
+UMBERTO.   
+  
+Brin.   
+Giolitti.   
+  
+Visto, Il Guardasigilli: Bonacci.   
+  

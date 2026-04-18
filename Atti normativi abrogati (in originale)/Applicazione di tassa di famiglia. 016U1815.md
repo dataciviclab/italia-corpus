@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 14 dicembre 1916 n. 1815
+
+
+DECRETO LUOGOTENENZIALE 14 dicembre 1916 n. 1815
+================================================
+
+Applicazione di tassa di famiglia. (016U1815)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 27/01/1917
+
+Art. 1
+------
+
+  
+N. 1815   
+  
+Decreto Luogotenenziale 14 dicembre 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Radicondoli (Siena) di applicare anche pel 1916 la tassa di famiglia col limite massimo di L. 150.   
+  

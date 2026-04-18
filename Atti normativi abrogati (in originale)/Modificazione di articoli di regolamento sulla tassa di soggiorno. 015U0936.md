@@ -1,0 +1,19 @@
+REGIO DECRETO 23 maggio 1915 n. 936
+
+
+REGIO DECRETO 23 maggio 1915 n. 936
+===================================
+
+Modificazione di articoli di regolamento sulla tassa di soggiorno. (015U0936)
+-----------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/07/1915
+
+Art. 1
+------
+
+  
+N. 936   
+  
+Regio Decreto 23 maggio 1915, col quale, sulla proposta del ministro dell'interno, di concerto con quello delle finanze, sono modificati gli articoli 3 e 6 del regolamento approvato con [R. decreto 26 aprile 1914, n. 477](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-04-26;477), che autorizza il comune di Ischia (Napoli) ad applicare la tassa di soggiorno ai sensi della [legge 11 dicembre 1910, n. 863](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-12-11;863).   
+  

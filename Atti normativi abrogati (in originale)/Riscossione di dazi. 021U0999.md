@@ -1,0 +1,17 @@
+REGIO DECRETO 23 giugno 1921 n. 999
+
+
+REGIO DECRETO 23 giugno 1921 n. 999
+===================================
+
+Riscossione di dazi. (021U0999)
+-------------------------------
+
+Entrata in vigore del provvedimento: 19/08/1921
+
+Art. 1
+------
+
+N.
+
+999. Regio decreto 23 giugno 1921, col quale, sulla proposta del ministro delle finanze, il comune di Lucca e' autorizzato a riscuotere un dazio proprio sull'amido in L. 7 a quintale; sulla carta di 1ª classe di L. 10; sulla carta di 2ª classe di L. 4; sui cartoni di L. 2, sui lavori nuovi fini di carta e cartone di L. 15, sui lavori grossolani di L. 5, sui lavori di cristallo ed altro di L. 10; sui lavori nuovi di legno ordinari di L. 3; sulle terrecotte scure, ecc. di L. 2, sulle terrecotte bianche, colorate e fiorite, ecc. di L. 6 a quintale, sulle porcellane in lavori diversi di L. 15 a quintale e sulle stuoie di biodolo, ecc. di L. 2 a quintale.

@@ -1,0 +1,21 @@
+REGIO DECRETO 02 agosto 1902 n. CCLXXVII
+
+
+REGIO DECRETO 02 agosto 1902 n. CCLXXVII
+========================================
+
+Col quale le rendite destinate agli oneri di culto gravanti l'opera pia di S. Giacomo di Cerreto di Spoleto (Perugia) sono trasformate a scopo di beneficenza elemosiniera. (0200277R)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/09/1902
+
+Art. 1
+------
+
+  
+Col quale le rendite destinate agli oneri di culto gravanti l'opera pia di S. Giacomo di Cerreto di Spoleto (Perugia) sono trasformate a scopo di beneficenza elemosiniera. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F. Cocco-Ortu.   
+  
+Registrato alla Corte dei conti addi' 26 agosto 1902.   
+  
+Reg. 5. Atti del Governo a f. 36.   
+  

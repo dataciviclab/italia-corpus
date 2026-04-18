@@ -1,0 +1,42 @@
+LEGGE 28 giugno 1892 n. 311
+
+
+LEGGE 28 giugno 1892 n. 311
+===========================
+
+Concernente la lotteria a favore del Collegio Regina Margherita in Anagni. (092U0311)
+-------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/07/1892
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D' ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+L'esenzione dalla tassa del 10 per cento, concessa dalla [legge 19 aprile 1891 n. 171](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1891-04-19;171), alla lotteria di un milione di biglietti di lira una, conceduta dal Ministero delle finanze, con decreto 19 febbraio 1891, al collegio Regina Margherita per le orfane dei maestri elementari in Anagni, e' estesa anche ai cinquecentomila biglietti, che lo stesso collegio fu autorizzato ad emettere col ministeriale decreto 22 marzo dello stesso anno.   
+  
+Le operazioni attinenti alla lotteria principieranno il 1° gennaio 1893, eccetto la stampa, la bollatura e la vendita privata dei viglietti, che potranno anche essere fatte durante l'anno corrente.   
+  
+L'estrazione sara' fissata dal Ministero delle finanze, dopo venduti due terzi dei viglietti, pero' non oltre il termine di tre mesi da tale vendita.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Monza, addi' 28 giugno 1892.   
+  
+UMBERTO.   
+  
+Giolitti.   
+  
+Visto, Il Guardasigilli: Bonacci.   

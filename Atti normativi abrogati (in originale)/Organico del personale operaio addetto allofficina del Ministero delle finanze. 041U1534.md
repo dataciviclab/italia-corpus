@@ -1,0 +1,73 @@
+REGIO DECRETO 16 dicembre 1941 n. 1534
+
+
+REGIO DECRETO 16 dicembre 1941 n. 1534
+======================================
+
+Organico del personale operaio addetto all'officina del Ministero delle finanze. (041U1534)
+-------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/02/1942
+
+VITTORIO EMANUELE
+-----------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il testo unico delle disposizioni legislative sullo stato giuridico e sul trattamento economico dei salariati dello Stato, approvato con R. decreto 24 dicembre 1924-III, n. 2114;
+
+Visto il regolamento approvato con R. decreto 31 dicembre 1924-III, n. 2262, e successive modificazioni;
+
+Visto il R. decreto 17 gennaio 1935-XIII, n. 31, che stabilisce la tabella numerica degli operai di ruolo addetti all'officina del Ministero delle finanze;
+
+Riconosciuta la necessita' di modificare l'anzidetta tabella;
+
+Visto l'art. 1, n. 3, della legge 31 gennaio 1926-IV, n. 100;
+
+Sentito il Consiglio di Stato;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La tabella numerica degli operai di ruolo addetti all'officina del Ministero delle finanze stabilita dall'articolo unico del R. decreto 17 gennaio 1935-XIII, n. 31, e' sostituita dalla seguente:   
+  
+  
+Capi operai e sorvegliante (gruppo 1).........n. 3  
+  
+Operai specializzati (gruppo II)..............» 13  
+  
+Operai comuni (gruppo III)....................» 4  
+------  
+Totale n. 20  
+  
+  
+Il numero degli operai addetti alla stessa officina non potra' superare la cifra di ventisei fra operai di ruolo e operai temporanei.   
+  
+Il presente decreto entrera' in vigore il primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 dicembre 1941-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 23 gennaio 1942-XX   
+  
+Atti del Governo, registro 441, foglio 69. - MANCINI   

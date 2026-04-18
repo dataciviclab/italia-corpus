@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 15 ottobre 1916 n. 1886
+
+
+DECRETO LUOGOTENENZIALE 15 ottobre 1916 n. 1886
+===============================================
+
+Variazioni al numero dei capi d'Istituto e degli insegnanti delle RR. scuole tecniche. (016U1886)
+-------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/03/1917
+
+Art. 1
+------
+
+  
+N. 1886   
+  
+Decreto Luogotenenziale 15 ottobre 1916, col quale, sulla proposta del ministro dell'istruzione pubblica, di concerto con quello del tesoro, in conseguenza del passaggio ad effettivi e dell'esonero dall'insegnamento nonche' del trasferimento di alcuni capi di Istituto, vengono apportate le relative variazioni al numero dei capi di Istituto e degli insegnanti delle Regie scuole tecniche, stabilito col decreto Luogotenenziale 30 gennaio 1916 e variato con i successivi decreti Luogotenenziali 14 luglio 1916.   
+  

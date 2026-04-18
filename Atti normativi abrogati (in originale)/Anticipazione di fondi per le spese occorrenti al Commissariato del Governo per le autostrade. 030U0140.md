@@ -1,0 +1,38 @@
+REGIO DECRETO 22 febbraio 1930 n. 140
+
+
+REGIO DECRETO 22 febbraio 1930 n. 140
+=====================================
+
+Anticipazione di fondi per le spese occorrenti al Commissariato del Governo per le autostrade. (030U0140)
+---------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/04/1930
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+  
+RE D'ITALIA   
+  
+Visto il decreto 29 settembre 1928 di S. E. il Capo del Governo, concernente la nomina di un commissario per il coordinamento delle iniziative e delle richieste relative alla costruzione e all'esercizio di autostrade;   
+Sulla proposta di S. E. il Capo del Governo, Primo Ministro Segretario di Stato, di concerto con i Ministri per le finanze e per i lavori pubblici;   
+Abbiamo decretato e decretiamo:   
+Alle anticipazioni di fondi per le spese occorrenti al Commissariato del Governo per le autostrade, di cui al citato decreto 29 settembre 1928 di S. E. il Capo del Governo, e a quanto altro occorra per il funzionamento del Commissariato medesimo, e' autorizzato a provvedere il Ministro per i lavori pubblici, sul proprio bilancio.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 22 febbraio 1930 - Anno VIII   
+  
+VITTORIO EMANUELE.   
+  
+  
+Mussolini - Mosconi - Di Crollalanza.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 18 marzo 1930 - Anno VIII Atti del Governo, registro 294, foglio 121. - Mancini.   
+  

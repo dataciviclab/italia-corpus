@@ -1,0 +1,77 @@
+REGIO DECRETO 25 aprile 1929 n. 731
+
+
+REGIO DECRETO 25 aprile 1929 n. 731
+===================================
+
+Modificazione dell'art. 41 del regolamento organico dell'Amministrazione delle poste e dei telegrafi, approvato con R. decreto 14 ottobre 1906, n. 546. (029U0731)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/06/1929
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il [R. decreto 14 ottobre 1906, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546), che approva il regolamento organico dell'Amministrazione delle poste e dei telegrafi;
+
+Visti i [Regi decreti 28 novembre 1920, n. 1732](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-28;1732), e [2 dicembre 1923, n. 2753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2753), che modificano l'art. 41 del suddetto regolamento;
+
+Visto il decreto Ministeriale 5 febbraio 1927, che modifica la suddivisione in reparti delle Direzioni provinciali delle poste e dei telegrafi;
+
+Vista la [legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100), sulla facolta' del potere esecutivo di emanare norme giuridiche;
+
+Riconosciuta l'opportunita' di unificare ed integrare le disposizioni riguardanti le visite ordinarie di ispezione agli uffici postali telegrafici;
+
+Sentito il Consiglio di amministrazione delle poste e dei telegrafi;
+
+Sentito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le comunicazioni; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+L'art. 41 del regolamento organico dell'Amministrazione delle poste e dei telegrafi, approvato con [R. decreto 14 ottobre 1906, n. 546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-10-14;546), e' sostituito dal seguente:   
+  
+« Art. 41. - I direttori provinciali fanno eseguire dai dipendenti ispettori le visite ordinarie di loro iniziativa:   
+  
+Almeno ogni tre anni dalla data dell'ultima visita: a) a tutti gli uffici e ricevitorie di ogni categoria o classe e alle agenzie fuori del capoluogo della Provincia; b) alle ragionerie, agli economati provinciali, e ai depositi dei materiali di linea presso i circoli delle costruzioni;   
+  
+Almeno ogni due anni dalla data dell'ultima visita a tutti gli uffici non aventi movimento di fondi;   
+  
+Entro un anno dalla data dell'ultima visita: a) a tutti gli uffici e ricevitorie di ogni categoria e classe e alle agenzie in sede di capoluogo di Provincia, aventi movimento di fondi; b) alle casse presso i circoli delle costruzioni telegrafiche ed agli uffici dei conti correnti;   
+  
+Tre volte l'anno alle casse provinciali e ai depositi delle carte valori aventi gestione autonoma ».   
+  
+
+Art. 2
+------
+
+  
+  
+Sono abrogate le disposizioni contrarie al presente decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 aprile 1929 - Anno VII   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Ciano.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 15 maggio 1929 - Anno VII   
+Atti del Governo, registro 284, foglio 117. - Mancini.   
+  

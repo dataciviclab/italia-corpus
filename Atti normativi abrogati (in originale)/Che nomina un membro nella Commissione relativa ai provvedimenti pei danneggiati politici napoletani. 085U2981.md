@@ -1,0 +1,42 @@
+REGIO DECRETO 29 gennaio 1885 n. 2981
+
+
+REGIO DECRETO 29 gennaio 1885 n. 2981
+=====================================
+
+Che nomina un membro nella Commissione relativa ai provvedimenti pei danneggiati politici napoletani. (085U2981)
+----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/03/1885
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto in data 4 settembre 1883, n. 1575 (Serie 3ª);   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il comm. avv. Oronzio De Donno, consigliere di Corte di cassazione, e' chiamato a far parte della Commissione di cui all'articolo 3° della [legge 8 luglio 1883, n. 1496](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1883-07-08;1496) (Serie 3ª), relativa ai provvedimenti pei danneggiati politici napoletani, in sostituzione del comm. avv. Luigi Gaeta, del quale sono accettate le dimissioni.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 gennaio 1885.   
+  
+UMBERTO.   
+  
+DEPRETIS.   
+A. MAGLIANI.   
+  
+Visto, Il Guardasigilli: PESSINA.   
+  

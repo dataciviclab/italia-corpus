@@ -1,0 +1,19 @@
+REGIO DECRETO 24 novembre 1904 n. DXVI
+
+
+REGIO DECRETO 24 novembre 1904 n. DXVI
+======================================
+
+Trasformazione di patrimonio a scopo elemosiniero. (0400516R)
+-------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/01/1905
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro dell'interno:   
+  
+N. DXVI (Dato a Roma, il 24 novembre 1904), col quale il fine, cui e' attualmente destinato il patrimonio della Confraternita di Sant'Antonio dei Cavalieri, De Nardis di Aquila, viene parzialmente trasformato nel senso di rivolgere il patrimonio predetto per una quota corrispondente all'annua rendita netta di L. 150 a scopo di beneficenza secondo la ripartizione stabilita nel R. decreto 20 ottobre 1902.   
+  

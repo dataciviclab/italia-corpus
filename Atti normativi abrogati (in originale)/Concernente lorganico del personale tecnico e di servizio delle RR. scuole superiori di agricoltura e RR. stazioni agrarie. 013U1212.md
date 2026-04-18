@@ -1,0 +1,172 @@
+REGIO DECRETO 08 settembre 1913 n. 1212
+
+
+REGIO DECRETO 08 settembre 1913 n. 1212
+=======================================
+
+Concernente l'organico del personale tecnico e di servizio delle RR. scuole superiori di agricoltura e RR. stazioni agrarie. (013U1212)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/11/1913
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vedute le [leggi 6 giugno 1885, n. 3141, e 19 luglio 1909, n. 527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;527);
+
+Veduta la [legge 11 luglio 1904, n. 372](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-07-11;372);
+
+Veduto il Nostro decreto 30 maggio 1912, n. 648;
+
+Sentito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria ed il commercio; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+All'organico del personale tecnico e di servizio non compreso nelle tabelle allegate alla citata [legge 19 luglio 1909, n. 527](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-19;527), delle RR. stazioni agrarie e speciali e delle RR. scuole superiori di agricoltura, fissato dal predetto Nostro decreto del 30 maggio 1912, n. 648, e' sostituito il seguente con la decorrenza del 1° luglio 1913:   
+  
+R. stazione enologica di Asti.   
+  
+2 inservienti, con l'annuo assegno di L. 1000, L. 2000.   
+  
+R. stazione di agrumicoltura e di frutticoltura di Acireale.   
+  
+1 inserviente, con l'annuo assegno di L. 1000, L. 1000.   
+  
+1 inserviente, con l'annuo assegno di L. 500, L. 500.   
+  
+R. stazione di caseificio di Lodi.   
+  
+1 casaro, con l'annuo assegno di L. 1044, L. 1044.   
+  
+1 sottocasaro, con l'annuo assegno di L. 852, L. 852.   
+  
+1 inserviente di laboratorio, con l'annuo assegno di L. 972, L.  
+972.   
+  
+R. stazione agraria di Modena.   
+  
+1 inserviente di 1ª classe, con l'annuo assegno di L. 1140, L.  
+1140.   
+  
+1 inserviente di 2ª classe, con l'annuo assegno di L. 860, L.  
+860.   
+  
+2 id. di 3ª id., id. id. L. 520, L. 1040.   
+  
+R. stazione bacologica di Padova.   
+  
+1 inserviente custode, con l'annuo assegno di L. 1200, L. 1200.   
+  
+Laboratorio di botanica crittogamica - Pavia   
+  
+(annesso alla R. Universita').   
+  
+1 conservatore delle collezioni, con l'annuo assegno di L. 1500, L. 1500.   
+  
+1 preparatore, con l'annuo assegno di L. 500, L. 500.   
+  
+R. stazione di patologia vegetale - Roma.   
+  
+1 preparatore, con l'annuo assegno di L. 1200, L. 1200.   
+  
+1 inserviente, con l'annuo assegno di L. 1200, L. 1200.   
+  
+R. stazione chimico-agraria di Roma.   
+  
+1 meccanico, con l'annuo assegno di L. 1551,25, L. 1551,25.   
+  
+2 inservienti, con l'annuo assegno di L. 1460, L. 2920.   
+  
+R. stazione agraria di Torino.   
+  
+1 inserviente custode, con l'annuo assegno di L. 1460, L. 1460.   
+  
+R. scuola superiore di agricoltura di Milano.   
+  
+1 primo macchinista, con l'annuo assegno di L. 1400, L. 1400.   
+  
+1 secondo macchinista, con l'annuo assegno di L. 1200, L. 1200.   
+1 capo coltivatore (con alloggio, illuminazione e riscaldamento), con l'annuo assegno di L. 1350, L. 1350.   
+  
+5 inservienti di 1ª classe, con l'annuo assegno di L. 1350, L.  
+6750.   
+  
+5 inservienti di 2ª classe, con l'annuo assegno di L. 1000, L.  
+5000.   
+  
+1 custode portinaio (con illuminazione, alloggio e riscaldamento), con l'annuo assegno di L. 1350, L. 1350.   
+  
+1 primo stalliere (con alloggio), con l'annuo assegno di L. 1200, L. 1200.   
+  
+1 secondo stalliere (con alloggio), con l'annuo assegno di L. 1000, L. 1000.   
+  
+1 fattorino, con l'annuo assegno di L. 1000, L. 1000.   
+  
+R. Istituto superiore agrario di Perugia.   
+  
+2 commessi, con l'annuo assegno di L. 1500, L. 3000.   
+  
+2 preparatori, con l'annuo assegno di L. 1400, L. 2800.   
+  
+1 capo coltivatore, con l'annuo assegno di L. 1400, L. 1400.   
+  
+1 giardiniere, con l'annuo assegno di L. 1400, L. 1400.   
+  
+5 inservienti di 1ª classe, con l'annuo assegno di L. 1200, L.  
+6000.   
+  
+3 inservienti di 2ª classe, con l'annuo assegno di L. 1000, lire 3000.   
+  
+1 portiere custode, con l'annuo assegno di L. 1200, L. 1200.   
+  
+R. scuola superiore di agricoltura - Portici.   
+  
+1 frutticultore, con l'annuo assegno di L. 1500, L. 1500.   
+  
+1 capo coltivatore, con l'annuo assegno di L. 1400, L. 1400.   
+  
+1 capo giardiniere, con l'annuo assegno di L. 1400, L. 1400.   
+  
+1 tecnico per le acque, con l'annuo assegno di L. 1400, L. 1400.   
+1 meccanico, con l'annuo assegno di L. 1400, L. 1400.   
+  
+1 capo fattorino, con l'annuo assegno di L. 1200, L. 1200.   
+  
+1 cantiniere, con l'annuo assegno di L. 1200, L. 1200.   
+  
+7 inservienti, con l'annuo assegno di L. 1200, L. 8400.   
+  
+4 inservienti, con l'annuo assegno di L. 1000, L. 4000.   
+  
+1 guarda cancello, con l'annuo assegno di L. 1000, L. 1000.   
+  
+1 portiere, con l'annuo assegno di L. 1000, L. 1000.   
+
+Art. 2
+------
+
+  
+  
+Il personale predetto sara' nominato con decreto Ministeriale di anno in anno e gli assegni saranno corrisposti sui capitoli del bilancio del Ministero di agricoltura, industria e commercio nn. 59 e 60 dello esercizio 1913-14 e corrispondenti degli esercizi futuri.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 8 settembre 1913.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Nitti.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   

@@ -1,0 +1,73 @@
+REGIO DECRETO 16 novembre 1940 n. 1672
+
+
+REGIO DECRETO 16 novembre 1940 n. 1672
+======================================
+
+8ª Prelevazione dal fondo di riserva per le spese impreviste 
+dell'esercizio finanziario 1940-41. (040U1672)
+------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/01/1941
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto l'art. 42 del R. decreto 18 novembre 1923-II, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+
+Ritenuto che sul fondo di riserva per le spese impreviste dell'esercizio finanziario 1940-41 sono disponibili L. 25.828,076;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 304 dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1940-41, e' autorizzata una 8ª prelevazione nella somma di lire centododicimilacinquecento (L.  
+112.500) da inscriversi ai sottoindicati capitoli degli stati di previsione seguenti per l'esercizio medesimo:   
+  
+Ministero delle finanze:   
+  
+Cap. n. 106 - Fitto di locali (Corte dei conti Servizi metropolitani)   
+  
+L. 37.500   
+  
+Ministero dell'educazione nazionale:   
+  
+Cap. n. 13 - Spese casuali   
+  
+» 25.000   
+  
+Ministero dell'agricoltura e delle foreste:   
+  
+Cap. n. 12 - Spese casuali   
+  
+» 50.000   
+  
+Totale... L. 112.500   
+  
+Questo decreto sara' presentato alle Assemblee legislative per la sua convalidazione. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 novembre 1940-XIX   
+  
+VITTORIO EMANUELE   
+  
+DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 13 dicembre 1940-XIX   
+  
+Atti del Governo, registro 428, foglio 32. - MANCINI   

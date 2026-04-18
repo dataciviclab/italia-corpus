@@ -1,0 +1,34 @@
+LEGGE 06 aprile 1933 n. 396
+
+
+LEGGE 06 aprile 1933 n. 396
+===========================
+
+Contributo dello Stato per la pubblicazione degli Atti delle assemblee costituzionali italiane dal medioevo al 1831 e delle carte finanziarie della Repubblica Veneta. (033U0396)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/05/1933
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+Articolo unico.   
+  
+E' prorogato, per gli esercizi finanziari 1933-34 e 1934-35, lo speciale assegno annuo di L. 30.000 di cui attualmente gode la Regia accademia dei Lincei per la pubblicazione degli Atti costituzionali del medioevo e dell'eta' anteriore al Risorgimento italiano e delle carte finanziarie della Repubblica Veneta.   
+La somma sara' stanziata in apposito capitolo della parte straordinaria della spesa del Ministero dell'educazione nazionale per gli esercizi finanziari 1933-34 e 1934-35.   
+Il Ministro per le finanze e' autorizzato ad apportare le conseguenti variazioni al bilancio del predetto Ministero.   
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+Data a Roma, addi' 6 aprile 1933 - Anno XI   
+VITTORIO EMANUELE   
+  
+Mussolini - Jung - Ercole.   
+  
+Visto, il Guardasigilli: De Francisci.   

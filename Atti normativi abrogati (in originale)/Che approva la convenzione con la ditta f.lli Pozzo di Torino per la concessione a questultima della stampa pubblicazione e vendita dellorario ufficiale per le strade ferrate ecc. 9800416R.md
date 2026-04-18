@@ -1,0 +1,21 @@
+REGIO DECRETO 20 novembre 1898 n. CCCCXVI
+
+
+REGIO DECRETO 20 novembre 1898 n. CCCCXVI
+=========================================
+
+Che approva la convenzione con la ditta f.lli Pozzo di Torino per la concessione, a quest'ultima, della stampa, pubblicazione e vendita dell'orario ufficiale per le strade ferrate, ecc. (9800416R)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/02/1899
+
+Art. 1
+------
+
+  
+Che approva la convenzione stipulata fra l'amministrazione dello Stato e la ditta f.lli Pozzo di Torino per la concessione a quest'ultima della stampa, pubblicazione e vendita dell'orario ufficiale delle strade ferrate, delle tramvie, delle messaggerie postali e delle linee di navigazione del Regno d'Italia. Decorrenza del contratto 1° gennaio 1899. Durata anni tre. - Firmato UMBERTO - Controfirmato P. Lacava - Visto C. Finocchiaro Aprile.   
+  
+Registrato alla Corte dei Conti addi' 19 gennaio 1899.   
+  
+Reg. 218. Atti del Governo a f. 87.   
+  

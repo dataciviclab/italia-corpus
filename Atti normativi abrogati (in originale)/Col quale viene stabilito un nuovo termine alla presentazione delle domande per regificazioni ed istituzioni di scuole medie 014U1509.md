@@ -1,0 +1,51 @@
+REGIO DECRETO 31 dicembre 1914 n. 1509
+
+
+REGIO DECRETO 31 dicembre 1914 n. 1509
+======================================
+
+Col quale viene stabilito un nuovo termine alla presentazione delle domande per regificazioni ed istituzioni di scuole medie (014U1509)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/04/1915
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto l'art. 6 del testo unico delle leggi per la istituzione e conversione in governative di nuove scuole medie, approvato con il [R. decreto 25 luglio 1907, n. 645](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-07-25;645);
+
+Veduto l'art. 1 del regolamento per l'applicazione del detto testo unico, approvato con il [R. decreto 15 settembre 1907, n. 652](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1907-09-15;652);
+
+Veduto l'art. 258 della legge 13 novembre 1859, numero 3725, e gli articoli 10 e 48 dei regolamenti per le scuole e gli Istituti tecnici, approvati [R. decreto 21 giugno 1885, n. 3413, l'art. 5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1885-06-21;3413~art5) del regolamento per le scuole normali, approvato con il [R. decreto 3 dicembre 1896, n. 292](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1896-12-03;292) e 'l'art. 4 del regolamento per i licei-ginnasi, approvato con [R. decreto 3 febbraio 1901, n. 31](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-03;31);
+
+Udito il Consiglio di Stato;
+
+Udito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le istanze degli enti interessati alla istituzione di nuove scuole Regie e per la conversione di scuole pareggiate in governativo devono essere presentate al Ministero, corredate di tutti i documenti prescritti, entro il mese di marzo, e il termine per la emissione dei relativi decreti scade il 31 luglio.   
+  
+Trascorsi detti termini l'istituzione e la conversione delle scuole non potra' piu' avere effetto dall'anno immediatamente successivo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 31 dicembre 1914.   
+  
+VITTORIO EMANUELE.   
+  
+Salandra - Grippo.   
+  
+Visto, Il guardasigilli: Orlando.   

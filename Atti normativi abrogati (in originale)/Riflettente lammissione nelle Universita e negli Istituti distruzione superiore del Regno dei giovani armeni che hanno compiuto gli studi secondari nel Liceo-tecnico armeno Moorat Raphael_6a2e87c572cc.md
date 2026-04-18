@@ -1,0 +1,62 @@
+REGIO DECRETO 11 aprile 1897 n. 148
+
+
+REGIO DECRETO 11 aprile 1897 n. 148
+===================================
+
+Riflettente l'ammissione nelle Universita' e negli Istituti d'istruzione superiore del Regno dei giovani armeni che hanno compiuto gli studi secondari nel Liceo-tecnico armeno Moorat Raphael in Venezia. (097U0148)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/05/1897
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto l'ordinamento e i programmi degli studi che si seguono nel liceo-tecnico armeno Moorat Raphael in Venezia;
+
+Considerata la convenienza di ammettere i giovani armeni che hanno compiuto gli studi secondari nel liceo-tecnico anzidetto a seguire gli studi superiori (eccettuati pero' i corsi di giurisprudenza e di lettere e filosofia) e quelli di belle arti, nelle Universita' e negli istituti d'istruzione superiore nel Regno e negli istituti di belle arti;
+
+Udito il Consiglio superiore di Pubblica Istruzione;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I giovani armeni che hanno compiuto gli studi secondari nel liceo-tecnico armeno Moorat Raphael in Venezia potranno inscriversi regolarmente come studenti nelle Universita' e negli istituti d'istruzione superiore del Regno per seguirvi, sino al conseguimento del diploma, i corsi:   
+  
+a) della facolta' di medicina e chirurgia;   
+  
+b) della facolta' di scienze matematiche, fisiche e naturali;   
+  
+c) della scuola di applicazione per gl'ingegneri, dopo aver conseguita la licenza fisico-matematica;   
+  
+d) della scuola di farmacia pel conseguimento della laurea in chimica e farmacia e del diploma professionale;   
+  
+e) della scuola agraria presso la R. Universita' di Pisa;   
+  
+f) della scuola di medicina veterinaria.   
+  
+I giovani armeni suddetti potranno pure inscriversi regolarmente presso gli istituti di belle arti per seguirvi i corsi che in essi vengono dati e conseguire il relativo diploma.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 11 aprile 1897.   
+  
+UMBERTO.   
+  
+E. Gianturco.   
+  
+Visto, Il Guardasigilli: G. Costa.   
+  

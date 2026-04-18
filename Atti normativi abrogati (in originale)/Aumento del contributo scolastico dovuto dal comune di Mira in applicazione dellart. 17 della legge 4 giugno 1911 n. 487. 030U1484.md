@@ -1,0 +1,136 @@
+REGIO DECRETO 22 maggio 1930 n. 1484
+
+
+REGIO DECRETO 22 maggio 1930 n. 1484
+====================================
+
+Aumento del contributo scolastico dovuto dal comune di Mira in applicazione dell'art. 17 della legge 4 giugno 1911, n. 487. (030U1484)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/12/1930
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il [R. decreto 25 febbraio 1915, n. 555](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-25;555), col quale l'amministrazione delle scuole elementari e popolari della provincia di Venezia, fu affidata al Consiglio scolastico della Provincia stessa a decorrere dal 1° maggio 1915;
+
+Veduto che a carico del comune di Mira, della provincia di Venezia, come risulta dall'elenco annesso al citato Regio decreto, fu consolidata, in dipendenza dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), l'annua somma di L. 27.738,75;
+
+Veduto che le scuole del predetto comune di Mira, inscritte al Monte pensioni comunale al momento dell'applicazione della [legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487), sono state, in seguito alla cessazione dal servizio degli insegnanti alle scuole stesse preposti, inscritte al Monte pensioni governativo;
+
+Veduto l'ultimo comma dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17);
+
+Vedute le deliberazioni del Consiglio scolastico del Veneto e del podesta' del comune di Mira, con le quali il contributo predetto viene elevato a:
+
+L. 28.059,75 dal 1° maggio 1915,
+
+L. 28.119,75 dal 30 settembre 1915,
+
+L. 28.179,75 dal 1° ottobre 1916,
+
+L. 28.230,75 dall'8 settembre 1917,
+
+L. 28.295,25 dal 1° ottobre 1917,
+
+L. 28.346,25 dal 1° novembre 1917,
+
+L. 28.406,25 dal 1° ottobre 1918,
+
+L. 28.475,31 dal 16 gennaio 1920,
+
+L. 28.535,31 dal 1° ottobre 1920,
+
+L. 28.595,31 dal 9 novembre 1922,
+
+L. 28.751,61 dal 1° ottobre 1923,
+
+L. 28.807,71 dal 1° ottobre 1924,
+
+L. 28.863,81 dal 27 marzo 1925,
+
+L. 28.930,41 dal 1° novembre 1927,
+
+L. 29.003,91 dal 1° settembre 1928;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+Il contributo scolastico che il comune di Mira, della provincia di Venezia, deve annualmente versare alla Regia tesoreria dello Stato a norma dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), gia' fissato in L. 27.738,75 con [R. decreto 25 febbraio 1915, n. 555](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-25;555), e' elevato come appresso:   
+  
+a L. 28.059,75 dal 1° maggio 1915 al 29 settembre 1915,   
+  
+L. 28.119,75 dal 30 settembre 1915 al 30 settembre 1916,   
+  
+L. 28.179,75 dal 1° ottobre 1916 al 7 settembre 1917,   
+  
+L. 28.230,75 dall'8 settembre 1917 al 30 settembre 1917,   
+  
+L. 28.295,25 dal 1° ottobre 1917 al 31 ottobre 1917,   
+  
+L. 28.346,25 dal 1° novembre 1917 al 30 settembre 1918,   
+  
+L. 28.406,25 dal 1° ottobre 1918 al 15 gennaio 1920,   
+  
+L. 28.475,31 dal 16 gennaio 1920 al 30 settembre 1920,   
+  
+L. 28.535,31 dal 1° ottobre 1920 all'8 novembre 1922,   
+  
+L. 28.595,31 dal 9 novembre 1922 al 30 settembre 1923,   
+  
+L. 28.751,61 dal 1° ottobre 1923 al 30 settembre 1924,   
+  
+L. 28.807,71 dal 1° ottobre 1924 al 26 marzo 1925,   
+  
+L. 28.863,81 dal 27 marzo 1925 al 31 ottobre 1927,   
+  
+L. 28.930,41 dal 1º novembre 1927 al 31 agosto 1928,   
+  
+L. 29.003,91 dal 1° settembre 1928.   
+
+Art. 2
+------
+
+  
+  
+L'elenco annesso al [R. decreto 25 febbraio 1915, n. 555](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1915-02-25;555), e' rettificato, nella parte relativa al predetto comune di Mira, come all'unito elenco.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 22 maggio 1930 - Anno VIII   
+  
+VITTORIO EMANUELE.   
+  
+Giuliano - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 25 novembre 1930 - Anno IX   
+  
+Atti del Governo, registro 302, foglio 68. - Ferzi.   
+  
+
+Elenco
+
+  
+Provincia di Venezia.   
+  
+Elenco delle somme che i Comuni sottoindicati devono annualmente versare alla P. Tesoreria dello Stato in seguito al passaggio delle scuole elementari all'Amministrazione scolastica regionale.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=030U148400100010110001&dgu=1930-11-29&art.dataPubblicazioneGazzetta=1930-11-29&art.codiceRedazionale=030U1484)
+  
+  
+Visto, d'ordine di Sua Maesta' il Re:   
+  
+Il Ministro per le finanze: Il Ministro per l'educazione nazionale:   
+Mosconi. Giuliano.   

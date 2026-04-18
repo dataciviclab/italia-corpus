@@ -1,0 +1,21 @@
+REGIO DECRETO 26 novembre 1925 n. 2223
+
+
+REGIO DECRETO 26 novembre 1925 n. 2223
+======================================
+
+Scioglimento del Comitato amministrativo della Cassa speciale di previdenza e di mutua assicurazione fra gli agenti delle ferrovie Nord-Milano. (025U2223)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/01/1926
+
+Art. 1
+------
+
+N.
+
+2223. R. decreto 26 novembre 1925, col quale, sulla proposta del Ministro per l'economia nazionale, viene sciolto il Comitato amministrativo della Cassa speciale di previdenza e di mutua assicurazione fra gli agenti delle ferrovie Nord-Milano, e si provvede per la nomina della Commissione straordinaria per la provvisoria gestione dell'Ente stesso.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 21 dicembre 1925.

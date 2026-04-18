@@ -1,0 +1,58 @@
+REGIO DECRETO 30 giugno 1889 n. 6199
+
+
+REGIO DECRETO 30 giugno 1889 n. 6199
+====================================
+
+Che modifica il ruolo organico per il personale dell'Amministrazione centrale del Ministero d'agricoltura, industria e commercio. (089U6199)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/08/1889
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la [legge 20 giugno 1889, N. 6125](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1889-06-20;6125) (Serie 3a), con la quale fu approvato lo stato di previsione della spesa del Ministero di Agricoltura, Industria e Commercio per l'esercizio finanziario 1889-90;
+
+Visto il [R. decreto 1° luglio 1888, N. 5598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-07-01;5598) (Serie 3a), col quale fu approvato il ruolo organico per il personale dell'Amministrazione centrale del Ministero di Agricoltura, Industria e Commercio;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Ministro di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Nel ruolo organico approvato col [R. decreto 1° luglio 1888, N. 5598](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1888-07-01;5598) (Serie 3a), per il personale dell'Amministrazione centrale del Ministero di Agricoltura, Industria e Commercio sono aggiunti   
+  
+Nella la categoria:   
+  
+un posto di direttore capo di divisione di 2a classe, con lo stipendio di lire 6000;   
+  
+un posto di capo di sezione di 2a classe, con lo stipendio di lire 4500;   
+  
+otto posti di vice segretario di 3a classe, con lo stipendio di lire 1500.   
+  
+E nella 2a categoria:   
+  
+dodici posti di vice segretario di 3a classe, con lo stipendio di lire 1500.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 giugno 1889.   
+  
+UMBERTO.   
+  
+L. Miceli.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

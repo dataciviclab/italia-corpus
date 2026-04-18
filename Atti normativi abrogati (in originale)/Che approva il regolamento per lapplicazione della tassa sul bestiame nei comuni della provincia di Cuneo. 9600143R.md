@@ -1,0 +1,21 @@
+REGIO DECRETO 23 aprile 1896 n. CXLIII
+
+
+REGIO DECRETO 23 aprile 1896 n. CXLIII
+======================================
+
+Che approva il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Cuneo. (9600143R)
+----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/05/1896
+
+Art. 1
+------
+
+  
+Che approva il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Cuneo, adottato dalla giunta provinciale amministrativa predetta colle deliberazioni dell'11 novembre 1895 e 20 gennaio 1896, e da sostituirsi a quello in vigore che resta abrogato. - Firmato UMBERTO - Contrassegnato Branca - Visto G. Costa.   
+  
+Registrato alla Corte dei conti addi' 2 maggio 1896.   
+  
+Reg. 205. Atti del Governo a f. 169.   
+  

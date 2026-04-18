@@ -1,0 +1,55 @@
+LEGGE 02 luglio 1891 n. 374
+
+
+LEGGE 02 luglio 1891 n. 374
+===========================
+
+Che autorizza le provincie indicate nell'elenco annesso ad eccedere la sovraimposta ai tributi diretti per l'anno 1891. (091U0374)
+----------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/07/1891
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputali hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue;   
+  
+Articolo unico.   
+  
+Le provincie indicate nell'elenco che segue sono autorizzate ad eccedere con la sovraimposta ai tributi diretti per l'anno 1891 il rispettivo limite medio del triennio 1884-85-86, applicandola nell'ammontare indicato per ciascuna provincia nell'elenco medesimo. 
+  
+  
+=====================================================================  
+| | | Sovrimposta da autorizzarsi |  
+| N. d'ordine | PROVINCIA | per l'anno 1891 |  
+| | +----------------+---------------+  
+| | |Somma effettiva | Aliquota |  
++================+=================+================+===============+  
+| 1 |Ancona . . . . | 840,669 46| 0 63 |  
++----------------+-----------------+----------------+---------------+  
+| 2 |Palermo . . . . | 2,298,423 48| 0 7398 |  
++----------------+-----------------+----------------+---------------+  
+| 3 |Udine . . . . . | 960,542 67| 0 6166 |  
++----------------+-----------------+----------------+---------------+
+  
+  
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 2 luglio 1891.   
+  
+UMBERTO.   
+  
+Nicotera.   
+  
+Visto, Il Guardasigilli: L. Ferraris.   
+  

@@ -1,0 +1,67 @@
+REGIO DECRETO 07 febbraio 1884 n. 1938
+
+
+REGIO DECRETO 07 febbraio 1884 n. 1938
+======================================
+
+Conferimento dei Banchi del lotto. (084U1938)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 08/03/1884
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il [R. decreto 10 aprile 1881, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-04-10;179) (Serie 3ª);
+
+Udito il parere del Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Ministro delle Finanze, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+L'articolo 6 del regolamento approvato col [R. decreto 10 aprile 1881, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1881-04-10;179) (Serie 3ª), e' modificato come segue:   
+  
+Tenuto conto dei requisiti di cui all'articolo precedente, i Banchi del lotto sono conferiti:   
+  
+a) Per quattro decimi ai ricevitori del lotto, per promozione ai Banchi di maggior prodotto, o per tramutamento di residenza;   
+  
+b) Per tre decimi agli impiegati in attivita' di servizio, in disponibilita', o in aspettativa, ai pensionati dello Stato e agli impiegati usciti dal servizio con diritto all'indennita' stabilita dalla legge;   
+  
+c) Per un decimo alle vedove ed agli orfani di impiegati defunti con diritto a pensione;   
+  
+d) Per due decimi alle vedove ed agli orfani di impiegati defunti senza diritto a pensione.   
+  
+Gli aspiranti di cui alle lettere b), c), ottenendo il Banco, dovranno rinunciare all'assegno o all'indennita'.   
+  
+La preferenza e' data, per la lettera a), ai ricevitori che hanno aggio maggiore; per le lettere b) e c), ai concorrenti che hanno liquidato o possono liquidare una pensione o un'indennita' maggiore, calcolando questa per la rendita che vi corrisponde alla ragione del 5 per cento; per la lettera d), alle vedove e agli orfani il cui marito o padre abbia goduto uno stipendio maggiore nell'ultimo tempo di servizio.   
+  
+Riguardo agli impiegati pagati ad aggio, si provvede secondo l'art. 14 della legge del 14 aprile 1864 sulle pensioni a favore degli impiegati civili.   
+  
+In caso di parita' dei titoli, si tiene conto dell'anzianita' del servizio prestato allo Stato in uffici civili o militari.   
+  
+Mancando al concorso aspiranti forniti dei titoli suddetti, il Banco puo' essere conferito preferibilmente ai reggenti provvisori, e dopo questi ai commessi dei Banchi, coi criteri di capacita', anzianita' e buon servizio.   
+  
+Per i Banchi che effettuano una riscossione non maggiore di annue lire diecimila, sono ammessi al concorso soltanto i ricevitori, i reggenti ed i commessi di Banco.   
+  
+E' mantenuto in vigore il [R. decreto 18 novembre 1880, n. 5735](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1880-11-18;5735) (Serie 2ª), concernente il conferimento dei Banchi di lotto al personale del macinato.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 7 febbraio 1884.   
+  
+UMBERTO.   
+  
+A. Magliani.   
+  
+Visto, Il Guardasigilli: Savelli.   

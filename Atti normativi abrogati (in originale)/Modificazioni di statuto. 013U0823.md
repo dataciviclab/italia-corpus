@@ -1,0 +1,19 @@
+REGIO DECRETO 26 giugno 1913 n. 823
+
+
+REGIO DECRETO 26 giugno 1913 n. 823
+===================================
+
+Modificazioni di statuto. (013U0823)
+------------------------------------
+
+Entrata in vigore del provvedimento: 03/08/1913
+
+Art. 1
+------
+
+  
+N. 823   
+  
+Regio Decreto 26 giugno 1913, col quale, sulla proposta del ministro di agricoltura, industria e commercio, vengono approvate alcune modificazioni allo statuto della Cassa agraria di Aliano.   
+  

@@ -1,0 +1,44 @@
+REGIO DECRETO 12 novembre 1905 n. CCCLXXV
+
+
+REGIO DECRETO 12 novembre 1905 n. CCCLXXV
+=========================================
+
+Che autorizza l'Accademia scientifica letteraria di Milano ad accettare un legato. (0500375R)
+---------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/01/1906
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il testamento olografo del prof. Pietro Luciano in data 23 luglio 1898 con cui questi legava la somma di L. 2000 all'Accademia scientifica letteraria di Milano per l'uso che credesse piu' conveniente;   
+  
+Veduta l'istanza del preside-rettore dell'Accademia medesima in rappresentanza del Consiglio direttivo della Accademia stessa, con la quale si chiede l'autorizzazione ad accettare il legato Luciano;   
+  
+Sentito il parere del Consiglio di Stato;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Si autorizza l'Accademia scientifica letteraria di Milano ad accettare il legato di L. 2000, disposto a suo favore dal prof.  
+Pietro Luciano.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Caserta, addi' 12 novembre 1905.   
+  
+VITTORIO EMANUELE.   
+  
+L. Bianchi.   
+  
+Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
+  

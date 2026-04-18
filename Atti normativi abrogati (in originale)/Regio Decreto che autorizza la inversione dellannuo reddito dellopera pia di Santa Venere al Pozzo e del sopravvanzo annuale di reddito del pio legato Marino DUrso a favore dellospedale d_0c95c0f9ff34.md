@@ -1,0 +1,55 @@
+REGIO DECRETO 02 giugno 1887 n. MMDLXXVIII
+
+
+REGIO DECRETO 02 giugno 1887 n. MMDLXXVIII
+==========================================
+
+Regio Decreto che autorizza la inversione dell'annuo reddito dell'opera pia di Santa Venere al Pozzo e del sopravvanzo annuale di reddito del pio legato Marino D'Urso a favore dell'ospedale degli Abbandonati del comune di Acicatena (Catania). (8702578R)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/07/1887
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione 17 maggio 1885 del consiglio comunale di Acicatena diretta ad ottenere a favore del locale spedale degli Abbandonati la inversione del reddito annuo dell'opera pia di Santa Venere al Pozzo e del sopravanzo annuale del reddito del pio legato Marino D'Urso, e cio' allo scopo di provvedere detto spedale dei mezzi indispensabili per l'esercizio delle sue beneficenze;   
+  
+Vista l'analoga deliberazione 13 aprile 1885 della congregazione di carita' di Acicatena, amministratrice delle anzidette pie istituzioni;   
+  
+Visti gli atti di fondazione dell'opera pia di Santa Venere al Pozzo e del pio legato Marino D'Urso, e ritenuto, quanto alla prima, essere venuto a mancare per le mutate condizioni locali lo scopo di sua originaria istituzione, quello cioe' di curare i poveri infermi merce' l'ammissione loro ai bagni termominerali cola' esistenti, e quanto al secondo non esservi ostacolo alla libera erogazione dei sopravvanzi di reddito, salvi pero' e riservati gli oneri di culto e i diritti spettanti all'Azienda dei danneggiati dalle truppe borboniche in dipendenza del decreto dittatoriale 9 giugno 1860;   
+  
+Ritenuto che l'opera pia di Santa Venere al Pozzo possiede un'annua rendita di lire 876.30 ed il legato Marino D'Urso una rendita di annue lire 1027.59 gravata di oneri di culto e di beneficenza per annue lire 522.75;   
+  
+Vista la deliberazione 15 luglio 1885 della deputazione provinciale di Catania;   
+  
+Visti gli [articoli 23](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-08-03;753~art23) e [24 della legge 3 agosto 1862, n. 753](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-08-03;753~art24) sulle opere pie;   
+  
+Avuto il parere favorevole del consiglio di Stato;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+E' autorizzata nei limiti e colle riserve di sopra accennate la inversione dell'annuo reddito dell'opera pia di Santa Venere al Pozzo e del sopravvanzo annuale di reddito del pio legato Marino D'Urso, da applicarsi a favore dello spedale degli Abbandonati del comune di Acicatena.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 giugno 1887.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 16 giugno 1887.   
+  
+Reg. 157. Atti del Governo a. f. 56. Pellizzoli.   
+  
+Luogo del Sigillo. V. Il Guardasigilli. G. ZANARDELLI.   
+  
+CRISPI.   
+  

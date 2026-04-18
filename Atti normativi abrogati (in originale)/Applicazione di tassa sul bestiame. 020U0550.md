@@ -1,0 +1,17 @@
+REGIO DECRETO 22 aprile 1920 n. 550
+
+
+REGIO DECRETO 22 aprile 1920 n. 550
+===================================
+
+Applicazione di tassa sul bestiame. (020U0550)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 02/06/1920
+
+Art. 1
+------
+
+N.
+
+550. Regio decreto 22 aprile 1920, col quale, sulla proposta del ministro delle finanze, viene approvato il regolamento per l'applicazione della tassa sul bestiame nella provincia di Modena, deliberato da quella Giunta provinciale amministrativa.

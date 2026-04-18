@@ -1,0 +1,39 @@
+LEGGE 21 agosto 1862 n. 784
+
+
+LEGGE 21 agosto 1862 n. 784
+===========================
+
+E' autorizzata la Societa' della ferrovia centrale toscana ad aumentare il valore nominale delle obbligazioni. (062U0784)
+-------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/09/1862
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' data facolta' alla Societa' della ferrovia centrale toscana ed al Governo di sostituire obbligazioni del valore nominale di L. 500 a quelle di L. 420 da emettersi a forma della convenzione annessa alla legge del 21 luglio 1861, ferme stanti le disposizioni e le clausole relative alla somma complessiva del capitale da formarsi coll'emissione delle obbligazioni e alle garanzie prestate dal Governo.   
+  
+Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Dat. a Torino addi' 21 agosto 1862.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
+  
+Quintino Sella.   
+  

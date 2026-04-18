@@ -1,0 +1,46 @@
+REGIO DECRETO 20 gennaio 1901 n. 25
+
+
+REGIO DECRETO 20 gennaio 1901 n. 25
+===================================
+
+Sulla proroga del termine per fruire dell'indulto e dell'amnistia concessi per le contravvenzioni alle leggi finanziarie. (001U0025)
+------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/02/1901
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge del 27 dicembre 1900, n. 478](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1900-12-27;478);   
+  
+Visto il Nostro decreto 11 novembre 1900, n. 367;   
+  
+Sulla proposta dei Nostri Ministri Segretari di Stato per gli Affari di Grazia e Giustizia e dei Culti e per le Finanze;   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+Il termine di tre mesi, con scadenza all'11 febbraio 1901, stabilito dagli articoli 1 e 3 del citato [R. decreto 11 novembre 1900, n. 367](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1900-11-11;367), per fruire dell'indulto e dell'amnistia concessi, per le contravvenzioni alle leggi finanziarie, negli articoli medesimi indicate, e' prorogato fino a tutto il 4 aprile 1901.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 gennaio 1901.   
+  
+VITTORIO EMANUELE.   
+  
+Gianturco.   
+Chimirri.   
+  
+Visto, Il Guardasigilli: Gianturco.   
+  

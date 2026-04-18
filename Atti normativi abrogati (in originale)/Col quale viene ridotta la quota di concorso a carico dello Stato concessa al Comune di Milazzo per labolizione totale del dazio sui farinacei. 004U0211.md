@@ -1,0 +1,43 @@
+REGIO DECRETO 12 maggio 1904 n. 211
+
+
+REGIO DECRETO 12 maggio 1904 n. 211
+===================================
+
+Col quale viene ridotta la quota di concorso a carico dello Stato, concessa al Comune di Milazzo per l'abolizione totale del dazio sui farinacei. (004U0211)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/06/1904
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D' ITALIA   
+  
+Visto il Nostro dedito 5 aprile 1903, n. 139, col quale furono approvati gli elenchi delle quote di concorso a carico dello Stato, concesse ai Comuni indicati negli elenchi medesimi, per l'abolizione totale del dazio sui farinacei;   
+  
+Vista la deliberazione 16 novembre 1903 della Commissione centrale, nominata con Nostro decreto 10 aprile 1902, n. 134;   
+  
+Veduta la relazione della Commissione stessa, in data 30 aprile 1904;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per il Tesoro, ed interim con le Finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+La somma annuale compresa, a favore del Comune di Milazzo, nell'elenco relativo ai Comuni della provincia di Messina, il quale e' annesso al sopracitato Nostro decreto del 5 aprile 1903, e' ridotta da L. 22,036 a L. 15,773.61 dal 1° gennaio 1903 in poi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 12 maggio 1904.   
+  
+VITTORIO EMANUELE.   
+  
+L. Luzzatti.   
+  
+Visto, Il Guardasigilli: Ronchetti.   
+  

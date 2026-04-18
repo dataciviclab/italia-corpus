@@ -1,0 +1,61 @@
+REGIO DECRETO 09 agosto 1910 n. 627
+
+
+REGIO DECRETO 09 agosto 1910 n. 627
+===================================
+
+Che inscrive nell'elenco delle strade nazionali un tratto di strada dalla stazione ferroviaria di Calitri al Crocifisso di Bisaccia. (010U0627)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/10/1910
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduta la legga 20 marzo 1865, n. 2248 sulle opere pubbliche;   
+  
+Veduto il [R. decreto 23 marzo 1884, n. 2197](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1884-03-23;2197), che approvo' l'elenco generale delle strade nazionali del Regno;   
+  
+Veduto il [R. decreto 29 luglio 1906, n. 520](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-07-29;520), col quale in applicazione dell'[art. 56 della legge 15 luglio 1909 n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1909-07-15;383~art56), a favore del Mezzogiorno, venne dichiarata nazionale col n. 55-ter la strada dalla nazionale 54, presso Grottaminarda, all'incontro delle nazionali 55 e 55-bis presso il Crocifisso di Bisaccia;   
+  
+Veduto l'altro [R. decreto in data 27 gennaio 1967 n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1967-01-27;158), col quale in applicazione della [legge 31 marzo 1904, n. 140](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-31;140), a favore della Basilicata, venne dichiarata nazionale col n. 55-quinquies la strada da Sella Scorzilli, confine della provincia di Potenza, con quella di Cosenza, alla stazione ferroviaria di Calitri;   
+  
+Veduto il [R. decreto 3 maggio 1909, n. 252](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-05-03;252), col quale in applicazione della [legge 25 giugno 1906; n. 255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-06-25;255), a favore della Calabria, venne dichiarato nazionale dai numeri 55-quinquies e 57-ter il prolungamento della 55-quinquies predetta, da Sella Scorzilli allo scalo di Torre Cerchiara, in provincia di Cosenza;   
+  
+Vista la deliberazione 11 agosto 1908 del Consiglio provinciale di Avellino per ottenere la iscrizione fra le nazionali di varie strade, interessanti il suo territorio, fra cui quella scorrente dalla stazione ferroviaria di Calitri fino al Crocifisso di Bisaccia;   
+  
+Visto il voto 15 luglio 1909 del Consiglio superiore dei lavori pubblici, col quale, mentre si dichiara infondata la domanda per le altre strade, si riconosce invece che quella fra la stazione ferroviaria di Calitri e il Crocifisso di Bisaccia della lunghezza di m. 19,853, gia' tutta costruita con larghezza di m. 7 e pendenze che di poco eccedono il 5 %, abbia i requisiti per essere classificata fra le nazionali a norma del. comma C dell'art. 10 della legge sulle opere pubbliche;   
+  
+Ritenuto che con memoriale in data 5 maggio 1910, l'Amministrazione provinciale di Avellino chiede che alla nazionalizzazione del cennato tratto di strada si provveda con decreto Reale, a completamento e rettifica dei RR. decreti su citati del 29 luglio 1906, 27 gennaio 1907 e 3 maggio 1909, che classificarono man mano fra le nazionali l'intiera linea di strade di cui il menzionato tratto forma una parte necessaria, e che cio' e' stato ravvisato ammissibile dal Consiglio superiore dei lavori pubblici con voto 15 giugno 1910;   
+  
+Considerando che, il tratto di strada dalla stazione ferroviaria di Calitri al Crocifisso di Bisaccia ha i caratteri richiesti dall'art. 10, comma C, della legge 20 maggio 1865 sulle opere pubbliche per essere inscritto tra le strade nazionali, come quello che costituisce il naturale prolungamento attraverso la provincia di Avellino della grande dorsale appenninica, dichiarata nazionale sotto i numeri 55 quinquies e 57-ter la quale ha origine dal Mar Ionio presso Torre Cerchiara, percorre le provincie di Cosenza e di Potenza, e termina attualmente alla stazione ferroviaria di Calitri;   
+  
+Che col suaccennato prolungamento non solo viene attraversata una notevole e ricca parte della provincia di Avellino, e valicata ancora una volta la catena principale dell'Appennino al passo del Formicoso, presso il Crocifisso di Bisaccia, ma inoltre la cennata dorsale appenninica viene a collegarsi con le nazionali 55-bis, 55-ter e 54 ed a diramarsi quindi per le provincie di Foggia e Benevento, di modo che, cosi' completata, l'arteria stessa viene in definitiva ad allacciare, attraverso le cinque provincie di Potenza, Cosenza, Avellino, Foggia e Benevento, i versanti del Ionio, dell'Adriatico e del Tirreno, costituendo una delle piu' importanti strade nazionali del Regno;   
+  
+Che si ravvisa potersi far luogo alla classificazione fra le nazionali del prolungamento dalla stazione di Calitri al Crocifisso di Bisaccia, mediante R. decreto a rettifica di quello del 27 gennaio 1907, o meglio a rettifica e complemento di tutti i RR. decreti che classificarono l'intera linea; dappoiche' siffatto prolungamento deve ritenersi inseparabile dalla arteria dichiarata nazionale, e tale che, senza di esso, questa non raggiungerebbe il suo vero e grande obiettivo; e non trattasi in sostanza che di eliminare la breve ed ingiustificata lacuna di men che venti chilometri, la quale attualmente tronca una strada nazionale che si svolge nella cresta dell'Appennino per oltre duecento chilometri da Torre Cerchiara a Grottaminarda, risalendo meta' dell'Italia meridionale e congiungendone i tre versanti;   
+  
+Udito il parere del Consiglio di Stato;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A completamento delle classificazioni fatte coi precitati RR. decreti e' dichiarato nazionale ed inscritto nell'elenco generale delle strade nazionali del Regno con effetto dal 1° gennaio 1911, il tratto di strada ora provinciale della lunghezza di m. 19,853, dalla stazione ferroviaria di Calitri al Crocifisso di Bisaccia.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 9 agosto 1910.   
+  
+VITTORIO EMANUELE   
+  
+Sacchi.   
+  
+Visto, Il guardasigilli: Fani.   
+  

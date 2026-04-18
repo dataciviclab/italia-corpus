@@ -1,0 +1,19 @@
+REGIO DECRETO 08 marzo 1908 n. XCII
+
+
+REGIO DECRETO 08 marzo 1908 n. XCII
+===================================
+
+Riflettente approvazione di regolamento. (0800092R)
+---------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/04/1908
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro delle finanze:   
+  
+N. XCII (Dato a Roma, l'8 marzo 1908), col quale si approva il regolamento per l'applicazione della tassa di famiglia, deliberato dalla Giunta provinciale amministrativa di Siracusa, nelle adunanze in data 5 dicembre 1906, 4 giugno e 3 settembre 1907, e 14 gennaio 1908, in sostituzione del regolamento approvato con decreto del ministro commissario civile per la Sicilia in data 28 marzo 1897.   
+  

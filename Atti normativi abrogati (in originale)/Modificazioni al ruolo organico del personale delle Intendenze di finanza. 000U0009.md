@@ -1,0 +1,49 @@
+REGIO DECRETO 11 gennaio 1900 n. 9
+
+
+REGIO DECRETO 11 gennaio 1900 n. 9
+==================================
+
+Modificazioni al ruolo organico del personale delle Intendenze di finanza. (000U0009)
+-------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/02/1900
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto l'articolo 8 del Nostro decreto 8 luglio 1897, n. 285;   
+  
+Veduti i Nostri decreti del 9 giugno 1898, n. 229, del 25 giugno 1899, n. 292, e del 12 novembre 1899, n. 403, coi quali furono istituiti posti di ufficiale d'ordine nel ruolo organico del personale delle Intendenze di finanza, utilizzando la somma di lire 20,400   
+  
+su quella di lire 20,600 rimasta disponibile per eliminazioni di ufficiali dalla classe transitoria per la carriera d'ordine nelle Intendenze medesime, restando cosi' da utilizzare la rimanente somma di lire 200;   
+  
+Veduti i Nostri decreti del 27 febbraio e del 19 ottobre 1898, coi quali Enrico Prosdocimi ed Angelo Buzzonetti, ufficiali della classe transitoria per la carriera d'ordine nelle Intendenze, furono trasferiti, senza corrispondente cambio, nel personale del Ministero delle Finanze;   
+  
+Veduto il Nostro decreto del 7 dicembre 1899, col quale Mose' Galdini, Silvio Ricciuti e Giuseppe Di Giovanni, ufficiali della suddetta classe transitoria, furono nominati ufficiali di 4ª classe;   
+  
+Considerato che per effetto di tali provvedimenti e' rimasta disponibile la somma di lire 5280 - di cui lire 4000 a titolo di stipendi sul capitolo 6 e lire 1280 a titolo di assegni per complemento di retribuzioni sul capitolo 7 dello stato di previsione della spesa del Ministero delle Finanze per l'anno 1899-1900 - la qual somma di lire 5280, unita all'altra non ancora utilizzata di lire 200, da' il totale di lire 5480;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Con effetto dal 1° febbraio 1900, nel ruolo organico del personale delle Intendenze di finanza sono instituiti: due posti di ufficiale d'ordine di 3ª classe con lo stipendio di lire 1500 e due posti di ufficiale d'ordine di 4ª classe con lo stipendio di lire 1200.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 11 gennaio 1900.   
+  
+UMBERTO.   
+  
+Carmine.   
+  
+Visto, Il Guardasigilli: A. Bonasi.   
+  

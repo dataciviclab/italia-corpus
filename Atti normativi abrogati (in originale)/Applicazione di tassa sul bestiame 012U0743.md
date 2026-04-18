@@ -1,0 +1,19 @@
+REGIO DECRETO 27 giugno 1912 n. 743
+
+
+REGIO DECRETO 27 giugno 1912 n. 743
+===================================
+
+Applicazione di tassa sul bestiame (012U0743)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 01/08/1912
+
+Art. 1
+------
+
+  
+N. 743   
+  
+Regio Decreto 27 giugno 1912, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Acquasparta, di applicare nell'anno 1912, la tassa sul bestiame in misura eccedente i limiti massimi normali.   
+  

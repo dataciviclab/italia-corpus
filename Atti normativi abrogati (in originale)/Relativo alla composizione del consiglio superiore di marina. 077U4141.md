@@ -1,0 +1,52 @@
+REGIO DECRETO 18 novembre 1877 n. 4141
+
+
+REGIO DECRETO 18 novembre 1877 n. 4141
+======================================
+
+Relativo alla composizione del consiglio superiore di marina. (077U4141)
+------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/12/1877
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il R. decreto 6 luglio 1875, relativo alla composizione del Consiglio superiore di Marina;
+
+Sentito il Consiglio superiore di Marina;
+
+Sulla
+-----
+
+proposta del Nostro Ministro della Marina; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+Gli ufficiali dello stato maggiore generale della R. Marina chiamati a comporre il Consiglio superiore di Marina, a termini del R. decreto 6 luglio 1875, possono, eccezione fatta del presidente, essere scelti, secondo le convenienze del servizio, fra i contr'ammiragli o i capitani di vascello.   
+  
+Pero' gli ammiragli, compreso il presidente, non dovranno mai essere meno di due.   
+  
+
+Art. 2
+------
+
+La presente disposizione avra' effetto dal 1° novembre
+
+1877. 
+  
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 18 novembre 1877.   
+  
+VITTORIO EMANUELE.   
+  
+B. Brin.

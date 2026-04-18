@@ -1,0 +1,41 @@
+LEGGE 22 luglio 1939 n. 1323
+
+
+LEGGE 22 luglio 1939 n. 1323
+============================
+
+Norme integrative per l'esercizio della funzione consultiva della Corporazione della previdenza e del credito. (039U1323)
+-------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/10/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Le funzioni consultive attribuite al Comitato tecnico corporativo del credito, costituito con decreto del Capo del Governo 18 settembre 1937-XV, a' sensi dell'art. 27 del Regio decreto-legge 12 marzo 1936-XIV, n. 375, modificato con leggi 7 marzo 1938-XVI, n. 141, e 7 aprile 1938-XVI, n. 636, sono deferite alla Corporazione della previdenza e del credito che le esercita in conformita' delle disposizioni vigenti.   
+  
+Con decreto del DUCE del Fascismo, Capo del Governo, su proposta del Ministro per le corporazioni, il Comitato istituito in seno al Consiglio della Corporazione della previdenza e del credito per l'esercizio della funzione consultiva ai sensi dell'art. 1 del Regio decreto-legge 14 gennaio 1937-XV, n. 234, puo' essere diviso in sezioni con piena autonomia funzionale.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Sant'Anna di Valdieri, addi' 22 luglio 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Lantini - Grandi - Di Revel   
+  
+Visto, il Guardasigilli: Grandi   

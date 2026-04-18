@@ -1,0 +1,17 @@
+REGIO DECRETO 18 dicembre 1921 n. 1999
+
+
+REGIO DECRETO 18 dicembre 1921 n. 1999
+======================================
+
+Elevazione di dazi di consumo. (021U1999)
+-----------------------------------------
+
+Entrata in vigore del provvedimento: 05/02/1922
+
+Art. 1
+------
+
+N.
+
+1999. Regio decreto 18 dicembre 1921, col quale, su proposta del ministro per le finanze, il comune di Pratola Peligna, provincia di Aquila, viene dichiarato di 3ª classe, agli effetti del dazio consumo, a decorrere dal giorno successivo a quello della pubblicazione del decreto nella Gazzetta ufficiale, e il canone daziario assegnato al Comune medesimo e' dal detto giorno elevato da annue L. 3100 ad annue L. 3928,77, salvo sospensione dal pagamento fino al 31 dicembre 1921, a sensi dell'[art. 1 del R. decreto 5 giugno 1920, n. 820](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-06-05;820~art1).

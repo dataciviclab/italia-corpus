@@ -1,0 +1,39 @@
+LEGGE 18 maggio 1931 n. 593
+
+
+LEGGE 18 maggio 1931 n. 593
+===========================
+
+Conversione in legge del R. decreto-legge 24 novembre 1930, n. 1574, concernente variazioni nello stato di previsione della spesa del Ministero delle colonie e nel bilancio dell'Eritrea per l'esercizio finanziario 1930-31. (031U0593)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/06/1931
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il [R. decreto-legge 24 novembre 1930, n. 1574](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-24;1574), concernente variazioni nello stato di previsione della spesa del Ministero delle colonie e nel bilancio dell'Eritrea, per l'esercizio finanziario 1930-31.   
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+Data a Roma, addi' 18 maggio 1931 - Anno IX   
+  
+VITTORIO EMANUELE.   
+  
+  
+Mussolini - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  

@@ -1,0 +1,19 @@
+REGIO DECRETO 14 gennaio 1915 n. 98
+
+
+REGIO DECRETO 14 gennaio 1915 n. 98
+===================================
+
+Trasformazione di fine patrimoniale a scopo elemosiniero. (015U0098)
+--------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/03/1915
+
+Art. 1
+------
+
+  
+N. 98   
+  
+Regio Decreto 14 gennaio 1915, col quale, sulla proposta del ministro dell'interno, il fine inerente al patrimonio della Confraternita del Rosario di Fienile (Perugia) viene parzialmente trasformato nel senso che una quota del patrimonio stesso, corrispondente all'annuo reddito di L. 30, viene destinata alla locale Opera pia elemosiniera Dominici-Todeschini.   
+  

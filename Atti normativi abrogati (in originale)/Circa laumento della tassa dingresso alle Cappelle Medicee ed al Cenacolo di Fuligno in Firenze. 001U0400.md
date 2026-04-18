@@ -1,0 +1,41 @@
+REGIO DECRETO 26 luglio 1901 n. 400
+
+
+REGIO DECRETO 26 luglio 1901 n. 400
+===================================
+
+Circa l'aumento della tassa d'ingresso alle Cappelle Medicee ed al Cenacolo di Fuligno in Firenze. (001U0400)
+-------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/09/1901
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il [R. decreto 8 gennaio 1882, n. 599](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1882-01-08;599) (serie 3ª), col quale fu imposta la tassa di centesimi cinquanta agli adulti e di centesimi venticinque ai fanciulli, per l'ingresso alle Cappelle Medicee in Firenze, e quella di centesimi venticinque indistintamente per ciascun visitatore per l'ingresso al Cenacolo attribuito a Raffaello detto di Fuligno, nella stessa citta' di Firenze;   
+  
+Considerato che per l'importanza di quei monumenti e' opportuno aumentare la detta tassa;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A cominciare dal 1º settembre 1901 la tassa d'ingresso alle Cappelle Medicee in Firenze sara' di una lira pei visitatori dai dodici anni in su, e di centesimi cinquanta per quelli d'eta' inferiore; e la tassa per l'entrata nel Cenacolo di Fuligno, attribuito a Raffaello, nella medesima citta' di Firenze, sara' di cinquanta centesimi pei primi e di venticinque centesimi pei secondi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 26 luglio 1901.   
+  
+VITTORIO EMANUELE.   
+  
+N. Nasi.   
+  
+Visto, Il Guardasigilli: Cocco-Ortu.   
+  

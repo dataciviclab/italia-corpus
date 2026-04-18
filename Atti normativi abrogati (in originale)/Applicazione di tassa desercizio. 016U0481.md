@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 13 aprile 1916 n. 481
+
+
+DECRETO LUOGOTENENZIALE 13 aprile 1916 n. 481
+=============================================
+
+Applicazione di tassa d'esercizio. (016U0481)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 20/05/1916
+
+Art. 1
+------
+
+  
+N. 481   
+  
+Decreto Luogotenenziale 13 aprile 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Casale Monferrato (Alessandria) di applicare, in confronto degli esercizi industriali e commerciali di speciale importanza, ivi esistenti, la tassa di esercizio nella misura massima di lire 2000, dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.   
+  

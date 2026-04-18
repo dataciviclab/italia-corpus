@@ -1,0 +1,45 @@
+REGIO DECRETO 20 marzo 1924 n. 613
+
+
+REGIO DECRETO 20 marzo 1924 n. 613
+==================================
+
+Estensione al territorio della provincia del Carnaro delle disposizioni del testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza e del relativo regolamento. (024U0613)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/05/1924
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto 22 febbraio 1924, n. 213, col quale viene istituita la provincia del Carnaro con capoluogo Fiume;   
+  
+Ritenuta la necessita' di estendere al territorio di detta nuova Provincia le vigenti disposizioni concernenti gli ufficiali ed agenti di pubblica sicurezza;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno, Presidente del Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Sono estese al territorio della provincia del Carnaro le disposizioni del testo unico delle leggi sugli ufficiali ed agenti di pubblica sicurezza 31 agosto 1907, n. 690, ed il relativo [regolamento 20 agosto 1919, n. 666](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1919-08-20;666), nonche' le disposizioni riferibili ai suddetti personali portate dal [R. decreto 11 novembre 1923, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395), sull'ordinamento gerarchico delle Amministrazioni dello Stato, e quelle generali del [R. decreto 30 dicembre 1923, n. 2960](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-30;2960), sullo stato giuridico degli impiegati civili dell'Amministrazione dello Stato agli effetti della loro applicazione ai funzionari ed agenti di pubblica sicurezza distaccati nel territorio della nuova Provincia.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 marzo 1924.   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini.   
+  
+Visto, Il Guardasigilli: Oviglio.   
+  
+Registrato alla Corte dei conti, addi' 6 maggio 1924.   
+  
+Atti del Governo, registro 224, foglio 43. - Granata.   
+  

@@ -1,0 +1,65 @@
+REGIO DECRETO 23 novembre 1936 n. 2231
+
+
+REGIO DECRETO 23 novembre 1936 n. 2231
+======================================
+
+Approvazione della variante al piano regolatore di massima di Milano per la zona compresa fra la via Abba, linea ferroviaria Milano-Torino, via Tartini e via Imbonati. (036U2231)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/01/1937
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Vista la [legge 19 febbraio 1931, n. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-02-19;433), colla quale fu approvato il piano regolatore di massima edilizio e d'ampliamento di Milano con le norme per la sua attuazione;   
+  
+Visto il R. decreto-legge 28 settembre 1934-XII, n. 1663, recante modificazioni alla legge anzidetta e convertito nella leggo 17 dicembre 1934-XIII, n. 2118;   
+  
+Vista la domanda con la quale il podesta' di Milano, in base alla propria deliberazione n. 170917/3592 del 23 marzo 1936-XIV, ha chiesto che sia approvato il piano particolareggiato di esecuzione per l'apertura e l'ampliamento di vie nella zona compresa fra la via Abba, la linea ferroviaria Milano-Torino, la via Tartini e la via Imbonati, con variante al piano regolatore di massima, e sia assegnato il termine di anni dieci per la sua esecuzione;   
+  
+Ritenuto che il procedimento seguito e' regolare e che durante le pubblicazioni non furono presentate opposizioni ne' reclami;   
+  
+Considerato che la variante e' meritevole di approvazione in quanto tende a migliorare le linee direttrici del piano regolatore della localita' e risponde ad una necessita' del traffico cittadino;   
+  
+Che il piano particolareggiato risponde a tali criteri;   
+  
+Visto il parere n. 1668 del 14 ottobre 1936-XIV del Consiglio superiore dei lavori pubblici;   
+  
+Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);   
+  
+Visto il R. decreto 1° ottobre 1936-XIV, con cui venne conferita al Capo del Governo la facolta' di firmare gli atti di competenza dei Ministri per le colonie e per i lavori pubblici;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Ai sensi e per gli effetti della citata [legge 19 febbraio 1934, n. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-19;433), e successive modificazioni, e' approvata la suindicata variante al piano regolatore di massima di Milano ed e' approvato il relativo piano particolareggiato per la zona compresa fra la via Abba, la linea ferroviaria Milano-Torino, la via Tartini e la via Imbonati.   
+  
+Detto piano sara' vistato, d'ordine Nostro, dal Ministro proponente in una planimetria estratto del piano di massima, in una planimetria della variante in iscala 1:2000, in un piano particolareggiato in iscala, 1:2000 ed in un elenco dei beni da espropriarsi tutti firmati dal podesta' di Milano.   
+  
+Per l'esecuzione del piano particolareggiato e' assegnato il termine di anni dieci dalla data del presente decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 23 novembre 1936 - Anno XV   
+  
+VITTORIO EMANUELE   
+  
+Mussolini.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 9 gennaio 1937 - Anno XV   
+  
+Atti del Governo, registro 381, foglio 28. - Mancini.   
+  
+  

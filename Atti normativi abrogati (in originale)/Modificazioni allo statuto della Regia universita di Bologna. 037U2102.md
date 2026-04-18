@@ -1,0 +1,110 @@
+REGIO DECRETO 27 ottobre 1937 n. 2102
+
+
+REGIO DECRETO 27 ottobre 1937 n. 2102
+=====================================
+
+Modificazioni allo statuto della Regia universita' di Bologna. (037U2102)
+-------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/01/1938
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Veduto lo statuto della Regia universita' di Bologna, approvato con il R. decreto 1° ottobre 1936-XIV, n. 2502;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con il R. decreto 31 agosto 1933-XI, n. 1592;
+
+Veduto il R. decreto-legge 20 giugno 1935-XIII, n. 1071:
+
+Veduti i Regi decreti 28 novembre 1935-XIV, n. 2044, e 7 maggio 1936-XIV, n. 882;
+
+Vedute le proposte di modifiche avanzate dalle Autorita' accademiche della Regia universita' predetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale;
+
+Abbiamo decretato e decretiamo:
+
+Lo statuto della Regia universita' di Bologna, approvato con il R. decreto 1° ottobre 1936-XIV, n. 2502, e' modificato nel modo seguente:
+
+Art. 49. - E' soppresso l'ultimo comma.
+
+Art. 52. - E' sostituito dal seguente:
+
+«Qualora lo studente scelga materie insegnate in altra Facolta' e non comprese nell'elenco degli insegnamenti fondamentali e complementari per la laurea in lettere, deve farne domanda al preside entro il 10 novembre dell'anno nel quale dovra' seguire i corsi prescelti e ottenerne l'approvazione».
+
+Art. 112. - Nell'elenco degli insegnamenti complementari comuni a tutte le sezioni delle lauree in ingegneria e' inserito, dopo quello di meccanica agraria e col numero 30, l'insegnamento di «costruzioni aeronautiche», modificandosi in conseguenza la numerazione dei successivi.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 27 ottobre 1937 - Anno XV
+
+VITTORIO EMANUELE.
+
+Bottai.
+
+Visto, il Guardasigilli: Solmi.
+
+Registrato
+----------
+
+alla Corte dei conti, addi' 20 dicembre 1937 - Anno XVI Atti del Governo, registro 392, foglio 122. - Mancini.
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduto lo statuto della Regia universita' di Bologna, approvato con il R. decreto 1° ottobre 1936-XIV, n. 2502;   
+  
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con il R. decreto 31 agosto 1933-XI, n. 1592;   
+  
+Veduto il R. decreto-legge 20 giugno 1935-XIII, n. 1071:   
+  
+Veduti i Regi decreti 28 novembre 1935-XIV, n. 2044, e 7 maggio 1936-XIV, n. 882;   
+  
+Vedute le proposte di modifiche avanzate dalle Autorita' accademiche della Regia universita' predetta;   
+  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Lo statuto della Regia universita' di Bologna, approvato con il R. decreto 1° ottobre 1936-XIV, n. 2502, e' modificato nel modo seguente:   
+  
+Art. 49. - E' soppresso l'ultimo comma.   
+  
+Art. 52. - E' sostituito dal seguente:   
+  
+«Qualora lo studente scelga materie insegnate in altra Facolta' e non comprese nell'elenco degli insegnamenti fondamentali e complementari per la laurea in lettere, deve farne domanda al preside entro il 10 novembre dell'anno nel quale dovra' seguire i corsi prescelti e ottenerne l'approvazione».   
+  
+Art. 112. - Nell'elenco degli insegnamenti complementari comuni a tutte le sezioni delle lauree in ingegneria e' inserito, dopo quello di meccanica agraria e col numero 30, l'insegnamento di «costruzioni aeronautiche», modificandosi in conseguenza la numerazione dei successivi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 27 ottobre 1937 - Anno XV   
+  
+VITTORIO EMANUELE.   
+  
+Bottai.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 20 dicembre 1937 - Anno XVI   
+Atti del Governo, registro 392, foglio 122. - Mancini.   

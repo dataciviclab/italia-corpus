@@ -1,0 +1,22 @@
+REGIO DECRETO 19 ottobre 1898 n. CCCXXXVII
+
+
+REGIO DECRETO 19 ottobre 1898 n. CCCXXXVII
+==========================================
+
+Col quale si trasforma l'opera pia monti frumentari di Pian di Meleto, S. Sisto, Viano, Cavoleto e Pirlo in cassa di prestanze agrarie e si approva lo statuto organico della cassa stessa. (9800337R)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/12/1898
+
+Art. 1
+------
+
+  
+Col quale si trasforma l'opera pia monti frumentari di Pian di Meleto, S. Sisto, Viano, Cavoleto e Pirlo in cassa di prestanze agrarie e si approva lo statuto organico della cassa stessa. - Firmato UMBERTO - Controfirmati Pelloux e A. Fortis - Visto C.  
+Finocchiaro Aprile.   
+  
+Registrato alla Corte dei Conti addi' 14 novembre 1898.   
+  
+Reg. 217. Atti del Governo a f. 137.   
+  

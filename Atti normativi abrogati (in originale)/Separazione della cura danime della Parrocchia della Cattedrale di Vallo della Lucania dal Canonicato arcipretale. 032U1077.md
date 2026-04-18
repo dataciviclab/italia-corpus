@@ -1,0 +1,19 @@
+REGIO DECRETO 28 luglio 1932 n. 1077
+
+
+REGIO DECRETO 28 luglio 1932 n. 1077
+====================================
+
+Separazione della cura d'anime della Parrocchia della Cattedrale di Vallo della Lucania dal Canonicato arcipretale. (032U1077)
+------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/09/1932
+
+Art. 1
+------
+
+N.
+
+1077. R. decreto 28 luglio 1932, col quale, sulla proposta del Guardasigilli, Ministro per la giustizia e gli affari di culto, e' riconosciuta agli effetti civili la Bolla pontificia, in data 8 aprile 1929, concernente la separazione della cura d'anime della Parrocchia della Cattedrale di Vallo della Lucania dal Canonicato arcipretale e l'aggregazione di detta cura d'anime ad uno dei Canonicati semplici della Cattedrale medesima.   
+Visto, il Guardasigilli: De Francisci.   
+Registrato alla Corte dei conti, addi' 24 agosto 1932 - Anno X

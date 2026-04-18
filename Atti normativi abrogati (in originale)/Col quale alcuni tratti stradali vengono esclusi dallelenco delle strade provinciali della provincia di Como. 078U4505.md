@@ -1,0 +1,92 @@
+REGIO DECRETO 30 agosto 1878 n. 4505
+
+
+REGIO DECRETO 30 agosto 1878 n. 4505
+====================================
+
+Col quale alcuni tratti stradali vengono esclusi dall'elenco delle strade provinciali della provincia di Como. (078U4505)
+-------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/10/1878
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vedute le deliberazioni 16 agosto e 15 novembre 1876, colle quali il Consiglio provinciale di Como adotto' di escludere dall'elenco delle provinciali le seguenti strade:   
+  
+1° Il tratto della strada di Valsassina, che dal ponte sul torrente Varrone sotto Premana va alle miniere del Monte Varrone;   
+  
+2° La strada di circonvallazione della citta' di Como;   
+  
+3° Quella della Pioda per Rovellasca al confine milanese verso Saronno;   
+  
+4° I tronchi della strada provinciale Valassina, dalla Regatola a S. Giovanni e Loppia, presso Bellagio, e dalla casa comunale di Bellagio allo scalo dei piroscafi presso l'albergo Genazzini;   
+  
+Veduti i ricorsi prodotti contro le sopracitate deliberazioni dai comuni di Premana, Bellagio, Bernate, Casnate, Fino, Bregnano, Minoprio, Cermenate, Bulgarello, Rovellasca, novello e Vertemate;   
+  
+Veduto l'elenco delle strade provinciali della provincia di Como approvato con R. decreto 29 settembre 1866;   
+  
+Veduta la deliberazione 22 dicembre 1877 del comune di Como;   
+  
+Veduta la deliberazione 2 febbraio 1878 adottata in via d'urgenza dalla Deputazione provinciale di Como;   
+  
+Veduti i pareri 5 gennaio e 27 giugno 1878 del Consiglio Superiore dei Lavori Pubblici;   
+  
+Veduta la [legge 20 marzo 1865, n. 2248](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-03-20;2248), Allegato F;   
+  
+Ritenuto,   
+  
+Che il comune di Premana si oppone all'esclusione del tronco della strada di Valassina, che dal ponte sul torrente Varrone sotto Premana va alle miniere del Monte Varrone, sostenendo che tale tronco stradale riveste i caratteri accennati dall'art. 13 (D) della legge sopracitata, specialmente per l'importanza che hanno le suddette miniere;   
+  
+Che il comune di Bellagio si oppone pure alla esclusione dei due tronchi della strada Valassina, appoggiandosi non solo alle disposizioni portate dal suddetto art. 13 (D), ma anche agli impegni assunti dall'Amministrazione provinciale (succeduta al Governo) all'atto della sistemazione del tronco stradale conducente all'Asso per la Valassina, coi quali impegni il Governo fino dal 1841 si obbligo' di ritenere in perpetuo a suo carico la manutenzione della strada in parola;   
+  
+Che tutti gli altri comuni chieggono che non sia approvata l'esclusione dalle provinciali della strada di Saronno e cercano di dimostrare che questa e' di molta importanza per un'estesa parte della provincia, servendo specialmente per l'accesso al grosso borgo di Saronno, ove settimanalmente si tiene un mercato;   
+  
+Che il comune di Como colla sopracitata deliberazione mentre acconsente di prendere in consegna quella parte della strada di circonvallazione, che corre tra il Seminario Maggiore ed il Porto Sant'Agostino, ricusa pero' di assumere l'onere dell'altra parte dal Seminario a Porta Vittoria, e da questa a Porta Garibaldi, e chiede che una risoluzione sia soltanto adottata, allorche' si trattera' del passaggio della strada nazionale Camerlata-Chiasso fra le provinciali (in seguito all'apertura della ferrovia omonima), perche' in quella circostanza sara' d'uopo stabilire di comune accordo fra la provincia ed il comune, se provinciale dovra' restare quella interna, o quella di circonvallazione da Porta Vittoria a Porta Garibaldi;   
+  
+Che la Deputazione provinciale colla prenominata deliberazione 2 febbraio 1878 a nome del Consiglio desiste dal chiedere l'esclusione dalle strade provinciali del tronco di quella Valassina, dalla casa di Bellagio all'albergo Genazzini, ed acconsente poi che sia conservato come provinciale il tronco della strada di circonvallazione della citta' di Como, che corre tra il Seminario e la Porta Vittoria, ma rifiuta di soprassedere alla consegna dell'altro tratto da Porta Vittoria a Porta Garibaldi;   
+  
+Considerando,   
+  
+Che il tronco della strada di Valsassina, da Premana alle miniere di ferro di Monte Varrone, e' di un interesse puramente locale, ora specialmente, che le miniere di ferro non sono piu' esercitate, e che d'altronde il comune di Premana, dopo la sua deliberazione 16 ottobre 1876, non ha pii ragione di reclamare, perche' con detta deliberazione accetto' quella 18 agosto precedente del Consiglio provinciale, colla quale veniva accordato il sussidio di lire 86,000 per fa sistemazione del tronco di strada da Taceno fino al ponte sul Varrone, ed in pari tempo di escludere dall'elenco delle provinciali il tronco successivo da Premana al Monte Varrone;   
+  
+Che il tronco della strada Valassina dalla Regatola a San Giovanni e Loppia serve esclusivamente alle comunicazioni fra diverse frazioni del comune di Bellagio, e quindi ha evidentemente i caratteri di una strada comunale;   
+  
+Che d'altra parte le eccezioni mosse dal comune di Bellagio riguardanti gli impegni anteriori della provincia succeduta al Governo, non hanno alcun fondamento perche' a tali impegni la provincia stessa rimase estranea e piu' specialmente perche' i caratteri di classificazione delle strade devono desumersi unicamente dalla legge vigente 20 marzo 1865, senza tener conto di disposizioni anteriori, informate a principii, od a criteri diversi;   
+  
+Che la strada di Saronno si dirama presso Pioda dalla provinciale milanese, o da Como a Milano, forma parte di un'altra, e meno diretta comunicazione fra quelle due citta', il suo proseguimento sul territorio milanese e' costituito da una strada comunale, ed infine non presenta alcuno dei caratteri previsti dall'art. 13 della sopracitata legge;   
+  
+Che rispetto al tronco della strada di circonvallazione di Como, compreso fra Porta Vittoria e Porta Garibaldi manca in modo assoluto ogni interesse provinciale, e la futura eventualita', per cui passera' fra le provinciali la strada nazionale Camerlata-Chiasso, non puo' essere invocata per addossare al presente la manutenzione di quel tronco alla provincia, la quale verificandosi la eventualita' suddetta, potrebbe forse avere la scelta di accettare come provinciale, o la traversa interna della citta', ove corre attualmente la strada nazionale, ovvero la strada di circonvallazione, di cui si tratta;   
+  
+Udito l'avviso del Consiglio di Stato;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Sono esclusi dall'elenco delle strade provinciali della provincia di Como i seguenti tratti stradali:   
+  
+1° Il tratto della strada di Valsassina, che dal ponte sul torrente Varrone sotto Premana va alle miniere del Monte Varrone;   
+  
+2° Il tronco della strada provinciale Valassina, dalla Regatola a S. Giovanni e Loppia presso Bellagio;   
+  
+3° La strada detta di Saronno, dalla Pioda per Rovellasca al confine milanese verso Saronno;   
+  
+4° I tratti della strada di circonvallazione della citta' di Como, dal Seminario Maggiore al Porto di S. Agostino, e da Porta Vittoria a Porta Garibaldi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 30 agosto 1878.   
+  
+UMBERTO.   
+  
+A. BACCARINI.   
+  
+  

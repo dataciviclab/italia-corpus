@@ -1,0 +1,48 @@
+REGIO DECRETO 30 dicembre 1929 n. 2428
+
+
+REGIO DECRETO 30 dicembre 1929 n. 2428
+======================================
+
+Rivalutazione delle quote di sovvenzione dovute all'Istituto internazionale del freddo. (029U2428)
+--------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/03/1930
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Ritenuta la opportunita' che il Governo Italiano e i Governi coloniali di Tripolitania, Cirenaica, Eritrea e Somalia aderenti all'Istituto internazionale del freddo provvedano ad elevare le rispettive quote di sovvenzione dovute all'Istituto stesso onde contribuire ad assicurarne il razionale funzionamento per i vantaggi che ne derivano all'industria e alla scienza frigorifera italiana;
+
+Visto il [decreto Luogotenenziale 27 aprile 1919, n. 661](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-04-27;661), che attribuiva alla competenza del Ministero dell'agricoltura il servizio relativo alle applicazioni del freddo;
+
+Visto il [R. decreto 30 dicembre 1920, n. 1965](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-30;1965), col quale il Governo Italiano e i Governi coloniali aderivano all'Istituto internazionale del freddo, e si stabiliva il riparto, fra i Ministeri interessati, della sovvenzione complessiva annua da corrispondersi all'Istituto stesso;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le foreste, di concerto coi Ministri Segretari di Stato per gli affari esteri, per l'interno, per le colonie, per le comunicazioni e per la marina;
+
+Sentito
+-------
+
+il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I Ministri per l'agricoltura e le foreste, per l'interno, per le comunicazioni e per la marina ed i Governi coloniali di Tripolitania, Cirenaica, Eritrea e Somalia sono autorizzati ad elevare, con i fondi dei propri bilanci passivi, le rispettive quote di sovvenzione a favore dell'Istituto internazionale del freddo, con sede a Parigi, ragguagliandole alla somma effettivamente erogata, in base al corso medio del franco-carta, nel mese di giugno 1920, data di adesione alla convenzione che creava l'Istituto stesso.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 30 dicembre 1929 - Anno VIII   
+  
+VITTORIO EMANUELE.   
+  
+  
+Mussolini - Acerbo - Grandi -   
+De Bono - Ciano - Sirianni.   
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 8 marzo 1930 - Anno VIII Atti del Governo, registro 294, foglio 49. - Mancini.   
+  

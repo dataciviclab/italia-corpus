@@ -1,0 +1,80 @@
+REGIO DECRETO 30 maggio 1909 n. 285
+
+
+REGIO DECRETO 30 maggio 1909 n. 285
+===================================
+
+Che autorizza l'iscrizione della somma di L. 1,485,900 in aumento al capitolo n. 123 dello stato di previsione della spesa della pubblica istruzione per l'esercizio 1908-909. (009U0285)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/06/1909
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la [legge 8 aprile 1906, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141) sullo stato giuridico degli insegnanti delle scuole medie governative e pareggiate;
+
+Vista la [legge 8 aprile 1906, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142), che stabilisce le disposizioni sugli stipendi e sulla carriera del personale delle scuole medie governative;
+
+Visto il Nostro decreto 3 agosto 1908, n. 623, che approva il regolamento per la esecuzione di dette leggi;
+
+Vista la [legge 25 giugno 1908, n. 294](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-06-25;294), che approva lo stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1908-1909;
+
+Considerato che per la completa applicazione nell'esercizio 1908-909 delle leggi e del regolamento surricordati e' necessario inscrivere nel citato stato di previsione oltre alle somme gia' stanziate quella di lire 1,485,900 in aumento alla dotazione del capitolo n. 123, e cioe':
+
+per compensi di direzione di classi aggiunte (art.
+
+42 della [legge 8 aprile 1906, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142)) . . . . . . . . L. 154,700--
+
+per retribuzioni ai bidelli ed inservienti addetti
+
+alle classi aggiunte (articoli 10 e 11 detta legge) . » 20,000--
+
+per compensi di correzione di compiti e cura di
+
+gabinetti (art. 10 detta legge) . . . . . . . . . . . » 481,950--
+
+per aumenti quinquennali sullo stipendio ad
+
+insegnanti ordinari con anticipazione per merito
+
+distinto, a norma dell'art. 7 della detta legge) . . » 80,000--
+
+per fabbisogno di somme da mettersi a disposizione
+
+dei prefetti (articoli 10 e 11 della detta legge e
+
+120 del regolamento del 1908) . . . . . . . . . . . . » 749,250--
+
+------------- L. 1,485,900--
+
+-------------
+
+Sentito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro segretario di Stato per il tesoro; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' autorizzata l'inscrizione della somma di lire un milione quattrocento ottantacinquemila novecento (lire 1,485,900) in aumento al capitolo n. 123 «Scuole medie governative - Personale - Stipendi - Assegni - Indennita' e retribuzioni indicati nella [legge 8 aprile 1906, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142) ecc.», dello stato di previsione della spesa del Ministero dell'istruzione pubblica per l'esercizio finanziario 1908-909.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 maggio 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Carcano.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

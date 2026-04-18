@@ -1,0 +1,52 @@
+REGIO DECRETO 03 gennaio 1926 n. 113
+
+
+REGIO DECRETO 03 gennaio 1926 n. 113
+====================================
+
+Agevolazioni postali al carteggio della tombola nazionale a favore del costruendo Ospedale civile in Riofreddo. (026U0113)
+--------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/02/1926
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il [R. decreto 2 dicembre 1923, n. 2971](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2971);
+
+Vista la domanda con la quale, in data 21 novembre 1925, la Commissione esecutiva della grande tombola nazionale a beneficio del costruendo Ospedale civile in Riofreddo chiede che le vengano accordate le agevolazioni postali di cui all'art. 2 del precitato decreto;
+
+Considerato lo scopo cui tende la tombola suddetta;
+
+Inteso il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le agevolazioni di cui all'[art. 2 del R. decreto 2 dicembre 1923, n. 2971](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2971~art2), con le restrizioni e le modalita' di cui agli articoli 3 e seguenti del decreto stesso, sono interamente accordate alla tombola nazionale a beneficio del costruendo Ospedale civile in Riofreddo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 3 gennaio 1926.   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Ciano - Volpi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 3 febbraio 1926   
+  
+Atti del Governo, registro 245, foglio 14. - Faini.   
+  

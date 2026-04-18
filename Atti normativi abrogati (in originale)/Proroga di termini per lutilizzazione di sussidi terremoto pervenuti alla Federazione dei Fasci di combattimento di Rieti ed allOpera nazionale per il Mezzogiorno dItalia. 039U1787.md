@@ -1,0 +1,39 @@
+LEGGE 23 novembre 1939 n. 1787
+
+
+LEGGE 23 novembre 1939 n. 1787
+==============================
+
+Proroga di termini per l'utilizzazione di sussidi terremoto pervenuti alla Federazione dei Fasci di combattimento di Rieti ed all'Opera nazionale per il Mezzogiorno d'Italia. (039U1787)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/12/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' prorogato al 30 giugno 1940-XVIII il termine fissato dal 3° comma dell'articolo unico del R. decreto-legge 28 aprile 1938-XVI, n. 616, convertito nella legge 5 gennaio 1939-XVII, n. 63, per la presentazione, da parte della Federazione provinciale dei Fasci di combattimento di Rieti e dell'Opera nazionale per il Mezzogiorno d'Italia della documentazione della proprieta' delle aeree e dei progetti dei lavori, da eseguire con i sussidi terremoto di cui dispongano a norma dello stesso Regio decreto-legge.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 23 novembre 1939-XVIII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - SERENA - DI REVEL   
+  
+Visto il Guardasigilli: GRANDI   

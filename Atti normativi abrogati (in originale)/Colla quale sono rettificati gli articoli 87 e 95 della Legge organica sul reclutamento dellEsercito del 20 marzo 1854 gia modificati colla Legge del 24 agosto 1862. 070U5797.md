@@ -1,0 +1,50 @@
+LEGGE 14 agosto 1870 n. 5797
+
+
+LEGGE 14 agosto 1870 n. 5797
+============================
+
+Colla quale sono rettificati gli articoli 87 e 95 della Legge organica sul reclutamento dell'Esercito del 20 marzo 1854, gia' modificati colla Legge del 24 agosto 1862. (070U5797)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/09/1870
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Gli articoli 87 e 95 della Legge sul reclutamento dell'Esercito del 20 marzo 4854, stati modificati colla [Legge del 24 agosto 1862, n. 767](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1862-08-24;767), sono rettificati e completati nel seguente modo:   
+  
+Art. 87. E' parimente esente l'inscritto che abbia un fratello consanguineo al servizio militare dello Stato, purche' quest'ultimo:   
+1° Non risulti nelle condizioni definite nell'articolo 112, e non serva nella qualita' di affidato che abbia terminata la ferma, di assoldato anziano o di assoldato, di surrogato ordinario o di designato per iscambio di numero, o di volontario, nel caso previsto dall'articolo 156;   
+  
+2° Non sia arruolato nel Corpo Reali Equipaggi per leva straordinaria in tempo di pace;   
+  
+3° Non si trovi per colpa propria sotto le armi tre la durata dell'assento ordinario, o per punizione in un corpo disciplinare.   
+  
+Art. 95. Il militare ascritto alla seconda categoria del contingente non procaccia al fratello il diritto di esenzione finche' rimane in tale categoria, ma egli stesso provveduto di congedo assoluto tostoche' il fratello sia definitivamente riconosciuto idoneo al militare servizio o al corpo, o nel modo stabilito dal Regolamento.   
+  
+In questo caso il congedo da lui ottenuto equivale ad esenzione per applicazione dell'articolo 87.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato.   
+  
+Dato a Firenze addi' 14 agosto 1870.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
+  
+Govone.   
+  

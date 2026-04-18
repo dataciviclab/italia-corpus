@@ -1,0 +1,21 @@
+REGIO DECRETO 14 gennaio 1937 n. 676
+
+
+REGIO DECRETO 14 gennaio 1937 n. 676
+====================================
+
+Approvazione degli statuti e delle tabelle organiche degli Istituti di istruzione media tecnica e commerciale. (037U0676)
+-------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/06/1937
+
+Art. 1
+------
+
+N.
+
+676. R. decreto 14 gennaio 1937, col quale, sulla proposta del Ministro per l'educazione nazionale, a seguito della istituzione dei corsi inferiori presso i Regi istituti tecnici commerciali a indirizzo mercantile, e della istituzione di classi collaterali stabili, vengono approvati a decorrere dal 1° ottobre 1934 gli statuti e le tabelle organiche degli Istituti di istruzione media tecnica e commerciale di Agrigento, Ancona (mercantile), Asti, Bari (mercantile), Bergamo, Bologna (mercantile), Brescia (amministrativo e per geometri), Brescia (mercantile), Cagliari, Caserta (mercantile), Catania (mercantile), Chiavari, Chieti, Civitavecchia, Cosenza, Cuneo, Faenza, Fano, Ferrara, Firenze (Galilei), Firenze (mercantile), Foggia, Genova (mercantile), Gorizia (mercantile), Guastalla (istituto tecnico inferiore), Jesi, La Spezia, Legnano, Macerata, Mantova, Melfi, Messina, Milano (mercantile), Modena, Monza (istituto tecnico inferiore), Napoli (mercantile), Novara, Padova (mercantile), Palermo (mercantile), Parma, Pesaro, Pescara, Porto Civitanova, Ravenna, Reggio Calabria, Reggio Emilia, Rimini, Riposto (mercantile), Roma (Leonardo da Vinci), Roma (mercantile), Roma, (Gioberti), Rovigo, Salerno (mercantile), Sassari, Sora, Stradella (istituto tecnico inferiore), Torino (mercantile), Torre Annunziata (istituto tecnico inferiore), Treviglio, Trento (mercantile), Trieste (mercantile), Udine, Vasto, Velletri, Venezia, Viadana (istituto tecnico inferiore), Vicenza, Viterbo.   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 17 maggio 1937 - Anno XV

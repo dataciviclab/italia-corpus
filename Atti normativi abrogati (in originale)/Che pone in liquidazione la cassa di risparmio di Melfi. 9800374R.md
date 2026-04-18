@@ -1,0 +1,22 @@
+REGIO DECRETO 13 novembre 1898 n. CCCLXXIV
+
+
+REGIO DECRETO 13 novembre 1898 n. CCCLXXIV
+==========================================
+
+Che pone in liquidazione la cassa di risparmio di Melfi. (9800374R)
+-------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/01/1899
+
+Art. 1
+------
+
+Che pone in liquidazione la cassa di risparmio di Melfi. - Firmato UMBERTO - Contro firmato A. Fortis -Visto C. Finocchiaro Aprile.   
+  
+Registrato alla Corte dei conti addi' 17 dicembre
+
+1898. 
+  
+  
+Reg. 218. Atti del Governo a f. 1.

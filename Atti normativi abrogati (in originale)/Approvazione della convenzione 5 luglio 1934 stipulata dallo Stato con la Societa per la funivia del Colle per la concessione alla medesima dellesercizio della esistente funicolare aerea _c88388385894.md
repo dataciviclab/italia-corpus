@@ -1,0 +1,47 @@
+REGIO DECRETO 07 agosto 1936 n. 1654
+
+
+REGIO DECRETO 07 agosto 1936 n. 1654
+====================================
+
+Approvazione della convenzione 5 luglio 1934 stipulata dallo Stato con la Societa' per la funivia del Colle per la concessione alla medesima dell'esercizio della esistente funicolare aerea fra le frazioni di Campiglio e di Colle, in Bolzano. (036U1654)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/09/1936
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Vista la [legge 23 giugno 1927, n. 1110](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-23;1110);   
+  
+Visto il [R. decreto-legge 24 novembre 1930, n. 1632](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-11-24;1632), convertito nella [legge 17 aprile 1931, n. 526](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1931-04-17;526);   
+  
+Sentita la Regia Commissione delle funicolari aeree e terrestri;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione stipulata il 5 luglio 1934-XII fra il delegato del Ministro per le comunicazioni, in rappresentanza dello Stato, ed il legale rappresentante della «Societa' per la funivia del Colle» per la concessione a quest'ultima, senza sussidio governativo, dell'esercizio della esistente funicolare aerea, in servizio pubblico, fra le frazioni di Campiglio e di Colle, in Bolzano.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Sant'Anna di Valdieri, addi' 7 agosto 1936 - Anno XIV   
+  
+VITTORIO EMANUELE   
+  
+Benni   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 10 settembre 1936 - Anno XIV   
+  
+Atti del Governo, registro 377, foglio 43. - Mancini.   

@@ -1,0 +1,18 @@
+REGIO DECRETO 04 maggio 1911 n. 440
+
+
+REGIO DECRETO 04 maggio 1911 n. 440
+===================================
+
+Imposizione di nome a cannoniere (011U0440)
+-------------------------------------------
+
+Entrata in vigore del provvedimento: 14/06/1911
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro della marina:   
+  
+N. 440. R. decreto 4 maggio 1911, col quale alla cannoniera fluviale per l'America del Sud, in costruzione a Palermo presso i Cantieri navali riuniti, viene imposto il nome di Sebastiano Caboto.   

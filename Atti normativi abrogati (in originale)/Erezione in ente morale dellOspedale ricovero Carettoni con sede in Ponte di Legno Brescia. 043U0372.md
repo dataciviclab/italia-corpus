@@ -1,0 +1,21 @@
+REGIO DECRETO 22 marzo 1943 n. 372
+
+
+REGIO DECRETO 22 marzo 1943 n. 372
+==================================
+
+Erezione in ente morale dell'Ospedale ricovero Carettoni, con sede in Ponte di Legno (Brescia). (043U0372)
+----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/06/1943
+
+Art. 1
+------
+
+N.
+
+372. R. decreto 22 marzo 1943, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, l'Ospedale ricovero Carettoni, con sede in Ponte di Legno (Brescia), viene eretto in ente morale, sotto amministrazione autonoma e ne viene approvato il relativo statuto organico.   
+  
+Visto, il Guardasigilli: De Marsico   
+  
+Registrato alla Corte dei conti, addi' 17 maggio 1943-XXI

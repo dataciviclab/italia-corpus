@@ -1,0 +1,42 @@
+REGIO DECRETO 27 settembre 1878 n. 4568
+
+
+REGIO DECRETO 27 settembre 1878 n. 4568
+=======================================
+
+Che istituisce nella citta' di Firenze un regio ginnasio da mantenersi a spese dello Stato. (078U4568)
+------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/12/1878
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA DELLA NAZIONE
+
+RE D'ITALIA
+
+Riconosciuto che nella citta' di Firenze l'unico Ginnasio comunitativo che ora esiste, annesso al R. Liceo, non provvede abbastanza ai bisogni dell'istruzione classica in rapporto al numero della popolazione;
+
+Considerando che il Municipio di Firenze col mantenimento del Ginnasio predetto ha soddisfatto e soddisfa alle prescrizioni della legge-decreto 10 marzo 1860;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' istituito nella citta' di Firenze un R. Ginnasio da mantenersi a spese dello Stato nella forma stabilita dal vigente ordinamento scolastico, e cio' a cominciare dal 1° del prossimo ottobre.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 27 settembre 1878.   
+  
+UMBERTO   
+  
+F. De Sanctis.   
+  

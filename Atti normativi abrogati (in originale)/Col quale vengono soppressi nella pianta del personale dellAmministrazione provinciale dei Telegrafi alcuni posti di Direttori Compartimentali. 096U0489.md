@@ -1,0 +1,43 @@
+REGIO DECRETO 30 ottobre 1896 n. 489
+
+
+REGIO DECRETO 30 ottobre 1896 n. 489
+====================================
+
+Col quale vengono soppressi, nella pianta del personale dell'Amministrazione provinciale dei Telegrafi, alcuni posti di Direttori Compartimentali. (096U0489)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/12/1896
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto del 24 gennaio 1892 n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-01-24;108);   
+  
+Visto il R. decreto del 24 settembre u. s. col quale sono soppresse le dieci Direzioni Compartimentali dei Telegrafi;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le Poste e pei Telegrafi;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Nella pianta del personale dell'Amministrazione provinciale dei Telegrafi sono soppressi sei posti di Direttori Compartimentali di 1ª classe, con lo stipendio annuo di lire 7000, e quattro posti di Direttori Compartimentali di 2ª classe, con lo stipendio annuo di lire 6000, a datare dal 1° novembre 1896.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 ottobre 1896.   
+  
+UMBERTO.   
+  
+Sineo.   
+  
+Visto, Il Guardasigilli: G. Costa.   
+  

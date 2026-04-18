@@ -1,0 +1,56 @@
+REGIO DECRETO 31 dicembre 1925 n. 2456
+
+
+REGIO DECRETO 31 dicembre 1925 n. 2456
+======================================
+
+Maggiori assegnazioni, per spese varie, nello stato di previsione della spesa del Ministero della giustizia e degli affari di culto, per l'esercizio finanziario 1925-26. (025U2456)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/01/1926
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la [legge 24 maggio 1925, n. 724](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-05-24;724);   
+  
+Visto l'[art. 41 del R. decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art41);   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con quello per la giustizia e gli affari di culto;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Lo stanziamento dei sottoindicati capitoli dello stato di previsione della spesa del Ministero della giustizia e degli affari di culto, per l'esercizio finanziario 1925-26, e' aumentato della somma per ognuno di' essi indicata:   
+  
+Cap. n. 17 - Magistrature giudiziarie - Per-   
+sonale, stipendi, ecc. . . . . . . . . . . . . . . L. 3,300,000   
+Cap. n. 18 - Cancellerie e segreterie giudi-   
+ziarie - Personale, ecc. . . . . . . . . . . . . . » 1,400,000   
+  
+------------- L. 4,700,000   
+-------------   
+Il presente decreto andra' in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 31 dicembre 1925.   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Volpi - Rocco.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 19 gennaio 1926.   
+  
+Atti del Governo, registro 244, foglio 176. - Faini.   
+  

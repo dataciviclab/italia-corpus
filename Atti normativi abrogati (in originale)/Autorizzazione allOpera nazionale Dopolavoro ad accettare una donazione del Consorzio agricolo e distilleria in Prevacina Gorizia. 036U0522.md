@@ -1,0 +1,21 @@
+REGIO DECRETO 30 gennaio 1936 n. 522
+
+
+REGIO DECRETO 30 gennaio 1936 n. 522
+====================================
+
+Autorizzazione all'Opera nazionale Dopolavoro ad accettare una donazione del Consorzio agricolo e distilleria in Prevacina (Gorizia). (036U0522)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/04/1936
+
+Art. 1
+------
+
+N.
+
+522. R. decreto 30 gennaio 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per le corporazioni, l'Opera nazionale Dopolavoro viene autorizzata ad accettare la donazione disposta in suo favore dai liquidatori del Consorzio agricolo e distilleria, in Prevacina (Gorizia) mediante rogito in data 14 settembre 1933 del dott. Antonio Grusovin, Regio notaio residente in Gorizia, ed iscritto presso il Collegio notarile di Gorizia, di un immobile costituito da una particella di fabbricato ad uso teatro, con cantina e corte, sito nel suddetto comune di Prevacina.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 31 marzo 1936 - Anno XIV.

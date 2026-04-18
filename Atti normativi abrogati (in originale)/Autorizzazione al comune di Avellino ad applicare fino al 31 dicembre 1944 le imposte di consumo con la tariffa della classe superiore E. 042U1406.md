@@ -1,0 +1,53 @@
+REGIO DECRETO 07 novembre 1942 n. 1406
+
+
+REGIO DECRETO 07 novembre 1942 n. 1406
+======================================
+
+Autorizzazione al comune di Avellino ad applicare, fino al 31 dicembre 1944, le imposte di consumo con la tariffa della classe superiore E. (042U1406)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/12/1942
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di dio e per volonta' della nazione
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Vista la domanda con la quale il comune di Avellino, appartenente agli effetti dell'applicazione delle imposte di consumo alla classe P, chiede l'autorizzazione ad applicare le predette imposte di consumo con la tariffa della classe superiore E, sino al 31 dicembre 1944;
+
+Udita la Commissione centrale per la finanza locale che nell'adunanza del 30 settembre 1942 ha espresso parere favorevole alla chiesta autorizzazione, con esclusione dell'imposta sull'energia elettrica;
+
+Visto l'art. 27 del testo unico per la finanza locale 14 settembre 1931, n. 1175;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il comune di Avellino e' autorizzato ad applicare fino al 31 dicembre 1944 le imposte di consumo, ad eccezione di quelle sull'energia elettrica, con la tariffa della classe superiore E.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 7 novembre 1942-XXI   
+  
+VITTORIO EMANUELE   
+  
+DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 10 dicembre 1942-XXI   
+  
+Atti del Governo, registro 452, foglio 21. - MANCINI   
+  
+  

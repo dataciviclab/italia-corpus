@@ -1,0 +1,27 @@
+REGIO DECRETO 02 febbraio 1896 n. XXXV
+
+
+REGIO DECRETO 02 febbraio 1896 n. XXXV
+======================================
+
+Che autorizza il comune di Pinerolo ad esigere un dazio di consumo sulla carta, sul vetro e sulle porcellane. (9600035R)
+------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/03/1896
+
+Art. 1
+------
+
+  
+Che autorizza il comune di Pinerolo ad esigere un dazio di consumo sulla carta, sul vetro e sulle porcellane come dalla seguente tariffa:   
+  
+Carta. - Vi si comprende la bianca, la colorata da disegno, da stampa, cartoni, cartoncini, carta da scrivere, da involto, da bachi, tanto scritta che stampata, i registri, i quaderni come anche la carta rigata e con intestazioni ed i ritagli, al quintale, lire 2.   
+  
+Vetro ordinario bianco, verde, sotto qualunque forma non altrimenti contemplato dalla tariffa presente (ossia del comune di Pinerolo) in lastre molate e porcellane di ogni qualita', al quintale, lire 2.   
+  
+Firmato UMBERTO - Contrassegnato Boselli - Visto Calenda.   
+  
+Registrato alla Corte dei Conti addi' 12 febbraio 1896.   
+  
+Reg. 204. Atti del Governo a f. 119.   
+  

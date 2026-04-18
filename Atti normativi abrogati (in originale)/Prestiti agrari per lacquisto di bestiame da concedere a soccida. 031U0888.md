@@ -1,0 +1,36 @@
+LEGGE 18 giugno 1931 n. 888
+
+
+LEGGE 18 giugno 1931 n. 888
+===========================
+
+Prestiti agrari per l'acquisto di bestiame da concedere a soccida. (031U0888)
+-----------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/07/1931
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Le imprese che si propongono di acquistare bestiame da dare a soccida ad agricoltori, per dotazione dei fondi da questi posseduti o condotti, potranno, previo riconoscimento da parte del Ministero dell'agricoltura e delle foreste, nell'interesse agrario della loro iniziativa, essere ammesse a fruire di prestiti agrari d'esercizio per l'acquisto del bestiame predetto, a norma dell'[art. 2, n. 2, del R. decreto-legge 29 luglio 1927, n. 1509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509~art2-num2).   
+I prestiti predetti saranno assistiti dai privilegi di cui agli articoli 8 e 9 del citato [R. decreto-legge 29 luglio 1927, n. 1509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509).   
+Le imprese prestatarie dovranno indicare all'Istituto finanziatore a chi e per quale fondo ciascun capo di bestiame viene dato a soccida; nonche' le eventuali successive variazioni, per le conseguenti annotazioni dello schedario istituito presso ciascun Istituto speciale di credito agrario in forza dell'art. 37 delle norme regolamentari per l'esecuzione del [R. decreto-legge 29 luglio 1927, n. 1509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509), approvate con decreto Ministeriale 23 gennaio 1928 e modificate con decreto Ministeriale 18 giugno 1928.   
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+Data a San Rossore, addi' 18 giugno 1931 - Anno IX   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Acerbo - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  

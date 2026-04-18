@@ -1,0 +1,22 @@
+REGIO DECRETO 10 febbraio 1937 n. 732
+
+
+REGIO DECRETO 10 febbraio 1937 n. 732
+=====================================
+
+Autorizzazione al Patronato scolastico di Orta San Giulio ad accettare un legato. (037U0732)
+--------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/06/1937
+
+Art. 1
+------
+
+N.
+
+732. R. decreto 10 febbraio 1937, col quale, sulla proposta del Ministro per l'edificazione nazionale, il Patronato scolastico di Orta San Giulio viene autorizzato ad accettare il legato di L. 5000, disposto in suo favore dalla defunta signora Carolina Bianchi ved.  
+Mazzola.   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 3 maggio 1937 - Anno XV

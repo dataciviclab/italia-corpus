@@ -1,0 +1,58 @@
+REGIO DECRETO 11 ottobre 1863 n. 1513
+
+
+REGIO DECRETO 11 ottobre 1863 n. 1513
+=====================================
+
+Che fissa l'epoca delle maggiori vacanze per le Scuole secondarie della citta' e provincia di Cagliari. (063U1513)
+------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/11/1863
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il Nostro Decreto del 18 aprile 1861, col quale stabilivasi che per le Scuole secondarie della citta' e provincia di Cagliari fosse vacanza l'intiero mese di maggio e le vacanze autunnali durassero dal 15 settembre al 15 ottobre;
+
+Considerato che meno utili e convenienti agli studi e agli insegnanti tornavano le vacanze nel modo suddetto ripartite;
+
+Visto il parere del Consiglio provinciale sopra le Scuole;
+
+Sopra
+-----
+
+la proposta del Nostro Ministro Segretario di Stato per la pubblica Istruzione; Abbiamo ordinato ed ordiniamo:
+
+Art. 1
+------
+
+  
+  
+Le vacanze maggiori per le Scuole secondarie classiche e tecniche nella citta' e provincia di Cagliari sono fissate dal 1.° maggio al 30 giugno.   
+  
+
+Art. 2
+------
+
+  
+  
+Sono abrogate tutte le disposizioni contrarie al presente Decreto.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 11 ottobre 1863.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 27 ottobre 1863   
+  
+Reg.° 26 Atti del Governo a c. 74. Ayres.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
+  
+M. AMARI.   
+  

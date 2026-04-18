@@ -1,0 +1,60 @@
+REGIO DECRETO 24 febbraio 1941 n. 257
+
+
+REGIO DECRETO 24 febbraio 1941 n. 257
+=====================================
+
+Numero degli ospedali militari, delle infermerie presidiarie, degli 
+stabilimenti balneo-termali e dei magazzini di materiale sanitario. 
+(041U0257)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/05/1941
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Vista la legge 9 maggio 1940-XVIII, n. 368, sull'ordinamento del Regio esercito;
+
+Sulla
+-----
+
+proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il numero degli ospedali militari, delle infermerie presidiarie, degli stabilimenti balneo-termali e dei magazzini di materiale sanitario, previsti dall'art. 22 della legge 9 maggio 1940-XVIII, n. 368, sull'ordinamento del Regio esercito, e' il seguente:   
+  
+ospedali militari . . . . . . . . . 36   
+  
+infermerie presidiarie . . . . . . 11   
+  
+stabilimenti balneo-termali . . . . 2   
+  
+magazzini di materiale sanitario . 8   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 24 febbraio 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto:   
+  
+(ai sensi dei R. decreto 20 febbraio 1941-XIX, n. 76)   
+  
+MUSSOLINI   
+  
+Registrato alla Corte dei conti, addi' 24 aprile 1941-XIX   
+Atti del Governo, registro 432, foglio 55. - MANCINI   

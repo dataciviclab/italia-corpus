@@ -1,0 +1,39 @@
+LEGGE 09 febbraio 1868 n. 4350
+
+
+LEGGE 09 febbraio 1868 n. 4350
+==============================
+
+Colla quale e' autorizzata la spesa di L. 75,000 per riparazioni del cavo telegrafico sottomarino tra la Sicilia e la Sardegna. (068U4350)
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/05/1868
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata sul bilancio del Ministero dei Lavori Pubblici per l'anno 1867 la spesa di lire settantacinquemila (L. 75,000) da inscriversi nella parte straordinaria in apposito capitolo col n. 129 e colla denominazione: Riparazioni del cavo telegrafico sottomarino di proprieta' dello Stato tra la Sicilia e la Sardegna.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato.   
+  
+Dato a Firenze addi' 9 febbraio 1868.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del sigillo. V. Il Guardasigilli De Filippo.   
+  
+L. G. Cambray Digny.   
+  

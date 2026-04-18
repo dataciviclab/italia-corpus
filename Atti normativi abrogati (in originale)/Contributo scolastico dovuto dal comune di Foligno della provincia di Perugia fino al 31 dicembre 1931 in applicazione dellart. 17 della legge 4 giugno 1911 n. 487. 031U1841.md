@@ -1,0 +1,105 @@
+REGIO DECRETO 23 novembre 1931 n. 1841
+
+
+REGIO DECRETO 23 novembre 1931 n. 1841
+======================================
+
+Contributo scolastico dovuto dal comune di Foligno, della provincia di Perugia, fino al 31 dicembre 1931, in applicazione dell'art. 17 della legge 4 giugno 1911, n. 487. (031U1841)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/04/1932
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il [R. decreto 24 settembre 1914, n. 1365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-24;1365), col quale l'amministrazione di parte delle scuole elementari della provincia di Perugia fu assunta dal Consiglio scolastico della Provincia stessa a decorrere dal 1°gennaio 1915;
+
+Veduto che a carico del comune di Foligno, della provincia di Perugia, fu consolidato. in applicazione dell'[art. 17 della legge 4 giugno 1911, n.487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), l'annuo contributo di lire 81.703,59 con [R. decreto 24 settembre 1914, n. 1365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-24;1365), e che necessariamente il contributo stesso fu elevato, a decorrere dal 1° ottobre 1922, a ? con R. decreto 25 marzo
+
+1923, n. 3291, ed a L. 87.?49,50 dal 1° gennaio 1928, per l'aggregazione dell'ex comune di Valtopina disposta con [R. decreto 29 luglio 1927, n. 1455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1455):
+
+Veduto che alcune scuole del comune di Foligno, inscritte al Monte pensioni comunale al momento dell'applicazione della [legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487), sono state in seguito alla cessazione dal servizio degli insegnanti alle scuole stesse preposte, inscritte al Monte pensioni governativo:
+
+Veduto l'ultimo comma, dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17):
+
+Vedute le deliberazioni dei podesta' del comune di Foligno e del Consiglio scolastico regionale dell'Umbria, con le quali il contributo predetto viene elevato:
+
+a L. 82.035,75 dal 1° gennaio 1915,
+
+a L. 82.105,65 dal 6 novembre 1918,
+
+a L. 82.176,15 dal 1° ottobre 1919,
+
+a L. 82.270,35 dal 1° aprile 1921,
+
+a L. 82.361,55 dal 1° maggio 1921,
+
+a L. 82.446,51 dal 1° aprile 1922,
+
+a L. 82.535,31 dal 1° luglio 1922,
+
+a L. 85.718,83 dal 1° ottobre 1922,
+
+a L. 86.265,37 dal 1° ottobre 1923,
+
+a L. 86.353,57 dal 4 gennaio 1924,
+
+a L. 86.435,17 dal 1° novembre 1924,
+
+a L. 86.505,37 dal 1° gennaio 1926,
+
+a L. 86.592,97 dal 30 settembre 1926,
+
+a L. 86.717.17 dal 1° ottobre 1926,
+
+a L. 86.829,61 dal 1° settembre 1927,
+
+a L. 89.175,52 dal 1° gennaio 1928,
+
+a L. 89.344,96 dal 1° settembre 1928;
+
+Visto l'art. 2 del R. decreto 14 settembre 1931, n. ?:
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il contributo scolastico che il comune di Foligno, della provincia di Perugia, deve annualmente versare alla Regia tesoreria dello Stato in applicazione dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), gia' fissato in L. 81.703,59 con il [R. decreto 24 settembre 1914, n. 1365](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1914-09-24;1365), e successivamente aumentato a L. 84.803,59 con [R. decreto 25 marzo 1925, n. 3291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-03-25;3291), e a L. 87.149,50 per l'aggregazione dell'ex comune di Valtopina disposta con [R. decreto 29 luglio 1927, n. 1455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-07-29;1455), e' stabilito come appresso:   
+a L. 82.035,75 dal 1° gennaio 1915 al 5 novembre 1918,   
+a L. 82.105,65 dal 6 novembre 1918 al 30 settembre 1919,   
+a L. 82.176,15 dal 1° ottobre 1919 al 31 marzo 1921,   
+a L. 82.270,35 dal 1° aprile 1921 al 30 aprile 1921,   
+a L. 82.361,55 dal 1° maggio 1921 al 31 marzo 1922,   
+a L. 82.446,51 dal 1° aprile 1922 al 30 giugno 1922,   
+a L. 82.535,31 dal 1° luglio 1922 a1 30 settembre 1922,   
+a L. 85.718,83 dal 1° ottobre 1922 al 30 settembre 1923,   
+a L. 86.265,37 dal 1° ottobre 1923 al 3 gennaio 1924   
+a L. 86.353,57 dal 4 gennaio 1924 al 31 ottobre 1924,   
+a L. 86.435,17 dal 1° novembre 1924 al 31 dicembre 1925,   
+a L. 86.505,37 dal 1° gennaio 1926 al 29 settembre 1926,   
+a L. 86.592,97 dal 30 settembre 1926 al 30 settembre 1926, (per il giorno 30 settembre 1926),   
+a L. 86.747,17 dal 1° ottobre 1926 al 31 agosto 1927,   
+a L. 86.829,64 dal 1° settembre 1927 al 31 dicembre 1927,   
+a L. 89.175,52 dal 1° gennaio 1928 al 31 agosto 1928,   
+a L. 89.344,96 dal 1° settembre 1928 al 31 dicembre 1931.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 23 novembre 1931 - Anno X   
+  
+VITTORIO EMANUELE   
+  
+  
+Giuliano-Mosconi   
+  
+Visto il guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 22 marzo 1932 - Anno X   
+Atti del governo, registro 318, foglio 94. - Mancini.   

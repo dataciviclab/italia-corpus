@@ -1,0 +1,65 @@
+LEGGE 26 marzo 1885 n. 3013
+
+
+LEGGE 26 marzo 1885 n. 3013
+===========================
+
+Che approva i contratti di vendita ivi descritti. (085U3013)
+------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/04/1885
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico. Sono approvati i seguenti contratti di vendita:   
+  
+1. Al comune di Livorno dell'edilizio denominato dei Bottini dell'Olio, nella citta' stessa, via omonima, nonche' del fabbricato al Marzocco, detto Torre del Magno, per il prezzo complessivo di lire 21,553, ed alle condizioni di cui all'istrumento del 10 marzo 1884, a rogiti notar cavaliere Minucci.   
+  
+2. Al comune di Pavia dello stabile demaniale in quella citta', denominato la Caserma di San Carlo, Pel prezzo di lire 15,500, come da contratto del 9 aprile 1884, a rogiti del notar dottor Pavona.   
+  
+3. Al comune di Alghero delle fortificazioni di quella citta' con annessi terreni, pel prezzo di lire 11,278 84, come da strumento del 10 ottobre 1883, a rogiti del notaro dottor Ugo.   
+  
+4. Al comune di Narni in provincia di Perugia, di quell'ex-convento di San Girolamo, con chiesa e terreno annessivi, pel prezzo di lire 10,000, come da contratto stipulato. in forma pubblica amministrativa presso l'Intendenza di finanza in Perugia il 25 gennaio 1878.   
+  
+5. Al comune di Mirano, in provincia di Venezia, dello stabile demaniale ad uso del carcere mandamentale, pel prezzo di lire 7432 38, come da istromento del 15 giugno 1880, a rogiti del notar dottor Pisani.   
+  
+6. Al comune di San Daniele del Friuli, in provincia di Udine, del fabbricato ivi esistente con annessavi casa rustica, ad uso di carcere mandamentale e di alloggio al custode, pel prezzo di lire 5647 50, come da istromento del 17 gennaio 1884, a rogiti del notaro dottor Lanaro.   
+  
+7. Al comune di Alessandria, per conto dell'ospizio di San Giuseppe di quella citta', di un terreno della estensione di metri quadrati 3979, contiguo al fabbricato dell'ospizio, pel prezzo di lire 3183, come da contratto del 15 febbraio 1884, stipulato in forma pubblica amministrativa presso l'Intendenza di finanza di Alessandria.   
+  
+8. Al comune di Sellano, in provincia di Perugia, del fabbricato di quel soppresso convento dei Cappuccini con orto annesso, pel prezzo di lire 2899 80, come da contratto del 28 settembre 1882, a rogiti del notaro Langeli.   
+  
+9. Al comune di Palermo per conto ed interesse dell'Ospizio Marino, del fortino o batteria detta delle Giarraffe, in contrada Arenella, in quella citta', per il prezzo di lire 2836 56, ed alle condizioni portate dall'atto di vendita in data 4 gennaio 1883, rogato in forma pubblica amministrativa presso l'Intendenza di Palermo.   
+  
+10. Ai comuni di Sacile, Polcenico, Budoja, Caneva e Brugnera, in provincia di Udine, dello stabile demaniale ad uso di carcere mandamentale in Sacile, pel prezzo di lire 2100, come da istromento stipulato nel 29 marzo 1884, in forma pubblica amministrativa presso l'Intendenza di finanza di Udine.   
+  
+11. Al comune di Sanseverino Marche, in prov. di Macerata, della parte, rimasta precedentemente invenduta, del fabbricato gia' convento dei Minori Riformati al Monte, in detto comune, per il prezzo di lire 845 84, e sotto le condizioni portate dalla scrittura privata del 22 marzo 1884, autenticata dal notaio Eugenio Ciardoni.   
+  
+12. Al comune di Noli, in provincia di Genova, della parte delle mura di cinta e torrioni della citta', di ragione demaniale, per il prezzo di lire 800, ed alle condizioni risultanti dall'atto in data 19 aprile 1884, a rogito del notaio Tissoni.   
+  
+13. Al comune di Ampezzo, in provincia di Udine, dello stabile demaniale situato nel detto paese, ad uso di carcere mandamentale, pel prezzo di lire 616, come da istromento del 30 novembre 1883, ed altro suppletivo del 12 gennaio 1884, ambedue a rogito del notaro dottor Roncali.   
+  
+14. Al pio Sodalizio sotto il titolo del Monte del Purgatorio in Laterza, provincia di Lecce, del fabbricato gia' convento dei Cappuccini e giardino annesso, posti in quel comune, per il prezzo di lire 6418 20 e per l'uso ed alle condizioni di cui all'atto del 25 maggio 1883, rogato Cassano.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 26 marzo 1885.   
+  
+UMBERTO.   
+  
+A. MAGLIANI.   
+  
+Visto, Il Guardasigilli: PESSINA.   
+  

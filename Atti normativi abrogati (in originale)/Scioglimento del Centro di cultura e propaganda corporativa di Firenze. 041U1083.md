@@ -1,0 +1,21 @@
+REGIO DECRETO 25 luglio 1941 n. 1083
+
+
+REGIO DECRETO 25 luglio 1941 n. 1083
+====================================
+
+Scioglimento del Centro di cultura e propaganda corporativa di Firenze. (041U1083)
+----------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/10/1941
+
+Art. 1
+------
+
+N.
+
+1083. R. decreto 25 luglio 1941, col quale, sulla proposta del Ministro per le corporazioni, viene revocato il riconoscimento giuridico del Centro di cultura e propaganda corporativa di Firenze; viene devoluto alla Scuola sindacale di Firenze il residuo patrimonio del disciolto Centro; viene eretta in ente morale la Scuola sindacale di Firenze e ne e' approvato il relativo statuto.   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 3 ottobre 1941-XIX

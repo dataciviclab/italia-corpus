@@ -1,0 +1,38 @@
+LEGGE 16 dicembre 1972 n. 818
+
+
+LEGGE 16 dicembre 1972 n. 818
+=============================
+
+Norme di assunzione per il personale operaio stagionale presso l'Amministrazione autonoma dei monopoli di Stato.
+----------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+----------------------------------------------------------
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+Le assunzioni di personale per i lavori di carattere stagionale presso l'Amministrazione autonoma dei monopoli di Stato sono disciplinate dall'[articolo 2 della legge 31 marzo 1955, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-03-31;265~art2).   
+L'ultimo comma dell'[articolo 1 del decreto del Presidente della Repubblica 31 marzo 1971, n. 276](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1971-03-31;276~art1), e' soppresso.   
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 16 dicembre 1972
+
+LEONE ANDREOTTI - VALSECCHI
+
+Visto, il Guardasigilli: GONELLA

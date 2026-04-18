@@ -1,0 +1,21 @@
+REGIO DECRETO 25 aprile 1938 n. 1154
+
+
+REGIO DECRETO 25 aprile 1938 n. 1154
+====================================
+
+Revoca di dichiarazione di zona malarica per alcuni Comuni della provincia di Viterbo. (038U1154)
+-------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/08/1938
+
+Art. 1
+------
+
+N.
+
+1154. R. decreto 25 aprile 1938, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene dichiarata revocata la dichiarazione di zona malarica pei Comuni di: Acquapendente, Arlena di Castro, Bagnoregio, Barbarano Romano, Bassano di Sutri, Bomarzo, Capodimonte, Capranica, Caprarola, Carbognano, Castiglione in Teverina, Celleno, Civita Castellana, Civitella d'Agliano, Corchiano, Fabbrica di Roma, Gallese, Gradoli, Graffignano, Lutera, Lubriano, Montefiascone, Monterosi, Nepi, Onano, Oriolo Romano, Orte, Piansano, Proceno, Ronciglione, S. Oreste, Sutri, Tessennano, Veiano, Vitorchiano; e viene ristretta ad alcune zone la dichiarazione di zona malarica pei comuni di: Bieda, Bolsena, Canino, Cellere, Farnese, Grotte di Castro, Ischia di Castro, Marta, Monteromano, S. Lorenzo Nuovo, Tarquinia, Tuscania, Valentano, Vetralla e Viterbo, nella provincia di Viterbo.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 6 luglio 1938 - Anno XVI

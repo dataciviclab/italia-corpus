@@ -1,0 +1,56 @@
+REGIO DECRETO 04 agosto 1921 n. 1313
+
+
+REGIO DECRETO 04 agosto 1921 n. 1313
+====================================
+
+Che rinnova le Giunte provinciali di statistica, di cui all'art. 9 del R. decreto 9 gennaio 1887, n. 4311. (021U1313)
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/10/1921
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il [R. decreto 9 gennaio 1887, n. 4311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1887-01-09;4311), serie III, concernente l'ordinamento del servizio statistico;
+
+Vista la [legge 7 aprile 1921, n. 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-04-07;457) sul VI censimento generale della popolazione;
+
+Sentito il Consiglio superiore di statistica;
+
+Sentito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro segretario di Stato per il lavoro e la previdenza sociale, di concerto col ministro dell'interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le Giunte provinciali di statistica, di cui all'art. 9 del R. decreto sopracitato, sono rinnovate per intero nella sessione ordinaria del corrente anno dei Consigli provinciali.   
+  
+Degli otto membri che compongono ciascuna Giunta, quattro sono nominati dal Consiglio provinciale e quattro dal prefetto, che li sceglie fra le persone competenti, come i professori di statistica e di economia, di ragioneria e di estimo negli Istituti di istruzione superiore o secondaria, il provveditore agli studi od un ispettore scolastico, gli ingegneri del Genio civile, il medico provinciale, i direttori degli Uffici provinciali del lavoro.   
+  
+Le giunte provinciali di statistica, cosi' rinnovate, entrano in carica subito dopo la elezione o nomina dei loro componenti.   
+  
+I membri delle dette Giunte si rinnovano per meta' ogni tre anni, la prima volta par sorteggio, la seconda per anzianita'.   
+  
+La rielezione, o surrogazione, e' fatta dal Consiglio provinciale per i membri elettivi e dal prefetto per gli altri. I membri uscenti possono essere rieletti.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 agosto 1921.   
+  
+VITTORIO EMANUELE.   
+  
+Bonomi - Beneduce.   
+  
+Visto, il guardasigilli: Rodino'.   
+  

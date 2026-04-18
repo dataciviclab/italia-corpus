@@ -1,0 +1,19 @@
+REGIO DECRETO 30 ottobre 1906 n. CCCCXXX
+
+
+REGIO DECRETO 30 ottobre 1906 n. CCCCXXX
+========================================
+
+Modifica di statuto. (0600430R)
+-------------------------------
+
+Entrata in vigore del provvedimento: 29/12/1906
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro di agricoltura, industria e commercio:   
+  
+N. CCCCXXX (Dato a San Rossore, il 30 ottobre 1906), col quale si modifica lo statuto organico della Cassa di risparmio di Piacenza.   
+  

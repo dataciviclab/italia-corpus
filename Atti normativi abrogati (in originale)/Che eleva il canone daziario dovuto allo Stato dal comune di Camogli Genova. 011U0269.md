@@ -1,0 +1,54 @@
+REGIO DECRETO 05 marzo 1911 n. 269
+
+
+REGIO DECRETO 05 marzo 1911 n. 269
+==================================
+
+Che eleva il canone daziario dovuto allo Stato dal comune di Camogli (Genova). (011U0269)
+-----------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/05/1911
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Viste le deliberazioni 10 ottobre 1909 e 16 giugno 1910 con le quali il Consiglio comunale di Camogli stabili' di modificare la cinta daziaria;
+
+Vista la successiva deliberazione 6 agosto 1910, approvata dalla Giunta provinciale amministrativa, con la quale il detto Consiglio comunale dichiaro' di accettare la revisione del canone corrisposto allo Stato, in proporzione dell'aumento di popolazione che con l'attuazione del nuovo tracciato resta inclusa nella cinta;
+
+Visto il [decreto Ministeriale 1° settembre 1910, numero 6161](http://www.normattiva.it/uri-res/N2Ls?urn:nir:ministero.:decreto:1910-09-01;6161), che ha approvato tale provvedimento;
+
+Ritenuto che la deliberata modificazione della cinta e' andata in vigore il 1° gennaio 1911;
+
+Visto il Nostro decreto 1° dicembre 1910, n. 846, che approvo' e rese esecutori i canoni di dazio consumo assegnati ai comuni della provincia di Genova, pel quinquennio 1911-915;
+
+Vista la decisione 17 febbraio 1911 della Commissione centrale, che ha determinato in annue L. 210, l'aumento di canone da corrispondersi dal comune dii Camogli;
+
+Visti gli articoli 87 e 110 lettera D del testo unico di leggo 7 maggio 1908, n. 248 e 397 del relativo [regolamento 17 giugno 1909, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-06-17;455);
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per le finanze; Abbiamo decretato e decretiamo;
+
+Articolo unico
+--------------
+
+  
+  
+Il canone daziario dovuto allo Stato dal comune di Camogli, in provincia di Genova, e' elevato da lire diecimilacentodiciassotte e centesimi trentasei (lire 10,117.36) a lire diecimilatrecentoventisette e centesimi trentasei (lire 10,327.36) con decorrenza dal primo gennaio 1911.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 5 marzo 1911.   
+  
+VITTORIO EMANUELE.   
+  
+Facta.   
+  
+Visto, Il guardasigilli: Fani.   
+  

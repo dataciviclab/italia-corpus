@@ -1,0 +1,40 @@
+REGIO DECRETO 26 novembre 1893 n. 666
+
+
+REGIO DECRETO 26 novembre 1893 n. 666
+=====================================
+
+Che istituisce presso la Legione territoriale dei Carabinieri Reali in Palermo un deposito di allievi Carabinieri. (093U0666)
+-----------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/01/1894
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la legge pel riordinamento dell'Arma dei Carabinieri Reali del 19 luglio 1880 n. 5535 (serie 2ª);   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri, e del Nostro Ministro Segretario di Stato per gli affari della Guerra;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' istituito presso la Legione territoriale dei Carabinieri Reali in Palermo un deposito di allievi Carabinieri, il cui personale, da stabilirsi d'accordo fra i due predetti Ministri, dovra' essere dedotto dalla forza organica della Legione allievi Carabinieri.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 26 novembre 1893.   
+  
+UMBERTO.   
+  
+GIOLITTI.   
+PELLOUX.   
+  
+Visto, Il Guardasigilli: G. ARMO'.   
+  

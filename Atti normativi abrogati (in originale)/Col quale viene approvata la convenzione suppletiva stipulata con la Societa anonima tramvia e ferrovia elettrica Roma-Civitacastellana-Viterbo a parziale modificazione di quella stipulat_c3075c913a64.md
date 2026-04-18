@@ -1,0 +1,45 @@
+REGIO DECRETO 20 aprile 1913 n. 452
+
+
+REGIO DECRETO 20 aprile 1913 n. 452
+===================================
+
+Col quale viene approvata la convenzione suppletiva stipulata con la «Societa' anonima tramvia e ferrovia elettrica Roma-Civitacastellana-Viterbo» a parziale modificazione di quella stipulata il 9 luglio 1908 per la concessione della ferrovia Civitacastellana-Viterbo. (013U0452)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/06/1913
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto 29 agosto 1908, n. 831, con cui venne approvata e resa esecutoria la convenzione stipulata il 9 luglio 1908 con la ditta Emile Renders ed Eugene Ryckaert o con la Societa' anonima tramvia e ferrovia elettrica Roma-Civitacastellana-Viterbo con Sede in Bruxelles, per la concessione della costruzione e dell'esercizio della ferrovia, a scartamento ridotto e a trazione elettrica, Civitacastellana-Viterbo;   
+  
+Viste le istanze presentate dalla Societa' anzidetta in data 8 dicembre 1911 e 8 maggio 1912;   
+  
+Sentito il consiglio superiore dei lavori pubblici e il Consiglio di Stato;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta dei Nostri ministri, segretari di Stato per i lavori pubblici e per il tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione suppletiva stipulata il 25 febbraio 1913 fra i predetti Nostri ministri dei lavori pubblici e del tesoro e il legale rappresentante della Societa' anonima tramvia e ferrovia elettrica Roma-Civitacastellana-Viterbo, a parziale modificazione della convenzione stipulata il 9 luglio 1908 per la concessione della ferrovia Civitacastellana-Viterbo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 aprile 1913.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Sacchi - Tedesco.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   
+  

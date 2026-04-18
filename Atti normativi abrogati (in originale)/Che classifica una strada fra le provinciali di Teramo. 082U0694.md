@@ -1,0 +1,47 @@
+REGIO DECRETO 26 febbraio 1882 n. 694
+
+
+REGIO DECRETO 26 febbraio 1882 n. 694
+=====================================
+
+Che classifica una strada fra le provinciali di Teramo. (082U0694)
+------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/05/1882
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione presa dal Consiglio provinciale di Teramo in seduta degli 8 settembre 1880, per la classificazione fra le provinciali della strada ora comunale, che, diramandosi presso Montorio dalla nazionale per Aquila, e toccando Tossicia, Isola e Castelli, mette capo alla provinciale di 2ª serie Basciano-Bisenti-Bacucco-Penne, presso il Pilone;   
+  
+Visti gli atti della seguita pubblicazione della deliberazione suddetta, dai quali rilevasi che nessuna opposizione venne presentata dai comuni interessati;   
+  
+Visto il voto del Consiglio superiore dei lavori pubblici 28 gennaio 1881;   
+  
+Considerando:   
+  
+Che la detta strada attraversa il territorio di sei comuni, e percorrendo una larga zona della provincia forma quasi una mediana subalpina, toccando luoghi industri e popolosi, ed animando gli scambi dai monti alla marina, per cui possiede i caratteri stabiliti dall'art. 13 della legge sui lavori pubblici per essere classificata tra le provinciali;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici,   
+  
+Abbiamo decretato e' decretiamo:   
+  
+E' approvata la classificazione tra le strade provinciali di Teramo di quella ora comunale, che, diramandosi dalla nazionale Teramo-Aquila presso Montorio per Tossicia-Isola e Castelli, mette capo alla provinciale di 2ª serie Basciano-Bisenti-Bacucco-Penne, presso il Pilone.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 26 febbraio 1882.   
+  
+UMBERTO.   
+  
+A. BACCARINI.   
+  
+Visto, il Guardasigilli: G. ZANARDELLI.   
+  

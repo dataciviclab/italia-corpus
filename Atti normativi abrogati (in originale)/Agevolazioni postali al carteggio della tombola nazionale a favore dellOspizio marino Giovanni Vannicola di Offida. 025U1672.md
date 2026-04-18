@@ -1,0 +1,52 @@
+REGIO DECRETO 04 settembre 1925 n. 1672
+
+
+REGIO DECRETO 04 settembre 1925 n. 1672
+=======================================
+
+Agevolazioni postali al carteggio della tombola nazionale a favore dell'Ospizio marino Giovanni Vannicola di Offida. (025U1672)
+-------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/10/1925
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il [R. decreto 2 dicembre 1923, n. 2971](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2971);
+
+Vista la domanda con la quale in data 8 giugno 1925, la Congregazione di carita' di Offida chiede che vengano accordate le agevolazioni di cui all'art. 2 del precitato decreto alla tombola nazionale indetta a favore dell'Ospizio marino Giovanni Vannicola;
+
+Considerato lo scopo cui tende la tombola suddetta;
+
+Inteso il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le agevolazioni di cui all' [art. 2 del R. decreto 2 dicembre 1923, n. 2971](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-02;2971~art2), con le restrizioni e le modalita' di cui agli articoli 3 e seguenti del decreto stesso, sono interamente accordate alla tombola nazionale pro Ospizio marino Giovanni Vannicola di Offida.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 4 settembre 1925.   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Ciano - Volpi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi', 1° ottobre 1925.   
+  
+Atti del Governo, registro 241, foglio 2. - Granata.   
+  

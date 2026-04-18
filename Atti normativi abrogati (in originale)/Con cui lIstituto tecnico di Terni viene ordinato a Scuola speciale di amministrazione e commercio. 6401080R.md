@@ -1,0 +1,44 @@
+REGIO DECRETO 07 febbraio 1864 n. MLXXX
+
+
+REGIO DECRETO 07 febbraio 1864 n. MLXXX
+=======================================
+
+Con cui l'Istituto tecnico di Terni viene ordinato a Scuola speciale di amministrazione e commercio. (6401080R)
+---------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/03/1864
+
+Articolo unico
+--------------
+
+  
+  
+L'Istituto tecnico fondato nella citta' di Terni per Decreto 10 novembre 1860 del Commissario Generale nelle Provincie dell'Umbria, e' ordinato a Scuola speciale di amministrazione e commercio cogl'insegnamenti seguenti:   
+  
+Economia pubblica, e diritto commerciale ed amministrativo;   
+  
+Computisteria e materie prime;   
+  
+Calligrafia e disegno;   
+  
+Lingua francese ed inglese;   
+  
+Lettere italiane, geografia e storia.   
+  
+Gli stipendi dei Professori sono determinati dal Bilancio.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 7 febbraio 1864.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 17 febbraio 1864   
+  
+Reg.° 28 Atti del Governo a c. 71. Ayres.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
+  
+Manna.   
+  

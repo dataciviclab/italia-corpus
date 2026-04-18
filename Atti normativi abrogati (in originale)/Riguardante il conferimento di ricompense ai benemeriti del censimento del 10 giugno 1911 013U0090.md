@@ -1,0 +1,49 @@
+REGIO DECRETO 02 febbraio 1913 n. 90
+
+
+REGIO DECRETO 02 febbraio 1913 n. 90
+====================================
+
+Riguardante il conferimento di ricompense ai benemeriti del censimento del 10 giugno 1911 (013U0090)
+----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/03/1913
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduta la [legge 8 maggio 1910, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-05-08;212), sul V° censimento generale della popolazione del Regno e sul I° censimento degli opifici e delle imprese industriali;
+
+Veduto il regolamento per l'esecuzione dei due censimenti, approvato con [R. decreto 6 novembre 1910 n. 776](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-11-06;776);
+
+Desiderando di attestare il Nostro sovrano compiacimento a quanti cooperarono per la migliore riuscita delle due grandi rilevazioni statistiche;
+
+Sulla
+-----
+
+proposta del Nostro ministro per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Saranno conferiti diplomi di onore e diplomi di benemerenza, in numero non superiore rispettivamente a 300 e 2000, alle persone che si segnalarono in modo speciale nella preparazione e nell'esecuzione del V censimento della popolazione e del I° censimento degli opifici e delle imprese industriali.   
+  
+I prefetti, quali presidenti delle Giunte provinciali di statistica, sono incaricati di designare coloro che ritengono meritevoli di queste onorificenze.   
+  
+L'assegnazione dei diplomi sara' fatta dal Nostro ministro per l'agricoltura, l'industria e il commercio con decreto che sara' pubblicato nella Gazzetta ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 febbraio 1913.   
+  
+VITTORIO EMANUELE.   
+  
+Nitti.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   

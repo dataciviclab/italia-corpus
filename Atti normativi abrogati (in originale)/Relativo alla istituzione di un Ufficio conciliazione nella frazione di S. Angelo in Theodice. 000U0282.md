@@ -1,0 +1,46 @@
+REGIO DECRETO 15 luglio 1900 n. 282
+
+
+REGIO DECRETO 15 luglio 1900 n. 282
+===================================
+
+Relativo alla istituzione di un Ufficio conciliazione nella frazione di S. Angelo in Theodice. (000U0282)
+---------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/08/1900
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la deliberazione del Consiglio comunale di Cassino, in data 28 ottobre 1899, con la quale si chiede l'istituzione di un distinto Ufficio di conciliazione nella frazione di S. Angelo in Theodice;
+
+Visto il rapporto del Primo Presidente della Corte d'Appello di Napoli, in data 7 giugno corrente anno;
+
+Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del Regolamento 26 dicembre stesso anno, n. 728;
+
+Sulla
+-----
+
+proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Dal 1° settembre 1900, in S. Angelo in Theodice, frazione del Comune di Cassino, e' istituito un Ufficio di conciliazione con giurisdizione sul territorio della frazione stessa.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 15 luglio 1900.   
+  
+UMBERTO.   
+  
+Gianturco.   
+  
+Visto, Il Guardasigilli: Gianturco.   
+  

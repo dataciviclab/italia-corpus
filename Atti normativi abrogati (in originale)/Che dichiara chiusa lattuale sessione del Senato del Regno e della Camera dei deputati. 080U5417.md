@@ -1,0 +1,49 @@
+REGIO DECRETO 02 maggio 1880 n. 5417
+
+
+REGIO DECRETO 02 maggio 1880 n. 5417
+====================================
+
+Che dichiara chiusa l'attuale sessione del Senato del Regno e della Camera dei deputati. (080U5417)
+---------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/05/1880
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto l'articolo 9 dello Statuto fondamentale del Regno;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno,
+
+Sentito
+-------
+
+il Consiglio dei Ministri, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+L'attuale Sessione del Senato del Regno e della Camera dei deputati e' chiusa.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 maggio 1880.   
+  
+UMBERTO.   
+  
+Depretis.   
+  
+Visto - Il Guardasigilli   
+T. Villa.   
+  
+---------------   
+Nota redazionale   
+Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in SO n. 106, relativo alla G.U. 03/05/1880, n. 106 durante il periodo di "vacatio legis".   
+E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.   

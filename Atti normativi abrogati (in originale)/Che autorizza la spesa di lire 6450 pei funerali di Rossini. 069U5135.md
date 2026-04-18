@@ -1,0 +1,40 @@
+LEGGE 21 giugno 1869 n. 5135
+
+
+LEGGE 21 giugno 1869 n. 5135
+============================
+
+Che autorizza la spesa di lire 6,450 pei funerali di Rossini. (069U5135)
+------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/07/1869
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata la spesa di lire seimila quattrocentocinquanta (6,450) pei funerali di Rossini, da inscriversi nella parte straordinaria del bilancio passivo 1868 del Ministero dell'Istruzione Pubblica, in apposito capitolo col n. 64 e colla denominazione:  
+Funerali di Rossini.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come Legge dello Stato.   
+  
+Dato a Firenze addi' 21 giugno 1869.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del sigillo. V. Il Guardasigilli Pironti   
+  
+L. G. Cambray Digny.   
+  

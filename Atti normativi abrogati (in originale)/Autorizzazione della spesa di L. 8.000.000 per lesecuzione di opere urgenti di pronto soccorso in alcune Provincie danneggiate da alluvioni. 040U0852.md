@@ -1,0 +1,43 @@
+LEGGE 21 giugno 1940 n. 852
+
+
+LEGGE 21 giugno 1940 n. 852
+===========================
+
+Autorizzazione della spesa di L. 8.000.000 per l'esecuzione di opere urgenti di pronto soccorso in alcune Provincie danneggiate da alluvioni. (040U0852)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/08/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata la spesa di L. 8.000.000 in aggiunta a quella di cui all'art. 3, ultimo comma, della legge 16 giugno 1939-XVII, n. 847, per l'esecuzione di opere urgenti di pronto soccorso in alcune Provincie danneggiate da alluvioni.   
+  
+Il Ministro per le finanze provvedera', con proprio decreto, alla iscrizione della predetta somma nello stato di previsione della spesa del Ministero dei lavori pubblici per l'esercizio corrente.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Dalla Zona di operazioni, addi' 21 giugno 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Serena - Di Revel   
+  
+Visto, il Guardasigilli: Grandi   
+  
+  

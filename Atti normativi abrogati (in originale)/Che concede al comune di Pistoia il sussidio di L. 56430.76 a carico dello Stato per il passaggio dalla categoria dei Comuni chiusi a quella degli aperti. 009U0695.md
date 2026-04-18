@@ -1,0 +1,44 @@
+REGIO DECRETO 01 ottobre 1909 n. 695
+
+
+REGIO DECRETO 01 ottobre 1909 n. 695
+====================================
+
+Che concede al comune di Pistoia il sussidio di L. 56,430.76 a carico dello Stato per il passaggio dalla categoria dei Comuni chiusi a quella degli aperti. (009U0695)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/11/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visti gli articoli 95 e 101 del testo unico di legge sui dazi interni di consumo del 7 maggio 1908, n. 248;   
+  
+Visto l'[art. 384 del regolamento 17 giugno 1909, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1909-06-17;455~art384);   
+  
+Veduta la deliberazione in data 2 luglio corrente anno, della Commissione centrale nominata con Nostro decreto 10 aprile 1902, n. 134;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' assegnato al comune di Pistoia (provincia di Firenze) il sussidio a carico dello Stato, di annue lire cinquantaseimilaquattrocentotrenta e centesimi settantasei (L.  
+56,430.76) dal 22 agosto 1909, in poi, per il passaggio dalla categoria dei Comuni chiusi a quella degli aperti.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 1° ottobre 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Lacava.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

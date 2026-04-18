@@ -1,0 +1,21 @@
+REGIO DECRETO 12 novembre 1899 n. CCCXL
+
+
+REGIO DECRETO 12 novembre 1899 n. CCCXL
+=======================================
+
+Che aggrega all'agenzia dell'imposte dirette e del catasto di Mortara i comuni di Candia Lomellina, Castelnovetto, Cozzo, Langosco, Rosasco e Terrasa. (9900340R)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/12/1899
+
+Art. 1
+------
+
+  
+Con cui i comuni Candia Lomellina, Castelnovetto, Cozzo, Langosco, Rosasco e Terrasa componenti il mandamento amministrativo di Candia Lomellina, in provincia di Pavia, sono distaccati dal distretto dell'agenzia delle imposte dirette e del catasto di Mede ed aggregati a quello dell'agenzia di Mortara con effetto dal 1° gennaio 1900. - Firmato UMBERTO - Controfirmato Carmine - Visto A. Bonasi.   
+  
+Registrato alla Corte dei Conti addi' 24 novembre 1899.   
+  
+Reg. 221. Atti del Governo a f. 60.   
+  

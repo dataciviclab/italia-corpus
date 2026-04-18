@@ -1,0 +1,45 @@
+REGIO DECRETO 02 luglio 1922 n. 1187
+
+
+REGIO DECRETO 02 luglio 1922 n. 1187
+====================================
+
+Che reca disposizioni modificative del regolamento per il corpo degli agenti di custodia delle carceri. (022U1187)
+------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/09/1922
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il regolamento per il corpo degli agenti di custodia delle carceri, approvato con [R. decreto 23 dicembre 1920, n. 1921](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-12-23;1921);   
+  
+Sentito il Consiglio di Stato in adunanza generale;   
+  
+Sentito il Consiglio dei ministri;   
+  
+Sulla proposta del ministro, segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri, di concerto col ministro del tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il fondo di massa generale degli agenti di custodia a disposizione del Ministero dell'interno puo' essere erogato per concedere prestiti agli agenti medesimi, con le modalita' stabilite dagli articoli 239 e 245 del regolamento stesso.   
+  
+In casi specialissimi e giustificati da eccezionali bisogni, tali prestiti possono consentirsi nella misura massima di L. 1000, sempreche' i richiedenti siano in credito di massa ed abbiano in deposito nella Cassa postale di risparmio ed investito in rendita dello Stato con vincolo in favore dell'Amministrazione carceraria un equivalente importo di premi di rafferma.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 luglio 1922.   
+  
+VITTORIO EMANUELE.   
+  
+FACTA - PEANO.   
+  
+Visto, il guardasigilli: LUIGI ROSSI.   
+  

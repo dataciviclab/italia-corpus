@@ -1,0 +1,43 @@
+REGIO DECRETO 28 ottobre 1910 n. 789
+
+
+REGIO DECRETO 28 ottobre 1910 n. 789
+====================================
+
+Che aggiunge altri cinque posti di ruolo a quelli istituiti per l'ufficio di segretario nelle scuole normali governative. (010U0789)
+------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/12/1910
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto l'[art. 19 della legge 8 aprile 1906, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142~art19);   
+  
+Visti i Nostri decreti 30 maggio 1909, 26 dicembre 1909, 14 aprile 1910, coi quali furono istituiti i posti di ruolo per i segretari delle scuole normali governative;   
+  
+Viste le statistiche della popolazione scolastica nelle dette scuole durante il triennio 1907-910;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Ai posti di ruolo per l'ufficio di segretario nelle scuole normali governative, istituiti coi decreti organici del 30 maggio 1909, 26 dicembre 1909, 14 aprile 1910, sono dal 1° ottobre aggiunti altri cinque posti di ruolo, e sono assegnati alle RR. scuole normali di Arezzo, Chieti, Livorno, Piacenza, Piazza Armerina.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 28 ottobre 1910.   
+  
+VITTORIO EMANUELE.   
+  
+Credaro.   
+  
+Visto, Il guardasigilli: Fani.   
+  

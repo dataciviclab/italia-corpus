@@ -1,0 +1,43 @@
+REGIO DECRETO 18 dicembre 1902 n. 568
+
+
+REGIO DECRETO 18 dicembre 1902 n. 568
+=====================================
+
+Corso in franchigia postale per gli avvisi di pagamento spediti da determinati funzionari. (002U0568)
+-----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/02/1903
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visti gli articoli 140, 143 e 145 del Regolamento approvato con [R. decreto 10 febbraio 1901, n. 120](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-02-10;120);   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le Poste ed i Telegrafi, di concerto coi Ministri delle Finanze e del Tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Gli avvisi di pagamento spediti aperti con regolare contrassegno, mediante speciali stampati riempiti a mano dai ricevitori del registro, dai conservatori delle ipoteche, dalle Delegazioni del Tesoro e dalle Intendenze di Finanza, all'indirizzo di debitori o creditori verso lo Stato, hanno corso in esenzione delle tasse postali e con indirizzo nominativo.   
+  
+Il presente decreto avra' effetto immediato.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 18 dicembre 1902.   
+  
+VITTORIO EMANUELE.   
+  
+T. GALIMBERTI.   
+DI BROGLIO.   
+CARCANO.   
+  
+Visto, Il Guardasigilli: COCCO-ORTU.   
+  

@@ -1,0 +1,59 @@
+REGIO DECRETO 25 aprile 1929 n. 722
+
+
+REGIO DECRETO 25 aprile 1929 n. 722
+===================================
+
+Adozione e scelta dei libri di testo nelle scuole elementari per l'anno scolastico 1929-30. (029U0722)
+------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/05/1929
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il testo unico delle leggi e delle norme giuridiche sulla istruzione elementare, post-elementare, e sulle sue opere d'integrazione, approvato con [R. decreto 5 febbraio 1928, n. 577](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-02-05;577);
+
+Veduta la [legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100);
+
+Veduto il [R. decreto 18 marzo 1928, n. 780](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-03-18;780);
+
+Veduto il [R. decreto 11 ottobre 1928, n. 2405](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-10-11;2405);
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+Per l'anno scolastico 1929-30, i maestri provvederanno alla scelta dei libri di lettura o confermando quelli in adozione nell'anno scolastico 1928-29 o scegliendo tra quelli approvati nell'anno
+
+1928. 
+  
+  
+In nessun caso potranno essere adottati quei libri di lettura che, sottoposti a revisione nell'anno 1928, non ottennero l'approvazione.   
+  
+Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 aprile 1929 - Anno VII   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Belluzzo - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti addi' 14 maggio 1929 - Anno VII   
+Atti del Governo, registro 284, foglio 108. - Mancini.

@@ -1,0 +1,22 @@
+REGIO DECRETO 01 dicembre 1904 n. DV
+
+
+REGIO DECRETO 01 dicembre 1904 n. DV
+====================================
+
+Col quale e' approvato il regolamento per l'applicazione della tassa di famiglia nei comuni della provincia di Ravenna, deliberato da quella giunta provinciale amministrativa nelle adunanze in data 15 e 22 luglio e 18 agosto 1902, 2 luglio e 12 novembre 1903 e 9 giugno 1904, con la modificazione introdottavi nell'adunanza del 20 ottobre 1904, in sostituzione del regolomento approvato con reale decreto 21 luglio 1904, n. CCCX. (0400505R)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/01/1905
+
+Art. 1
+------
+
+  
+Col quale e' approvato il regolamento per l'applicazione della tassa di famiglia nei comuni della provincia di Ravenna, deliberato da quella giunta provinciale amministrativa nelle adunanze in data 15 e 22 luglio e 18 agosto 1902, 2 luglio e 12 novembre 1903 e 9 giugno 1904, con la modificazione introdottavi nell'adunanza del 20 ottobre 1904, in sostituzione del regolomento approvato con reale decreto 21 luglio 1904, n. CCCX. - Firmato VITTORIO EMANUELE - Controfirmato A.  
+Majorana - Visto Ronchetti.   
+  
+Registrato alla Corte dei conti addi' 16 dicembre 1904.   
+  
+Reg. 20. Atti del Governo a f. 50.   
+  

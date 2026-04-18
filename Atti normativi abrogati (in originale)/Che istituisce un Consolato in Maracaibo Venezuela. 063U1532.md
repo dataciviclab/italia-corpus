@@ -1,0 +1,48 @@
+REGIO DECRETO 05 novembre 1863 n. 1532
+
+
+REGIO DECRETO 05 novembre 1863 n. 1532
+======================================
+
+Che istituisce un Consolato in Maracaibo (Venezuela). (063U1532)
+----------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/12/1863
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'articolo 3 della legge consolare 15 agosto 1858;
+
+Visto l'articolo 1 del regolamento per l'esecuzione di detta legge, ed il R. Decreto 2 aprile 1862;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' istituito un Nostro Consolato in Maracaibo (Venezuela) la cui giurisdizione si estendera' nelle Provincie di Maracaibo-Trujillo, Merida e Tachira che sono percio' distaccate dalla giurisdizione del Nostro Consolato in Caracas.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato in Torino addi' 5 novembre 1863.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 14 novembre 1863   
+  
+Reg.° 26 Atti del Governo a c. 152. Ayres.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli.   
+  
+Visconti Venosta.   
+  

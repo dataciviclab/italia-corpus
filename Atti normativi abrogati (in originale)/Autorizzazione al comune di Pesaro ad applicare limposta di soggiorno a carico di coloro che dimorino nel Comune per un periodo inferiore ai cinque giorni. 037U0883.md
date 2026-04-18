@@ -1,0 +1,47 @@
+REGIO DECRETO 04 marzo 1937 n. 883
+
+
+REGIO DECRETO 04 marzo 1937 n. 883
+==================================
+
+Autorizzazione al comune di Pesaro ad applicare l'imposta di soggiorno a carico di coloro che dimorino nel Comune per un periodo inferiore ai cinque giorni. (037U0883)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/07/1937
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduta la domanda in data 15 dicembre 1936-XV, con la quale il podesta' di Pesaro, in esecuzione della propria deliberazione:1° agosto stesso anno, accogliendo analogo voto formulato dal Comitato locale per l'amministrazione dell'Azienda autonoma della stazione di soggiorno in adunanza 23 luglio precedente, chiede l'autorizzazione ad applicare, in aggiunta all'imposta di cura, l'imposta di soggiorno a citrico di coloro che dimorino nel Comune per un periodo inferiore ai cinque giorni, nella misura del dieci per cento sul mezzo di locazione delle camere o di altro alloggio occupato in alberghi, pensioni, stabilimenti e luoghi di cura;   
+  
+Considerato che l'applicazione del tributo si addimostra necessaria per fronteggiare spese di carattere inderogabile, attinenti all'incremento ed allo sviluppo della stazione di soggiorno di Pesaro, il cui riconoscimento venne riconfermato con decreto interministeriale 30 novembre 1934-XIII;   
+  
+Veduto il parere favorevole espresso da quella Giunta provinciale amministrativa in seduta 25 novembre 1936-XV;   
+  
+Veduti gli articoli 169, 170, 171 e 173 del testo unico per la finanza locale, approvato con Nostro decreto 14 settembre 1934-IX, n. 1175;   
+  
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno, di concerto col Ministro per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il comune di Pesaro e' autorizzato ad applicare, in aggiunta all'imposta di cura, l'imposta di soggiorno a carico di coloro che dimorino nel Comune per un periodo inferiore ai cinque giorni, nella misura del dieci per cento sul prezzo di locazione delle camere o di altro alloggio occupato in alberghi, pensioni, stabilimenti e luoghi di cura.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e del decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 marzo 1937 - Anno XV.   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel   
+  
+Registrato alla Corte dei conti, addi' 21 giugno 1937 - Anno XV.   
+  
+Atti del Governo, registro 386, foglio 98. - Mancini.   

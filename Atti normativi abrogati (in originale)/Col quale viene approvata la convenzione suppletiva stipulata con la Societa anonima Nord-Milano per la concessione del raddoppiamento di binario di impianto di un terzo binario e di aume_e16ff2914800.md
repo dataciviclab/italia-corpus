@@ -1,0 +1,49 @@
+REGIO DECRETO 29 agosto 1913 n. 1349
+
+
+REGIO DECRETO 29 agosto 1913 n. 1349
+====================================
+
+Col quale viene approvata la convenzione suppletiva stipulata con la «Societa' anonima Nord-Milano» per la concessione del raddoppiamento di binario, di impianto di un terzo binario e di aumento di dotazione del materiale rotabile (013U1349)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/01/1914
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge 15 giugno 1877, n. 3881](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1877-06-15;3881) (Serie 2ª) con la quale venne approvata la convenzione stipulata il 18 maggio 1877 fra i ministri dei lavori pubblici e delle finanze e il signor Alberto Vaucamps per la concessione della costruzione e dell'esercizio di una ferrovia a scartamento normale e a trazione a vapore da Milano a Incino Erba, avente un tronco comune a doppio binario con la linea per Saronno nella tratta da Milano alla fermata della Bovisa ed un tronco di collegamento fra la stazione di Seveso a quella di Camnago della ferrovia Como-Monza;   
+  
+Ritenuto che nella detta concessione subentro' la Societa' anonima delle ferrovie Milano-Saronno e Milano-Erba, costituita a Milano con atto pubblico 12 dicembre 1877, autorizzata con decreto Reale 7 marzo 1878, la quale dal 16 luglio 1883 assunse il nome di «Societa' anonima delle ferrovie Nord-Milano»;   
+  
+Vista l'istanza 22 aprile 1909, con cui la detta Societa', per soddisfare alle cresciute esigenze del traffico, ha proposto il raddoppiamento del binario del tronco Bovisa-San Pietro Martire, l'impianto di un terzo binario fra le stazioni di Bovisa ed Affori e l'aumento di dotazione del materiale rotabile;   
+  
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447;   
+  
+Sentito il Consiglio superiore dei lavori pubblici e il Consiglio di Stato;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta dei Nostri ministri, segretari di Stato pei lavori pubblici e per il tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione suppletiva stipulata il 30 luglio 1913 fra i ministri dei lavori pubblici e del tesoro, per conto dello Stato, ed il legale rappresentante della «Societa' anonima Nord-Milano» per la concessione del raddoppio del binario del tronco Bovisa-San Pietro Martire, dell'impianto di un terzo binario fra le stazioni di Bovisa ed Affori e dell'aumento di dotazione del materiale rotabile della ferrovia Milano-Incino-Erba.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Sant'Anna di Valdieri, addi' 29 agosto 1913.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Sacchi - Tedesco.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   
+  

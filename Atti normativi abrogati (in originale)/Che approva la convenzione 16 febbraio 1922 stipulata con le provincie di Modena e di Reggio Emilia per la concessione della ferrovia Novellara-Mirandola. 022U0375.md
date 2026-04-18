@@ -1,0 +1,45 @@
+REGIO DECRETO 19 febbraio 1922 n. 375
+
+
+REGIO DECRETO 19 febbraio 1922 n. 375
+=====================================
+
+Che approva la convenzione 16 febbraio 1922 stipulata con le provincie di Modena e di Reggio Emilia per la concessione della ferrovia Novellara-Mirandola. (022U0375)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/04/1922
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447;   
+  
+Veduti i [decreti-legge 23 febbraio 1919, n. 303, 8 luglio 1919, n. 1327, 23 gennaio 1921, n. 56 e 31 agosto 1921, n. 1222](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1921-08-31;1222);   
+  
+Sentito il parere della Commissione istituita a sensi dell'art. 7 del decreto-legge 23 febbraio 1919 su citato;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta dei Nostri ministri segretari di Stato per i lavori pubblici e per il tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione stipulata il 16 febbraio 1922 fra il ministro dei lavori pubblici ed il delegato del ministro del tesoro, in rappresentanza dello Stato, ed i delegati delle Amministrazioni provinciali di Modena e di Reggio Emilia, in rappresentanza delle provincie di Modena e di Reggio Emilia per la concessione della ferrovia a trazione a vapore ed a sezione normale da Novellara a Mirandola.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 19 febbraio 1922.   
+  
+VITTORIO EMANUELE.   
+  
+BOMOMI - MICHELI - DE NAVA.   
+  
+Visto, il guardasigilli: LUIGI ROSSI.   
+  

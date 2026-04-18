@@ -1,0 +1,44 @@
+LEGGE 19 giugno 1913 n. 800
+
+
+LEGGE 19 giugno 1913 n. 800
+===========================
+
+Concernente il riordinamento dell'Istituto orientale di Napoli. (013U0800)
+--------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/07/1913
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il R. Istituto orientale di Napoli passa dalla dipendenza del ministro della pubblica istruzione a quella del ministro delle colonie.   
+  
+All'esecuzione dell'[art. 6 della legge 27 dicembre 1888, n. 5873](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-12-27;5873~art6) (serie 3ª), la quale viene in ogni altra parte abrogata, nonche' al riordinamento didattico e amministrativo dell'Istituto sara' provveduto con decreti Reali, su proposta del ministro delle colonie, di concerto coi ministri degli affari esteri, del tesoro, della pubblica istruzione e dell'agricoltura, industria e commercio.   
+  
+Il bilancio dell'Istituto sara' allegato allo stato di previsione della spesa del Ministero delle colonie a cominciare dal primo stato di previsione che sara' sottoposto all'approvazione del Parlamento.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 19 giugno 1913.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Di San Giuliano - Bertolini -   
+Tedesco - Credaro - Nitti.   
+  
+Visto, Il guardasigilli: Finocchiaro-Aprile.   
+  

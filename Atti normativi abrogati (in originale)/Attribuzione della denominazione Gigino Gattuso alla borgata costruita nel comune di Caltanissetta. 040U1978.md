@@ -1,0 +1,47 @@
+REGIO DECRETO 09 dicembre 1940 n. 1978
+
+
+REGIO DECRETO 09 dicembre 1940 n. 1978
+======================================
+
+Attribuzione della denominazione «Gigino Gattuso» alla borgata costruita nel comune di Caltanissetta. (040U1978)
+----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/03/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Ritenuta l'opportunita' di attribuire alla borgata costruita, in attuazione della legge 2 gennaio 1940-XVIII, n. 1, sulla colonizzazione del latifondo siciliano, in territorio del comune di Caltanissetta, una denominazione intesa a perpetuare la memoria del fascista Gigino Gattuso, caduto per la Rivoluzione;   
+  
+Veduti i pareri espressi dal podesta' di Caltanissetta, con deliberazione in data 26 ottobre 1940-XVIII e dal preside della provincia di Caltanissetta con la deliberazione adottata in via d'urgenza il 9 novembre 1940-XIX, e ratificata dal Rettorato in seduta 7 dicembre 1940-XIX;   
+  
+Veduto l'art. 266 del testo unico della legge comunale e provinciale, approvato con Nostro decreto 3 marzo 1934-XII, n. 383;   
+  
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+La borgata costruita, in attuazione della legge 2 gennaio 1940-XVIII, n. 1, nel comune di Caltanissetta, assumera' la denominazione « Gigino Gattuso ».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta «ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 9 dicembre 1940-XIX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 10 febbraio 1941-XIX   
+  
+Atti del Governo, registro 430, foglio 47. - Mancini   

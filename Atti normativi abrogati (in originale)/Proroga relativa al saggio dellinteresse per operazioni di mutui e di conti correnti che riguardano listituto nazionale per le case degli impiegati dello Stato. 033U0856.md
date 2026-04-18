@@ -1,0 +1,43 @@
+REGIO DECRETO 15 giugno 1933 n. 856
+
+
+REGIO DECRETO 15 giugno 1933 n. 856
+===================================
+
+Proroga relativa al saggio dell'interesse per operazioni di mutui e di conti correnti che riguardano l'istituto nazionale per le case degli impiegati dello Stato. (033U0856)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/08/1933
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduti i Nostri decreti 25 febbraio 1932, nn. 167 e 210, con i quali furono prorogate fino al 31 dicembre 1932-XI rispettivamente le disposizioni dei Nostri decreti 17 ottobre 1930, n. 1453, e 18 settembre 1930, n. 1387, relative al saggio dell'interesse per operazioni di inutili e di conti correnti che riguardano l'Istituto nazionale per le case degli impiegati di Stato;   
+  
+Ritenuta la opportunita' di ulteriormente prorogare le disposizioni suddette;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze, di concerto con i Ministri per la guerra, per l'agricoltura e le foreste, e per le corporazioni:   
+  
+Abbiamo decretato o decretiamo:   
+  
+Le disposizioni dei Nostri decreti 18 settembre 1930, numero 1387, e 17 ottobre 1930, n. 1453, sono prorogate fino al 31 dicembre 1933-XII.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 15 giugno 1933 - Anno XI   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Jung - Gazzera - Acerbo   
+  
+Visto, il Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 21 luglio 1933 - Anno XI   
+  
+Atti del Governo registro 334, foglio 93 - Mancini.   

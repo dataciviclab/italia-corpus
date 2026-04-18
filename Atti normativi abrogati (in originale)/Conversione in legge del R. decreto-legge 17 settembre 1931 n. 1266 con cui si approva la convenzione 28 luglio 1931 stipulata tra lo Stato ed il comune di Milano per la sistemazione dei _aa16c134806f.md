@@ -1,0 +1,39 @@
+LEGGE 21 dicembre 1931 n. 1766
+
+
+LEGGE 21 dicembre 1931 n. 1766
+==============================
+
+Conversione in legge del R. decreto-legge 17 settembre 1931, n. 1266, con cui si approva la convenzione 28 luglio 1931 stipulata tra lo Stato ed il comune di Milano per la sistemazione dei servizi statali in quella citta'. (031U1766)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/02/1932
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+  
+RE D' ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il [R. decreto-legge 17 settembre 1931, n. 1266](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-09-17;1266), che approva la convenzione 28 luglio 1931 stipulata tra lo Stato ed il comune di Milano per la sistemazione dei servizi statali in quella citta'.   
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+Data a Roma, addi' 21 dicembre 1931 - Anno X   
+  
+VITTORIO EMANUELE   
+  
+  
+Mussolini - Mosconi - Giuliano - Gazzera - Di Crollalanza - Rocco.   
+  
+Visto, il Guardasigilli: Rocco.   
+  

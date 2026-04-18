@@ -1,0 +1,21 @@
+REGIO DECRETO 17 maggio 1943 n. 639
+
+
+REGIO DECRETO 17 maggio 1943 n. 639
+===================================
+
+Autorizzazione alla Regia universita' di Bologna ad accettare una donazione. (043U0639)
+---------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/08/1943
+
+Art. 1
+------
+
+N.
+
+630. R. decreto 17 maggio 1013, col quale, sulla proposta del Ministro per l'educazione nazionale, la Regia universita' di Bologna viene autorizzata ad accettare la donazione della somma di nominali L. 20.000 di buoni del Tesoro ordinari al portatore 5%, nonche' la somma di L. 1000 in contanti, disposta in suo favore dall'avv. Carlo Cagnoni, in nome e per conto della famiglia e di amici e colleghi dell'avv. Domenico Belvederi, caduto eroicamente sul fronte egiziano il 23 agosto 1940-XVIII, con atto pubblico in data 6 novembre 1942-XXI, per l'istituzione di un premio da intitolarsi al nome del predetto avv. Domenico Belvederi.   
+  
+Visto, il Guardasigilli: De Marsico   
+  
+Registrato alla Corte dei conti, addi' 8 luglio 1943-XXI

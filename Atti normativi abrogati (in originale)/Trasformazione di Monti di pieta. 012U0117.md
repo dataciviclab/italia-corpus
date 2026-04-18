@@ -1,0 +1,19 @@
+REGIO DECRETO 18 gennaio 1912 n. 117
+
+
+REGIO DECRETO 18 gennaio 1912 n. 117
+====================================
+
+Trasformazione di Monti di pieta'. (012U0117)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 23/03/1912
+
+Art. 1
+------
+
+  
+N. 117   
+  
+Regio Decreto 18 gennaio 1912, col quale, sulla proposta del ministro dell'interno, di concerto col ministro d'agricoltura, industria e commercio, il Monte di pieta' di Carpi (Modena), viene trasformato a favore del locale ospedale civile, amministrato dalla Congregazione di carita'.   
+  

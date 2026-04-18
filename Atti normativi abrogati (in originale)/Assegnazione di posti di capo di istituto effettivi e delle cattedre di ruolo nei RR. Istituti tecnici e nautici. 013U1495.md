@@ -1,0 +1,19 @@
+REGIO DECRETO 21 ottobre 1913 n. 1495
+
+
+REGIO DECRETO 21 ottobre 1913 n. 1495
+=====================================
+
+Assegnazione di posti di capo di istituto effettivi e delle cattedre di ruolo nei RR. Istituti tecnici e nautici. (013U1495)
+----------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/02/1914
+
+Art. 1
+------
+
+  
+N. 1495   
+  
+Regio Decreto 21 ottobre 1913, col quale, sulla proposta del ministro dell'istruzione pubblica, di concerto col ministro del tesoro, viene stabilito il numero complessivo dei posti di capo d'istituto effettivi e delle cattedre di ruolo nei RR. Istituti tecnici e nautici, per l'anno scolastico 1913-914.   
+  

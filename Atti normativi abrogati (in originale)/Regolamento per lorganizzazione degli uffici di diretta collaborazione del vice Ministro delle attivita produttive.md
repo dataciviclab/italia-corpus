@@ -1,0 +1,209 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 2003 n. 316
+
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA 14 ottobre 2003 n. 316
+==============================================================
+
+Regolamento per l'organizzazione degli uffici di diretta collaborazione del vice Ministro delle attivita' produttive.
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 3/12/2003
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Visto l'[articolo 87, quinto comma, della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87-com5);
+
+Visto il [decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165), recante norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche, ed in particolare l'articolo 14, comma 2;
+
+Visto il [decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286), recante riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11);
+
+Visto il [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), recante riforma dell'organizzazione del Governo, a norma dell'[articolo 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11), come modificato dal [decreto-legge 12 giugno 2001, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-06-12;217), convertito, con modificazioni, dalla [legge 3 agosto 2001, n. 317](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-08-03;317);
+
+Visto l'[articolo 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17), cosi' come modificato dall'[articolo 13 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art13);
+
+Visto il [decreto del Presidente della Repubblica 19 settembre 2000, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455), concernente regolamento recante disposizioni relative agli uffici di diretta collaborazione del Ministro dell'industria, del commercio e dell'artigianato;
+
+Visto il [decreto del Presidente della Repubblica 4 settembre 2002, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-09-04;300), concernente regolamento recante rideterminazione delle unita' addette agli uffici di diretta collaborazione del Ministro delle attivita' produttive, ivi comprese quelle dell'ex Ministero del commercio con l'estero, di cui al decreto del [Presidente della Repubblica 3 maggio 2001, n. 291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-05-03;291);
+
+Visto l'[articolo 3 della legge 6 luglio 2002, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art3), recante disposizioni transitorie per gli uffici di diretta collaborazione;
+
+Considerata la necessita' di integrare la regolamentazione degli uffici di diretta collaborazione gia' disposta dal [decreto del Presidente della Repubblica 19 settembre 2000, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455), anche al fine di disciplinare i rapporti conseguenti all'attuazione dell'[articolo 3 della legge 6 luglio 2002, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art3), per effetto del citato [decreto del Presidente della Repubblica 4 settembre 2002, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-09-04;300);
+
+Sentite le organizzazioni sindacali maggiormente rappresentative;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 16 maggio 2003;
+
+Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 23 giugno 2003;
+
+Acquisito il parere delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 agosto 2003;
+
+Sulla proposta del Ministro delle attivita' produttive, di concerto con i Ministri per la funzione pubblica e dell'economia e delle finanze;
+
+Emana
+-----
+
+il seguente regolamento:
+
+Art. 1
+------
+
+1. All'[articolo 1, comma 1, del decreto del Presidente della Repubblica 19 settembre 2000, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455~art1-com1), sono apportate le seguenti modificazioni:
+
+a) alla lettera a), dopo le parole: "Ministro dell'industria, del commercio e dell'artigianato" sono inserite le seguenti: "con i vice Ministri";
+
+b) dopo la lettera d) e' inserita la seguente:  
+"d-bis) vice Ministri: i Sottosegretari di Stato ai quali sia stato attribuito il titolo di vice Ministro;".
+
+2. All'[articolo 2 del decreto del Presidente della Repubblica 19 settembre 2000, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455~art2), sono apportate le seguenti modificazioni:
+
+a) al comma 2, dopo la lettera f) e' inserita la seguente:  
+"f-bis) l'Ufficio e la Segreteria dei vice Ministri;";
+
+b) il comma 4 e' sostituito dal seguente:  
+"4. Gli uffici e le segreterie dei vice Ministri e le segreterie dei Sottosegretari di Stato operano alle dirette dipendenze dei vice Ministri e dei Sottosegretari di Stato, garantendo il necessario raccordo con gli uffici del Ministero e con gli altri uffici di diretta collaborazione.";
+
+c) al comma 5, le parole: "i Sottosegretari di Stato si avvalgono degli uffici di Gabinetto e Legislativo" sono sostituite dalle seguenti: "i vice Ministri ed i Sottosegretari si avvalgono degli Uffici di Gabinetto e Legislativo e delle proprie strutture".
+
+3. All'[articolo 7, comma 1, del decreto del Presidente della Repubblica 19 settembre 2000, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455~art7-com1), sono apportate le seguenti modificazioni:
+
+a) alla lettera b), dopo le parole: ", il responsabile della Segreteria tecnica del Ministro" sono inserite le seguenti: ", il responsabile del coordinamento delle attivita' di supporto degli Uffici di diretta collaborazione inerenti le funzioni delegate al vice Ministro";
+
+b) alla lettera c), dopo le parole: "per il Capo della segreteria del Ministro", sono inserite le seguenti: ", il Capo della segreteria, il Segretario particolare, il responsabile della Segreteria tecnica, il responsabile del coordinamento legislativo nelle materie inerenti le funzioni delegate al vice Ministro ed il responsabile per gli affari internazionali nominati dal vice Ministro";
+
+c) alla lettera d), dopo le parole: "per il Capo dell'Ufficio stampa del Ministro", sono inserite le seguenti: "e l'addetto stampa del vice Ministro".
+
+4. All'[articolo 8 del decreto del Presidente della Repubblica 19 settembre 2000, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455~art8), sono apportate le seguenti modificazioni:
+
+a) la rubrica e' sostituita dalla seguente: "Ufficio e Segreteria dei vice Ministri e Segreterie dei Sottosegretari di Stato";
+
+b) dopo il comma 2 sono aggiunti, in fine, i seguenti:  
+"2-bis. In aggiunta al contingente di personale previsto al comma 2 al vice Ministro e' attribuito un ulteriore contingente pari a sedici unita' di personale. Tale ulteriore contingente si intende compreso in quello complessivo di centosessanta unita' di cui al [decreto del Presidente della Repubblica 4 settembre 2002, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-09-04;300).  
+2-ter. Ciascun vice Ministro nomina, nell'ambito del contingente di personale a lui riservato, anche tra soggetti estranei all'Amministrazione, un Capo della segreteria, un segretario particolare, un responsabile della segreteria tecnica, un addetto stampa, nonche', ove necessario in ragione delle peculiari funzioni delegate, un responsabile per gli affari internazionali. Nell'ambito del medesimo contingente ciascun vice Ministro, d'intesa con il Ministro, nomina un responsabile del coordinamento delle attivita' di supporto degli Uffici di diretta collaborazione inerenti le funzioni delegate ed un responsabile del coordinamento legislativo nelle materie inerenti le funzioni delegate.".
+
+5. All'[articolo 9, comma 1, del decreto del Presidente della Repubblica 19 settembre 2000, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455~art9-com1), dopo la parola: "Ministro" sono inserite le seguenti: ", dei vice Ministri".
+
+6. Al fine di assicurare l'effettivo rispetto del principio dell'invarianza della spesa, l'eventuale maggiore onere derivante dai [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455~art7-com1) e [2 dell'articolo 7 del decreto del Presidente della Repubblica 19 settembre 2000, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455~art7-com2), cosi' come modificato dal presente regolamento, in ordine ai rapporti contrattuali instaurati in base al [decreto del Presidente della Repubblica 4 settembre 2002, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-09-04;300), e con effetto dalla sua entrata in vigore, e' compensato considerando indisponibile, ai fini del conferimento da parte dell'Amministrazione, un numero di incarichi di funzione dirigenziale, anche di livello generale, equivalente sul piano finanziario.
+
+7. Nel [decreto del Presidente della Repubblica 19 settembre 2000, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455), le parole: "Ministro dell'industria, del commercio e dell'artigianato" sono sostituite dalle seguenti: "Ministro delle attivita' produttive"; le parole: "Ministero dell'industria, del commercio e dell'artigianato" sono sostituite dalle seguenti: "Ministero delle attivita' produttive".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Dato a Roma, addi' 14 ottobre 2003
+
+CIAMPI
+
+Berlusconi, Presidente del Consiglio dei Ministri
+
+Marzano, Ministro delle attivita' produttive
+
+Mazzella, Ministro per la funzione pubblica
+
+Tremonti, Ministro dell'economia e delle finanze
+
+Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 10 novembre 2003 Ufficio di controllo sugli atti dei Ministeri delle attivita'
+
+produttive registro n. 4 Attivita' produttive, foglio n. 190
+
+Avvertenza:  
+Le note qui pubblicate sono state redatte dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3 del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
+  
+Note alle premesse:  
+- Il testo dell'[art. 87 della Costituzione](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:costituzione:1947-12-27~art87), cosi' recita:  
+"Art. 87. - Il Presidente della Repubblica e' il capo dello Stato e rappresenta l'unita' nazionale, Puo' inviare messaggi alle Camere.  
+Indice le elezioni delle nuove Camere e ne fissa la prima riunione.  
+Autorizza la presentazione alle Camere dei disegni di legge di iniziativa del Governo.  
+Promulga le leggi ed emana i decreti aventi valore di legge e i regolamenti.  
+Indice il referendum popolare nei casi previsti dalla Costituzione.  
+Nomina, nei casi indicati dalla legge, i funzionari dello Stato.  
+Accredita e riceve i rappresentanti diplomatici, ratifica i trattati internazionali, previa, quando occorra, l'autorizzazione delle Camere.  
+Ha il comando delle Forze armate, presiede il Consiglio supremo di difesa costituito secondo la legge, dichiara lo stato di guerra deliberato dalle Camere.  
+Presiede il Consiglio superiore della magistratura.  
+Puo' concedere grazia e commutare le pene.  
+Conferisce le onorificenze della Repubblica.".  
+- Il testo del [comma 2 dell'art. 14 del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art14-com2) (pubblicato nella Gazzetta Ufficiale 9 maggio 2001, n. 106, Supplemento Ordinario) recante: "Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche", e' il seguente:  
+"2. Per l'esercizio delle funzioni di cui al comma 1, il Ministro si avvale di uffici di diretta collaborazione, aventi esclusive competenze di supporto e di raccordo con l'amministrazione, istituiti e disciplinati con regolamento adottato ai sensi dell'[art. 17, comma 4-bis, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17-com4bis). A tali uffici sono assegnati, nei limiti stabiliti dallo stesso regolamento:  
+dipendenti pubblici anche in posizione di aspettativa, fuori ruolo o comando;  
+collaboratori assunti con contratti a tempo determinato disciplinati dalle norme di diritto privato;  
+esperti e consulenti per particolari professionalita' e specializzazioni con incarichi di collaborazione coordinata e continuativa.  
+Per i dipendenti pubblici si applica la disposizione di cui all'[art. 17, comma 14, della legge 15 maggio 1997, n. 127](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-05-15;127~art17-com14). Con lo stesso regolamento si provvede al riordino delle segretarie particolari dei Sottosegretari di Stato.  
+Con decreto adottato dall'autorita' di governo competente, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica, e' determinato, in attuazione dell'[art. 12, comma 1, lettera n) della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art12-com1-letn), senza aggravi di spesa e, per il personale disciplinato dai contratti collettivi nazionali di lavoro, fino ad una specifica disciplina contrattuale, il trattamento economico accessorio, da corrispondere mensilmente, a fronte delle responsabilita', degli obblighi di reperibilita' e di disponibilita' ad orari disagevoli, ai dipendenti assegnati agli uffici dei Ministri e dei Sottosegretari di Stato. Tale trattamento, consistente in un unico emolumento, e' sostitutivo dei compensi per il lavoro straordinario, per la produttivita' collettiva e per la qualita' della prestazione individuale. Con effetto dall'entrata in vigore del regolamento di cui al presente comma sono abrogate le norme del [regio decreto-legge 10 luglio 1924, n. 1100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1924-07-10;1100), e successive modificazioni ed integrazioni, ed ogni altra norma riguardante la costituzione e la disciplina dei gabinetti dei Ministri e delle segretarie particolari dei Ministri e dei Sottosegretari di Stato.".  
+- Il [decreto legislativo 30 luglio 1999, n. 286](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;286) (pubblicato nella Gazzetta Ufficiale 18 agosto 1999, n. 193) reca: "Riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attivita' svolta dalle amministrazioni pubbliche, a norma dell'[art. 11 della legge 15 marzo 1997, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11).".  
+- Il [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300) (pubblicato nella Gazzetta Ufficiale 30 agosto 1999, n. 203, Supplemento Ordinario) reca: "Riforma dell'organizzazione del Governo, a norma dell'[art. 11 della della legge 15 marzo 1997, n.59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1997-03-15;59~art11).".  
+- Il [decreto-legge 12 luglio 2001, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2001-07-12;217) (pubblicato nella Gazzetta Ufficiale 12 giugno 2001, n. 134) recante: "Modificazioni al [decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300), nonche' alla [legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400), in materia di organizzazione del Governo", convertito in legge, con modificazioni dall'[art. 1, legge 3 agosto 2001, n. 317](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-08-03;317~art1), e' pubblicato nella Gazzetta Ufficiale 6 agosto 2001, n. 181.  
+- Il testo dell'[art. 17 della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art17) (pubblicata nella Gazzetta Ufficiale 12 settembre 1988, n. 214, Supplemento Ordinario), recante: "Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri", e' il seguente:  
+"Art. 17 (Regolamenti). - 1. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il parere del Consiglio di Stato che deve pronunziarsi entro novanta giorni dalla richiesta, possono essere emanati regolamenti per disciplinare:  
+a) l'esecuzione delle leggi e dei decreti legislativi, nonche' dei regolamenti comunitari;  
+b) l'attuazione e l'integrazione delle leggi e dei decreti legislativi recanti norme di principio, esclusi quelli relativi a materie riservate alla competenza regionale;  
+c) le materie in cui manchi la disciplina da parte di leggi o di atti aventi forza di legge, sempre che non si tratti di materie comunque riservate alla legge;  
+d) l'organizzazione ed il funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge;  
+2. Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, sentito il Consiglio di Stato, sono emanati i regolamenti per la disciplina delle materie, non coperte da riserva assoluta di legge prevista dalla Costituzione, per le quali le leggi della Repubblica, autorizzando l'esercizio della potesta' regolamentare del Governo, determinano le norme generali regolatrici della materia e dispongono l'abrogazione delle norme vigenti, con effetto dall'entrata in vigore delle norme regolamentari.  
+3. Con decreto ministeriale possono essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere.  
+Tali regolamenti, per materie di competenza di piu' ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.  
+Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione.  
+4. I regolamenti di cui al comma 1 ed i regolamenti ministeriali ed interministeriali, che devono recare la denominazione di "regolamento", sono adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.  
+4-bis. L'organizzazione e la disciplina degli uffici dei Ministeri sono determinate, con regolamenti emanati ai sensi del comma 2, su proposta del Ministro competente d'intesa con il Presidente del Consiglio dei Ministri e con il Ministro del tesoro, nel rispetto dei principi posti dal [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modificazioni, con i contenuti e con l'osservanza dei criteri che seguono:  
+a) riordino degli uffici di diretta collaborazione con i Ministri ed i Sottosegretari di Stato, stabilendo che tali uffici hanno esclusive competenze di supporto dell'organo di direzione politica e di raccordo tra questo e l'amministrazione;  
+b) individuazione degli uffici di livello dirigenziale generale, centrali e periferici, mediante diversificazione tra strutture con funzioni finali e con funzioni strumentali e loro organizzazione per funzioni omogenee e secondo criteri di flessibilita' eliminando le duplicazioni funzionali;  
+c) previsione di strumenti di verifica periodica dell'organizzazione e dei risultati;  
+d) indicazione e revisione periodica della consistenza delle piante organiche;  
+e) previsione di decreti ministeriali di natura non regolamentare per la definizione dei compiti delle unita' dirigenziali nell'ambito degli uffici dirigenziali generali.".  
+- Il [decreto del Presidente della Repubblica 19 settembre 2000, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455) (pubblicato nella Gazzetta Ufficiale 17 maggio 2001, n. 113), reca: "Regolamento recante disposizioni relative agli uffici di diretta collaborazione del Ministro dell'industria, del commercio e dell'artigianato".  
+- Il [decreto del Presidente della Repubblica 4 settembre 2002, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-09-04;300) (pubblicato nella Gazzetta Ufficiale 18 gennaio 2003, n. 14), reca: "Regolamento recante rideterminazione delle unita' addette agli uffici di diretta collaborazione del Ministro delle attivita' produttive.".  
+- Il [decreto del Presidente della Repubblica 3 maggio 2001, n. 291](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2001-05-03;291) (pubblicato nella Gazzetta Ufficiale 18 luglio 2001, n. 165) reca: "Regolamento di organizzazione degli Uffici di diretta collaborazione del Ministro del commercio con l'estero.".  
+- Il testo dell'[art. 3 della legge 6 luglio 2002, n. 137](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2002-07-06;137~art3) (pubblicata nella Gazzetta Ufficiale 8 luglio 2002, n. 158), recante: "Delega per la riforma dell'organizzazione del Governo e della Presidenza del Consiglio dei Ministri, nonche' di enti pubblici", e' il seguente:  
+"Art. 3 (Disposizioni transitorie per gli uffici di diretta collaborazione). - 1. Sino all'adeguamento dei regolamenti emanati ai sensi degli [articoli 7 del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art7), e [14, comma 2, del decreto legislativo 30 marzo 2001, n. 165](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2001-03-30;165~art14-com2), alle disposizioni introdotte dall'[art. 1 della legge 26 marzo 2001, n. 81](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-26;81~art1), ai vice Ministri e' riservato un contingente di personale fino al triplo di quello previsto per le segreterie dei sottosegretari di Stato. Tale contingente, per la parte eccedente quello spettante ai sottosegretari di Stato, si intende compreso nel contingente complessivo del personale degli uffici di diretta collaborazione stabilito per ciascun Ministro.  
+2. Nell'ambito del contingente di personale riservato ai vice Ministri ai sensi del comma 1, il vice Ministro puo' nominare un capo della segreteria, un segretario particolare, un responsabile della segreteria tecnica, un addetto stampa nonche', ove necessario in ragione delle peculiari funzioni delegate, un responsabile per gli affari internazionali. Nell'ambito del medesimo contingente il vice Ministro, d'intesa con il Ministro, nomina un responsabile del coordinamento delle attivita' di supporto degli uffici di diretta collaborazione inerenti le funzioni delegate e un responsabile del coordinamento legislativo nelle materie inerenti le funzioni delegate.  
+3. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri per il bilancio dello Stato.".  
+Note all'art. 1:  
+- Il testo dell'art. 1, comma 1, del citato [decreto del Presidente della Repubblica n. 455 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000;455), come modificato dal decreto qui pubblicato, e' il seguente:  
+"Art. 1 (Definizioni). - 1. Nel presente regolamento si' intendono per:  
+a) uffici di diretta collaborazione: gli uffici di diretta collaborazione con il Ministro della attivita' produttive, con i vice Ministri e con i Sottosegretari di Stato presso il Ministero delle attivita' produttive, di cui all'[art. 14, comma 2, del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14-com2), ed all'[art. 7 del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art7);  
+b) Ministro: il Ministro delle attivita' produttive;  
+c) Ministero: il Ministero delle attivita' produttive;  
+d) [decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29): il [decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29), e successive modifiche e integrazioni;  
+d-bis) vice Ministri: i Sottosegretari di Stato ai quali sia stato attribuito il titolo di vice Ministro;  
+e) Sottosegretari di Stato: i Sottosegretari di Stato presso il Ministero delle attivita' produttive;  
+f) ruolo unico: il ruolo unico della dirigenza delle amministrazioni statali di cui al [decreto del Presidente della Repubblica 26 febbraio 1999, n. 150](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1999-02-26;150).".  
+- Il testo dell'art. 2 del citato [decreto del Presidente della Repubblica n. 455 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000;455), come modificato dal decreto qui pubblicato, e' il seguente:  
+"Art. 2 (Ministro ed uffici di diretta collaborazione).  
+- 1. In attesa dell'attuazione dell'[art. 55, comma 1, del decreto legislativo 30 luglio 1999, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1999-07-30;300~art55-com1), l'organizzazione degli uffici di diretta collaborazione e' disciplinata dalle disposizioni del presente regolamento.  
+Il Ministro e' l'organo di direzione politica del Ministero e ne determina gli indirizzi, avvalendosi, per l'esercizio delle funzioni ad esso attribuite dagli [articoli 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art3) e [14 del decreto legislativo 3 febbraio 1993, n. 29](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993-02-03;29~art14), degli uffici di diretta collaborazione che esercitano le competenze di supporto all'organo di direzione politica e di raccordo tra questo e l'amministrazione, collaborando alla definizione degli obiettivi ed all'elaborazione delle politiche pubbliche, nonche' alla relativa valutazione ed alle connesse attivita' di comunicazione, con particolare riguardo all'analisi dell'impatto normativo, all'analisi costi-benefici ed alla congruenza fra obiettivi e risultati.  
+2. Sono uffici di diretta collaborazione:  
+a) la segreteria del Ministro;  
+b) l'ufficio di Gabinetto;  
+c) la segreteria tecnica del Ministro;  
+d) l'ufficio legislativo;  
+e) l'ufficio stampa;  
+f) il servizio di controllo interno ed i relativi uffici di supporto di cui all'art. 4, comma 5;  
+f-bis) l'Ufficio e la Segreteria dei vice Ministri;  
+g) le segreterie dei Sottosegretari di Stato.  
+3. La segreteria del Ministro opera alle dirette dipendenze del Ministro. Il servizio di controllo interno opera in posizione di autonomia operativa.  
+4. Gli uffici e le segreterie dei vice Ministri e le segreterie dei Sottosegretari di Stato operano alle dirette dipendenze dei vice Ministri e dei Sottosegretari, garantendo il necessario raccordo con gli uffici del Ministero e con gli altri uffici di diretta collaborazione.  
+5. Per lo svolgimento degli incarichi istituzionali delegati dal Ministro, i vice Ministri ed i Sottosegretari di Stato si avvalgono degli Uffici di Gabinetto e Legislativo e delle proprie strutture.  
+6. Il capo di Gabinetto, salvo quanto previsto dai commi 3 e 4, coordina l'intera attivita' di supporto e gli uffici di diretta collaborazione, i quali, ai fini di cui al [decreto legislativo 7 agosto 1997, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-07;279), costituiscono un unico centro di responsabilita', ed assicura il raccordo tra le funzioni di indirizzo del Ministro e le attivita' di gestione del Ministero, nel rispetto, del principio di distinzione tra tali funzioni. Il capo di Gabinetto definisce l'organizzazione degli uffici di diretta collaborazione, d'intesa con i responsabili degli stessi, e puo' nominare uno o piu' vice capi di Gabinetto.  
+7. E' abrogato l'[art. 1 del decreto del Presidente della Repubblica 28 marzo 1997, n. 220](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1997-03-28;220~art1).".  
+- Il testo dell'art. 7 del citato [decreto del Presidente della Repubblica n. 455 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000;455), come modificato dal decreto qui pubblicato, e' il seguente:  
+"Art. 7 (Trattamento economico). - 1. Ai responsabili degli uffici di diretta collaborazione di cui all'art. 6 spetta un trattamento economico onnicomprensivo, determinato con le modalita' di cui all'[art. 14, comma 2, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art14-com2), ed articolato:  
+a) per il capo di Gabinetto, in una voce retributiva di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti preposti ad ufficio dirigenziale generale incaricati ai sensi dell'[art. 19, comma 4, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art19-com4), ed in un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti di uffici dirigenziali generali del Ministero, aumentata fino al trenta per cento;  
+b) per il capo dell'Ufficio legislativo, il responsabile della Segreteria tecnica del Ministro, il responsabile del coordinamento delle attivita' di supporto degli Uffici di diretta collaborazione inerenti le funzioni delegate al vice Ministro ed il presidente del collegio di direzione del Servizio di controllo interno, in una voce retributiva di importo non superiore a quello massimo del trattamento economico fondamentale dei dirigenti preposti ad ufficio dirigenziale generale, incaricati ai sensi dell'[art. 19, comma 4, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art19-com4), ed in un emolumento accessorio da fissare in un importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti di uffici dirigenziali generali dello stesso Ministero;  
+c) per il capo della segreteria del Ministro, il capo della segreteria, il segretario particolare, il responsabile della Segreteria tecnica, il responsabile del coordinamento legislativo nelle materie inerenti le funzioni delegate al vice Ministro ed il responsabile per gli affari internazionali nominati dal vice Ministro, i capi delle segreterie dei Sottosegretari di Stato ed i componenti del collegio di direzione del Servizio di controllo interno, in una voce retributiva di importo non superiore alla misura massima del trattamento economico fondamentale dei dirigenti preposti ad ufficio dirigenziale di livello non generale ed in un emolumento accessorio di importo non superiore alla misura massima del trattamento accessorio spettante ai dirigenti titolari di uffici dirigenziali non generali del Ministero;  
+d) per il capo dell'Ufficio stampa del Ministro e l'addetto stampa del vice Ministro in voci retributive non superiori a quelle previste dal contratto collettivo nazionale per i giornalisti con la qualifica di redattore capo.  
+2. Per i dipendenti pubblici il trattamento di cui al comma 1, se piu' favorevole, integra, per la differenza, il trattamento economico in godimento. Ai responsabili degli uffici di cui al comma 1, dipendenti da pubbliche amministrazioni, che optino per il mantenimento del proprio trattamento economico e' corrisposto un emolumento accessorio determinato con le modalita' di cui all'[art. 14, comma 2, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art14-com2), di importo non superiore alla misura massima di quello rispettivamente spettante ai sensi del medesimo comma 1.  
+3. Ai dirigenti della seconda fascia del ruolo unico, assegnati agli uffici di diretta collaborazione, e' corrisposta una retribuzione di posizione in misura equivalente ai valori economici massimi attribuiti ai dirigenti della stessa fascia del Ministero nonche', in attesa di specifica disposizione contrattuale, un'indennita' sostitutiva della retribuzione di risultato, determinata con le modalita' di cui all'[art. 14, comma 2, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art14-com2), di importo non superiore al cinquanta per cento della retribuzione di posizione, a fronte delle specifiche responsabilita' connesse all'incarico attribuito, della specifica qualificazione professionale possseduta, della disponibilita' ad orari disagevoli, della qualita' della prestazione individuale.  
+4. Il trattamento economico del personale con contratto a tempo determinato e di quello con rapporto di collaborazione coordinata e continuativa e' determinato dal Ministro all'atto del conferimento dell'incarico. Il relativo onere grava sugli stanziamenti dell'unita' previsionale di base "Gabinetto e uffici di diretta collaborazione all'opera del Ministro" dello stato previsionale della spesa del Ministero.  
+5. Al personale non dirigenziale assegnato agli uffici di diretta collaborazione, a fronte delle responsabilita', degli obblighi di reperibilita' e di disponibilita' ad orari disagevoli eccedenti quelli stabiliti in via ordinaria dalla disposizioni vigenti, nonche' delle conseguenti ulteriori prestazioni richieste dai responsabili degli uffici, spetta un'indennita' accessoria di diretta collaborazione sostitutiva degli istituti retributivi finalizzati all'incentivazione della produttivita' ed al miglioramento dei servizi, confluiti nel Fondo unico di cui all'art. 32 del contratto collettivo nazionale per il personale del comparto Ministeri per il quadriennio normativo 1998-2001 e biennio economico 1998-1999. Il personale beneficiario della predetta indennita' e' determinato dal capo di Gabinetto, sentiti i responsabili degli uffici di cui all'art. 2, comma 2. In attesa di specifica disposizione contrattuale, ai sensi dell'[art. 14, comma 2, del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art14-com2), la misura dell'indennita' determinata con decreto del Ministro, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica.".  
+- Il testo dell'art. 8 del citato [decreto del Presidente della Repubblica n. 455 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000;455), come modificato dal decreto qui pubblicato, e' il seguente:  
+"Art. 8 (Ufficio e Segreterie dei vice Ministri e Segreterie dei Sottosegretari di stato). - 1. I capi delle segreterie dei Sottosegretari di Stato sono scelti dai Sottosegretari interessati anche fra estranei alle pubbliche amministrazioni.  
+2. A ciascuna Segreteria dei Sottosegretari di Stato, oltre al capo della Segreteria, sono assegnate, al di fuori del contingente complessivo di novantadue unita' di cui all'art. 5, comma 1, fino ad un massimo di otto unita' di personale, scelte tra i dipendenti del Ministero ovvero fra i dipendenti di altre pubbliche amministrazioni in posizione di aspettativa, fuori ruolo, comando o in altre analoghe posizioni previste dai rispettivi ordinamenti, salva la possibilita' di scegliere una delle otto unita' fra estranei alle pubbliche amministrazioni.  
+2-bis. In aggiunta al contingente di personale previsto al comma 2 al vice Ministro e' attribuito un ulteriore contingente pari a sedici unita' di personale. Tale ulteriore contingente si intende compreso in quello complessivo di centosessanta unita' di cui al [decreto del Presidente della Repubblica 4 settembre 2002, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-09-04;300).  
+2-ter. Ciascun vice Ministro nomina, nell'ambito del contingente di personale a lui riservato, anche tra soggetti estranei all'Amministrazione, un Capo della segreteria, un segretario particolare, un responsabile della segreteria tecnica, un addetto stampa, nonche', ove necessario in ragione delle peculiari funzioni delegate, un responsabile per gli affari internazionali. Nell'ambito del medesimo contingente ciascun vice Ministro, d'intesa con il Ministro, nomina un responsabile del coordinamento delle attivita' di supporto degli Uffici di diretta collaborazione inerenti le funzioni delegate ed un responsabile del coordinamento legislativo nelle materie inerenti le funzioni delegate.".  
+- Il testo dell'art. 9, comma 1, del citato [decreto del Presidente della Repubblica n. 455 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000;455), come modificato dal decreto qui pubblicato, e' il seguente:  
+"Art. 9 (Modalita' della gestione). - 1. La gestione degli stanziamenti di bilancio per i trattamenti economici individuali e le indennita' spettanti al personale assegnato agli uffici di cui all'art. 2, comma 2, per le spese di viaggio e di rappresentanza del Ministro, dei vice Ministri e dei Sottosegretari di Stato, per l'acquisto di beni e servizi e per ogni altra spesa occorrente per le esigenze dei predetti uffici, nonche' la gestione delle risorse umane e strumentali, e' attribuita, ai sensi dell'[art. 14, comma 1, lettera b), del decreto legislativo n. 29 del 1993](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1993;29~art14-com1-letb), alla responsabilita' del capo di Gabinetto, che puo' delegare i relativi adempimenti ad uno dei dirigenti assegnati all'ufficio di Gabinetto, nonche' avvalersi, ove ricorrano le condizioni previste dall'[art. 4 del decreto legislativo 7 agosto 1997, n. 279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-08-07;279~art4), degli uffici del Ministero per la liquidazione e l'erogazione delle spese da imputare ai fondi predetti.".  
+- Il testo dell'art. 10 del citato [decreto del Presidente della Repubblica n. 455 del 2000](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000;455), come modificato dal decreto qui pubblicato, e' il seguente:  
+"Art. 10 (Disposizioni finali). - 1. L'attuazione del presente regolamento non comporta in ogni caso nuovi o maggiori oneri a carico del bilancio dello Stato.  
+1-bis. Al fine di assicurare l'effettivo rispetto del principio dell'invarianza della spesa, l'eventuale maggiore onere derivante dai [commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455~art7-com1) e [2 dell'art. 7 del decreto del Presidente della Repubblica 19 settembre 2000, n. 455](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2000-09-19;455~art7-com2), cosi' come modificato dal presente regolamento, in ordine ai rapporti contrattuali instaurati in base al [decreto del Presidente della Repubblica 4 settembre 2002, n. 300](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002-09-04;300), e con effetto dalla sua entrata in vigore, e' compensato considerando indisponibile, ai fini del conferimento da parte dell'Amministrazione, un numero di incarichi di funzione dirigenziale, anche di livello generale, equivalente sul piano finanziario.".  
+- Per il titolo del decreto del gia' citato [decreto del Presidente della Repubblica n. 300 del 2002](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:2002;300) si vedano le note alle premesse.

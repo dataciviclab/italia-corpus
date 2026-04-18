@@ -1,0 +1,53 @@
+REGIO DECRETO 19 luglio 1941 n. 998
+
+
+REGIO DECRETO 19 luglio 1941 n. 998
+===================================
+
+Proroga del termine assegnato per la esecuzione, del piano regolatore della regione di Marassi in Genova. (041U0998)
+--------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/10/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Vista la legge 27 .aprile 1916, n. 485, con la quale fu approvato il piano regolatore della regione di Marassi in Genova, e fu assegnato il termine di venticinque anni a decorrere dalla data del 5 maggio 1916 per l'esecuzione del piano;   
+  
+Vista la domanda in data 21 aprile 1941-XIX, tempestivamente presentata, con la quale il podesta' di Genova ha chiesto una proroga di otto anni al termine assegnato con la citata legge, per l'esecuzione del piano stesso;   
+  
+Vista la lettera n. 17394 del 3 maggio 1941-XIX con la quale la prefettura di Genova ha espresso parere favorevole alla concessione della proroga anzidetta;   
+  
+Considerato che la richiesta proroga trova giustificazione in ragioni indipendenti dalla volonta' del Comune, e particolarmente in difficolta' costruttive determinate dalle vigenti restrizioni sull'impiego del cemento;   
+  
+Vista la [legge 25 giugno 1965, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1965-06-25;2359);   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' prorogato di otto anni a decorrere dal 5 maggio 1941-XIX, il termine assegnato, per l'esecuzione del piano regolatore della regione di Marassi in Genova, con la [legge 27 aprile 1916, n. 485](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1916-04-27;485).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello stato, sia inserto nella Raccolta officiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi'. 19 luglio 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+Gorla.   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte del conti, addi' 20 settembre 1941-XIX   
+  
+Atti del Governo, registro 437, foglio 55. - Mancini   
+  
+  

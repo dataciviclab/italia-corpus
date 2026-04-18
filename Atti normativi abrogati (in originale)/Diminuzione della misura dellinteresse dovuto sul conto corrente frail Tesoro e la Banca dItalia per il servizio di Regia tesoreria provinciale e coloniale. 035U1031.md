@@ -1,0 +1,51 @@
+REGIO DECRETO 09 maggio 1935 n. 1031
+
+
+REGIO DECRETO 09 maggio 1935 n. 1031
+====================================
+
+Diminuzione della misura dell'interesse dovuto sul conto corrente fra 
+il Tesoro e la Banca d'Italia per il servizio di Regia tesoreria provinciale e coloniale. (035U1031)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/07/1935
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il [R. decreto 17 giugno 1928, n. 1377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-17;1377), concernente l'attuazione degli accordi fra il Regio tesoro e la Banca d'Italia, ai sensi del [R. decreto-legge 21 dicembre 1927, n. 2325](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-12-21;2325), convertito nella [legge 7 giugno 1928, n. 1453](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-06-07;1453);
+
+Visto il R. decreto 13 dicembre 1934-XIII, n. 2089, concernente l'aumento dall'1 per cento al 2 per cento della misura dell'interesse annuo di cui all'ultimo comma dell'[articolo 6 del R. decreto 17 giugno 1928, n. 1377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-17;1377~art6), modificato con i Regi decreti 26 gennaio 1933-XI, n. 66, 21 settembre 1933-XI, n. 1288, e 11 dicembre 1933-XII, n. 1750;
+
+Visto il decreto del Ministro per le finanze del 23 marzo 1935-XIII, col quale la ragione normale dello sconto presso la Banca d'Italia e' ridotta dal 4 per cento al 3,50 per cento a decorrere dal 25 marzo stesso;
+
+Sentito il Consiglio dei Ministri:
+
+Sulla
+-----
+
+proposta del Capo del Governo, Primo Ministro Segretario di Stato, e dei Ministri per le finanze, per la grazia e giustizia e per le colonie; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+A decorrere dal 25 marzo 1935-XIII e fino a quando avra' efficacia il decreto Ministeriale col quale la misura del saggio dello sconto e' stata ridotta, dalla detta data, dal 4 per cento al 3,50 per cento, la misura dell'interesse annuo di cui all'ultimo comma dell'[art. 6 del R. decreto 17 giugno 1928, n. 1377](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-06-17;1377~art6), modificato con i Regi decreti 26 gennaio 1933-XI, n. 66, 21 settembre 1933-XI, n. 1288, 11 dicembre 1933-XII, n. 1750, e 13 dicembre 1934-XIII, n. 2089, e' ridotta dal 2 per cento all'1,50 per cento.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 9 maggio 1935 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel - Solmi.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, acidi 19 giugno 1935 - Anno XIII   
+Atti del Governo, registro 361, foglio 132. - Mancini   

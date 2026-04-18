@@ -1,0 +1,43 @@
+REGIO DECRETO 25 gennaio 1888 n. 5178
+
+
+REGIO DECRETO 25 gennaio 1888 n. 5178
+=====================================
+
+che convoca il 2° Collegio elettorale di Siracusa (088U5178)
+------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/02/1888
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Messaggio in data del 23 gennaio 1888 col quale l'Ufficio di presidenza della Carriera dei deputati notifico' essere vacante uno dei seggi di deputato al Parlamento assegnati al 2° Collegio di Siracusa;   
+  
+Veduto l'articolo 80 della legge elettorale politica 24 settembre 1882, n. 999;   
+  
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il 2° Collegio elettorale di Siracusa e' convocato pel giorno 19 febbraio prossimo affinche' proceda alla elezione di uno dei tre deputati assegnati al detto Collegio.   
+  
+Occorrendo una seconda votazione, essa avra' luogo il giorno 26 successivo.   
+  
+Ordiniamo che il presente Nostro decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 gennaio 1888.   
+  
+UMBERTO.   
+  
+Crispi.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

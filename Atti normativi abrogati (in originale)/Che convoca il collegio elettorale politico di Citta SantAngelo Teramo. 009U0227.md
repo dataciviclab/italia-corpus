@@ -1,0 +1,42 @@
+REGIO DECRETO 09 maggio 1909 n. 227
+
+
+REGIO DECRETO 09 maggio 1909 n. 227
+===================================
+
+Che convoca il collegio elettorale politico di Citta' Sant'Angelo (Teramo). (009U0227)
+--------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/05/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il Messaggio in data 8 maggio 1909 col quale il presidente della Camera dei deputati notifico' avere la Camera stessa, nella seduta di quel giorno, deliberato che nel collegio di Citta' Sant'Angelo (Teramo 3°) si proceda alla votazione di ballottaggio fra i candidati De Riseis barone Giuseppe e Maury Eugenio;   
+  
+Veduto l'art. 80 del testo unico della legge elettorale politica approvata con R. decreto 2B marzo 1895, n. 83;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del Consiglio, dei ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il collegio elettorale di Citta' Sant'Angelo, e' convocato pel giorno, 30 maggio 1909 affinche' proceda alla votazione di ballottaggio fra i candidati De Riseis barone Giuseppe e Maury Eugenio.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 9 maggio 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+  
+Visto, Il guardasigilli: Orlando.   
+  
+  

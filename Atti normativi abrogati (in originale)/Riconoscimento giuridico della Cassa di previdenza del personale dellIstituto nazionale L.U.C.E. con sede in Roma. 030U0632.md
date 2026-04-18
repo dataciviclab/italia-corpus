@@ -1,0 +1,22 @@
+REGIO DECRETO 01 maggio 1930 n. 632
+
+
+REGIO DECRETO 01 maggio 1930 n. 632
+===================================
+
+Riconoscimento giuridico della Cassa di previdenza del personale dell'Istituto nazionale L.U.C.E., con sede in Roma. (030U0632)
+-------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/06/1930
+
+Art. 1
+------
+
+N.
+
+632. R. decreto 1° maggio 1930, col quale, sulla proposta del Ministro per le corporazioni, la Cassa di previdenza del personale dell'Istituto nazionale L.U.C.E. per la propaganda e la coltura a mezzo della cinematografia, con sede in Roma, viene eretta in corpo morale e ne e' approvato lo statuto organico.   
+  
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 26 maggio 1930 - Anno VIII

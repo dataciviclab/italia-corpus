@@ -1,0 +1,39 @@
+REGIO DECRETO 03 giugno 1909 n. 335
+
+
+REGIO DECRETO 03 giugno 1909 n. 335
+===================================
+
+Che distacca dall'Ufficio delle successioni di Napoli ed attribuisce al locale Ufficio del demanio i servizi relativi alle tasse di manomorta ed alle tasse sui velocipedi, motocicli ed automobili. (009U0335)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/07/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro ministro segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Dall'Ufficio delle successioni di Napoli sono distaccati e attribuiti al locale Ufficio del Demanio i servizi relativi alle tasse di manomorta, ed alle tasse sui velocipedi, motocicli ed automobili.   
+  
+Il presente decreto andra' in vigore il 1° luglio 1909.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 3 giugno 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Lacava.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

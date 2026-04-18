@@ -1,0 +1,44 @@
+REGIO DECRETO 16 giugno 1907 n. 431
+
+
+REGIO DECRETO 16 giugno 1907 n. 431
+===================================
+
+Sostituzione di un posto di levatrice-assistente nel ruolo organico del personale della scuola e clinica ostetrica della R. Universita' di Siena. (007U0431)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/07/1907
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il Nostro decreto 27 dicembre 1906, n. 733, con cui vennero modificati i ruoli organici di alcuni stabilimenti scientifici universitari;   
+  
+Ritenuto che venne compreso nel ruolo del personale della scuola e clinica ostetrica della R. Universita' di Siena un posto di levatrice assistente a L. 800 come risulta dalla tabella A annessa al predetto decreto mentre intendevasi provvedere alla istituzione di un posto di medico-assistente con lo stesso stipendio;   
+  
+Sentito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Nel ruolo organico del personale della scuola e clinica ostetrica della R. Universita' di Siena, approvato col Nostro decreto 27 dicembre 1906, n. 733, al posto di levatrice-assistente con lo stipendio di L. 800 e' sostituito il posto di medico-assistente con lo stesso stipendio.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 giugno 1907.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+Rava.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

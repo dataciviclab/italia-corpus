@@ -1,0 +1,51 @@
+REGIO DECRETO 25 agosto 1882 n. DCCXLI
+
+
+REGIO DECRETO 25 agosto 1882 n. DCCXLI
+======================================
+
+Che erige in corpo morale l'ospizio dei poveri in Torre Annunziata e ne approva lo statuto. (8200741R)
+------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/12/1882
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'Interno, presidente del consiglio dei ministri;   
+  
+Veduta la domanda dell'arciconfraternita del Suffragio e Purgatorio in Torre Annunziata (Napoli) per la costituzione in ente morale dell'ospizio da essa fondato a favore dei poveri inabili al lavoro per eta' o per malattia, assegnandogli per il mantenimento Lire 2000 sulla rendita patrimoniale dell'arciconfraternita e lire 600 annue sulle prestazioni dei confratelli;   
+  
+Veduto lo statuto organico, della nuova fondazione;   
+  
+Veduto il voto della deputazione provinciale;   
+  
+Sentito il consiglio di Stato;   
+  
+Veduta la legge 3 Agosto 1862;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'ospizio per i poveri inabili al lavoro, fondato dall' arciconfraternita del Suffragio e Purgatorio in Torre Annunziata (Napoli) e' costituito in ente morale, e ne e' approvato lo statuto organico portante la data del 15 giugno 1882, composto di trentacinque articoli, visto e sottoscritto d'ordine nostro dal ministro proponente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 25 Agosto 1882.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 10 novembre 1882   
+  
+Reg. 124 Atti del Governo a f. 40. Ayres.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli.   
+  
+Depretis.   
+  

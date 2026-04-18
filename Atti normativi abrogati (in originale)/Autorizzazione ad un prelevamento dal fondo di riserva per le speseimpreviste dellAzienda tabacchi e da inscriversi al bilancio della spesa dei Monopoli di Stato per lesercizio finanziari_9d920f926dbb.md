@@ -1,0 +1,53 @@
+REGIO DECRETO 29 maggio 1941 n. 555
+
+
+REGIO DECRETO 29 maggio 1941 n. 555
+===================================
+
+Autorizzazione ad un prelevamento dal fondo di riserva per le spese 
+impreviste dell'Azienda tabacchi e da inscriversi al bilancio della spesa dei Monopoli di Stato per l'esercizio finanziario 1940-41. 
+(041U0555)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/07/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto l'art. 16 della legge 6 giugno 1940-XVIII, n. 646, che approva lo stato di previsione dell'entrata e quello della spesa dell'Amministrazione dei monopoli di Stato per l'esercizio finanziario 1940-41;   
+  
+Visto l'art. 10 del R. decreto-legge 8 dicembre 1927-VI, n. 2258, convertito nella legge 6 dicembre 1928-VII, n. 3474, riguardante la costituzione dell'Amministrazione dei monopoli di Stato;   
+  
+Considerato che il fondo di riserva per le spese impreviste dell'Azienda tabacchi presenta una disponibilita' di L. 50 milioni nell'apposito conto corrente presso la Tesoreria centrale del Regno;   
+  
+Sentito il Consiglio di amministrazione dei Monopoli di Stato;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' autorizzato il prelevamento di L. 40.000 dal fondo di riserva per le spese impreviste dell'Azienda tabacchi, da versarsi alla Amministrazione dei monopoli di Stato con imputazione al capitolo 17 dello stato di previsione dell'entrata del bilancio dell'Amministrazione medesima per l'esercizio 1940-41 e da iscriversi alla competenza del capitolo e della spesa dello stesso bilancio ed esercizio «Sussidi al personale impiegati e salariati, in servizio o gia' appartenenti all'Amministrazione e relative famiglie».   
+  
+Questo decreto sara' comunicato alle Assemblee legislative unitamente al rendiconto consuntivo dell'Amministrazione dei monopoli di Stato per l'esercizio 1940-41.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 29 maggio 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+Di Revel   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 25 giugno 1941-XIX   
+  
+Atti del Governo, registro 434, foglio 93. - Mancini   

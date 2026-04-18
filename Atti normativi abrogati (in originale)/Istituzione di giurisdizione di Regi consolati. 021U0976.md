@@ -1,0 +1,17 @@
+REGIO DECRETO 03 luglio 1921 n. 976
+
+
+REGIO DECRETO 03 luglio 1921 n. 976
+===================================
+
+Istituzione di giurisdizione di Regi consolati. (021U0976)
+----------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/08/1921
+
+Art. 1
+------
+
+N.
+
+976. Regio decreto 3 luglio 1921, col quale, sulla proposta del ministro degli affari esteri, viene istituito un R. consolato di seconda categoria in Graz con giurisdizione sulla Stiria.

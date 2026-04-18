@@ -1,0 +1,58 @@
+REGIO DECRETO 19 luglio 1894 n. 367
+
+
+REGIO DECRETO 19 luglio 1894 n. 367
+===================================
+
+Che revoca la concessione al comune di Cantu' della costruzione e dell'esercizio di una ferrovia da Mariano a Cantu'. (094U0367)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/08/1894
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto in data 23 marzo 1884 n. 2259 (serie 3ª), in virtu' del quale venne approvata e resa escecutiva la convenzione per la concessione al comune di Cantu', di una strada ferrata a scartamento ordinario da Mariano a Cantu', con il sussidio di lire 1000 a chilometro, per anni 35 decorrendi dalla apertura della linea allo esercizio pubblico;   
+  
+Vista l'istanza 2 marzo 1891, colla quale il comune concessionario chiede in via principale la rescissione della convenzione con la perdita di parte della cauzione di lire 20,000 prestata a garanzia degli obblighi assunti e, in via subordinata, una nuova proroga del termine pel compimento dei lavori, che scadrebbe il 30 ottobre del corrente anno;   
+  
+Ritenuto che il comune di Cantu' aveva ottenuta la concessione della linea in base ad una combinazione fatta con una Ditta industriale che avrebbe assunta l'intrapresa e che, venuta meno questa ai propri impegni, al comune non riusci' di fare una nuova combinazione allo stesso scopo; onde esso si trova ora, indipendentemente dal fatto proprio, nella impossibilita' di dare effetto alla concessione;   
+  
+Ritenuto, pertanto, che in via di equita', meritevole di accoglimento si dimostra la prima delle domande del comune diretta ad ottenere la rescissione della convenzione;   
+  
+Ritenuto che, ad ogni modo, l'accoglimento della domanda non puo' assolvere completamente il comune dalle conseguenze dello inadempimento degli obblighi assunti;   
+  
+Vista la deliberazione in data 10 giugno 1894, con la quale il Consiglio comunale di Cantu', pur di ottenere la rescissione della convenzione, dichiara di consentire alla perdita di meta' della cauzione suddetta;   
+  
+Vista la legge sui Lavori Pubblici;   
+  
+Udito il Consiglio di Stato;   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Sulla proposta dei Nostri Ministri Segretari di Stato per i Lavori Pubblici e pel Tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' revocata la concessione al comune di Cantu', approvata con Nostro decreto 23 marzo 1884 n. 2259 (serie 3ª), della costruzione e dell'esercizio di una ferrovia a scartamento ordinario da Mariano a Cantu'.   
+  
+Meta' della cauzione prestata a garanzia degli obblighi assunti con la concessione, rimarra' libera a favore del comune di Cantu'.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 19 luglio 1894.   
+  
+UMBERTO.   
+  
+G. Saracco.   
+Sidney Sonnino.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   
+  

@@ -1,0 +1,47 @@
+REGIO DECRETO 10 ottobre 1925 n. 1807
+
+
+REGIO DECRETO 10 ottobre 1925 n. 1807
+=====================================
+
+Cambiamento della denominazione del comune di Calvagese. (025U1807)
+-------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/11/1925
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;   
+  
+Veduta la domanda in data 10 ottobre 1924, con cui il sindaco di Calvagese, in esecuzione della deliberazione consigliare 18 maggio dello stesso anno, chiede che la denominazione del Comune sia modificata in «Calvagese della Riviera»;   
+  
+Visto il parere favorevole espresso dalla Commissione Reale per la straordinaria amministrazione della provincia di Brescia, con i poteri del Consiglio provinciale, in adunanza 28 novembre 1924;   
+  
+Vista la lettera 12 settembre 1925, n. 515225, con la quale il Ministero delle comunicazioni (Direzione generale delle poste e dei telegrafi) dichiara che nulla osta alla richiesta modificazione di denominazione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il Comune di Calvagese, in provincia di Brescia, e' autorizzato a modificare la propria denominazione in «Calvagese della Riviera».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 1° ottobre 1925.   
+  
+VITTORIO EMANUELE.   
+  
+Federzoni.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 27 ottobre 1925.   
+  
+Atti del Governo, registro, 241, foglio 136. - Granata.   
+  

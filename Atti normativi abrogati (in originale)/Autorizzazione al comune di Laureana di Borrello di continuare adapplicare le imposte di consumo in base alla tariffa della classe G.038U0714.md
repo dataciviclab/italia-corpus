@@ -1,0 +1,57 @@
+REGIO DECRETO 02 maggio 1938 n. 714
+
+
+REGIO DECRETO 02 maggio 1938 n. 714
+===================================
+
+Autorizzazione al comune di Laureana di Borrello di continuare ad 
+applicare le imposte di consumo in base alla tariffa della classe G. 
+(038U0714)
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/06/1938
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il provvedimento Ministeriale 14 gennaio 1931, n. 21231, con il quale ai sensi dell'[art. 16](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-20;141~art16)-[9, lettera b), del R. decreto-legge 20 marzo 1930, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1930-03-20;141~art9-letb), il comune di Laureana di Borrello, fu autorizzato a mantenere in applicazione le imposte di consumo con la tariffa della classe superiore terza, cui, prima della emanazione del Nostro decreto in data 26 dicembre 1930, n. 1741, apparteneva per ragioni di popolazione;
+
+Vista la istanza con la quale il Comune suddetto chiede di poter mantenere ulteriormente in applicazione la tariffa della classe superiore;
+
+Visti gli articoli 11, 26 e 95 del testo unico per la finanza locale, approvato con Nostro decreto 14 settembre 1931, n. 1175;
+
+Visto il Nostro decreto in data 25 marzo 1937, n. 462, e l'annessavi tabella contenente i dati dell'ottavo censimento generale della popolazione del Regno;
+
+Sentito il parere della Commissione centrale per la finanza locale;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il comune di Laureana di Borrello e' autorizzato ad applicare, fino al 31 dicembre 1940, le imposte di consumo entro i limiti stabiliti per i comuni della classe G.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 2 maggio 1938 - Anno XVI   
+  
+VITTORIO EMANUELE   
+  
+Di Revel   
+  
+Visto, il Guardasigilli: Solmi   
+  
+Registrato alla Corte dei conti, addi' 7 giugno 1938 - Anno XVI   
+  
+Atti del Governo, registro 398, foglio 42. - Mancini.   

@@ -1,0 +1,51 @@
+REGIO DECRETO 28 aprile 1938 n. 761
+
+
+REGIO DECRETO 28 aprile 1938 n. 761
+===================================
+
+Riconoscimento come urbano del servizio tranviario che si effettua sulla tramvia Bari-Carbonara-Ceglie. (038U0761)
+------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/07/1938
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il Nostro decreto 18 gennaio 1914, n. 97, con il quale fu accordata alla Societa' Elettrica Barese la concessione per la costruzione e l'esercizio della tramvia estraurbana a scartamento di un metro da Bari, per Carbonara e Ceglie;   
+  
+Ritenuto che in data 1° agosto 1927 il comune di Bari rilevo' dalla Societa' Elettrica Barese la tramvia predetta;   
+  
+Vista la domanda 26 giugno 1937 avanzata dalla Direzione delle Tramvie elettriche municipali di Bari, diretta a conseguire la declassificazione da estraurbana in Urbana della tramvia Bari-Carbonara-Ceglie;   
+  
+Ritenuto che il servizio che si effettua sulla detta tramvia presenta i requisiti propri di un servizio di trasporto urbano;   
+  
+Visto il testo unico delle disposizioni di legge per le Ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con Nostro decreto 9 maggio 1912, n. 1447, e successive modificazioni;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni, di concerto col Nostro Ministro Segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il servizio tramviario che si effettua sulla tramvia Bari-Carbonara-Ceglie e' riconosciuto urbano a tutti gli effetti, a decorrere dalla data del presente decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 28 aprile 1938 - Anno XVI   
+  
+VITTORIO EMANUELE   
+  
+Benni - Di Revel   
+  
+Visto, il Guardasigilli: Solmi   
+  
+Registrato alla Corte dei conti, addi' 15 giugno 1938 - Anno XVI   
+  
+Atti del Governo, registro 398, foglio 92. - Mancini.   

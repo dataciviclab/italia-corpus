@@ -1,0 +1,51 @@
+REGIO DECRETO 18 aprile 1935 n. 566
+
+
+REGIO DECRETO 18 aprile 1935 n. 566
+===================================
+
+Soppressione dell'ufficio di conciliazione di Chievolis, frazione del comune di Tramonti di Sopra. (035U0566)
+-------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/06/1935
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto 10 febbraio 1927, n. 225](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-02-10;225), col quale veniva istituito un ufficio distinto di conciliazione in Chievolis, frazione del comune di Tramonti di Sopra;   
+  
+Vista la deliberazione in data 1° dicembre 1934 del podesta' del comune di Tramonti di Sopra, con la quale si chiede che venga soppresso l'anzidetto ufficio di conciliazione;   
+  
+Visti i pareri favorevoli del primo presidente e del procuratore generale presso la Corte di appello di Trieste;   
+  
+Visti gli [articoli 1 della legge 16 giugno 1892, n. 261](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1892-06-16;261~art1), e 1 del relativo regolamento 26 dicembre stesso anno n. 728;   
+  
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'ufficio distinto di conciliazione di Chievolis, frazione del comune di Tramonti di Sopra, e' soppresso e il relativo territorio rientra nella circoscrizione dell'ufficio di conciliazione del capoluogo.   
+  
+Il presente decreto entrera' in vigore nel trentesimo giorno dopo quello della sua pubblicazione nella Gazzetta Ufficiale.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 18 aprile 1935 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+Solmi   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 3 maggio 1935 - Anno XIII   
+  
+Atti del Governo, registro 360, foglio 9. - Mancini.   
+  
+  

@@ -1,0 +1,45 @@
+REGIO DECRETO 24 gennaio 1935 n. 83
+
+
+REGIO DECRETO 24 gennaio 1935 n. 83
+===================================
+
+Fissazione della circoscrizione territoriale del Regio consolato generale in Innsbruck e del Regio consolato in Klagenfurt. (035U0083)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/03/1935
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la legge consolare 28 gennaio 1866, n. 2814, ed il relativo regolamento approvato con [R. decreto 7 giugno 1866, n. 2996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1866-06-07;2996);   
+  
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari esteri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Le circoscrizioni del Nostro consolato generale in Innsbruck e del Nostro consolato in Klagenfurt sono fissate come appresso:   
+  
+Consolato generale in Innsbruck: Tirolo meno il Capitanato Distrettuale di Lienz (Tirolo orientale), Voralberg e Salisburghese;   
+  
+Consolato in Klagenfurt: Carinzia e Capitanato Distrettuale di Lienz (Tirolo orientale).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 24 gennaio 1935 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI.   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Conte dei conti, addi' 20 febbraio 1935 - Anno XIII   
+  
+Atti del Governo, registro 356, foglio 125. - MANCINI.   

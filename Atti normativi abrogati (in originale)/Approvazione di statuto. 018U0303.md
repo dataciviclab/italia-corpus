@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 24 gennaio 1918 n. 303
+
+
+DECRETO LUOGOTENENZIALE 24 gennaio 1918 n. 303
+==============================================
+
+Approvazione di statuto. (018U0303)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 04/04/1918
+
+Art. 1
+------
+
+N.
+
+303. Decreto Luogotenenziale 24 gennaio 1918, col quale, sulla proposta del ministro degli affari esteri, e' approvato un nuovo testo di statuto del R. Istituto internazionale e coloniale italiano di Torino in sostituzione di quello approvato con [R. decreto 7 agosto 1909, n. 616](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-08-07;616).

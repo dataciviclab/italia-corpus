@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 29 luglio 1915 n. 1221
+
+
+DECRETO LUOGOTENENZIALE 29 luglio 1915 n. 1221
+==============================================
+
+Applicazione di tassa di famiglia. (015U1221)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 01/09/1915
+
+Art. 1
+------
+
+  
+1221   
+  
+Decreto Luogotenenziale 29 luglio 1915, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Buonconvento (Sicilia) di applicare nell'anno 1915, la tassa di famiglia col limite massimo di L. 300, secondo la tariffa deliberata in adunanza consiliare del 22 gennaio scorso.   
+  

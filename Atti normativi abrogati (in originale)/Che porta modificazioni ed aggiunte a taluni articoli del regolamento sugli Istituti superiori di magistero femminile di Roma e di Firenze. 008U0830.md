@@ -1,0 +1,56 @@
+REGIO DECRETO 17 dicembre 1908 n. 830
+
+
+REGIO DECRETO 17 dicembre 1908 n. 830
+=====================================
+
+Che porta modificazioni ed aggiunte a taluni articoli del regolamento sugli Istituti superiori di magistero femminile di Roma e di Firenze. (008U0830)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/04/1909
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduta la [legge 25 giugno 1882, n. 896](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1882-06-25;896) (serie 3ª), sull'ordinamento degli Istituti superiori di magistero femminile di Roma e Firenze;
+
+Veduti i RR. decreti 29 agosto 1890, n. 7161, e 14 dicembre 1905, n. 610;
+
+Sentito il Consiglio superiore di pubblica istruzione e il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Agli articoli del regolamento approvato col predetto R. decreto 29 agosto 1890 sono arrecate le seguenti modificazioni ed aggiunte:   
+  
+Art. 40. - «I professori ordinari o straordinari sono eletti per pubblico concorso con le norme procedurali vigenti pei concorsi dei professori delle Universita' ed Istituti superiori del Regno.   
+  
+«Per la nomina della Commissione esaminatrice la Giunta del Consiglio superiore di pubblica istruzione designera' al ministro un numero di commissari doppio di quello necessario a costituire la Commissione.   
+  
+«Il ministro potra' nominare altri membri di sua elezione, qualora fosse necessario per rifiuto od incompatibilita' dei designati dalla Giunta del Consiglio superiore».   
+  
+Art. 42. - «Gli straordinari nominati per concorso potranno essere promossi ordinari dopo un triennio di lodevole ed effettivo insegnamento.   
+  
+«Il giudizio sui meriti del candidato sara' affidato ad una Commissione nominata e composta con le norme dell'art. 40. Gli atti relativi saranno esaminati dalla Giunta del Consiglio superiore».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 17 dicembre 1908.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Rava.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

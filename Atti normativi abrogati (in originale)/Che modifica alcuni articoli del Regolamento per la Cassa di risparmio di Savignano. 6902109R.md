@@ -1,0 +1,46 @@
+REGIO DECRETO 24 febbraio 1869 n. MMCIX
+
+
+REGIO DECRETO 24 febbraio 1869 n. MMCIX
+=======================================
+
+Che modifica alcuni articoli del Regolamento per la Cassa di risparmio di Savignano. (6902109R)
+-----------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/04/1869
+
+Articolo unico
+--------------
+
+  
+  
+Gli articoli 11, 18, 19, 20, 21 e 22 del Regolamento per la Cassa di risparmio di Savignano sono sostituiti dai seguenti:   
+  
+«Articolo 11. Ad agevolare l'adempimento dei lavori d'uffizio, il Consiglio d'amministrazione nomina un impiegato ragioniere ed uno scrittore aggiunto, coll'incarico anche di portiere, estranei al corpo degli azionisti, ne determina gli oneri e loro assegna convenienti onorari; salvo al Consiglio stesso di proporre alla Societa', ed a questa di approvare, ulteriori impiegati se le occorrenze dell'amministrazione lo richiedessero.»   
+  
+«Articolo 18. Non si ricevono depositi minori di centesimi 25, ne' maggiori di lire 50. Il danaro che si prende e si paga, e' calcolato secondo la vigente tariffa.»   
+  
+«Articolo 19. A cominciare dal giorno successivo al deposito, decorrono i frutti a favore dei depositanti sui depositi la cui somma non sia minore di lire 1. 25. Questi frutti, calcolati a centesimi interi, non saranno mai inferiori alla ragione del 4 per cento, ma potranno dalla Societa' essere aumentati o diminuiti, a seconda delle contingenze, purche' si renda pubblica la relativa deliberazione un mese prima di mandarla ad effetto.»   
+  
+«Articolo 20. Il calcolo dei frutti si fa il 30 giugno e il 31 dicembre di ogni anno, ovvero all'epoca della domanda di rimborso dell'intero credito sopra ciascun libretto, di cui e' cenno all'articolo 25. Ne' susseguenti mesi di luglio e di gennaio, i frutti non riscossi si   
+  
+aggiungono al capitale, e divengono anch'essi fruttiferi purche' tocchino lire 1. 25.»   
+  
+«Articolo 21. Le restituzioni fino a lire 25 si fanno il di' medesimo della richiesta; quelle di maggiori somme, quindici giorni dopo; ma la decorrenza dei frutti cessa dal giorno della domanda. Le somme depositate si possono ritirare anche parzialmente.»   
+  
+«Articolo 22. Quando il credito di un solo depositante ascenda, fra capitale, frutti e frutti de' frutti, alla somma di lire 2,250, non puo' accrescersi con ulteriori depositi, e cessa di essere fruttifero trascorso un anno, dopo uno speciale avviso da pubblicarsi alla porta d'ingresso della Cassa di risparmio; scorsi trent'anni da che la somma depositata, congiuntamente ai frutti e frutti de' frutti, e' pervenuta a lire 2,250, allora si considera prescritta l'azione all'esigenza, ed il credito va ad accrescere il capitale sociale.»   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 24 febbraio 1869.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 3 marzo 1869   
+  
+Reg. 46 Atti del Governo a c. 28. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli De Filippo.   
+  
+A. Ciccone.   
+  

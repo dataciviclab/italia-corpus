@@ -1,0 +1,18 @@
+DECRETO LUOGOTENENZIALE 12 aprile 1946 n. 507
+
+
+DECRETO LUOGOTENENZIALE 12 aprile 1946 n. 507
+=============================================
+
+Erezione in ente morale della "Fondazione Lina Belluzzo" di Milano.
+-------------------------------------------------------------------
+
+Art. 1
+------
+
+N.
+
+507. Decreto Luogotenenziale 12 aprile 1946, col quale, sulla proposta del Ministro per la pubblica istruzione, viene costituita presso il Reale istituto lombardo di scienze e lettere di Milano ed eretta in ente morale la "Fondazione Lina Belluzzo" avente lo scopo di assegnare ogni anno un premio al laureato del Regio politecnico di Milano; il quale abbia conseguito il massimo della somma dei voti di esame finale in matematica, fisica, teoria delle macchine, disegno di macchine, teoria delle macchine termiche ed idrauliche, costruzione delle macchine e dei motori, secondo le norme di cui allo statuto annesso al predetto decreto Luogotenenziale.  
+  
+Visto, il Guardasigilli: TOGLIATTI  
+Registrato alla Corte dei conti, addi' 9 giugno 1946

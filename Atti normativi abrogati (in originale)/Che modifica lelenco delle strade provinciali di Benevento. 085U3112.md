@@ -1,0 +1,61 @@
+REGIO DECRETO 30 aprile 1885 n. 3112
+
+
+REGIO DECRETO 30 aprile 1885 n. 3112
+====================================
+
+Che modifica l'elenco delle strade provinciali di Benevento. (085U3112)
+-----------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/06/1885
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Viste le deliberazioni 30 ottobre 1884 della Deputazione provinciale di Benevento e 21 novembre stesso anno di quel Consiglio provinciale, con cui sull'invito del Ministero dei Lavori Pubblici perche' fossero dichiarate provinciali le opere inscritte nell'elenco III, tabella B, della legge 23 luglio 1881, sotto i numeri 34, 35 e 36, si stabiliva di sospendere ogni decisione in proposito, stante l'assoluta deficienza nel bilancio provinciale dei fondi necessari a costruire le opere medesime;   
+  
+Visto il manifesto 3 dicembre 1884 del prefetto di Benevento, con cui, ritenuto l'assenso della provincia, a termine dell'art. 1° del regolamento 20 marzo 1884 (per lo esercizio della legge 23 luglio 1881, gia' ricordata) venivano ordinate le pubblicazioni volute dall'art. 14 della legge sulle opere pubbliche;   
+  
+Visti i certificati di eseguita pubblicazione in tutti i comuni della provincia del manifesto medesimo, da cui risulta che niuna opposizione venne elevata ne' dai comuni, ne' dalla provincia stessa, se si eccettua un ricorso del comune di San Bartolomeo in Galdo, il quale, riguardando solo il tracciato della strada n. 36, non e' per ora il caso di occuparsene;   
+  
+Visto il voto 11 aprile 1885 del Consiglio superiore dei lavori pubblici, che riconosce nelle tre opere di che e' parola i caratteri di provincialita' dalla legge richiesti;   
+  
+Considerando:   
+  
+Che la strada n. 34 comune alla provinciale di Benevento e Campobasso, trovasi pel tratto scorrente quest'ultima provincia gia' regolarmente classificato con Regio decreto 8 luglio 1883;   
+  
+Che parimente classificato, per quanto riguarda la provincia di Caserta, trovasi il ponte sul Volturno (n. 35), comune alle provincie di Caserta e Benevento;   
+  
+Che finalmente anche con Regio decreto 25 dicembre 1884 veniva classificato il tronco della strada n. 36, scorrente nella provincia di Foggia, cosi' che ora non rimane da classificare che il solo tronco interessante quello di Benevento;   
+  
+Visti gli articoli 14 della legge 20 marzo 1865, all. F, 4 della [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333), e 1° del regolamento approvato col R. decreto 20 marzo 1884;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici,   
+  
+Abbiamo decretato e decretiamo:   
+  
+All'elenco delle strade provinciali di Benevento sono aggiunte, per la parte che interessa la detta provincia, le opere seguenti:   
+  
+N. 34 (Benevento-Campobasso) - Strada dalla provinciale di serie Benevento-Foiano, presso San Marco dei Cavoti a Colle Sannita, Castelpagano, Riccio, ed alla nazionale fra Gambatesa e Jelsi;   
+  
+N. 35 (Benevento-Caserta) - Ponte sul Volturno per congiungere le provinciali fra Caserta e Benevento;   
+  
+N. 36 (Benevento-Foggia) - Strada da San Bartolomeo in Galdo a Roseto, Valfortore e Biccari.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 aprile 1885.   
+  
+UMBERTO.   
+  
+Genala.   
+  
+Visto, Il Guardasigilli: Pessina.   
+  

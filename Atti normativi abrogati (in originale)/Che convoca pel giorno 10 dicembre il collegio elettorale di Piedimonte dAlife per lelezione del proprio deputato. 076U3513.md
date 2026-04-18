@@ -1,0 +1,42 @@
+REGIO DECRETO 30 novembre 1876 n. 3513
+
+
+REGIO DECRETO 30 novembre 1876 n. 3513
+======================================
+
+Che convoca pel giorno 10 dicembre il collegio elettorale di Piedimonte d'Alife, per l'elezione del proprio deputato. (076U3513)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/12/1876
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduti il Messaggio in data del 24 novembre 1876, col quale l'Ufficio di Presidenza della Camera dei deputati notifico' essere vacante il Collegio di Piedimonte d'Alife;   
+  
+Veduto l'articolo 63 della legge per le elezioni politiche 17 dicembre 1860, n. 4513;   
+  
+Sulla proposizione del Nostro Ministro Segretario di Stato per gli affari dell'Interno,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il Collegio elettorale Piedimonte d'Alife e' convocato pel giorno 10 dicembre prossimo affinche' proceda alla elezione del Proprio deputato,   
+  
+Occorrendo una seconda votazione essa avra' luogo il 17 dello stesso mese.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 novembre 1876.   
+  
+VITTORIO EMANUELE.   
+  
+G. NICOTERA.   
+  
+  

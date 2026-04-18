@@ -1,0 +1,51 @@
+REGIO DECRETO 04 giugno 1882 n. DLXX
+
+
+REGIO DECRETO 04 giugno 1882 n. DLXX
+====================================
+
+Che scioglie la congregazione di carita' del comune di Pennadomo (Chieti). (8200570R)
+-------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/08/1882
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'Interno, presidente del consiglio dei ministri;   
+  
+Visto che da parecchi anni la congregazione di carita' del comune di Pennadomo trovasi in condizioni anormali e vane sono tornate le pratiche per farla funzionare regolarmente e per riscuotere le rendite di quella pia amministrazione che sono tutte contestate;   
+  
+Visto il voto unanime del consiglio comunale nell'adunanza del 21 ottobre 1881 per lo scioglimento di detta congregazione;   
+  
+Vista la conforme deliberazione della deputazione provinciale di Chieti;   
+  
+Vista la legge 3 agosto 1862 sulle opere pie;   
+  
+Udito l'avviso del consiglio di Stato;   
+  
+Abbiamo decretato e decretiamo:   
+  
+La congregazione di carita' del comune di Pennadomo (Chieti) e' sciolta, e la rispettiva amministrazione e' affidata ad un regio Commissario da nominarsi dal Prefetto di detta Provincia pel tempo necessario a sistemarla ed a rivendicare i crediti della medesima.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 giugno 1882.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 16 giugno 1882.   
+  
+Reg. 120 Atti del Governo a f. 126. Pellizzoli.   
+  
+Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli.   
+  
+Depretis.   
+  

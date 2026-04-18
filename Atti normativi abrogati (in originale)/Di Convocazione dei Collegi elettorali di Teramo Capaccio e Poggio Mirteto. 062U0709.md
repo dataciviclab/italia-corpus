@@ -1,0 +1,50 @@
+REGIO DECRETO 17 luglio 1862 n. 709
+
+
+REGIO DECRETO 17 luglio 1862 n. 709
+===================================
+
+Di Convocazione dei Collegi elettorali di Teramo, Capaccio, e Poggio Mirteto. (062U0709)
+----------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/08/1862
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il Messaggio in data del 14 volgente luglio, col quale l'Ufficio di Presidenza della Camera dei Deputati notifica la vacanza dei Collegi elettorali di Teramo, n.° 8, di Capaccio, n.° 245, e di Poggio Mirteto, n.° 439;
+
+Veduto l'articolo 63 della legge elettorale;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I Collegi elettorali di Teramo, n.° 8, di Capaccio, n.° 243, e di Poggio Mirteto, n.° 439, sono convocati pel giorno 10 agosto prossimo affine di procedere all'elezione dei rispettivi Deputati.   
+  
+Occorrendo una seconda votazione, essa avra' luogo il giorno 17 successivo.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato in Torino addi' 17 luglio 1862.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 21 luglio 1862   
+  
+Reg.° 20 Atti del Governo a c. 124. Wehlrin.   
+  
+Luogo del Sigillo. V. Il Guardasigilli R. Conforti.   
+  
+U. Rattazzi.   
+  

@@ -1,0 +1,25 @@
+REGIO DECRETO 02 luglio 1896 n. CCXXXIX
+
+
+REGIO DECRETO 02 luglio 1896 n. CCXXXIX
+=======================================
+
+Che autorizza il comune di Potenza ad esigere un dazio di consumo sulla carta da involti e sul cartone; sulle porcellane, terraglie e maioliche e sulle vetrerie e cristallerie. (9600239R)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/07/1896
+
+Art. 1
+------
+
+  
+Che autorizza il comune di Potenza ad esigere un dazio di consumo sulla carta da involti e sul cartone; sulle porcellane, terraglie e maioliche e sulle vetrerie e cristallerie.   
+  
+Il dazio che il comune di Potenza potra' esigere sui detti generi, e' quello indicato nella annessa tariffa:   
+  
+Cartone e carta da avvolgere al quintale lire 3. - Maioliche in vasi ed utensili diversi, ed in qualunque altro lavoro lire 10. - Cretaglie in vasellami artistici e di lusso di qualsiasi specie verniciati o colorati lire 20. - Porcellana in lavori diversi lire 20. - Vetrami e cristalli di qualunque forma ed uso, escluse le bottiglie di vetro oscuro o nero, le damigiane, o bottiglioni, i fiaschi, i bicchieri per pile ed altri apparecchi pel servizio telegrafico lire 6. - Firmato UMBERTO - Contrassegnato Branca - Visto G. Costa.   
+  
+Registrato alla Corte dei conti addi' 10 luglio 1896.   
+  
+Reg. 206. Atti del Governo a f. 163.   
+  

@@ -1,0 +1,40 @@
+LEGGE 30 maggio 1970 n. 361
+
+
+LEGGE 30 maggio 1970 n. 361
+===========================
+
+Passaggio in ruolo degli operai stagionali occupati presso le agenzie e manifatture dei monopoli di Stato.
+----------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+----------------------------------------------------------
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+Gli operai, uomini e donne, assunti per lavori di carattere stagionale delle Direzioni compartimentali coltivazioni tabacchi, in servizio per qualsiasi periodo nel 1960 e negli anni successivi e che negli ultimi due anni abbiano lavorato oltre 200 giorni in ciascun anno, sono inquadrati nel ruolo del personale permanente delle agenzie coltivazioni e manifatture sino al loro totale assorbimento, attraverso concorsi che saranno localmente banditi entro un anno dall'entrata in vigore della presente legge dalle agenzie e manifatture stesse ai sensi dell'[articolo 1 della legge 31 marzo 1955, n. 265](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-03-31;265~art1).   
+L'assenza dal servizio per comprovata malattia e' considerata come presenza al lavoro.   
+Ai fini dell'applicazione della presente legge, gli interessati debbono presentare, a pena di decadenza entro due mesi dalla data di entrata in vigore della legge stessa, apposita domanda alla Direzione generale monopoli di Stato e non devono avere superato il 45° anno di eta' al 1 gennaio 1960.   
+I concorsi presso le agenzie saranno indetti ed espletati prima dei concorsi presso le manifatture.   
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 30 maggio 1970
+
+SARAGAT RUMOR - PRETI
+
+Visto, il Guardasigilli: REALE

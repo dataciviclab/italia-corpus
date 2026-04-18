@@ -1,0 +1,68 @@
+REGIO DECRETO 14 novembre 1870 n. 6008
+
+
+REGIO DECRETO 14 novembre 1870 n. 6008
+======================================
+
+Modifica la circoscrizione dei Collegi elettorali della Provincia di Firenze. (070U6008)
+----------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/12/1870
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la Legge elettorale politica 17 dicembre 1860, n. 4513, e l'annessa Tabella della circoscrizione dei Collegi elettorali;
+
+Vista la [Legge 27 aprile 1860, n. 2255](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1860-04-27;2255), colla quale fu approvata l'ampliazione del territorio della citta' di Firenze;
+
+Visto il Nostro Decreto 26 luglio 1865, n. 2412, col quale, in esecuzione di detta Legge, furono determinati i nuovi confini territoriali della citta' di Firenze e dei Comuni suburbani, e vennero soppressi i Comuni di Rovezzano, Legnaia e Pellegrino da Careggi, aggiungendo i territori di quelli in parte al Comune di Firenze, ed in parte ai Comuni di Bagno a Ripoli, Galluzzo, Fiesole, Sesto e Casellina e Torri, e parte anche dei Comuni di Galluzzo e Bagno a Ripoli al Comune di Firenze;
+
+Visto il Nostro Decreto 3 marzo 1867, n. 3576, col quale fu costituita nel 4° Collegio di Firenze la nuova Sezione dell'Impruneta;
+
+Visto l'altro Nostro Decreto 25 novembre 1869, col quale fu approvata la rettificazione dei confini territoriali dei Comuni di Firenze e Bagno a Ripoli;
+
+Vista la istanza avanzata dal Comune di Firenze per la modificazione della circoscrizione delle Sezioni dei Collegi elettorali di n. 167, 169, 170 e 172, resa necessaria dalle variazioni introdotte coi citati provvedimenti;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
+
+Sentito
+-------
+
+il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La circoscrizione dei Collegi elettorali di n. 167, 169, 170 e 172 della Provincia di Firenze, resultante dalla Tabella annessa alla [Legge 17 dicembre 1860, n. 4513](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1860-12-17;4513), e' modificata come dalla Tabella che va unita al presente Decreto, la quale sara' d'ordine Nostro firmata dal Ministro dell'Interno.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 14 novembre 1870.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 22 novembre 1870   
+  
+Reg. 53 Atti del Governo a c. 45. Crodara Visconti.   
+  
+Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
+  
+G. Lanza.   
+  
+
+Tabella
+
+  
+TABELLA   
+  
+della nuova circoscrizione dei seguenti Collegi elettorali della Provincia di Firenze.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=070U600800100010110001&dgu=1870-11-20&art.dataPubblicazioneGazzetta=1870-11-20&art.codiceRedazionale=070U6008)
+  

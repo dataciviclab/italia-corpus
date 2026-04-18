@@ -1,0 +1,49 @@
+REGIO DECRETO 06 gennaio 1924 n. 21
+
+
+REGIO DECRETO 06 gennaio 1924 n. 21
+===================================
+
+Modificazione all'art. 84 del regolamento per l'esercizio e la sorveglianza delle caldaie e dei recipienti di vapore. (024U0021)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/01/1924
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto 7 novembre 1920, n. 1691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-07;1691), che approva il regolamento per l'esercizio e per la sorveglianza delle caldaie a vapore e dei recipienti di vapore;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale, di concerto col Nostro Ministro Segretario di Stato per l'interno, Presidente del Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'art. 84 del regolamento per l'esercizio e per la sorveglianza delle caldaie e dei recipienti di vapore, approvato con [R. decreto 7 novembre 1920, n. 1691](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-11-07;1691), e' modificato come segue:   
+  
+«Art. 84. - Qualora in una regione dove non funzioni alcuna associazione, o vi funzioni un'associazione che non vi abbia la sua sede principale, s'intenda costituire un'associazione autonoma, occorre che questa raccolga almeno cinquecento apparecchi a vapore esistenti nella regione e sia regolata in modo da consentire, a giudizio del competente Ministero, una normale attivita'».   
+  
+Il presente decreto entrera' in vigore dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 6 gennaio 1924.   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Corbino.   
+  
+Visto, il Guardasigilli: Oviglio.   
+  
+Registrato alla Corte dei conti, addi' 25 gennaio 1924.   
+  
+Atti del Governo, registro 220, foglio 296. - Granata.   
+  

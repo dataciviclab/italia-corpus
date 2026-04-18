@@ -1,0 +1,65 @@
+REGIO DECRETO 16 ottobre 1924 n. 2078
+
+
+REGIO DECRETO 16 ottobre 1924 n. 2078
+=====================================
+
+Approvazione della convenzione suppletiva 18 settembre 1924 a modificazione delle convenzioni per la concessione e l'elettrificazione della ferrovia Torino-Cirie-Lanzo-Ceres. (024U2078)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/01/1925
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la [legge 14 maggio 1865, n. 2279](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-05-14;2279), con cui venne approvata la convenzione stipulata il 21 maggio 1864 fra il Ministro per i lavori pubblici, per conto dell'Amministrazione dello Stato e l'ing. Gaetano Capuccio per la concessione della costruzione e dell'esercizio di un ferrovia a sezione normale ed a trazione a vapore da Torino a Cirie';   
+  
+Ritenuto che nella detta concessione subentro' all'ing. Capuccio la « Societa' canavese per la strada ferrata da Torino a Cirie' » costituita in Torino con atto pubblico 13 luglio 1865 ed autorizzata con R. decreto 1° ottobre 1865;   
+  
+Vista la [legge 31 maggio 1876, n. 3139](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1876-05-31;3139) (serie 2ª), con cui venne approvata la convenzione 12 dicembre 1875 stipulata con la « Societa' canavese per la strada ferrata da Torino a Cirie' » per la concessione d'una ferrovia da Cirie' a Lanzo;   
+  
+Visto il Nostro decreto 8 giugno 1911, n. 688, con cui fu approvata la convenzione suppletiva, con la medesima Societa' per l'impianto del secondo binario nel tronco Borgaro-Cirie' della ferrovia Torino-Cirie';   
+  
+Visto il Nostro decreto 17 ottobre 1912, n. 1164, con cui fu approvata la convenzione 31 agosto 1912 stipulata con la medesima Societa' per la concessione della costruzione e dell'esercizio della ferrovia a trazione a vapore ed a sezione normale da Lanzo a Ceres;   
+  
+Ritenuto che la Societa' in parola ha modificato in seguito la denominazione sociale in quella di « Societa' anonima ferrovia Torino-Cirie-Valli di Lanzo »   
+  
+Visto il Nostro decreto 29 ottobre 1920 con cui fu approvata e resa esecutoria la convenzione suppletiva stipulata il 13 ottobre 1920 con la medesima Societa' per l'elettrificazione della ferrovia Torino-Cirie-Lanzo-Ceres;   
+  
+Viste le istanze 19 febbraio e 23 marzo 1923 con cui la Societa' concessionaria ha chiesto alcune modifiche ai patti di concessione;   
+  
+Visto il testo unico di legge approvato con [R. decreto 9 maggio 1912, n. 1447](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-05-09;1447);   
+  
+Visti i [decreti-legge 23 febbraio 1919, n. 303; 8 luglio 1919, n. 1327; 23 gennaio 1921, n. 56; 31 agosto 1921, numero 1222; 6 febbraio 1923, n. 431, e 23 maggio 1924, n. 996](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-05-23;996);   
+  
+Sentito il Consiglio superiore dei lavori pubblici;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta dei Nostri Ministri Segretari di Stato per i lavori pubblici e per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione suppletiva stipulata il 18 settembre 1924 fra i delegati dei Ministri per i lavori pubblici e per le finanze ed il legale rappresentante della « Societa' anonima Torino Cirie-Valli di Lanzo » a modificazione delle convenzioni per la concessione e l'elettrificazione della ferrovia Torino-Cirie-Lanzo-Ceres.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 16 ottobre 1924.   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Sarrocchi - De' Stefani.   
+  
+Visto, il Guardasigilli Oviglio.   
+  
+Registrato alla Corte dei conti, addi' 22 dicembre 1924.   
+  
+Atti del Governo, registro 231, foglio 166. - Granata.   
+  

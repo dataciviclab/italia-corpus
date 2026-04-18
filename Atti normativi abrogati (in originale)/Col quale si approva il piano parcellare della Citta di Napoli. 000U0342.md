@@ -1,0 +1,45 @@
+REGIO DECRETO 13 settembre 1900 n. 342
+
+
+REGIO DECRETO 13 settembre 1900 n. 342
+======================================
+
+Col quale si approva il piano parcellare della Citta' di Napoli. (000U0342)
+---------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/10/1900
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il piano parcellare di espropriazioni suppletive per il risanamento parziale e l'ampliamento del rione Santa Lucia, in Napoli, a firma dell'ingegnere ispettore sig. Pietro Pulle', e dell'ispettore capo sig. Adolfo Giambarba, deliberato da quel Consiglio comunale nell'adunanza del 26 giugno 1899;   
+  
+Veduto il parere del Consiglio superiore dei Lavori Pubblici, in data 26 marzo 1900;   
+  
+Udito il parere della Commissione centrale per il risanamento della citta' di Napoli, in data 25 agosto 1900;   
+  
+Veduti i RR. decreti 22 luglio 1886 e 6 gennaio 1898;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il suindicato piano parcellare suppletivo e' approvato.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Capodimonte (Napoli), addi' 13 settembre 1900.   
+  
+VITTORIO EMANUELE.   
+  
+Saracco.   
+  
+Visto, Il Guardasigilli: Gianturco.   
+  

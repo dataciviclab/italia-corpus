@@ -1,0 +1,37 @@
+LEGGE 13 luglio 1965 n. 893
+
+
+LEGGE 13 luglio 1965 n. 893
+===========================
+
+Modificazioni ed integrazioni delle leggi 3 agosto 1949, n. 589 e 15 febbraio 1953, n. 184, per quanto riguarda la costruzione di acquedotti e le reti interne di distribuzione nei Comuni della Sicilia.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+A modifica di quanto disposto dall'[articolo 3 della legge 3 agosto 1949, n. 589](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-08-03;589~art3), e dall'[articolo 1 della legge 15 febbraio 1953, n. 184](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1953-02-15;184~art1), spetta all'Ente acquedotti siciliani di provvedere - per conto e nell'interesse dei Comuni della Regione siciliana i quali intendano ricostruire, ampliare o migliorare gli acquedotti e le reti interne di distribuzione - a tutti gli adempimenti previsti dalle leggi citate.  
+L'Ente acquedotti siciliani, in base ad apposite convenzioni con i Comuni, puo' sostituirsi agli stessi anche per quanto riguarda la contrattazione dei mutui.  
+Possono essere esclusi dall'applicazione delle disposizioni di cui ai precedenti commi i Comuni riuniti in Consorzio ai quali sia riconosciuto dal Ministero dei lavori pubblici il possesso di un'adeguata attrezzatura tecnica ed amministrativa che assicuri la soddisfacente esecuzione delle opere da realizzare e la loro manutenzione.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 13 luglio 1965
+
+SARAGAT MORO - MANCINI - TAVIANI - COLOMBO
+
+Visto, il Guardasigilli: REALE

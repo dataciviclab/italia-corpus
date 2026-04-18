@@ -1,0 +1,90 @@
+REGIO DECRETO 30 dicembre 1929 n. 2170
+
+
+REGIO DECRETO 30 dicembre 1929 n. 2170
+======================================
+
+11ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1929 -30. (029U2170)
+-------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/01/1930
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'[art. 42 del R. decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art42),
+
+sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+
+Ritenuto che sul fondo di riserva per le spese impreviste dell'esercizio finanziario 1929-30 sono disponibili lire 20,501,166;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 222 dello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1929-30, e' autorizzata una 11ª prelevazione nella somma di lire 4,672,505.10, da inscrivere, ripartitamente, ai seguenti capitoli degli stati di previsione dei Ministeri sottoindicati, per l'esercizio finanziario medesimo:   
+  
+Ministero delle finanze:   
+  
+Cap. n. 36 - Funzioni pubbliche e feste governative. . .   
+L. 2,000,000. -   
+  
+Cap. n. 303-bis (di nuova istituzione) - Somma da pagare all'Azienda elettrica del Governatorato di Roma per sopraprezzo, dovuto in base al [decreto Luogotenenziale 27 febbraio 1919, n. 250](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1919-02-27;250), su consumo di energia elettrica fornita dal maggio 1921 a tutto dicembre 1927. . .   
+» 131,705.10   
+  
+Cap. n. 472 (aggiunto - in conto competenza) - Assegnazione straordinaria per lavori da eseguirsi al Palazzo Venezia, in Roma, ecc. . .   
+» 650,000. -   
+  
+Ministero delle colonie:   
+  
+Cap. n. 28-quinquies (di nuova istituzione) Assegnazione straordinaria per l'esecuzione di riparazioni straordinarie ai cavi telegrafici sottomarini Siracusa - Tripoli e Siracusa-Bengasi. . .   
+L. 500,000. -   
+  
+Ministero dell'interno:   
+  
+Cap. n. 2 - Assegni per spese di rappresentanza, ecc. . . .   
+L. 300,000. -   
+  
+Cap. n. 47 - Spese per provvedimenti profilattici contro le endemie, ecc.. . .   
+» 200,000. -   
+  
+Ministero delle corporazioni:   
+  
+Cap. n. 51 - Spese per la partecipazione dell'Italia alla Esposizione internazionale di Barcellona del 1929. . .   
+» 750,000. -   
+  
+Cap. n. 51-bis (di nuova istituzione) Rimborso all'Istituto nazionale per la esportazione delle spese sostenute ai fini della partecipazione italiana alla Fiera internazionale di Parigi del 1929 . . .   
+» 140,800. -   
+------------   
+Totale . . . L. 4,672,505.10   
+------------   
+  
+Questo decreto sara' presentato al Parlamento per la sua convalidazione e il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 dicembre 1929 - Anno VIII   
+  
+VITTORIO EMANUELE.   
+  
+  
+Mussolini- Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 31 dicembre 1929 - Anno VIII   
+  
+Atti del Governo, registro 291, foglio 142. - Ferzi.   
+  

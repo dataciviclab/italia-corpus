@@ -1,0 +1,49 @@
+REGIO DECRETO 07 maggio 1882 n. DLII
+
+
+REGIO DECRETO 07 maggio 1882 n. DLII
+====================================
+
+Che erige in corpo morale il pio legato Carboni esistente in Brescia e ne approva lo statuto. (8200552R)
+--------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/07/1882
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;   
+  
+Veduto il testamento 2 dicembre 1876 col quale il defunto commendatore Luigi Carboni lasciava a tutti i parroci della citta' di Brescia in numero di nove L. 1000 all'anno per ciascuno, da erogarsi d'accordo coi loro curati ai poveri delle rispettive parrocchie in perpetuo;   
+  
+Veduta la domanda del collegio dei parroci suddetti, per ottenere la costituzione in ente morale, di quel pio legato e l'approvazione del corrispondente statuto organico;   
+  
+Sentito il consiglio di Stato;   
+  
+Veduti la legge 3 agosto 1862 e il corrispondente regolamento 27 novembre stesso anno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il pio legato Carboni istituito, come sopra, a favore dei poveri delle parrocchie di Brescia col citato testamento, e' eretto in ente morale e ne e' approvato il corrispondente statuto organico, portante la data del 1° febbraio 1882, composto di dieci articoli, visto e sottoscritto d'ordine nostro dal ministro proponente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 7 maggio 1882.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 31 maggio 1882.   
+  
+Reg. 120 Atti del Governo a f 92. Pellizzoli.   
+  
+Luogo del Sigillo V. Il Guardasigilli G. Zanardelli.   
+  
+Depretis.   
+  

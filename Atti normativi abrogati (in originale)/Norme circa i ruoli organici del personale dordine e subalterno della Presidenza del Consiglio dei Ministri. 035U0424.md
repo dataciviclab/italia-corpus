@@ -1,0 +1,56 @@
+REGIO DECRETO 01 aprile 1935 n. 424
+
+
+REGIO DECRETO 01 aprile 1935 n. 424
+===================================
+
+Norme circa i ruoli organici del personale d'ordine e subalterno della Presidenza del Consiglio dei Ministri. (035U0424)
+------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/05/1935
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Viste le [leggi 30 giugno 1908, n. 304, 11 giugno 1914, n.503, e 7 aprile 1921, n. 371](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1921-04-07;371);
+
+Visto il R. decreto 11 novembre 1923-II, n. 2395, sull'ordinamento gerarchico delle Amministrazioni dello Stato;
+
+Vista la legge 3 gennaio 1926-IV, n. 100;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro per l'interno, e del Ministro per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I ruoli organici del personale d'ordine e subalterno della Presidenza del Consiglio dei Ministri di cui alle tabelle nn. 8 e 5 degli allegati II e IV del R. decreto 11 novembre 1923-II, n. 2395, sono considerati, a tutti gli effetti, ruoli ordinari e permanenti.   
+  
+Le promozioni ai gradi ottavo a decimo del primo degli anzidetti ruoli sono conferite agli impiegati che abbiano prestato, nei gradi immediatamente inferiori, almeno tre anni di lodevole servizio.   
+  
+Al reclutamento del personale del grado iniziale del medesimo ruolo e del personale subalterno sara' provveduto a scelta fra gli applicati ed i commessi del Ministero dell'interno. Per altro, nella prima applicazione del presente decreto, la nomina a primo commesso potra' esser fatta anche mediante scelta fra uscieri che abbiano prestato, alla dipendenza dello stesso Ministero, non meno di dieci anni di servizio di ruolo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 1° aprile 1935 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 18 aprile 1935 - Anno XIII   
+Atti del Governo, registro 359, foglio 141. - Mancini.   

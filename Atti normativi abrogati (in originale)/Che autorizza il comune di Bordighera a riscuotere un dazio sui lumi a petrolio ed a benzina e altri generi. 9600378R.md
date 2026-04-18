@@ -1,0 +1,35 @@
+REGIO DECRETO 05 ottobre 1896 n. CCCLXXVIII
+
+
+REGIO DECRETO 05 ottobre 1896 n. CCCLXXVIII
+===========================================
+
+Che autorizza il comune di Bordighera a riscuotere un dazio sui lumi a petrolio ed a benzina e altri generi. (9600378R)
+-----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/11/1896
+
+Art. 1
+------
+
+  
+Col quale il comune di Bordighera e' autorizzato, a seconda della proposta fatta con la deliberazione consiliare 30 maggio 1896, a riscuotere un dazio sui lumi a petrolio ed a benzina, e su alcuni altri generi, attenendosi alla seguente tariffa:   
+  
+Lumi a benzina o da petrolio,   
+esclusi   
+quelli di solo metallo . . . . . . . . . . . . . Quintale L. 5 Turaccioli e tappi di sughero . . . . . . . . . . » » 6 Secchi e mastelli nuovi di qualunque legname . . . » » 3 Vasellame e terraglie verniciate o non,   
+servienti a qualunque uso e d'infima qualita' . » » 2 Vasellame e terraglie verniciate in bianco od a   
+colori di seconda qualita' e maiolica ordinaria   
+bianca o colorata ed anche con filetto dorato (1) » » 5 Stoviglie di porcellana, di altre terre e   
+maiolica fina (1) . . . . . . . . . . . . . . . » » 10 Carta detta straccia e cartoni ordinari (2) . . . » » 2 Spazzole da pavimento . . . . . . . . . . . . . . » » 5 Firmato UMBERTO - Contrassegnato Branca - Visto G. Costa.   
+  
+Registrato alla Corte dei Conti addi' 27 ottobre 1896.   
+  
+Reg. 207. Atti del Governo a f. 224.   
+  
+Avvertenze.   
+  
+(1) Esclusi i materiali ed oggetti destinati esclusivamente in servizio dell'amministrazione governativa dei telegrafi.   
+  
+(2) S' intende la carta ordinaria, sugante, grossolana da involto, da scenario, da vermicellai, da macellai, ecc., e il cartone ordinario di ogni qualita'.   
+  

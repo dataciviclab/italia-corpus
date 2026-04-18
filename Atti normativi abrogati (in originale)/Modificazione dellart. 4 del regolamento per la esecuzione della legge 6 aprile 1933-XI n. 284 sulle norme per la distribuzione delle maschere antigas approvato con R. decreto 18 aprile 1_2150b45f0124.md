@@ -1,0 +1,50 @@
+REGIO DECRETO 08 ottobre 1936 n. 1935
+
+
+REGIO DECRETO 08 ottobre 1936 n. 1935
+=====================================
+
+Modificazione dell'art. 4 del regolamento per la esecuzione della legge 6 aprile 1933-XI, n. 284, sulle norme per la distribuzione delle maschere antigas, approvato con R. decreto 18 aprile 1935-XIII, n. 919. (036U1935)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/11/1936
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Vista la legge 6 aprile 1933-XI, n. 284, che detta norme relative alla distribuzione di maschere antigas;
+
+Visto il R. decreto 18 aprile 1935-XIII, n. 919, che approva il regolamento per l'esecuzione della predetta legge;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per la guerra, di concerto con il Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Nell'art. 4 del regolamento per l'esecuzione della legge 6 aprile 1933-XI, n. 284, che detta norme per la distribuzione delle maschere antigas, approvato con R. decreto 18 aprile 1935-XIII, n. 919, le parole: Nel termine di tre anni dall'entrata in vigore del presento regolamento sono sostituite dalle seguenti: Entro il 31 dicembre 1937-XVI   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque Spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi 8 ottobre 1936 - Anno XIV   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL.   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 11 novembre 1936 - Anno XV   
+Atti del Governo, registro 37, foglio 41. - MANCINI.   

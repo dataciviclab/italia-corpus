@@ -1,0 +1,21 @@
+REGIO DECRETO 11 luglio 1899 n. CCXLIII
+
+
+REGIO DECRETO 11 luglio 1899 n. CCXLIII
+=======================================
+
+Che trasforma il monte frumentario di Castorano in una cassa di prestanze agrarie. (9900243R)
+---------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/08/1899
+
+Art. 1
+------
+
+  
+Che trasforma il Monte frumentario di Castorano in cassa di prestanze agrarie e ne approva lo statuto. - Firmato UMBERTO - Controfirmati Pelloux, Salandra - Visto A. Bonasi.   
+  
+Registrato alla Corte dei conti addi' 14 agosto 1899.   
+  
+Reg. 220. Atti del Governo a f. 142.   
+  

@@ -1,0 +1,48 @@
+REGIO DECRETO 09 giugno 1930 n. 822
+
+
+REGIO DECRETO 09 giugno 1930 n. 822
+===================================
+
+Approvazione di una variante al piano regolatore di ampliamento della citta' di Firenze, nella zona del Romito. (030U0822)
+--------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/07/1930
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III.   
+  
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+  
+RE D'ITALIA   
+  
+Visto il Nostro [decreto-legge 13 gennaio 1924, n. 170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1924-01-13;170), convertito nella [legge 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che approvo' il piano regolatore di ampliamento della citta' di Firenze;   
+Visto il Nostro decreto 6 settembre 1928 che approvo' i piani parcellari della zona del Romito;   
+Vista la domanda in data 13 marzo 1930 presentata dal podesta' di Firenze per ottenere che sia approvata una modificazione al piano regolatore per destinare, in detta zona, a lotto edificatorio un'area nella quale secondo il piano regolatore e' prevista la costruzione di un giardino;   
+Ritenuto che il procedimento seguito e' regolare e che durante le pubblicazioni non furono presentati reclami;   
+Considerato che la proposta variante, la quale in sostanza si risolve in una modificazione del piano regolatore, appare giustificata, poiche' mentre non pregiudica affatto l'igiene, in quanto colle quattro piazze esistenti nelle immediate vicinanze e' ampiamente assicurata la esistenza di zone sufficienti per l'aereazione e per l'illuminazione dei fabbricati, assicura al Comune una cospicua economia, valutata in lire 372.375, oltre il risparmio della spesa per la costruzione e il mantenimento del giardino;   
+Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);   
+Visto l'art. 4 del su citato decreto 13 gennaio 1924, n. 170;   
+Visto il voto del Consiglio superiore dei lavori pubblici;   
+Udito il parere del Consiglio di Stato;   
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici;   
+Abbiamo decretato e decretiamo:   
+E' approvata la su indicata variante del piano regolatore di ampliamento della citta' di Firenze, nella zona del Romito, giusta progetto, vistato, d'ordine Nostro, dal Ministro proponente, in una planimetria in iscala 1:2500 e in un elenco dei beni interessati nella variante.   
+Sono estese alla variante tutte le disposizioni del [R. decreto 13 gennaio 1924, n. 170](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-01-13;170), nonche' il termine vigente per il piano regolatore.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 9 giugno 1930 - Anno VIII   
+  
+VITTORIO EMANUELE.   
+  
+  
+Di Crollalanza   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 25 giugno 1930 - Anno VIII   
+Atti del Governo, registro 297, foglio 97. - Mancini.   
+  

@@ -1,0 +1,31 @@
+REGIO DECRETO 20 novembre 1864 n. MCCCCXXXII
+
+
+REGIO DECRETO 20 novembre 1864 n. MCCCCXXXII
+============================================
+
+Per l'abrogazione dei Regolamenti circa la caccia e distruzione delle cavallette nelle Provincie Napolitane. (6401432R)
+-----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/12/1864
+
+Articolo unico
+--------------
+
+  
+  
+I Regolamenti emanati sotto il Governo Napoleonico il 10 agosto 1812 ed il 24 marzo 1813 relativi allo scavo ed alla estirpazione delle ovaie dei grilli, ossia cavallette, e per la caccia e distruzione degli insetti stessi nelle Provincie Napolitane, stati posteriormente convalidati sotto il cessato Governo Borbonico, sono abrogati.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 20 novembre 1864.   
+  
+VITTORIO EMANUELE.   
+  
+Registrato alla Corte dei conti addi' 6 dicembre 1864   
+Reg.° 31 Atti del Governo a c. 200. Ayres.   
+Luogo del Sigillo. V. Il Guardasigilli VACCA.   
+  
+TORELLI.   
+  
+  

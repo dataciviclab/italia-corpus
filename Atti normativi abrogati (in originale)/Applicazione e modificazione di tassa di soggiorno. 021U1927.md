@@ -1,0 +1,17 @@
+REGIO DECRETO 24 novembre 1921 n. 1927
+
+
+REGIO DECRETO 24 novembre 1921 n. 1927
+======================================
+
+Applicazione e modificazione di tassa di soggiorno. (021U1927)
+--------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/02/1922
+
+Art. 1
+------
+
+N.
+
+1927. Regio decreto 24 novembre 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, si omologa la modificazione degli articoli 8 e 10 del regolamento per la applicazione della tassa di soggiorno nel comune di Riolo dei Bagni (Ravenna).

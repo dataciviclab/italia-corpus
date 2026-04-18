@@ -1,0 +1,46 @@
+REGIO DECRETO 16 marzo 1862 n. 538
+
+
+REGIO DECRETO 16 marzo 1862 n. 538
+==================================
+
+Col quale viene aumentato il numero dei Membri della Giunta consultiva di statistica. (062U0538)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/04/1862
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto l'art. 9 del Nostro Reale Decreto in data 9 ottobre 1861, col quale s'istituiva una Giunta consultiva di statistica composta di un Presidente e di otto Consiglieri, e ritenuta la convenienza di aumentare il numero dei componenti la Giunta medesima;
+
+Sulla
+-----
+
+proposizione del Ministro Segretario di Stato per l'Agricoltura, l'Industria ed il Commercio; Abbiamo ordinato ed ordiniamo:
+
+Articolo unico
+--------------
+
+  
+  
+La Giunta consultiva di statistica si comporra' di un Presidente e di dieci Consiglieri di nomina regia.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato in Torino addi' 16 marzo 1862.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 19 marzo 1862   
+  
+Reg.° 19 Atti del Governo a c. 126. Wehrlin.   
+  
+Luogo del Sigillo. V. Il Guardasigilli Rattazzi.   
+  
+Pepoli.   
+  

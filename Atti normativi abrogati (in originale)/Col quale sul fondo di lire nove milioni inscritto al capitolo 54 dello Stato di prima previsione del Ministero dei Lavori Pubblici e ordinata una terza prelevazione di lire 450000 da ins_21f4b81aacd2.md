@@ -1,0 +1,52 @@
+REGIO DECRETO 24 marzo 1872 n. 753
+
+
+REGIO DECRETO 24 marzo 1872 n. 753
+==================================
+
+Col quale sul fondo di lire nove milioni inscritto al capitolo 54 dello Stato di prima previsione del Ministero dei Lavori Pubblici, e' ordinata una terza prelevazione di lire 450,000 da inscriversi nel bilancio del 1872 del Ministero di Agricoltura, Industria e Commercio. (072U0753)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/05/1872
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'articolo 3 della Legge 3, febbraio 1874, numero 33 (Serie 2ª);
+
+Vista la [Legge 30 dicembre 1874, n. 584](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1874-12-30;584) (Serie 2ª), che approva lo Stato di prima previsione della spesa del Ministero dei Lavori Pubblici pel 1872;
+
+Ritenuto che al capitolo n. 54 del detto Stato venne inscritta la somma di L. 9,000,000 per la spesa del trasferimento della Capitale da Firenze a Roma;
+
+Visti i Nostri due Decreti delli 25 gennaio e 17 marzo 1874, numeri 655 e 730 (Serie 2ª), coi quali dalla detta somma venne ordinata la prelevazione di L. 200,000;
+
+Sulla
+-----
+
+proposta del Nostro Ministro delle Finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Sul fondo di lire nove milioni inscritto al capitolo n. 54 dello Stato di prima previsione della spesa del Ministero dei Lavori Pubblici per l'anno 4872, e' ordinata una terza prelevazione di lire centocinquantamila (L. 450,000) da inscriversi in apposito capitolo n. 54 del Bilancio di prima previsione per l'anno 4872 del Ministero di Agricoltura, Industria e Commercio - Trasporto della Capitale da Firenze a Roma. - Indennita' agl'Impiegati delle Amministrazioni centrali. - Spese di adattamento e di trasporto mobili e carte d'Ufficio, ed altre accessorie.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma addi' 24 marzo 1872.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 6 aprile 1872   
+  
+Reg. 60 Atti del Governo c. 73. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli: De Falco.   
+  
+Quintino Sella.   
+  

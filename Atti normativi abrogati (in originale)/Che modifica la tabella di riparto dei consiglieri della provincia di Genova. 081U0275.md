@@ -1,0 +1,45 @@
+REGIO DECRETO 16 giugno 1881 n. 275
+
+
+REGIO DECRETO 16 giugno 1881 n. 275
+===================================
+
+Che modifica la tabella di riparto dei consiglieri della provincia di Genova. (081U0275)
+----------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/08/1881
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri,
+
+Veduto il Nostro [R. decreto del 23 giugno 1867, n. 3776](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1867-06-23;3776), col quale, in conformita' al precedente Nostro R. decreto del 15 maggio stesso anno, n. 3712, i mandamenti di Ronco Scrivia e Savignone (provincia di Genova) furono riuniti in un solo distretto elettorale per la nomina di due consiglieri provinciali;
+
+Vedute le istanze fatte per ottenere che il mandamento di Savignone sia separato da quello di Ronco Scrivia per gli effetti delle elezioni provinciali;
+
+Veduta
+------
+
+la legge comunale e provinciale, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I mandamenti di Ronco Scrivia e Savignone formane due distinti distretti elettorali per procedere ciascuno separatamente alla elezione di un consigliere provinciale, rimanendo in tal modo modificata la tabella di riparto dei consiglieri della provincia di Genova.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 giugno 1881.   
+  
+UMBERTO.   
+  
+DEPRETIS.   
+  
+Visto, Il Guardasigilli: G. ZANARDELLI.   

@@ -1,0 +1,39 @@
+LEGGE 14 luglio 1887 n. 4712
+
+
+LEGGE 14 luglio 1887 n. 4712
+============================
+
+Che autorizza sul bilancio del Ministero della Guerra la spesa straordinaria di lire 3,490,000 per la Cassa militare. (087U4712)
+--------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/08/1887
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata sul bilancio del Ministero della Guerra per l'esercizio 1886-87 la spesa straordinaria di lire 3,490,000, da versarsi alla Cassa militare.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Dato a Roma, addi' 14 luglio 1887.   
+  
+UMBERTO.   
+  
+A. Magliani.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

@@ -1,0 +1,48 @@
+REGIO DECRETO 25 febbraio 1926 n. 341
+
+
+REGIO DECRETO 25 febbraio 1926 n. 341
+=====================================
+
+Estensione al personale della Corte dei conti di alcune disposizioni del decreto 10 gennaio 1926, n. 46, contenente norme complementari dell'ordinamento gerarchico del personale dipendente dall'Amministrazione dello Stato. (026U0341)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/03/1926
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il regolamento concernente la carriera e la disciplina del personale della Corte dei conti, approvato con [R. decreto 7 dicembre 1924, n. 2062](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-12-07;2062), e modificato con i Regi decreti 15 agosto e 31 dicembre 1925, nn. 1507 e 2375;   
+  
+Visto il [R. decreto 10 gennaio 1926, n. 46](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-01-10;46);   
+  
+Vista la deliberazione delle [sezioni unite della Corte dei conti in data 13 febbraio 1926](https://e-justice.europa.eu/ecli/ECLI::::);   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Sono estese al personale della Corte dei conti le disposizioni contenute negli articoli 1, 2, 3, 4 (primo, secondo e terzo comma), 5, 6 (secondo, terzo e quarto comma), 13 e 19 (ultimo comma) del Nostro decreto 10 gennaio 1926, n. 46.   
+  
+Il presente decreto entrera' in vigore dal giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 febbraio 1926.   
+  
+VITTORIO EMANUELE.   
+  
+Volpi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 6 marzo 1926.   
+  
+Atti del Governo, registro 246, foglio 47. - Coop.   

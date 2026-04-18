@@ -1,0 +1,285 @@
+REGIO DECRETO 23 aprile 1931 n. 502
+
+
+REGIO DECRETO 23 aprile 1931 n. 502
+===================================
+
+Attribuzione all'Istituto per le piccole industrie in Bolzano, della denominazione di «Istituto per le piccole industrie e per l'artigianato dell'Alto Adige», ed approvazione dei nuovo statuto organico. (031U0502)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/06/1931
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il Nostro decreto 16 novembre 1924, n. 2338, col quale l'Istituto per le piccole industrie in Bolzano fu riconosciuto come ente morale e ne fu approvato lo statuto organico;
+
+Veduta la domanda del commissario governativo per l'amministrazione straordinaria dell'Istituto stesso, intesa ad ottenere che nello statuto in vigore siano introdotte alcune aggiunte e modificazioni suggerite dall'esperienza ed altre aventi per fine di adeguarlo all'idea corporativa;
+
+Sentito il Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+L'Istituto per le piccole industrie in Bolzano assume la denominazione di «Istituto per le piccole industrie e l'artigianato dell'Alto Adige».   
+  
+
+Art. 2
+------
+
+  
+  
+Lo statuto organico approvato col Nostro decreto 16 novembre 1924, n. 2338, e' abrogato e sostituito da quello annesso al presente decreto e firmato, d'ordine Nostro, dal Ministro proponente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 23 aprile 1931 - Anno IX   
+  
+VITTORIO EMANUELE.   
+  
+Giuliano.   
+  
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 16 maggio 1931 - Anno IX   
+Atti del Governo, registro 308, foglio 77. - Mancini.   
+  
+
+Statuto-art. 1
+
+  
+Statuto dell'Istituto per le piccole industrie e l'artigianato dell'Alto Adige, con sede in Bolzano.   
+  
+Art. 1.   
+  
+  
+Con riferimento ai [Regi decreti 16 novembre 1924, n. 2338](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-11-16;2338), e [31 ottobre 1923, n. 2523](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523), alle [leggi 3 aprile 1926, n. 563, e 29 marzo 1928, n. 631](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-03-29;631), ed in applicazione dei principi sanciti dalla Carta del Lavoro, e' costituito l'Istituto per le piccole industrie e l'artigianato dell'Alto Adige, con sede a Bolzano. Esso esplica la sua attivita' in tutta la zona di giurisdizione della provincia di Bolzano.   
+  
+
+Statuto-art. 2
+
+  
+Art. 2.   
+  
+L'Istituto ha lo scopo di assistere nel campo tecnico, creditizio e commerciale la produzione, con particolare riguardo alle industrie minori (piccole industrie e artigianato), e di favorire con ogni mezzo - anche cooperando con gli Istituti a cio' espressamente costituiti - la diffusione dei moderni criteri di organizzazione del lavoro, sia ai fini dell'incremento e della economicita' della produzione, sia ai fini della elevazione intellettuale, sociale e tecnica delle classi produttive. Pel raggiungimento delle sue finalita' l'Istituto ha facolta' di partecipare ad enti aventi scopi identici od analoghi.   
+  
+
+Statuto-art. 3
+
+  
+Art. 3.   
+  
+L'Istituto provvede alla copertura del proprio bilancio anzitutto mediante contributi fissi, concessi, con carattere di continuita', dagli enti qui specificati:   
+  
+1° il Ministero dell'educazione nazionale, che provvede sugli stanziamenti del proprio bilancio con una somma annua corrispondente allo stipendio e agli aumenti periodici del direttore, nonche' alla ulteriore quota da assegnarsi a mente dell'[art. 45 del R. decreto 31 ottobre 1923, n. 2523](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523~art45);   
+  
+2° i comuni di Bolzano, Merano, Bressanone e Brunico;   
+  
+3° la provincia di Bolzano;   
+  
+4° il Consiglio provinciale dell'economia di Bolzano;   
+  
+5° altri enti pubblici e privati, che vogliono attestare la loro adesione agli scopi perseguiti dall'Istituto e concorrere al loro raggiungimento.   
+  
+L'Istituto puo' provvedere al proprio finanziamento anche con altri eventuali redditi, la cui natura potra' essere fissata nelle forme legali dal Consiglio di amministrazione.   
+  
+
+Statuto-art. 4
+
+  
+Art. 4.   
+  
+L'amministrazione dell'Istituto e' affidata ad uno speciale Consiglio. Il Consiglio di amministrazione rappresenta l'Istituto dinanzi all'autorita' ed ai privati e provvede al buon andamento dello stesso.   
+  
+
+Statuto-art. 5
+
+  
+Art. 5.   
+  
+Il Consiglio di amministrazione si compone di tre delegati di ciascuno degli enti pubblici che contribuiscono alle spese di mantenimento con uno stanziamento continuativo non inferiore alle L. 5000 all'anno, e di un delegato per ciascuno degli enti che vi contribuiscono con una quota continuativa non inferiore alle L. 1000 all'anno.   
+  
+Fanno inoltre parte del Consiglio:   
+  
+1° due delegati della Confederazione generale fascista dell'industria italiana;   
+  
+2° due delegati della Federazione fascista autonoma degli artigiani d'Italia;   
+  
+3° il direttore del Consiglio e dell'Ufficio provinciale dell'economia;   
+  
+4° il direttore dell'Istituto con voto consultivo.   
+  
+Il presidente e' di nomina prefettizia.   
+  
+Il Consiglio elegge dal suo seno un vice presidente e due revisori dei conti.   
+  
+Le funzioni di segretario del Consiglio di amministrazione sono di spettanza del direttore dell'Istituto.   
+  
+
+Statuto-art. 6
+
+  
+Art. 6.   
+  
+I membri del Consiglio durano in carica tre anni e possono essere rieletti.   
+  
+I componenti del Consiglio eletti in surrogazione di altri, venuti comunque a cessare dalle loro funzioni, restano in carica per il tempo in cui vi sarebbero restati i precedenti.   
+  
+
+Statuto-art. 7
+
+  
+Art. 7.   
+  
+Il Consiglio tiene di norma una seduta ordinaria ogni semestre. Si raduna inoltre, in seguito a convocazione del presidente, tutte le volte che il bisogno lo richieda, o dietro domanda di almeno cinque componenti.   
+  
+Le adunanze sono valide quando vi intervenga piu' della meta' dei componenti. Le deliberazioni sono prese a maggioranza assoluta dei presenti; in caso di parita', prevale il voto del presidente.   
+  
+I verbali delle sedute devono essere firmati dal presidente e dal segretario del Consiglio di amministrazione.   
+  
+
+Statuto-art. 8
+
+  
+Art. 8.   
+  
+Sono compiti essenziali del Consiglio di amministrazione:   
+  
+a) discutere ed approvare il bilancio consuntivo e preventivo dell'Istituto;   
+  
+b) provvedere alle modalita' del servizio di cassa;   
+  
+e) deliberare il programma di attivita' dell'Istituto, dandone comunicazione volta per volta al Ministero, a cui dovra' essere presentata alla fine di ogni anno anche una particolareggiata relazione sull'andamento dell'Istituto;   
+  
+d) fare al Ministero proposte e dare parere su quanto ha attinenza con i fini assegnati all'Istituto;   
+  
+e) deliberare l'eventuale applicazione di tasse per prestazioni dell'Istituto;   
+  
+f) deliberare la pianta organica ed il trattamento nonche' la nomina e revoca degli impiegati, eccettuato il direttore;   
+  
+g) provvedere ai contributi a favore dell'Istituto da pubbliche amministrazioni da sodalizi, e da privati, e deliberare la fondazione di borse e di premi per l'incremento delle industrie;   
+  
+h) deliberare le modifiche allo statuto che si rendessero necessarie e compilare il regolamento interno;   
+  
+i) adempiere a tutte le funz ioni che gli spettano secondo il presente statuto, o a cui fosse chiamato dal Ministero nell'interesse dell'Istituto.   
+  
+
+Statuto-art. 9
+
+  
+Art. 9.   
+  
+Il presidente e il vice presidente del Consiglio di amministrazione, il direttore dell'Istituto e due altri membri del Consiglio di amministrazione nominati dallo stesso, uno fra i rappresentanti della Confederazione generale fascista dell'industria italiana e l'altro fra i rappresentanti della Federazione autonoma degli artigiani d'Italia, costituiscono la Giunta del Consiglio, la quale delibera quando siano presenti almeno tre membri.   
+  
+La Giunta si raduna, a seconda del bisogno, su invito del presidente.   
+  
+Alla Giunta sono particolarmente demandate le funzioni di ordinaria amministrazione, e conseguentemente:   
+  
+a) l'esecuzione delle deliberazioni del Consiglio di amministrazione;   
+  
+b) la sorveglianza del regolare andamento dell'Istituto, la cura della regolare tenuta della contabilita' e dell'inventario dell'Istituto e la regolare vigilanza della buona conservazione del materiale;   
+  
+c) l'istruttoria e la preparazione delle iniziative dell'Istituto, che debbono essere sottoposte alla deliberazione del Consiglio di amministrazione;   
+  
+d) il controllo delle spese entro il limite del bilancio di previsione approvato;   
+  
+e) le proposte per la nomina e revoca degli impiegati provvisori;   
+  
+f) l'esecuzione di altri incarichi attinenti all'ordinaria amministrazione, che il Consiglio di amministrazione creda di demandarle espressamente.   
+  
+
+Statuto-art. 10
+
+  
+Art. 10.   
+  
+Fuori della propria sede, dovunque l'Istituto eserciti la propria attivita' ai sensi dell'art. 1 del presente statuto e se ne manifesti il bisogno nell'interesse delle piccole industrie, il Consiglio di amministrazione puo' nominare membri corrispondenti e Comitati di zona, di non meno di tre e non piu' di cinque membri, scelti fra le persone di maggior competenza in materia di piccole industrie.   
+  
+Esso puo', anche nella propria sede o fuori di essa, costituire Comitati d'esperti in singole branche delle piccole industrie, scelti fra gli esercenti le industrie stesse, per demandare ad essi lo studio e l'esame di speciali iniziative.   
+  
+
+Statuto-art. 11
+
+  
+Art. 11.   
+  
+Gli atti emessi dal Consiglio di amministrazione o dalla Giunta sono validi quando siano firmati dal presidente o dal vice presidente, insieme al segretario del Consiglio di amministrazione dell'Istituto.   
+  
+Il presidente dell'Istituto ha la facolta' di demandare al direttore dell'istituto la firma e la spedizione degli atti correnti.   
+  
+
+Statuto-art. 12
+
+  
+Art. 12.   
+  
+Il direttore dell'Istituto e' equiparato, ad ogni effetto economico e giuridico, ai direttori dei Regi istituti industriali. Alla sua nomina si provvede nel modo stabilito nell'[art. 45 del R. decreto 31 ottobre 1923, n. 2523](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-10-31;2523~art45).   
+  
+Salvo le attribuzioni del Consiglio di amministrazione e della Giunta, sono affidate al direttore, coll'approvazione del presidente, l'immediata direzione didattica e tecnica dell'Istituto e la disciplina del personale addetto allo stesso.   
+  
+
+Statuto-art. 13
+
+  
+Art. 13.   
+  
+La pianta organica ed il trattamento dell'altro personale addetto all'Istituto sono stabiliti da un apposito regolamento. La spesa del personale non deve mai superare i due quinti dei contributi totali, non compresa la quota corrispondente allo stipendio ed agli aumenti periodici del direttore.   
+  
+Nel limite indicato puo' anche essere fissato, a titolo di supplemento, un assegno speciale al direttore.   
+  
+
+Statuto-art. 14
+
+  
+Art. 14.   
+  
+L'anno finanziario comincia nell'Istituto il 1° gennaio e termina il 31 dicembre.   
+  
+
+Statuto-art. 15
+
+  
+Art. 15.   
+  
+Non oltre il 31 dicembre di ogni anno il Consiglio di amministrazione delibera il programma dell'attivita' da svolgersi dall'Istituto in corrispondenza alle esperienze fatte negli anni precedenti, nonche' il relativo preventivo di spesa ed i modi di copertura. Il programma dell'attivita', il preventivo di spesa ed il bilancio consuntivo verranno comunicati al Ministero e agli enti sovventori dell'Istituto.   
+  
+
+Statuto-art. 16
+
+  
+Art. 16.   
+  
+I contributi degli enti, compreso lo Stato, sono pagati in non piu' di due rate, entro i mesi di gennaio e di agosto.   
+  
+
+Statuto-art. 17
+
+  
+Art. 17.   
+  
+L'Istituto cessa di funzionare quando vengano a mancare i contributi occorrenti al suo funzionamento.   
+  
+Deliberata la soppressione dal Consiglio di amministrazione ed approvata dal Ministero, la Giunta assume la rappresentanza dell'Istituto agli effetti della liquidazione, con speciale riguardo agli obblighi assunti verso il personale.   
+  
+Il materiale e quant'altro appartiene all'Istituto verra' destinato, a suo tempo, nei modi che saranno determinati dal Consiglio di amministrazione, colla riserva che al Consiglio provinciale dell'economia di Bolzano dovra' venir restituita quella parte di patrimonio ancora esistente, che esso, a suo tempo, ha devoluta a favore dell'Istituto.   
+  
+Quest'ultima disposizione trovera' analoga applicazione anche nel caso di fusione dell'Istituto con un altro all'infuori del distretto del Consiglio provinciale dell'economia di Bolzano.   
+  
+Visto, d'ordine di Sua Maesta' il Re:   
+  
+Il Ministro per l'educazione nazionale:   
+  
+Giuliano.   
+  

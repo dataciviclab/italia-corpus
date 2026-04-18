@@ -1,0 +1,54 @@
+REGIO DECRETO 26 aprile 1928 n. 1217
+
+
+REGIO DECRETO 26 aprile 1928 n. 1217
+====================================
+
+Approvazione della convenzione 30 marzo 1928 con la «Societa' Anonima Tramvie Vercellesi» per l'elettrificazione della tramvia a vapore Vercelli-Trino. (028U1217)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/07/1928
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista l'istanza 9 agosto 1926 presentata dalla «Societa' Anonima Tramvie Vercellesi», per ottenere la concessione dell'elettrificazione della tramvia Vercelli-Trino;   
+  
+Vista la convenzione all'uopo stipulata il 30 marzo 1928 fra i delegati dei Ministri per le comunicazioni e per le finanze ed il rappresentante della Societa' anzidetta;   
+  
+Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato col Nostro decreto 9 maggio 1912, n. 1447;   
+  
+Vista la [legge 17 aprile 1925, n. 473](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-04-17;473), che converte in legge i [Regi decreti 23 febbraio 1919, n. 303](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1919-02-23;303), [23 gennaio 1921, n. 56](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-23;56), [3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1921-01-23;3)l agosto 1921, n. 1222, 6 febbraio 1923, n. 431, e 23 maggio 1924, n. 998;   
+  
+Viste le [leggi 18 marzo 1926, n. 562, 25 novembre 1926](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-11-25;562), n, 2083, e 25 giugno 1926, n. 1262, che convertono in legge rispettivamente i [Regi decreti 29 luglio 1925, n. 1509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-07-29;1509), [31 dicembre 1925, n. 2525](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1925-12-31;2525) e [3 aprile 1926, n. 757](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-04-03;757);   
+  
+Sentiti il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Sulla proposta dei Nostri Ministri Segretari di Stato per le comunicazioni e per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata e resa esecutoria la convenzione stipulata il 30 marzo 1928 fra i delegati dei Ministri per le comunicazioni e per le finanze ed il rappresentante della «Societa' Anonima Tramvie-Vercellesi» per la elettrificazione della tramvia a vapore Vercelli-Trino.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 26 aprile 1928 - Anno VI   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Ciano - Volpi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 12 giugno 1928 - Anno VI   
+Atti del Governo, registro 273, foglio 70. - Sirovich.   
+  

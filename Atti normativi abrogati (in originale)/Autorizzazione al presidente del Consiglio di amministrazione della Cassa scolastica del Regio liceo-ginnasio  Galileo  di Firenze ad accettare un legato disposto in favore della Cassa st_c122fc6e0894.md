@@ -1,0 +1,21 @@
+REGIO DECRETO 26 aprile 1928 n. 1255
+
+
+REGIO DECRETO 26 aprile 1928 n. 1255
+====================================
+
+Autorizzazione al presidente del Consiglio di amministrazione della Cassa scolastica del Regio liceo-ginnasio « Galileo » di Firenze ad accettare un legato disposto in favore della Cassa stessa. (028U1255)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/07/1928
+
+Art. 1
+------
+
+N.
+
+1255. R. decreto 26 aprile 1928, col quale, sulla proposta del Ministro per la pubblica istruzione, il presidente del Consiglio di amministrazione della Cassa scolastica del Regio liceo-ginnasio « Galileo » di Firenze viene autorizzato ad accettare un legato di L. 5000, disposto a favore della Cassa medesima dal comm. prof. Alberto de Eccher dall'Eco.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 14 giugno 1928 - Anno VI

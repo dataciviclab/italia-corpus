@@ -1,0 +1,45 @@
+LEGGE 13 luglio 1939 n. 1139
+
+
+LEGGE 13 luglio 1939 n. 1139
+============================
+
+Aggiornamenti alle disposizioni vigenti sullo stato e l'avanzamento dei carabinieri Reali. (039U1139)
+-----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/09/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+L'art. 3 del Regio decreto,legge 5 settembre 1938-XVI, numero 1519, recante modificazioni alle disposizioni vigenti sullo stato e l'avanzamento dei sottufficiali del Regio esercito ed aumento dei relativi organici, e' modificato come segue:   
+  
+1° al secondo alinea del quinto comma, dopo le parole «maresciallo maggiore» sono aggiunte le altre: «esclusi quelli dei carabinieri Reali»;   
+  
+2° alla fine del sesto comma e' aggiunto: «Per i sottufficiali dei carabinieri Reali, le promozioni a scelta per meriti eccezionali possono essere conferite nella proporzione di una su dieci promozioni, compresa l'aliquota a scelta (1 su 3);   
+  
+3° l'ultimo comma e' sostituito dall'altro: «Gli appuntati dei CC.RR., i caporali maggiori, i carabinieri, i caporali ed i soldati possono conseguire la promozione a scelta per meriti eccezionali nella proporzione non superiore a un decimo delle vacanze negli organici stabiliti dalle tabelle graduali e numeriche».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 13 luglio 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   

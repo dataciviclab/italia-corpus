@@ -1,0 +1,43 @@
+LEGGE 22 giugno 1939 n. 955
+
+
+LEGGE 22 giugno 1939 n. 955
+===========================
+
+Autorizzazione di spesa per lavori di sistemazione dei porti di Bari e di Brindisi. (039U0955)
+----------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/07/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Per l'esecuzione di opere straordinarie occorrenti alla sistemazione dei porti di Bari e di Brindisi e' autorizzata la spesa di lire nove milioni da ripartire in parti uguali nei due porti.   
+  
+La suindicata somma sara' iscritta nello stato di previsione della spesa del Ministero dei lavori pubblici per lire tre milioni nell'esercizio finanziario 1938-39, e per lire sei milioni nell'esercizio finanziario 1939-40.   
+  
+Con decreti del Ministro per le finanze sara' provveduto alle occorrenti variazioni di bilancio.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia insorta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 22 giugno 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Cobolli - Gigli - Di Revel   
+  
+Visto, il Guardasigilli: Solim   

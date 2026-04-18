@@ -1,0 +1,45 @@
+REGIO DECRETO 14 aprile 1910 n. 556
+
+
+REGIO DECRETO 14 aprile 1910 n. 556
+===================================
+
+Che conferma pel 1909-910 gli organici delle scuole medie gia' pareggiate ed ora convertite in governative. (010U0556)
+----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/08/1910
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduta la [legge 13 marzo 1910, n. 91](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-03-13;91), che approva il bilancio della pubblica istruzione per l'esercizio 1909-1910;   
+  
+Veduti i Nostri decreti 11 novembre 1909 coi quali agli organici delle scuole medie dal 1° ottobre al 31 dicembre 1909 sono aggiunti i posti occorrenti per il liceo di Viterbo, per l'Istituto tecnico di Verona, per l'Istituto tecnico, la scuola tecnica, il liceo ginnasio e la scuola normale complementare di Asti, per l'Istituto tecnico, la scuola tecnica e la scuola normale complementare di Novara, per la scuola tecnica di Guastalla, per il ginnasio di Carrara, per il ginnasio di Ferrara, per il liceo di Chieri, per la scuola tecnica di Nizza Monferrato, per il liceo di Chiavari e per la scuola tecnica di Asola, convertiti in governativi col 1° ottobre 1909;   
+  
+Veduti i Nostri decreti 9 dicembre 1909 coi quali agli organici delle scuole medie dal 1° ottobre al 31 dicembre 1909 sono aggiunti i posti occorrenti per la scuola tecnica di Chiavari, per il ginnasio e la scuola tecnica di Andria, per la scuola tecnica di Ferrara, per la scuola normale complementare di Cuneo, per le scuole tecniche di Taranto, per le scuole tecniche di Firenze e per il ginnasio di Gioia del Colle, convertiti in governativi col 1° ottobre 1909;   
+  
+Veduto il Nostro decreto 16 gennaio 1910 col quale agli organici delle scuole medie dal 1° ottobre al 31 dicembre 1909 sono aggiunti i posti occorrenti per la scuola tecnica di Tolentino convertita in governativa col 1° ottobre 1909;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Gli organici delle scuole medie gia' pareggiate e convertite in governative dal 1° ottobre 1909 ed approvati coi Nostri decreti 11 novembre 1909, 9 dicembre 1909 e 16 gennaio 1910 sono confermati per tutto l'anno scolastico 1909-1910.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 14 aprile 1910.   
+  
+VITTORIO EMANUELE.   
+  
+Credaro.   
+  
+Visto, Il guardasigilli: Fani.   
+  

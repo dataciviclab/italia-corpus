@@ -1,0 +1,48 @@
+REGIO DECRETO 28 dicembre 1890 n. 7360
+
+
+REGIO DECRETO 28 dicembre 1890 n. 7360
+======================================
+
+Che istituisce un quarto posto di notaro nel comune di Isernia (Campobasso). (090U7360)
+---------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/02/1891
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la domanda del comune d'Isernia perche' sia ivi istituito un quarto posto di notaro;
+
+Viste le deliberazioni del Consiglio provinciale di Campobasso e del Consiglio notarile d'Isernia;
+
+Visto l'articolo 4 della legge sul notariato, approvata con Nostro decreto 25 maggio 1879, N. 4900, ed il nuovo testo della tabella del numero e delle residenze dei notari, approvato con Nostro decreto 15 giugno 1882, n. 810;
+
+Ritenuto che e' dimostrata la necessita' dalla istituzione del posto anzidetto;
+
+Sulla
+-----
+
+proposta del Nostro Guardasigilli, Ministro Segretario di Stato per gli Affari di Grazia e Giustizia e dei Culti; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' istituito un quarto posto di notaro nel comune di Isernia capoluogo di distretto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 28 dicembre 1890.   
+  
+UMBERTO.   
+  
+G. Zanardelli.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

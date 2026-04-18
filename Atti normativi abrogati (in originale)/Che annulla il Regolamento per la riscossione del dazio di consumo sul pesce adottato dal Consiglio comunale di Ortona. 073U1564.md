@@ -1,0 +1,57 @@
+REGIO DECRETO 31 agosto 1873 n. 1564
+
+
+REGIO DECRETO 31 agosto 1873 n. 1564
+====================================
+
+Che annulla il Regolamento per la riscossione del dazio di consumo sul pesce, adottato dal Consiglio comunale di Ortona. (073U1564)
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/10/1873
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il Regolamento per la riscossione del dazio di consumo sul pesce, adottato dal Consiglio comunale di Ortona in seduta del 4 novembre 1872, stato approvato dalla Deputazione provinciale di Chieti;
+
+Visto il ricorso inoltrato da parecchi pescatori ed armatori di barche pescarecce, in data del 20 gennaio 1873, contro il predetto Regolamento, che assoggetta al dazio l'introduzione e non soltanto la minuta vendita del pesce;
+
+Vista la deliberazione del Consiglio comunale di Ortona del 3 luglio corrente anno, colla quale si e' ricusato di modificarlo nel senso suggeritogli dalla Camera di commercio in Chieti, in guisa che il dazio venisse limitato alla minuta vendita;
+
+Visti gli articoli 8 e 14 della Legge sui dazi di consumo del 3 luglio 1864, n. 1827;
+
+Visto il Regolamento generale sui dazi interni di consumo, sancito con Nostro Decreto del 25 agosto 1870, n. 5840;
+
+Visto l'articolo 138 della Legge comunale 20 marzo 1865, n. 2248;
+
+Sentito il parere del Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze; Abbiamo ordinato ordiniamo quanto segue:
+
+Articolo unico
+--------------
+
+null
+
+  
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 31 agosto 1873.   
+  
+VITTORIO EMANUELE.   
+  
+Registrato alla Corte dei conti addi' 13 settembre 1873   
+Vol. 71 Atti del Governo a c. 95. Ayres.   
+Luogo del sigillo. V. Il Guardasigilli VIGLIANI.   
+  
+M. MINGHETTI.   
+  
+  

@@ -1,0 +1,58 @@
+REGIO DECRETO 22 settembre 1870 n. 5914
+
+
+REGIO DECRETO 22 settembre 1870 n. 5914
+=======================================
+
+Riguardante i titoli dell'oro e dell'argento che sono legalmente riconosciuti nelle circoscrizioni di alcuni Uffici di garantia. (070U5914)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/11/1870
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il [Decreto legislativo del 22 agosto 1863, numero 1420](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1863-08-22;1420);
+
+Sulla
+-----
+
+proposta del Nostro Ministro per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Nelle circoscrizioni territoriali degli Uffici di garantia dei lavori d'oro e d'argento di Bologna, Jesi, Perugia ed Urbino, sono legalmente riconosciuti i soli titoli seguenti:   
+  
+Per l'oro.   
+  
+Primo titolo 840/m.   
+  
+Primo titolo 950/m.   
+  
+Per l'argento.   
+  
+Secondo titolo 750/m.   
+  
+Secondo titolo 800/m.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 22 settembre 1870.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 13 ottobre 1870   
+  
+Reg. 52 Atti del Governo a c. 162. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli M. Raeli.   
+  
+Castagnola.   
+  

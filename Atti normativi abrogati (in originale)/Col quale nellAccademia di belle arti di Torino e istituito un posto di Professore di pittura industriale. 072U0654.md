@@ -1,0 +1,48 @@
+REGIO DECRETO 14 gennaio 1872 n. 654
+
+
+REGIO DECRETO 14 gennaio 1872 n. 654
+====================================
+
+Col quale nell'Accademia di belle arti di Torino e' istituito un posto di Professore di pittura industriale. (072U0654)
+-----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/03/1872
+
+VITTORIO EMANUELE II
+--------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il Ruolo normale dell'Accademia di belle arti di Torino, approvato con Nostro Decreto 29 novembre 1869, n. 4757, e riformato col Nostro Decreto 4 giugno 1871, n. 271 (Serie 2ª);
+
+Visto il bilancio passivo di quest'anno;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' instituito nella suddetta Accademia un posto di Professore di pittura industriale, collo stipendio annuo di lire 3,000.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma addi' 14 gennaio 1872.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 26 gennaio 1872   
+  
+Reg. 59 Atti del Governo a c. 63. D. Gherardi.   
+  
+Luogo del sigillo. V. Il Guardasigilli: De Falco.   
+  
+C. Correnti.   
+  

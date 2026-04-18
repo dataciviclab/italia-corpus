@@ -1,0 +1,69 @@
+REGIO DECRETO 28 maggio 1936 n. 1132
+
+
+REGIO DECRETO 28 maggio 1936 n. 1132
+====================================
+
+Modificazioni allo statuto della Federazione nazionale fascista dei dirigenti delle aziende del credito e dell'assicurazione. (036U1132)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/07/1936
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il Nostro decreto 16 agosto 1934, n. 1386, col quale e' stato, tra l'altro, approvato lo statuto della Federazione nazionale fascista dei dirigenti delle aziende del credito e dell'assicurazione aderente alla Confederazione fascista delle aziende del credito e dell'assicurazione;
+
+Vista la domanda in data 15 gennaio 1936, con la quale la Confederazione fascista delle aziende del credito e dell'assicurazione chiede che siano approvate alcune modifiche allo statuto della Federazione suddetta;
+
+Visti la [legge 3 aprile 1926, n. 563](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-04-03;563), e il relativo regolamento lo luglio 1926, n. 1130, nonche' la [legge 20 marzo 1930, n. 206](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1930-03-20;206); Sentito il Comitato corporativo centrale;
+
+Sulla
+-----
+
+proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per le corporazioni e per l'interno; Abbiamo decretalo e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Sono approvate le sottoindicate modifiche allo statuto della Federazione nazionale fascista dei dirigenti delle aziende del credito o dell'assicurazione;   
+  
+1° Il testo della lettera b) del terzo comma dell'art. 4, e' sostituito dal seguente:   
+  
+«b) dirigenti delle imprese assicuratrici, intendendosi per tali coloro che siano preposti al funzionamento dell'azienda o di notevole parte di essa, con effettivi poteri discrezionali e di iniziativa, con funzioni responsabili di rappresentanza, quali i direttori dell'azienda, i condirettori dell'azienda, i vice direttori dell'azienda, i procuratori di direzione con mandato generale continuo e i dirigenti titolari delle dipendenze principali in economia ».   
+  
+2° Il testo del quarto comma dell'art. 10, e' sostituito dal seguente:   
+  
+«I soci, oltreche' essere tenuti a norma di legge alla piena osservanza delle clausole del contratti collettivi e degli accordi economici stipulati dalla Federazione o dai suoi Sindacati e dalla Confederazione, debbono informare il Sindacato interprovinciale di tutte le controversie che sorgono tra essi e i loro datori di lavoro sia nell'applicazione delle clausole stabilite dai contratti collettivi e dagli accordi economici, sia in tutti gli altri casi concernenti i rapporti di lavoro.   
+  
+3° Il testo del secondo comma dell'art. 11, e' sostituito dal seguente:   
+  
+«Nelle zone di circoscrizione interprovinciale in cui gli associati non raggiungano il numero complessivo corrispondente ad una media di almeno cinque per provincia, non si fara' luogo alla costituzione del Sindacato   
+  
+4° Il testo del quarto comma dell'art. 17, e' sostituito dal seguente:   
+  
+«Per la trattazione di questioni e vertenze interessanti i rappresentati residenti nelle provincie comprese nella circoscrizione del Sindacato interprovinciale, il presidente del Sindacato, nominera', per le provincie in cui essi raggiungono il numero di cinque, un suo delegato ».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 28 maggio 1936 - Anno XIV   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte del conti, addi' 19 giugno 1936 - Anno XIV   
+  
+Atti del Governo, registro 374, foglio 124. - Mancini.   
+  
+  

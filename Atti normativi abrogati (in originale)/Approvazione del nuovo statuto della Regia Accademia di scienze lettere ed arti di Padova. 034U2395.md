@@ -1,0 +1,21 @@
+REGIO DECRETO 11 ottobre 1934 n. 2395
+
+
+REGIO DECRETO 11 ottobre 1934 n. 2395
+=====================================
+
+Approvazione del nuovo statuto della Regia Accademia di scienze, lettere ed arti di Padova. (034U2395)
+------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/04/1935
+
+Art. 1
+------
+
+N.
+
+2393. R. decreto 11 ottobre 1934, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto della R. Accademia di scienze, lettere ed arti di Padova.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 11 marzo 1935 - Anno XIII

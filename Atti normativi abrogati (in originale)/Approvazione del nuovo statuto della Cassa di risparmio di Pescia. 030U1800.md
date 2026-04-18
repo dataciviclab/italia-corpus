@@ -1,0 +1,19 @@
+REGIO DECRETO 27 novembre 1930 n. 1800
+
+
+REGIO DECRETO 27 novembre 1930 n. 1800
+======================================
+
+Approvazione del nuovo statuto della Cassa di risparmio di Pescia. (030U1800)
+-----------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/02/1931
+
+Art. 1
+------
+
+N.
+
+1800. R. decreto 27 novembre 1930, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene approvato il nuovo statuto organico della Cassa di risparmio di Pescia.   
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 19 gennaio 1931 - Anno IX

@@ -1,0 +1,22 @@
+REGIO DECRETO 12 dicembre 1940 n. 1930
+
+
+REGIO DECRETO 12 dicembre 1940 n. 1930
+======================================
+
+Autorizzazione alla Regia universita' di Firenze ad accettare una donazione. (040U1930)
+---------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/02/1941
+
+Art. 1
+------
+
+N.
+
+1930. R. decreto 12 dicembre 1940, col quale, sulla proposta del Ministro per l'educazione nazionale, la Regia universita' di Firenze viene autorizzata ad accettare la donazione del capitale di L. 100.000, disposta in suo favore dai signori cav. Galileo Palagi avv.  
+cav. Alessandro Orsini e Antonio Brogi, nella loro qualita' di liquidatori del Sindacato fiorentino di assicurazione mutua contro gli infortuni degli operai sul lavoro, con atto pubblico in data 16 dicembre 1930-IX, ai rogiti del notaio dott. Gastone Querci, residente in Scarperia e iscritto al Collegio notarile di Firenze.   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 25 gennaio 1941-XIX

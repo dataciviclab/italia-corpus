@@ -1,0 +1,119 @@
+LEGGE 30 dicembre 2002 n. 295
+
+
+LEGGE 30 dicembre 2002 n. 295
+=============================
+
+Disposizioni in materia di armonizzazione del trattamento giuridico ed economico del personale delle Forze armate con quello delle Forze di polizia.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Promulga
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. Al fine di dare concreta attuazione a quanto previsto dall'[articolo 32 del decreto legislativo 5 ottobre 2000, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;298~art32), in materia di completo allineamento economico e funzionale degli ufficiali delle Forze armate con gli ufficiali delle Forze di polizia ad ordinamento militare ed i funzionari delle Forze di polizia ad ordinamento civile, alla [legge 8 agosto 1990, n. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-08;231), e successive modificazioni, sono apportate le seguenti modificazioni:
+
+a) all'articolo 5, comma 3, lettera a), le parole: "lo stipendio" sono sostituite dalle seguenti: "il trattamento economico";
+
+b) all'articolo 5, comma 3, lettera b), le parole: "lo stipendio" sono sostituite dalle seguenti: "il trattamento economico";
+
+c) all'articolo 5, comma 3-bis, le parole: "che abbiano prestato servizio senza demerito per 13 anni e 23 anni dal grado di sottotenente o dalla qualifica di aspirante" sono sostituite dalle seguenti: "che abbiano prestato servizio senza demerito per 13 anni e 23 anni dal conseguimento della nomina ad ufficiale o della qualifica di aspirante" e sono aggiunte, in fine, le parole: ", fatta eccezione per gli ufficiali appartenenti ai ruoli del servizio permanente per i quali e' previsto il diretto conseguimento del grado di tenente o corrispondente, ai quali il predetto trattamento e' attribuito secondo le modalita' previste dal comma 3".
+
+2. Il [comma 3 dell'articolo 5 della legge 29 marzo 2001, n. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86~art5-com3), e il [comma 3-ter dell'articolo 5 della legge 8 agosto 1990, n. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-08;231~art5-com3ter), sono abrogati.
+
+3. Le disposizioni di cui al comma 1, lettere a) e b), decorrono, quanto agli effetti giuridici ed economici, dal 1° gennaio 2002.
+
+Avvertenza:  
+Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [D.P.R. 28 dicembre 1985, n. 1092](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1985-12-28;1092), al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.  
+Note all'[art. 1:  
+- Il decreto legislativo 5 ottobre 2000, n. 298](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2000-10-05;298~art1), recante "Riordino del reclutamento, dello stato giuridico e dell'avanzamento degli ufficiali dell'Arma dei carabinieri, a norma dell'[art. 1 della legge 31 marzo 2000, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78~art1)", e' [pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 248 del 23 ottobre 2000](http://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2000-10-23&numeroGazzetta=248). Si riporta il testo dell'art. 32:  
+"Art. 32 (Equiparazione tra gradi e qualifiche). - 1.  
+Dalla data di entrata in vigore del provvedimento legislativo di cui all'art. 71 del decreto legislativo emanato ai sensi dell'[art. 5 della legge 31 marzo 2000, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78~art5), con decorrenza dal 15 marzo 2001, l'equiparazione tra i gradi e le qualifiche dei ruoli normali degli ufficiali dell'Arma dei carabinieri e del Corpo della Guardia di finanza con i funzionari delle altre Forze di polizia di cui all'[art. 16, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121~art16-com1) e [2, della legge 1 aprile 1981, n. 121](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1981-04-01;121~art16-com2), per effetto del presente decreto e degli [articoli 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78~art3), [4](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78~art4), [5](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78~art5), [7, commi 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78~art7-com1) e [2, della legge 31 marzo 2000, n. 78](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-03-31;78~art7-com2), e' stabilita come di seguito:  
+a) generale di corpo d'armata: dirigente generale di livello B;  
+b) generale di divisione: dirigente generale;  
+c) generale di brigata: dirigente superiore;  
+d) colonnello: primo dirigente;  
+e) tenente colonnello-maggiore: vice questore aggiunto;  
+f) capitano: commissario capo;  
+g) tenente commissario.  
+2. Analoghe modalita' di equiparazione si applicano agli ufficiali in servizio permanente degli altri ruoli ed ai funzionari degli omologhi ruoli della Polizia di Stato, equiparando, altresi', il sottotenente al vice commissario.  
+3. A decorrere dalla stessa data di cui al comma 1, gli effetti dell'equiparazione disposta dai commi 1 e 2 sono estesi agli ufficiali in servizio permanente dei corrispondenti gradi e ruoli dell'Esercito, della Marina e dell'Aeronautica, nonche' agli ufficiali piloti in ferma dodecennale di cui alla [legge 19 maggio 1986, n. 224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224).  
+3-bis. L'equiparazione tra i gradi e le qualifiche prevista dal presente articolo non si applica agli ufficiali di complemento in servizio di prima nomina e in rafferma, ai quali continua ad applicarsi, in deroga all'[art. 32 della legge 24 dicembre 1986, n. 958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-12-24;958~art32), il trattamento economico relativo ai livelli retributivi VI e VII-bis.".  
+- La [legge 8 agosto 1990, n. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-08;231), recante "Disposizioni in materia di trattamento economico del personale militare", e' pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 187 dell'11 agosto 1990; si riporta il testo dell'art. 5, come modificato dalla legge qui pubblicata:  
+"Art. 5 (Omogeneizzazione stipendiale). - 1. Agli ufficiali dei seguenti gradi, che abbiano prestato 15 o 25 anni di servizio dalla nomina a tenente, le misure dell'assegno di parziale omogeneizzazione di cui all'[art. 1, comma 8, del decreto-legge 16 settembre 1987, n. 379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379~art1-com8), convertito, con modificazioni, dalla [legge 14 novembre 1987, n. 486](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;486), sono rideterminate, dal 1 gennaio 1990, nei seguenti importi annui lordi:
+
+|  |  |
+| --- | --- |
+| 15 anni di servizio | 25 anni di servizio |
+
+2. Gli importi previsti dall'[art. 1, comma 8, del decreto-legge 16 settembre 1987, n. 379](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1987-09-16;379~art1-com8), convertito, con modificazioni, dalla [legge 14 novembre 1987, n. 468](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1987-11-14;468), per gli ufficiali provenienti da carriere e ruoli diversi al compimento del diciannovesimo e ventinovesimo anno di servizio militare comunque prestato, i quali rivestano il grado di tenente, capitano, maggiore e tenente colonnello, sono rideterminati, dal 1 gennaio 1990, nei seguenti importi annui lordi:
+
+|  |  |
+| --- | --- |
+| 19 anni di servizio | 29 anni di servizio |
+
+3. A decorrere dal 1 settembre 1990, quale ulteriore omogeneizzazione stipendiale con le forze militari di polizia:  
+a) agli ufficiali che abbiano prestato servizio militare senza demerito per quindici anni dalla nomina ad ufficiale ovvero dal conseguimento della qualifica di aspirante, e' attribuito il trattamento economico spettante al colonnello con relative modalita' di determinazione e progressione economica;  
+b) agli ufficiali che abbiano prestato servizio militare senza demerito per venticinque anni dalla nomina ad ufficiale ovvero dal conseguimento della qualifica di aspirante, e' attribuito il trattamento economico spettante al generale di brigata con relative modalita' di determinazione e progressione economica. Tale beneficio, quando entra nel computo della liquidazione della pensione e dell'indennita' di buonuscita, esclude quello previsto all'[art. 32, comma 9, della legge 19 maggio 1986, n. 224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-05-19;224~art32-com9).  
+3-bis. Fino a quando non ricorrano le condizioni per l'attribuzione dei trattamenti previsti dal comma 3 agli ufficiali che abbiano prestato servizio senza demerito per tredici anni e ventitre anni dal conseguimento della nomina ad ufficiale o della qualifica di aspirante e' attribuito, a decorrere dal 1 aprile 2001, lo stipendio spettante rispettivamente al colonnello e al brigadier generale e gradi equiparati. Il predetto trattamento non costituisce presupposto per la determinazione della progressione economica, fatta eccezione per gli ufficiali appartenenti ai ruoli del servizio permanente per i quali e' previsto il diretto conseguimento del grado di tenente o corrispondente, ai quali il predetto trattamento e' attribuito secondo le modalita' previste dal comma 3.  
+3-ter. (Abrogato).  
+4. Ai colonnelli, all'atto della cessazione dal servizio, si applicano, se piu' favorevoli ai fini del trattamento pensionistico e dell'indennita' di buonuscita, le condizioni previste dalla normativa precedentemente in vigore.  
+5. Per i generali di brigata e gradi corrispondenti delle Forze armate, cessati dal servizio dopo il 1 gennaio 1985, il trattamento di quiescenza e di ausiliaria e' determinato, se piu' favorevole per gli interessati, sulla base dello stipendio, maggiorato di sei scatti, e degli altri assegni pensionabili spettanti in relazione al grado immediatamente inferiore a quello rivestito all'atto della cessazione dal servizio.  
+6. Gli importi di cui ai commi 1 e 2 non sono in alcun caso comulabili tra loro, ne' con il beneficio di cui al comma 3 del presente articolo, ne', con gli importi di cui all'art. 4 e si aggiungono alla retribuzione individuale di anzianita' per il personale fino al grado di tenente colonnello. Per i tenenti colonnelli i rispettivi importi di cui ai commi 1 e 2 sono riassorbiti in caso di promozione al grado superiore. Per i colonnelli il rispettivo importo previsto al comma 1 non costituisce base per l'applicazione della progressione economica per classi e scatti ed e' riassorbito in caso di promozione al grado superiore.  
+- La [legge 29 marzo 2001, n. 86](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-03-29;86), recante "Disposizioni in materia di personale delle Forze armate e delle Forze di polizia", e' pubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 77 del 2 aprile 2001. Si riporta il testo dell'art. 5, come modificato dalla legge qui pubblicata:  
+"Art. 5 (Disposizioni in materia di ufficiali delle Forze armate). - 1. All'[art. 5, comma 3, lettera a), della legge 8 agosto 1990, n. 231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-08;231~art5-com3-leta), come modificata dall'[art. 65, comma 2 del decreto legislativo 30 dicembre 1997, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-30;490~art65-com2), le parole: "nomina a tenente sono sostituite dalle seguenti: "nomina ad ufficiale ovvero dal conseguimento della qualifica di aspirante .  
+2. All'[art. 5, comma 3, lettera b), della legge 8 agosto 1990, n.231](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1990-08-08;231~art5-com3-letb), come modificata dall'[art. 65, comma 2 del decreto legislativo 30 dicembre 1997, n. 490](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:1997-12-30;490~art65-com2), le parole: "nomina a tenente sono sostituite dalle seguenti: "nomina ad ufficiale ovvero dal conseguimento della qualifica di aspirante .  
+3. (comma abrogato).  
+4. All'onere derivante dall'attuazione del presente articolo, valutato in lire 12.926 milioni per l'anno 2001 ed in lire 16.804 milioni per gli anni 2002 e successivi, si provvede per l'anno 2001 mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'[art. 50 della legge 23 dicembre 2000, n. 388](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2000-12-23;388~art50), e per gli anni 2002 e successivi mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2001-2003, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero.  
+5. Il Ministro del tesoro, del bilancio e della programmazione economica e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.".
+
+Art. 2
+------
+
+1. Ferme restando le attribuzioni e le competenze previste dalle norme vigenti, gli ufficiali delle Forze armate fino al grado di tenente colonnello, in relazione alle specifiche qualificazioni cui sono correlate autonoma responsabilita' decisionale e rilevante professionalita':
+
+a) esercitano compiti di comando, di direzione, di indirizzo, di coordinamento e di controllo delle unita' poste alle loro dipendenze;
+
+b) provvedono alla gestione e all'impiego delle risorse loro assegnate secondo criteri di efficacia, efficienza ed economicita' al fine di assicurarne la funzionalita' per il conseguimento degli obiettivi prefissati;
+
+c) assumono piena responsabilita' per le direttive impartite e per i risultati conseguiti e, nell'ambito degli stati maggiori, dei comandi, degli uffici o delle articolazioni ordinative rette da ufficiali generali o da colonnelli, hanno anche la responsabilita' di settori funzionali, svolgono compiti di studio e partecipano all'attivita' dei citati superiori, che sostituiscono in caso di assenza o di impedimento;
+
+d) adottano i provvedimenti loro delegati e le iniziative connesse con l'espletamento del servizio nell'ambito dei comandi o dei settori cui sono preposti;
+
+e) formulano proposte ed esprimono pareri al rispettivo superiore gerarchico.
+
+Art. 3
+------
+
+1. Le disposizioni della presente legge si applicano solo agli ufficiali in servizio permanente e nei limiti degli stanziamenti di cui all'articolo 4.
+
+2. Agli ufficiali che maturano il diritto al conseguimento dei benefici derivanti dalla presente legge con decorrenza successiva a quella del decreto di cui al comma 3, i benefici medesimi si applicano ai fini economici dal 1° gennaio dell'anno successivo.
+
+3. Con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro della difesa, si provvede ad accertare e comunicare, ove si verifichino le condizioni, l'esaurimento degli stanziamenti annuali di cui all'articolo 4.
+
+Art. 4
+------
+
+1. All'onere derivante dall'attuazione della presente legge, pari a 6.687.330 euro a decorrere dall'anno 2002, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2002-2004, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2002, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della difesa.
+
+2. Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 30 dicembre 2002
+
+CIAMPI
+
+Berlusconi, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Castelli

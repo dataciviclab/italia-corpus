@@ -1,0 +1,43 @@
+DECRETO MINISTERIALE 20 giugno 1868 n. 4446
+
+
+DECRETO MINISTERIALE 20 giugno 1868 n. 4446
+===========================================
+
+Che stabilisce il prezzo delle obbligazioni al portatore emesse in eseguimento della Legge 15 agosto 1867, per la liquidazione dell'asse ecclesiastico. (068U4446)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/07/1868
+
+IL MINISTRO DELLE FINANZE
+-------------------------
+
+Veduta la [Legge del 15 agosto 1867, n. 3848](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1867-08-15;3848);
+
+Veduti
+------
+
+i Decreti Ministeriali del 9 ottobre 1867, n. 3919, e del 5 novembre detto anno, n. 4005; Determina quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+Il prezzo delle obbligazioni al portatore, emesse in eseguimento della Legge succitata, e' mantenuto pel mese di luglio 1868 in lire ottanta per ogni lire cento di capitale nominale, e dal 1° agosto stesso anno fino a nuova disposizione e' fissato in lire ottantacinque per ogni lire cento di capitale nominale.   
+  
+Gli indicati prezzi saranno da pagarsi integralmente all'atto dello acquisto, esclusa ogni provvigione, e gli acquirenti, oltre ai prezzi medesimi, dovranno pagare l'ammontare degli interessi pei giorni decorsi sulle obbligazioni suddette, e la spesa del diritto di bollo di centesimi cinquanta per ogni obbligazione.   
+  
+Il presente Decreto verra' registrato alla Corte dei conti ed inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia.   
+  
+Firenze, 20 giugno 1868.   
+  
+Il Ministro   
+L. G. Cambray Digny.   
+  
+Registrato alla Corte dei conti addi' 20 giugno 1868.   
+  
+Reg. 43 Atti del Governo a c. 26. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli De Filippo.   
+  

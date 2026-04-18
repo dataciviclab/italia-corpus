@@ -1,0 +1,39 @@
+LEGGE 14 aprile 1927 n. 546
+
+
+LEGGE 14 aprile 1927 n. 546
+===========================
+
+Conversione in legge del R. decreto-legge 9 luglio 1926, numero 1295, contenente norme per l'esecuzione del R. decreto-legge 17 gennaio 1926, n.179, che stabilisce a carico dello Stato un contributo per la costruzione di case popolari per mutilati ed invalidi di guerra. (027U0546)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/04/1927
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il [R. decreto-legge 9 luglio 1926, n. 1295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1295), contenente norme per l'esecuzione del [R. decreto-legge 17 gennaio 1926, n.179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-01-17;179), che ha stabilito a carico dello Stato un contributo per la costruzione di case popolari per mutilati ed invalidi di guerra; rettificandosi in « trentennio » la parola « triennio » scritta nell'art. 7, ultimo comma, del [R. decreto-legge 9 luglio 1926, n. 1295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-07-09;1295).   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 14 aprile 1927 - Anno V   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Volpi - Giuriati - Belluzzo.   
+  
+Visto, il Guardasigilli: Rocco.   
+  

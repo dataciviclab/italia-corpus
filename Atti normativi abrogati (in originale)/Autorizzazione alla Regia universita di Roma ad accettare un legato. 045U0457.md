@@ -1,0 +1,18 @@
+DECRETO LUOGOTENENZIALE 24 maggio 1945 n. 457
+
+
+DECRETO LUOGOTENENZIALE 24 maggio 1945 n. 457
+=============================================
+
+Autorizzazione alla Regia universita' di Roma ad accettare un legato. (045U0457)
+--------------------------------------------------------------------------------
+
+Art. 1
+------
+
+N.
+
+457. Decreto Luogotenenziale 24 maggio 1945, col quale, sulla proposta del Ministro per la pubblica istruzione, la Regia universita' di Roma viene autorizzata ad accettare un legato, disposto in suo favore dalla signora Maria Koenen, vedova Grassi, con testamento olografo in data 27 maggio 1940, per l'istituzione di una borsa di studio da intitolarsi al nome del prof. G. B. Grassi e destinata a promuovere gli studi nel campo della parassitologia animale.   
+  
+Visto, il Guardasigilli: TOGLIATTI   
+Registrato alta Corte dei Conti, addi' 17 agosto 1945

@@ -1,0 +1,45 @@
+REGIO DECRETO 06 dicembre 1906 n. 672
+
+
+REGIO DECRETO 06 dicembre 1906 n. 672
+=====================================
+
+Concernente la ripartizione della somma annuale delle quote di concorso a carico dello Stato per l'abolizione del dazio sui farinacei al comune di Erba-Incino. (006U0672)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/01/1907
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto 11 giugno 1903, n. 292, col quale furono approvati gli elenchi delle quote di concorso a carico dello Stato, concesse ai Comuni indicati negli elenchi medesimi, per l'abolizione totale del dazio sui farinacei;   
+  
+Ritenuto che, in virtu' del Nostro decreto 21 agosto 1906, n. CCCLXXVIII, i due comuni di Erba e di Incino, in provincia di Como, sono stati riuniti in un solo Comune colla denominazione di Erba-Incino;   
+  
+Vista la relazione della Commissione centrale, che ha determinato le variazioni da apportarsi alle quote di concorso per l'abolizione del dazio sui farinacei, accordate ai soppressi comuni di Erba o di Incino, in relazione alla suddetta modificazione nella circoscrizione territoriale;   
+  
+Veduto l'[art. 8 del regolamento 9 marzo 1902, n. 90](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1902-03-09;90~art8);   
+  
+Sulla proposta del Nostro ministro segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+La somma annuale di L. 644 compresa a favore del comune di Erba, e quella di L. 269.50 compresa a favore del comune di Incino negli elenchi relativi ai comuni della provincia di Como annessi al sopracitato Nostro decreto dell'11 giugno 1903, ascendenti in complesso a L. 913.50, sono attribuiti al nuovo comune di Erba-Incino.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 6 dicembre 1906.   
+  
+VITTORIO EMANUELE.   
+  
+Massimini.   
+  
+Visto, Il guardasigilli: Gallo.   
+  

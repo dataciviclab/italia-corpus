@@ -1,0 +1,63 @@
+REGIO DECRETO 14 gennaio 1937 n. 25
+
+
+REGIO DECRETO 14 gennaio 1937 n. 25
+===================================
+
+Agevolazioni da accordarsi a coloro che hanno preso parte alle operazioni militari in Africa Orientale, e che partecipano al concorso per l'ammissione alla carriera diplomatico-consolare. (037U0025)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/01/1937
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il Nostro decreto 11 novembre 1923, n. 2395;
+
+Visto il Nostro decreto 30 dicembre 1923, n. 2960;
+
+Vista la [legge 2 giugno 1927, n. 862](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1927-06-02;862);
+
+Ritenuta l'opportunita' di emanare delle norme in favore degli ex combattenti in A. O. partecipanti al concorso per l'ammissione alla carriera diplomatico-consolare, bandito con decreto del Ministro Segretario di Stato per gli affari esteri del 18 novembre 1936-XV, pubblicato nella Gazzetta Ufficiale del 5 dicembre 1936-XV, n. 282;
+
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art1-num3);
+
+Sentito il Consiglio di Stato;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli affari esteri, di concerto col Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Ai combattenti che abbiano partecipato alle operazioni militari in A. O. dal 3 ottobre 1935-XIII al 5 maggio 1936-XIV, classificati idonei ma non compresi nella graduatoria dei vincitori del concorse per 12 posti di volontario nella carriera diplomatico-consolare, bandito con decreto del Ministro Segretario di Stato per gli affari esteri del 18 novembre 1936-XV, pubblicato nella Gazzetta Ufficiale del 5 dicembre 1936-XV, n. 282, sono conferiti i posti ancora disponibili nel ruolo iniziale della carriera predetta per un quantitativo non superiore a sei.   
+  
+Il presente decreto entrera' in vigore col giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 14 gennaio 1937 - Anno XV   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Ciano - Di Revel.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 28 gennaio 1937 - Anno XV   
+  
+Atti del Governo, registro 381, foglio 126. - Mancini.   
+  
+  

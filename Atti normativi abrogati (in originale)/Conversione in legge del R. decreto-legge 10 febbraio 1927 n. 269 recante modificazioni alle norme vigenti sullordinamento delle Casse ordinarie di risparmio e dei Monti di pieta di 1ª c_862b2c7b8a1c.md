@@ -1,0 +1,203 @@
+LEGGE 29 dicembre 1927 n. 2587
+
+
+LEGGE 29 dicembre 1927 n. 2587
+==============================
+
+Conversione in legge del R. decreto-legge 10 febbraio 1927, n. 269, recante modificazioni alle norme vigenti sull'ordinamento delle Casse ordinarie di risparmio e dei Monti di pieta' di 1ª categoria. (027U2587)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/01/1928
+
+Art. 1
+------
+
+  
+  
+  
+Le Casse di risparmio e i Monti di pieta' di 1ª categoria che al 30 giugno 1926 abbiano raccolti depositi fiduciari di qualsiasi specie per un ammontare inferiore a cinque milioni di lire cessano di avere esistenza autonoma e sono fusi obbligatoriamente con la Cassa di risparmio del capoluogo della Provincia, o con altra Cassa di risparmio o Monte di pieta' di 1ª categoria della Provincia, o di Provincie limitrofe, a giudizio del Ministero dell'economia nazionale, di concerto con quello delle finanze, e diventano una filiale di questi ultimi.   
+  
+Le Casse di risparmio e i Monti di pieta' di 1ª categoria che al 30 giugno 1926 abbiano raccolti depositi fiduciari di qualsiasi specie per un ammontare superiore ai cinque, ma inferiore ai dieci milioni di lire, potranno essere fusi, a giudizio del Ministero dell'economia nazionale, di concerto con quello delle finanze, con la Cassa del capoluogo della Provincia, o con altra Cassa di risparmio o Monte di pieta' di 1ª categoria della Provincia, o di Provincie limitrofe, e diventano in tal caso filiali di questi ultimi.   
+  
+Nella distribuzione del credito e nella ripartizione degli utili dovra' tenersi equo conto dell'ammontare dei depositi raccolti dalle filiali predette.   
+  
+In caso di fusione di Monti di pieta' di 1ª categoria con Casse di risparmio queste dovranno istituire una propria sezione per il pegno e dovranno comunque assicurare il servizio del pegno.   
+  
+I Monti di pieta' di 1ª categoria fusi con Casse di risparmio continuano ad essere soggetti alle disposizioni dell'[articolo 7, n. 3, della legge 10 dicembre 1925, n. 2277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-10;2277~art7-num3), sul contributo all'Opera nazionale per la protezione della maternita' e dell'infanzia. Il contributo predetto sara' calcolato su una quota di utili da determinarsi in proporzione del valore del patrimonio apportato dal Monte di pieta' alla Cassa di risparmio, al momento della fusione.   
+  
+Art. 2.   
+  
+Con decreto Reale, su proposta del Ministro per l'economia nazionale, di concerto con quello per le finanze, udito il parere dell'Istituto di emissione, e, ove si tratti di Monti di pieta' di 1ª categoria, anche di concerto con quello per l'interno, si provvedera' a designare la Cassa di risparmio maggiore o il Monte di pieta' di 1ª categoria con cui la Cassa di risparmio minore o il Monte di pieta' di 1ª categoria dovranno essere fusi, e a determinare le modalita' della fusione di cui all'art. 1, previo accertamento delle attivita' e passivita' dell'Istituto minore. Tale accertamento dovra' constare da apposito verbale redatto d'accordo fra i due Istituti interessati.   
+  
+In caso di conflitto circa l'accertamento predetto, il Ministro per l'economia nazionale decidera' inappellabilmente.   
+  
+Il decreto di cui al presente articolo sara' pubblicato nella Gazzetta Ufficiale del Regno e non e' soggetto ad alcun gravame giudiziario o amministrativo. Esso costituira' la base del relativo trapasso delle attivita' e passivita', restando autorizzate l'Amministrazione del debito pubblico e della Cassa depositi e prestiti nonche' le conservatorie delle ipoteche ad eseguire le necessarie operazioni in conformita' del decreto predetto, con le norme fiscali di cui al successivo art. 7.   
+  
+Art. 3.   
+  
+Se in una Provincia esistono piu' Casse di risparmio o Monti di pieta' di 1ª categoria, essi sono raggruppati obbligatoriamente in Federazioni che saranno istituite con decreto Reale su proposta del Ministro per l'economia nazionale, di concerto con quello per le finanze.   
+  
+Puo', con le stesse modalita', essere resa obbligatoria la costituzione di Federazioni interprovinciali fra Casse di risparmio o Monti di pieta' di 1ª categoria, ove condizioni economiche speciali di Provincie limitrofe lo consiglino.   
+  
+Le Federazioni, che possono anche essere formate di sole Casse di risparmio e di soli Monti di pieta' di 1ª categoria, hanno lo scopo di tutelare il risparmio, di delimitare la zona di azione dei singoli istituti federati, di coordinarne l'azione e di assisterli in tutte le loro contingenze.   
+  
+Le Federazioni sono enti autonomi e separati dai singoli istituti federati. Gli istituti federati mantengono la propria personalita' giuridica. I Consigli dei singoli istituti conservano l'amministrazione dei medesimi, la nomina e la disciplina del personale, la gestione dei depositi e degli impieghi con le modalita' e le limitazioni che saranno fissate dallo statuto federale.   
+  
+Le Federazioni hanno sede presso la Cassa di risparmio o il Monte di pieta' di 1ª categoria del capoluogo della Provincia o presso altra Cassa di risparmio o Monte di pieta' di 1ª categoria della Provincia o di Provincie limitrofe, a giudizio del Ministero dell'economia nazionale, di concerto con quello delle finanze.   
+  
+Le spese per il funzionamento della Federazione sono a carico degli istituti confederati, in relazione ai rispettivi depositi e patrimoni. Il riparto delle spese predette tra i singoli istituti federati dovra' essere sottoposto all'approvazione del Ministero dell'economia nazionale.   
+  
+Le Federazioni devono inviare al Ministero dell'economia nazionale i verbali delle loro sedute nel termine massimo di giorni quindici dalla data della riunione.   
+  
+Art. 4.   
+  
+Le Federazioni sono amministrate da un Consiglio d'amministrazione composto dai rappresentanti degli istituti federati eletti nel proprio seno dai rispettivi Consigli di amministrazione.   
+  
+Ogni istituto federato sara' rappresentato in seno alla Federazione.   
+  
+Gli statuti delle Federazioni determineranno, in relazione alle attivita' amministrate dai singoli istituti, il numero dei rappresentanti assegnati ad ogni istituto in seno alla Federazione, ed i voti di cui essi rappresentanti disporranno.   
+  
+Il Consiglio sceglie il presidente nel proprio seno. Il segretario della Federazione sara' scelto dal Consiglio federale tra i dirigenti degli istituti federati.   
+  
+E' vietato ai membri del Consiglio d'amministrazione della Federazione di contrarre obbligazioni con gli istituti federati. In caso di inosservanza del presente divieto si applicano le disposizioni previste dagli [articoli 6](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546~art6) e [20 della legge 15 luglio 1888, n. 5546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546~art20) (serie 3ª), e dall'[art. 10 del regolamento 21 gennaio 1897, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1897-01-21;43~art10), per la esecuzione della legge predetta.   
+  
+Art. 5.   
+  
+La Federazione e' regolata da uno statuto proposto dalla Federazione stessa e da approvarsi con le forme previste dal presente decreto per l'approvazione degli statuti delle Casse di risparmio.   
+  
+Eguale procedura sara' seguita per le successive modificazioni.   
+  
+In caso di divergenza tra gli istituti federati, il Ministero dell'economia nazionale ha facolta' d'introdurre variazioni d'ufficio negli statuti proposti e nelle modificazioni successive.   
+  
+Art. 6.   
+  
+Le Federazioni sono tenute alla formazione di un fondo comune di garanzia, il quale dovra' essere adoperato a favore dell'istituto e degli istituti federati che, esauriti i propri mezzi, ne abbiano bisogno per rimborsare i depositanti.   
+  
+Ove gli istituti federati non deliberino all'unanimita' che la totalita' dei propri patrimoni costituisce in solido il fondo comune di garanzia, questo e' formato inizialmente mediante attribuzione dei due decimi del patrimonio e delle riserve di qualsiasi specie esistenti secondo l'ultimo bilancio presso i singoli istituti federati, e sara' aumentato negli anni successivi mediante attribuzioni di due decimi degli utili netti disponibili dei singoli istituti confederati.   
+  
+Sempreche' la sicurezza dei depositanti degli istituti federati risulti egualmente salvaguardata, ed in caso di notevole differenza nell'ammontare dei depositi raccolti dai singoli istituti federati, e' in facolta' del Ministero dell'economia nazionale di autorizzare che la formazione iniziale ed i successivi incrementi del fondo comune di garanzia abbiano luogo mediante l'attribuzione di una percentuale inferiore ai due decimi di cui al comma precedente.   
+  
+Il fondo comune di garanzia continua ad essere amministrato dai singoli istituti, ma deve essere tenuto in evidenza nelle situazioni contabili e nei bilanci.   
+  
+Art. 7.   
+  
+Gli atti di fusione delle Casse di risparmio e dei Monti di pieta' di 1ª categoria, o di questi enti tra di loro, gli atti di federazione tra questi enti, il trapasso di beni, attivita' e passivita', dipendenti dagli atti di fusione o di federazione predetti, sono soggetti a tassa fissa di registro ed ipotecaria di L. 10, ferma restando la corresponsione degli emolumenti ipotecari di cui alla tabella D annessa al [R. decreto-legge 30 dicembre 1923, n. 3272](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1923-12-30;3272).   
+  
+Gli atti di trapasso delle gestioni e cauzioni delle esattorie, tesorerie e ricevitorie provinciali eventualmente gestite dalle Casse di risparmio o dai Monti di pieta' di 1ª categoria sottoposti a provvedimenti di fusione a norma dell'articolo 1 del presente decreto, saranno eseguiti d'ufficio e sono soggetti a tassa di registro ed ipotecaria di lire 10, oltre gli emolumenti ipotecari di cui sopra, restando autorizzate l'Amministrazione del debito pubblico e della Cassa depositi e prestiti nonche' le conservatorie delle ipoteche ad eseguire le necessarie operazioni sui titoli cauzionali e sugli esistenti vincoli ipotecari.   
+  
+Art. 8.   
+  
+Il Regio decreto di istituzione delle Casse di nuova fondazione previsto dall'[art. 8 del regolamento 21 gennaio 1897, n. 43](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1897-01-21;43~art8), per l'esecuzione della [legge 15 luglio 1888, n. 5546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546) (serie 3ª), sara' emanato su proposta del Ministro per l'economia nazionale, di concerto con quello per le finanze, udito il parere dell'Istituto di emissione.   
+  
+Per le Casse di nuova fondazione il primo fondo di dotazione di cui all'[art. 3 della legge 15 luglio 1888, n. 5546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546~art3) (serie 3ª), deve essere costituito in denaro e per una somma non inferiore ad un milione di lire.   
+  
+Se nel termine di un quinquennio l'ammontare dei depositi fiduciari di ogni specie raccolti dalla nuova Cassa non avra' raggiunto i cinque o i dieci milioni, si applicheranno rispettivamente le disposizioni di cui al primo ed al secondo comma dell'art. 1.   
+  
+Art. 9.   
+  
+Le Casse di risparmio, i Monti di pieta' di 1ª categoria e gli altri enti morali che raccolgono depositi non potranno aprire sedi secondarie, succursali, filiali, agenzie e dipendenze qualsiasi senza la preventiva autorizzazione del Ministero dell'economia nazionale, di concerto con quello delle finanze, sentito l'Istituto di emissione.   
+  
+Ove Casse di risparmio, Monti di pieta' di 1ª categoria o altri enti morali che raccolgono depositi abbiano proprie sedi centrali, secondarie, filiali, agenzie o dipendenze qualsiasi in uno stesso comune, il Ministero dell'economia nazionale, di concerto con quello delle finanze, udito il parere dell'Istituto di emissione, ha facolta' di ordinare la chiusura di alcuna delle sedi secondarie, filiali, agenzie o dipendenze predette, sempre che gli istituti interessati non vi procedano d'accordo nel termine che sara' fissato dal Ministro per l'economia nazionale.   
+  
+Il Ministro per l'economia nazionale, di concerto con quello per le finanze, udito il parere dell'Istituto di emissione, potra' autorizzare, con le forme previste dall'art. 2, permutazioni di filiali di Casse di risparmio o di Monti di pieta' di 1ª categoria, o di questi enti tra di loro.   
+  
+I provvedimenti previsti dal presente articolo non sono soggetti ad alcun gravame giudiziario o amministrativo.   
+  
+Art. 10.   
+  
+Le modificazioni degli statuti delle Casse di risparmio debbono essere deliberate dai rispettivi Consigli di amministrazione, e da questi sottoposte, insieme con le deliberazioni eventualmente prese al riguardo dagli enti fondatori, dalle pubbliche Amministrazioni e dalle assemblee dei soci, all'approvazione governativa, che sara' data con Regio decreto promosso dal Ministro per l'economia nazionale, sentito il Consiglio di Stato.   
+  
+L'iniziativa delle modificazioni puo' essere presa anche dagli enti fondatori, dalle pubbliche Amministrazioni o dalle assemblee dei soci; in tal caso pero', perche' le modificazioni possano ottenere l'approvazione governativa, e' necessario che su di esse si sia pronunciato favorevolmente il Consiglio di amministrazione della Cassa di risparmio. In caso di divergenza di proposte, il Ministero dell'economia nazionale ha facolta' d'introdurre variazioni d'ufficio.   
+  
+Eguali disposizioni si applicano per i Monti di pieta' di 1ª categoria. Il relativo decreto Reale di approvazione sara' promosso dal Ministro per l'economia nazionale, di concerto con il Ministro per l'interno, sentito il Consiglio di Stato. Le variazioni d'ufficio alle modificazioni degli statuti dei Monti di pieta' ai 1ª categoria saranno adottate d'accordo con il Ministro per l'interno.   
+  
+Le disposizioni del presente articolo hanno effetto dalla data di entrata in vigore del presente decreto, non ostante qualunque disposizione in contrario degli statuti vigenti.   
+  
+Sono soppressi l'[art. 18 ed il secondo comma](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546~art18-com2) dell'[art. 19 della legge 15 luglio 1888, n. 5546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546~art19) (serie 3ª).   
+  
+Art. 11.   
+  
+All'[art. 25 della legge 15 luglio 1888, n. 5546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546~art25) (serie 3ª), modificato con la [legge 17 luglio 1898, n. 311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-07-17;311), e' aggiunto il seguente comma: «In casi di urgenza il Ministro per l'economia nazionale, con proprio decreto, ha facolta' di sospendere dall'esercizio delle proprie funzioni il Consiglio di amministrazione in carica e di affidare temporaneamente la gestione delle Casse di risparmio a un Commissario straordinario, fino all'insediamento del Commissario Regio, o alla ricostituzione del Consiglio di amministrazione».   
+  
+Eguale disposizione si applica ai Monti di pieta' di 1ª categoria.  
+In questo caso il relativo decreto sara' emesso dal Ministro per l'economia nazionale, di concerto con quello per l'interno.   
+  
+Art. 12.   
+  
+Presso le Casse di risparmio e i Monti di pieta' di 1ª categoria deve funzionare un collegio di sindaci composto di tre membri di cui uno nominato dagli enti fondatori o dalle pubbliche Amministrazioni o dall'assemblea dei soci, e due dalla Federazione alla quale l'Istituto appartiene.   
+  
+In caso di mancanza di alcuno dei sindaci per qualsiasi motivo, si deve subito provvedere alla sua sostituzione da parte di chi lo ha nominato.   
+  
+I sindaci durano in carica un anno e sono rieleggibili.   
+  
+Essi possono operare per delega anche separatamente l'uno dall'altro.   
+  
+I sindaci devono:   
+  
+1° procedere a saltuarie ed improvvise verifiche di cassa e dei valori dell'Istituto, con facolta' di prendere visione dei libri e registri dell'Istituto;   
+  
+2° procedere ad una completa revisione di tutta l'azienda in occasione della compilazione del bilancio annuale;   
+  
+3° verificare l'adempimento delle disposizioni di legge e di statuto;   
+  
+4° riferire al Consiglio d'amministrazione del loro istituto e al Consiglio federale il risultato delle loro verifiche.   
+  
+Possono assistere alle adunanze dei Consigli d'amministrazione e delle assemblee dei soci, se ne siano richiesti dai Consigli stessi.   
+  
+I sindaci nominati dalla Federazione sono responsabili in solido verso di essa dell'adempimento dei loro obblighi.   
+  
+Art. 13.   
+  
+Le Casse di risparmio possono assumere l'amministrazione di patrimoni, limitatamente ai beni immobili ed ai titoli di credito che siano loro affidati dagli aventi diritto. Tale ufficio, entro gli stessi limiti, puo' altresi' essere loro conferito dall'autorita' giudiziaria nei casi in cui a questa competa di provvedere alla nomina dell'amministratore.   
+  
+Art. 14.   
+  
+All'[art. 15 della legge 15 luglio 1888, n. 5546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546~art15) (serie 3ª), e all'[art. 1 della legge 17 luglio 1898, n. 311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-07-17;311~art1), e' sostituito il seguente:   
+  
+«Le Casse di risparmio e i Monti di pieta' di 1ª categoria, salvo speciali autorizzazioni del Ministero dell'economia nazionale, da concedersi nei casi di pubblica utilita' e fino alla concorrenza di un decimo del proprio patrimonio e riserva, non possono acquistare altri beni stabili oltre quelli necessari, in tutto od in parte, per risiedervi coi loro uffici o per adempire ai loro fini o per quelle altre eventuali gestioni di cui all'[art. 4 della legge 15 luglio 1888, n. 5546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546~art4) (serie 3ª), e quelli dei quali occorra l'acquisto per tutelare i loro crediti nei casi di espropriazioni forzate.   
+  
+«Esse devono vendere nel termine non maggiore di dieci anni gli stabilimenti che acquistano nei casi di espropriazione forzata a tutela dei loro crediti, o per eredita' o donazione, salvo i lasciti o donazioni a scopo di beneficenza.   
+  
+«Il detto termine puo' essere prorogato dal Ministro per l'economia nazionale».   
+  
+Art. 15.   
+  
+In relazione al disposto degli [articoli 2](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1830~art2) e [16 del R. decreto-legge 6 novembre 1926, n. 1830](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1926-11-06;1830~art16), il fido che puo' concedersi da una singola Cassa di risparmio o da un singolo Monte di pieta' di 1ª categoria ad uno stesso obbligato non dovra' superare il quinto del patrimonio e delle riserve dell'ente di cui trattasi.   
+  
+I fidi che alla data dell'entrata in vigore del presente decreto eccedano il limite suindicato saranno denunziati dall'istituto interessato all'Istituto di emissione e saranno regolati entro il termine di tre anni.   
+  
+E' in facolta' dell'Istituto di emissione di consentire, caso per caso, eventuali deroghe alle norme contenute nel presente articolo.   
+  
+Art. 16.   
+  
+Fino a che la massa di rispetto non sia giunta e non si mantenga eguale almeno al decimo dell'ammontare dei depositi ricevuti per qualsiasi titolo, le Casse di risparmio e i Monti di pieta' di 1ª categoria devono sempre destinare sette decimi degli utili annuali alla formazione e all'aumento di una massa di rispetto.   
+  
+Ove gli istituti facenti parte di una Federazione non abbiano costituito tutto il proprio patrimonio quale fondo comune di garanzia della Federazione, due dei predetti sette decimi dovranno essere sempre accantonati quale fondo di garanzia della Federazione, ai sensi dell'art. 6 precedente, salvo il caso previsto dal penultimo comma dello stesso articolo 6.   
+  
+Gli altri tre decimi possono essere assegnati ad opere di beneficenza e di pubblica utilita'.   
+  
+Quando la massa di rispetto abbia raggiunto e si mantenga eguale almeno al decimo dell'ammontare dei depositi ricevuti per qualsiasi titolo, le Casse di risparmio e i Monti di pieta' di 1ª categoria potranno destinare anche una parte maggiore dei propri utili netti annuali ad opere di beneficenza, o di pubblica utilita'.   
+  
+Rimane fermo in ogni caso per i Monti di pieta' di 1ª categoria, anche se fusi con Casse di risparmio, il disposto dell'[art. 7, n. 3, della legge 10 dicembre 1925, n. 2277](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1925-12-10;2277~art7-num3), sull'Opera nazionale per la protezione della maternita' e dell'infanzia, ai sensi dell'art. 1 del presente decreto. L'[articolo 17 della legge 15 luglio 1888, n. 5546](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1888-07-15;5546~art17) (serie 3ª), e le disposizioni contenute nell'[articolo 3 del R. decreto 14 giugno 1923, n. 1396](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-06-14;1396~art3), circa la destinazione degli utili dei Monti di pieta' di lª categoria, sono abrogate.   
+  
+Art. 17.   
+  
+Gli statuti delle Federazioni saranno presentati al Ministero dell'economia nazionale entro tre mesi dall'entrata in vigore del presente decreto. Ove lo statuto non sia presentato nel termine suindicato, sara' provveduto alla sua compilazione e pubblicazione d'ufficio, a cura del Ministero dell'economia nazionale.   
+  
+Art. 18.   
+  
+E' data facolta' al Governo del Re di coordinare in testo unico le disposizioni legislative sulle Casse di risparmio e sui Monti di pieta' di 1ª categoria e di apportare ai rispettivi regolamenti le modificazioni che siano necessarie per l'applicazione del presente decreto e le altre in genere che siano ritenute opportune.   
+  
+Il presente decreto entra in vigore il trentesimo giorno successivo a quello della sua pubblicazione, e sara' presentato al Parlamento per la conversione in legge. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 29 dicembre 1927 - Anno VI   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Belluzzo - Rocco   
+- Volpi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  

@@ -1,0 +1,47 @@
+REGIO DECRETO 23 dicembre 1865 n. 2709
+
+
+REGIO DECRETO 23 dicembre 1865 n. 2709
+======================================
+
+Che ordina il passaggio dell'Istituto di Agraria e Veterinaria di Pisa sotto la dipendenza del Ministero di Pubblica Istruzione. (065U2709)
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/02/1866
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il Reale Decreto del 28 novembre 1861, n.° 347, col quale fu attribuito al Ministero di Agricoltura, Industria e Commercio l'Istituto di Agraria e Veterinaria della R. Universita' di Pisa;   
+  
+Riconosciuta la convenienza che l'Istituto medesimo, il quale in forza del Decreto del Governo della Toscana del 31 luglio 1859 fa parte della Universita' di Pisa, sia governato dal Ministero di Pubblica Istruzione;   
+  
+Sulla proposizione dei Nostri Ministri Segretari di Stato per la Pubblica Istruzione, e per l'Agricoltura, l'Industria ed il Commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+L'Istituto di Agraria e Veterinaria di Pisa, ora attribuito al Ministero di Agricoltura, Industria e Commercio, passera' nuovamente sotto la dipendenza del Ministero di Pubblica Istruzione, a cominciare dal 1.° gennaio 1866; al quale effetto sono trasferiti sul bilancio di questo i fondi che pel suddetto Istituto sono stanziati su quello del Ministero di Agricoltura, Industria e Commercio.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 23 dicembre 1865.   
+  
+VITTORIO EMANUELE.   
+  
+Registrato alla Corte dei conti addi' 11 gennaio 1866   
+Reg.° 35 Atti del Governo a c. 14. Ayres.   
+Luogo del Sigillo. V. Il Guardasigilli CORTESE.   
+  
+TORELLI.   
+NATOLI.   
+  
+  

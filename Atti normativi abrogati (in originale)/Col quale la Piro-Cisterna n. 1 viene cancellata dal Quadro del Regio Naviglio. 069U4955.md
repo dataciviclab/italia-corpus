@@ -1,0 +1,48 @@
+REGIO DECRETO 04 marzo 1869 n. 4955
+
+
+REGIO DECRETO 04 marzo 1869 n. 4955
+===================================
+
+Col quale la Piro-Cisterna n. 1 viene cancellata dal Quadro del Regio Naviglio. (069U4955)
+------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/04/1869
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'articolo 2 del Regio Decreto 14 giugno 1863, circa l'armamento del Naviglio dello Stato;
+
+Sentito il parere del Consiglio superiore di Marina;
+
+Sulla
+-----
+
+proposta del Ministro della Marina; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La Piro-Cisterna n. 1 e' cancellata dal Quadro del Regio Naviglio.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 4 marzo 1869.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 23 marzo 1869   
+  
+Reg. 46 Atti del Governo a c. 76. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli De Filippo.   
+  
+A. Riboty.   
+  

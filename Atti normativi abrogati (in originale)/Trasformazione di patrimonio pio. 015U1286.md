@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 01 agosto 1915 n. 1286
+
+
+DECRETO LUOGOTENENZIALE 01 agosto 1915 n. 1286
+==============================================
+
+Trasformazione di patrimonio pio. (015U1286)
+--------------------------------------------
+
+Entrata in vigore del provvedimento: 16/09/1915
+
+Art. 1
+------
+
+  
+N. 1286   
+  
+Decreto Luogotenenziale 1° agosto 1915, col quale, sulla proposta del ministro dell'interno, il fine inerente al patrimonio delle due Confraternite di Serra dei Conti denominate del Sacramento e del Rosario viene trasformato a favore dell'Ospedale locale, al quale e' interamente devoluto il patrimonio stesso con obbligo di corrispondere ai sodalizi un annuo assegno per spese di culto conservate, e di lasciare l'uso gratuito ad entrambi dei locali necessari per le adunanze e per la custodia degli arredi sacri.   
+  

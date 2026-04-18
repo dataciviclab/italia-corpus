@@ -1,0 +1,56 @@
+REGIO DECRETO 06 novembre 1924 n. 1806
+
+
+REGIO DECRETO 06 novembre 1924 n. 1806
+======================================
+
+Modificazioni al numero dei magistrati assegnati al Tribunale ed alla Regia procura di Arezzo. (024U1806)
+---------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/11/1924
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 1 del Nostro decreto 3 maggio 1923, n. 1165;
+
+Visto l'art. 7 del Nostro decreto 30 dicembre 1923, numero 2786, sull'ordinamento degli uffici giudiziari e del personale della magistratura;
+
+Ritenuta la necessita' di modificare le tabelle dei magistrati assegnati al Tribunale e alla Regia procura di Arezzo;
+
+Sentito il Consiglio superiore della magistratura;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Guardasigilli Ministro Segretario di Stato per la giustizia e gli affari di culto; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Al Tribunale di Arezzo sono assegnati cinque giudici; ed alla Regia procura presso il detto Tribunale un sostituto procuratore del Re, rimanendo cosi' modificata la tabella C annessa al Nostro decreto 3 maggio 1923, n. 1165.   
+  
+Il presente decreto entrera' in vigore il giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 6 novembre 1924.   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Oviglio.   
+  
+Visto, il Guardasigilli: Oviglio.   
+  
+Registrato alla Corte dei conti, addi' 17 novembre 1924.   
+  
+Atti del Governo, registro 230, foglio 128. - Granata.   
+  

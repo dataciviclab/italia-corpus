@@ -1,0 +1,46 @@
+REGIO DECRETO 25 agosto 1893 n. 507
+
+
+REGIO DECRETO 25 agosto 1893 n. 507
+===================================
+
+Sull'ammissione al volontariato di un anno degli inscritti di leva sulla classe 1873. (093U0507)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/09/1893
+
+UMBERTO I.
+----------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visti i Nostri decreti 23 agosto 1891 n. 504 e 24 aprile 1892 n. 214;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari della Guerra;
+
+Sentito
+-------
+
+il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Gli inscritti della leva sulla classe 1873, i quali non poterono essere ammessi all'arruolamento volontario di un anno, perche' non ne presentarono domanda prima della estrazione a sorte della loro leva, sono ammessi in tempo a presentarla.   
+  
+Essi dovranno soddisfare alle condizioni di cui ai numeri 3, 4, 5 e 6 dell'articolo 111 ed ai numeri 1 e 2 dell'articolo 116 della legge sul reclutamento, e sottoporsi al pagamento della somma stabilita per l'anno in corso dal [R. decreto 27 dicembre 1892 n. 709](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1892-12-27;709), dopo di che saranno considerati a tutti gli effetti come volontari di un anno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Spezia, addi' 25 agosto 1893.   
+  
+UMBERTO.   
+  
+Pelloux.   
+  
+Visto, Il Guardasigilli: Santamaria-Nicolini.   
+  

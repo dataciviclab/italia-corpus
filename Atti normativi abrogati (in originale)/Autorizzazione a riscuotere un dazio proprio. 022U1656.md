@@ -1,0 +1,17 @@
+REGIO DECRETO 30 novembre 1922 n. 1656
+
+
+REGIO DECRETO 30 novembre 1922 n. 1656
+======================================
+
+Autorizzazione a riscuotere un dazio proprio. (022U1656)
+--------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/01/1923
+
+Art. 1
+------
+
+N.
+
+1656. Regio decreto 30 novembre 1922, col quale, sulla proposta del Ministro delle finanze, il comune di Fano, in provincia di Pesaro, e' stato autorizzato a riscuotere un dazio proprio a quintale sui cristalli e vetri comunque lavorati di L. 30; sulle terraglie, maioliche e mezze maioliche L. 10; sul vasellame di terra cotta L. 5; sulle porcellane bianche, dipinte e dorate L. 50; sulla carta bianca, colorata, da disegno e da stampa L. 25; sui cartoni fini L. 30; sulla carta senza colla e cartoni ordinari L. 10; sugli attrezzi ed utensili domestici di legno e di metallo L. 10; sull'amido e fecole L. 20.

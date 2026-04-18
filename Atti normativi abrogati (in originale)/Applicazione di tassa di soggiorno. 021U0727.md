@@ -1,0 +1,17 @@
+REGIO DECRETO 03 aprile 1921 n. 727
+
+
+REGIO DECRETO 03 aprile 1921 n. 727
+===================================
+
+Applicazione di tassa di soggiorno. (021U0727)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 05/07/1921
+
+Art. 1
+------
+
+N.
+
+727. Regio decreto 3 aprile 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, viene omologato il nuovo regolamento per l'applicazione della tassa di soggiorno nel comune di Maderno (Brescia).

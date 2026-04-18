@@ -1,0 +1,46 @@
+LEGGE 11 luglio 1941 n. 686
+
+
+LEGGE 11 luglio 1941 n. 686
+===========================
+
+Norme per l'avanzamento degli ufficiali della Regia guardia di finanza durante l'attuale stato di guerra. (041U0686)
+--------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/08/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+A decorrere dal 1° gennaio 1941-XIX e per tutta la durata dell'attuale guerra, per le promozioni degli ufficiali della Regia guardia di finanza si applicano le disposizioni seguenti:   
+  
+a) le promozioni a scelta ordinaria hanno luogo sottoponendo gli ufficiali alla classifica di cui all'art. 47 della legge 7 giugno 1934-XII, n. 899, e successive modificazioni, ma non ai corsi valutativi;   
+  
+b) gli esami per la scelta speciale sono sospesi;   
+  
+c) si richiedono per le promozioni, i periodi di comando di cui all'art. 14 del R. decreto 17 settembre 1940-XVIII, n. 1567, e i periodi di permanenza minima nel grado di cui all'art. 33 della legge 7 giugno 1934-XII, n. 899 e successive modificazioni;   
+  
+d) rimane salvo il titolo alla scelta speciale gia' acquisito alla data anzidetta.   
+  
+Ordiniamo che la presente, munita del sigillo della Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 11 luglio 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   

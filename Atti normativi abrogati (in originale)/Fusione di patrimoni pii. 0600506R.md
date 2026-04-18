@@ -1,0 +1,19 @@
+REGIO DECRETO 23 dicembre 1906 n. DVI
+
+
+REGIO DECRETO 23 dicembre 1906 n. DVI
+=====================================
+
+Fusione di patrimoni pii. (0600506R)
+------------------------------------
+
+Entrata in vigore del provvedimento: 03/03/1907
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro dell'interno:   
+  
+N. DVI (Dato a Roma, il 23 dicembre 1906), col quale il legato Corvo e l'ex-Confraternita dell'Addolorata, del Sacramento, del Sangue di Cristo, di San Giuseppe, del Soccorso e della Misericordia sono fuse con l'ospedale di Natale di Pietraporzia (Caltanissetta) e si approva lo statuto organico pel pio luogo.   
+  

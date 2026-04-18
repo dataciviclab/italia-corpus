@@ -1,0 +1,86 @@
+REGIO DECRETO 16 dicembre 1883 n. 1831
+
+
+REGIO DECRETO 16 dicembre 1883 n. 1831
+======================================
+
+Si aggiungono nuovi tratti di strada all'elenco delle strade provinciali di Firenze. (083U1831)
+-----------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/02/1884
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la deliberazione 2 aprile 1881 del Consiglio provinciale di Firenze, con cui vennero aggiunte all'elenco delle strade provinciali, previe le debite formalita' di legge, alcune strade da costruirsi nel territorio di quella provincia;
+
+Vista la deliberazione 27 giugno 1881 della Giunta comunale di Firenzuola, debitamente approvata dal Consiglio comunale in data 17 agosto successivo, per la parte con cui si domanda l'iscrizione nel ripetuto elenco della strada comunale detta di Bruscoli, che traversando la nazionale Bolognese conduce al confine di Piano del Voglio;
+
+Vista la seguente deliberazione 9 settembre stesso anno del Consiglio provinciale, che voto', sull'istanza del Comune, l'ordine del giorno puro e semplice;
+
+Visto il R. decreto 17 maggio 1883, con cui, in esecuzione della [legge 23 luglio 1881, n. 333](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-23;333), vennero iscritte nel numero delle provinciali di serie talune fra le strade contemplate nella citata deliberazione 2 aprile 1881 del Consiglio predetto;
+
+Visto il parere dell'ufficio del Genio civile di Firenze, in data 10 luglio 1883;
+
+Visto il voto 11 agosto stesso anno del Consiglio superiore dei lavori pubblici;
+
+Considerando:
+
+Che dietro la pubblicazione del gia' citato R. decreto 17 maggio 1883 le domande del Consiglio provinciale di Firenze vengono ristrette alla dichiarazione di provincialita' per le strade non contemplate nel decreto medesimo, ed alla radiazione dall'elenco di un tratto della provinciale Valleriana, dal Castagno al confine della provincia di Pisa, nonche' alla definitiva decisione nel merito dell'istanza proposta dal comune di Firenzuola;
+
+Che quanto alle modificazioni da apportarsi all'elenco delle provinciali, essendo stati debitamente pubblicati i manifesti relativi, niuna opposizione fu elevata dai comuni interessati;
+
+Che il Consiglio superiore dei lavori pubblici lo ha dopo cio' ritenuto meritevole di approvazione;
+
+Che in merito all'istanza del comune di Firenzuola, circa la dichiarazione di provincialita' della strada di Bruscoli, e' da ritenersi la costante giurisprudenza del Consiglio di Stato, per cui e' stabilito che non sono ricevibili i ricorsi dei comuni contro deliberazioni dei Consigli provinciali che abbiano respinte domande dirette a far provinciali strade non comprese negli elenchi deliberati e pubblicati colle norme stabilite dalla legge sulle opere pubbliche;
+
+Visto l'art. 14 della legge 20 marzo 1865, allegato F;
+
+Udito il Consiglio di Stato nel suo voto 14 novembre 1883;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato poi Lavori Pubblici, Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+Sono aggiunte all'elenco delle strade provinciali di Firenze le seguenti:
+
+1. Tratto della strada Val di Bisenzio, da San Quirico a Montepiano;
+
+2. Strada dal ponte di San Zeno alla Cantina;
+
+3. Strada da San Piero a Sarsino;
+
+4. Strada Tosco-Romagnola, da San Piero in Bagno ai Mandrioli.
+
+Art. 2
+------
+
+  
+  
+E' radiato invece dal detto elenco il tratto di strada provinciale Valleriana, dal Castagno al confine della provincia di Pisa.   
+
+Art. 3
+------
+
+null
+
+1881. 
+  
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 dicembre 1883.   
+  
+UMBERTO.   
+  
+Genala.   
+  
+Visto, Il Guardasigilli: Savelli.

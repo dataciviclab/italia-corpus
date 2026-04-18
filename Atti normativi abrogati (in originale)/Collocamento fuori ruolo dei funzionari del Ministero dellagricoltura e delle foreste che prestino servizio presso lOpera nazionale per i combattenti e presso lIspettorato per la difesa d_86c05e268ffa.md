@@ -1,0 +1,51 @@
+REGIO DECRETO 14 novembre 1941 n. 1515
+
+
+REGIO DECRETO 14 novembre 1941 n. 1515
+======================================
+
+Collocamento fuori ruolo dei funzionari del Ministero dell'agricoltura e delle foreste che prestino servizio presso l'Opera nazionale per i combattenti e presso l'Ispettorato per la difesa del risparmio e per l'esercizio del credito. (041U1515)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/02/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto l'art. 1 del R. decreto 30 dicembre 1923-II, n. 2958, modificato dall'art. 17 del R. decreto-legge 10 gennaio 1920-IV, n. 46, riguardante il collocamento fuori ruolo dei funzionari statali, convertito nella legge 24 maggio 1926-IV, n. 898;   
+  
+Visto il R. decreto 25 agosto 1940-XVIII, n, 1440, recante norme per il collocamento fuori ruolo di funzionari dell'Amministrazione centrale e periferica del Ministero dell'agricoltura e delle foreste, integrato dal R. decreto 6 marzo 1941-XIX, n. 135;   
+  
+Ritenuta l'opportunita' che funzionari del Ministero dell'agricoltura e delle foreste possano essere destinati, all'occorrenza, a prestare servizio continuativo presso l'Opera nazionale per i combattenti e presso l'Ispettorato per la difesa del risparmio e per l'esercizio del credito, nella posizione di fuori ruolo;   
+  
+Udito il Consiglio di Stato;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'agricoltura e le foreste, di concerto con il Ministro Segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+I funzionari dell'Amministrazione centrale o periferica del Ministero dell'agricoltura e delle foreste possono essere collocati fuori ruolo per prestare servizio, oltre che presso gli Enti elencati nell'art. 1 del Regio decreto 25 agosto 1940-XVIII, n. 1440, modificato con R. decreto 6 marzo 1941-XVIII, n. 135, anche presso l'Ispettorato per la difesa del risparmio e l'esercizio del credito e presso l'Opera nazionale per i combattenti.   
+  
+Il presente decreto ha effetto dal giorno della sua pubblicazione nella Gazzetta Ufficiale del Regno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 14 novembre 1941-XX   
+  
+VITTORIO EMANUELE   
+  
+TASSINARI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 18 gennaio 1942-XX   
+  
+Atti del Governo, registro 441, foglio 53. - MANCINI   

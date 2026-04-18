@@ -1,0 +1,19 @@
+REGIO DECRETO 22 gennaio 1914 n. 376
+
+
+REGIO DECRETO 22 gennaio 1914 n. 376
+====================================
+
+Accettazione di un legato per parte di un'Accademia e di un Istituto della citta' di Urbino. (014U0376)
+-------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/05/1914
+
+Art. 1
+------
+
+  
+N. 376   
+  
+Regio Decreto 22 gennaio 1914, col quale, sulla proposta del ministro dell'istruzione pubblica, la R. Accademia «Raffaello» in Urbino ed il R. Istituto di belle arti delle Marche in Urbino sono autorizzati ad accettare insieme un legato del prof. Giuseppe Fiocchi di dieci obbligazioni ferroviarie di L. 500 nominali, per impiegarne l'annua rendita di L. 150 per la celebrazione annuale del natalizio di Raffaello.   
+  

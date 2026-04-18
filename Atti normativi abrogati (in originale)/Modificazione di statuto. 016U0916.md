@@ -1,0 +1,21 @@
+DECRETO LUOGOTENENZIALE 16 luglio 1916 n. 916
+
+
+DECRETO LUOGOTENENZIALE 16 luglio 1916 n. 916
+=============================================
+
+Modificazione di statuto. (016U0916)
+------------------------------------
+
+Entrata in vigore del provvedimento: 20/08/1916
+
+Art. 1
+------
+
+  
+N. 916   
+  
+Decreto Luogotenenziale 16 luglio 1916, col quale, sulla proposta del ministro dell'istruzione pubblica, viene modificato lo statuto della Societa' degli amatori e cultori di belle arti di Roma, approvato con Regi decreti 24 febbraio 1895, n. LXII (parte supplementare); 29 settembre 1895, n. CXLIV (parte supplementare); 21 luglio 1911, n. 988.   
+  
+E' soppresso l'art. 35; gli articoli 26, 29, 34 e 36 sono modificati, relativamente alle votazioni nell'assemblea dei soci, alle proposte di modificazione allo statuto, alla formazione e al funzionamento della Giuria per le Esposizioni.   
+  

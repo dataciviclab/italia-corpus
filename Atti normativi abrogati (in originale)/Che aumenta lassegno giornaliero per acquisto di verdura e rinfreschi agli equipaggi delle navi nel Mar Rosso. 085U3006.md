@@ -1,0 +1,41 @@
+REGIO DECRETO 08 marzo 1885 n. 3006
+
+
+REGIO DECRETO 08 marzo 1885 n. 3006
+===================================
+
+Che aumenta l'assegno giornaliero per acquisto di verdura e rinfreschi agli equipaggi delle navi nel Mar Rosso. (085U3006)
+--------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/04/1885
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la tabella che fa seguito al R. decreto in data 9 settembre 1873, riguardante l'assegno giornaliero per acquisto di verdura e rinfreschi agli equipaggi delle Regie navi;   
+  
+Considerato che le Regie navi nel Mar Rosso devono pagare a prezzo molto elevato la verdura, e che per l'alta temperatura di quelle regioni i rinfreschi si devono distribuire in larga misura, per cui non e' sufficiente l'assegno stabilito colla sovraindicata tabella;   
+  
+Sulla proposta del Nostro Ministro della Marina,   
+  
+Abbiamo decretato e decretiamo:   
+  
+L'assegno giornaliero per acquisto di verdura e rinfreschi, fissato per le Regie navi fuori del Mediterraneo colla tabella che fa seguito al R. decreto del 9 settembre 1873, sara' raddoppiato per le navi nel Mar Rosso.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 8 marzo 1885.   
+  
+UMBERTO.   
+  
+B. BRIN.   
+  
+Visto, Il Guardasigilli: PESSINA.   
+  

@@ -1,0 +1,39 @@
+LEGGE 16 dicembre 1940 n. 1794
+
+
+LEGGE 16 dicembre 1940 n. 1794
+==============================
+
+Concessione di benefici tributari e altre agevolazioni per i procedimenti esecutivi riguardanti le controversie individuali del lavoro. (040U1794)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/01/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo guanto segue:   
+  
+Articolo unico.   
+  
+I benefici tributari e le altre agevolazioni stabiliti negli articoli 27 e 28 del R. decreto 21 maggio 1934-XII, n. 1073, si applicano anche relativamente ai procedimenti esecutivi riguardanti le materie indicate nell'art. 1 del Regio decreto predetto.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 16 dicembre 1940-XIX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - GRANDI - DI REVEL - RICCI   
+  
+Visto, il Guardasigilli: GRANDI   

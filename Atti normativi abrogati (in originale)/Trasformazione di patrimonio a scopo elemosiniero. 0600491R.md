@@ -1,0 +1,19 @@
+REGIO DECRETO 16 dicembre 1906 n. CCCCXCI
+
+
+REGIO DECRETO 16 dicembre 1906 n. CCCCXCI
+=========================================
+
+Trasformazione di patrimonio a scopo elemosiniero. (0600491R)
+-------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/02/1907
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro dell'interno:   
+  
+N. CCCCXCI (Dato a Roma, il 16 dicembre 1906), col quale si dispone la trasformazione del fine inerente al patrimonio delle Confraternite del Purgatorio, della Madonna della Neve, di San Girolamo, di Santa Croce, di San Rocco, del SS. Sacramento e della Misericordia, esistenti in Grotte di Castro, nel senso di devolverne le rendite all'assistenza ospitaliera degli ammalati poveri del Comune predetto, e si provvede in pari tempo al concentramento del patrimonio stesso nella Congregazione di carita' di Grotte di Castro.   
+  

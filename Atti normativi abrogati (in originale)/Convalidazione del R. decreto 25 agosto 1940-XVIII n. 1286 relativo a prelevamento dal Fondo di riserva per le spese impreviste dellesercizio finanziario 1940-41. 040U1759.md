@@ -1,0 +1,41 @@
+LEGGE 09 dicembre 1940 n. 1759
+
+
+LEGGE 09 dicembre 1940 n. 1759
+==============================
+
+Convalidazione del R. decreto 25 agosto 1940-XVIII, n. 1286, relativo a prelevamento dal Fondo di riserva per le spese impreviste dell'esercizio finanziario 1940-41. (040U1759)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/01/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convalidato il decreto Reale 25 agosto 1940-XVIII, n. 1286, con il quale e' stato autorizzato un prelevamento dal Fondo di riserva per le spese impreviste, inscritto nello stato di previsione del Ministero delle finanze per l'esercizio 1940-41.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 9 dicembre 1944-XIX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+  

@@ -1,0 +1,50 @@
+REGIO DECRETO 01 agosto 1887 n. 4860
+
+
+REGIO DECRETO 01 agosto 1887 n. 4860
+====================================
+
+Che approva l'annesso ruolo organico dell'Accademia di Belle Arti di Milano. (087U4860)
+---------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/09/1887
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto gli stanziamenti fatti ai capitoli 32 e 60 del bilancio passivo del Ministero dell'Istruzione pubblica per l'anno finanziario 1887-88;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il ruolo organico dell'Accademia di Belle Arti di Milano, approvato e modificato coi Nostri decreti 29 ottobre 1879, n. 5149 e 13 marzo 1882, n. 679, e' sostituito da quello annesso al presente decreto e firmato d'ordine Nostro dal Ministro proponente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 1° agosto 1887.   
+  
+UMBERTO.   
+  
+Coppino.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  
+
+Ruolo organico
+
+  
+RUOLO NORMALE della R. Accademia di Belle Arti di Milano.   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=087U486000100010110001&dgu=1887-08-30&art.dataPubblicazioneGazzetta=1887-08-30&art.codiceRedazionale=087U4860)
+  

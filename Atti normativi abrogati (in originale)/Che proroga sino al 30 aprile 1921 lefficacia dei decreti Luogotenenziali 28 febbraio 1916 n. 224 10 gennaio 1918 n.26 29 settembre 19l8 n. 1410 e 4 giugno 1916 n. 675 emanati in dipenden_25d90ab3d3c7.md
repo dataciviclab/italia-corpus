@@ -1,0 +1,56 @@
+REGIO DECRETO 07 novembre 1920 n. 1717
+
+
+REGIO DECRETO 07 novembre 1920 n. 1717
+======================================
+
+Che proroga sino al 30 aprile 1921 l'efficacia dei decreti Luogotenenziali 28 febbraio 1916, n. 224, 10 gennaio 1918, n.26, 29 settembre 19l8, n. 1410, e 4 giugno 1916, n. 675 emanati in dipendenza della guerra. (020U1717)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/12/1920
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto il [Regio decreto 30 settembre 1920, n. 1389](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-09-30;1389);
+
+Sulla proposta del Nostro ministro segretario di Stato per il tesoro, di concerto coi ministri dell'industria e commercio, delle finanze, degli affari esteri E della giustizia e affari di culto;
+
+Sentito
+-------
+
+il Consiglio dei ministri; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+  
+E' prorogata sino al 30 aprile 1921 l'efficacia dei seguenti decreti:   
+  
+[Decreto Luogotenenziale 28 febbraio 1916, n. 224](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-02-28;224), che stabilisce le norme per i pagamenti da eseguire in «oro effettivo» e fa divieto di inviare all'estero titoli italiani estratti e cedole maturate;   
+  
+[Decreto Luogotenenziale 10 gennaio 1918, n.26](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1918-01-10;26), per la determinazione del corso ufficiale dell'oro;   
+  
+Decreto Luogotenenziale 29 settembre 1018, n. 1410, che da' temporanea facolta' al Governo di sospendere l'applicazione della tassa di bollo sui titoli esteri da realizzare all'estero;   
+  
+[Decreto Luogotenenziale 4 giugno 1916, n. 675](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo.luogotenenziale:1916-06-04;675), per modificazione dell'art. 11 della legge bancaria 28 aprile 1910, n. 204, riguardante le riserve equiparate degli Istituti di emissione.   
+  
+Il presente decreto sara' presentato al Parlamento per la ratifica.   
+  
+Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 7 novembre 1920.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Meda - Facta -   
+Alessio - Sforza - Fera.   
+  
+Visto, il guardasigilli: Fera.   
+  

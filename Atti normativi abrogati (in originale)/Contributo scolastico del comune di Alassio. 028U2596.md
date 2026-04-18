@@ -1,0 +1,21 @@
+REGIO DECRETO 11 ottobre 1928 n. 2596
+
+
+REGIO DECRETO 11 ottobre 1928 n. 2596
+=====================================
+
+Contributo scolastico del comune di Alassio. (028U2596)
+-------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/12/1928
+
+Art. 1
+------
+
+N.
+
+2596. R. decreto 11 ottobre 1928, col quale, sulla proposta del Ministro per la pubblica istruzione, il contributo scolastico che il comune di Alassio, della provincia di Savona, deve annualmente versare alla Regia tesoreria dello Stato in applicazione dell'[art. 17 della legge 4 giugno 1911, n. 487](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-06-04;487~art17), viene fissato in L. 37,449.08 a decorrere dal 1° gennaio 1929.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 1° dicembre 1928 - Anno VII

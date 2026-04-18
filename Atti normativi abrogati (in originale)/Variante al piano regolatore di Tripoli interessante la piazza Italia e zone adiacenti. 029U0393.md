@@ -1,0 +1,54 @@
+REGIO DECRETO 28 febbraio 1929 n. 393
+
+
+REGIO DECRETO 28 febbraio 1929 n. 393
+=====================================
+
+Variante al piano regolatore di Tripoli interessante la piazza Italia e zone adiacenti. (029U0393)
+--------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/04/1929
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la legge organica per l'amministrazione della Tripolitania e della Cirenaica 26 giugno 1927, n. 1013;   
+  
+Visto il piano regolatore della citta' di Tripoli approvato col [R. decreto 2 settembre 1912, n. 1098](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-09-02;1098), e le successive varianti approvate coi Nostri decreti 15 gennaio 1914, 3 febbraio 1917 e 23 agosto 1920;   
+  
+Visto il progetto 26 marzo 1928, n. 3303, compilato dall'ufficio opere pubbliche della Tripolitania, per incarico di quel Governo, relativo ad una proposta di variante alle linee del piano regolatore di Tripoli, consistente nell'allargamento della piazza Italia e nella sua sistemazione a portici, nello spostamento dell'ultimo tratto della Sciara El Garbi verso nord-ovest in modo da far coincidere l'asse di questa strada con l'asse della piazza del Castello, ed infine nel prolungamento della stessa strada fino al Lungomare Conte Volpi;   
+  
+Ritenuto che la detta variante risponde ad assolute esigenze della viabilita' nella citta' di Tripoli, il cui rapido sviluppo e l'accresciuto traffico richiedono l'allargamento del centro della citta' stessa, e risponde altresi' a non trascurabili esigenze estetiche;   
+  
+Sentito il Consiglio superiore coloniale;   
+  
+Sentito il parere del Consiglio superiore dei lavori pubblici;   
+  
+Sentito il parere della Commissione di arte ed edilita' istituita col [R. decreto-legge 18 novembre 1928, n. 2628](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1928-11-18;2628);   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le colonie;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata la variazione al piano regolatore della citta' di Tripoli risultante dal progetto n. 3303 in data 26 marzo 1928 dell'ufficio opere pubbliche della Tripolitania e particolarmente dalla planimetria in data 4 febbraio 1928 firmata dall'ingegnere capo Alfredo Strada e vistata, d'ordine Nostro, dal Ministro proponente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 28 febbraio 1929 - Anno VII   
+  
+VITTORIO EMANUELE.   
+  
+MUSSOLINI.   
+  
+Visto, il Guardasigilli: ROCCO.   
+  
+Registrato alla Corte dei conti, addi' 3 aprile 1929 - Anno VII   
+Atti del Governo, registro 283, foglio 12. - FERZI.   
+  

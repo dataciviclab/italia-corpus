@@ -1,0 +1,67 @@
+REGIO DECRETO 24 settembre 1931 n. 1221
+
+
+REGIO DECRETO 24 settembre 1931 n. 1221
+=======================================
+
+3ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1931-32. (031U1221)
+-----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/10/1931
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'[art. 42 del R. decreto 18 novembre 1923, n. 2440](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-18;2440~art42), sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+
+Ritenuto che sul fondo di riserva per le spese impreviste dell'esercizio finanziario 1931-32 sono disponibili lire 36.118.500;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Ministro Segretario di Stato
+
+per
+---
+
+le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 220 dello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1931-32, e' autorizzata una 3ª prelevazione nella somma di L. 7.793.630 da assegnare, ripartitamente, ai seguenti capitoli degli stati di previsione dei Ministeri sottoindicati, per l'esercizio medesimo:   
+Ministero delle finanze:   
+Cap. n. 280-bis (di nuova istituzione, sotto la rubrica "Servizi dipendenti dalla Presidenza del Consiglio" e sotto la nuova sotto-rubrica "Spese per servizi diversi") - Assegnazione straordinaria per rimborso, alla Amministrazione militare marittima ed a quella delle comunicazioni, del controvalore del combustibile fornito per la 5ª crociera promossa dall'Opera nazionale Balilla . .  
+. L. 207.900   
+Cap. n. 292-bis (di nuova istituzione). -Acquisto del villino del duca De Vargas Machuca in Roma . . ." 1.250.000   
+Cap. n. 365 (aggiunto - in conto competenza) - Assegnazione straordinaria per contributi e sovvenzioni a enti, sussidi ed altre provvidenze a favore dei mutilati ed invalidi di guerra . . ." 260.000   
+Cap. n. 388 (aggiunto - in conto competenza) - Contributo straordinario nelle spese di funzionamento del Gruppo Medaglie d'Oro . . ." 15.840   
+Ministero degli affari esteri:   
+Cap. n. 69 - Assegno per il funzionamento dell'Istituto internazionale per la cinematografia educativa, ecc. . . ." 400.000 Cap. n. 81 (aggiunto - in conto competenza) - Sovvenzioni ad istituzioni all'estero . . ." 600.000   
+Cap. n. 92 (aggiunto - in conto competenza) Spese relative alla sistemazione della sede della Regia ambasciata a Londra . . ." 1.706.805   
+Ministero dell'educazione nazionale:   
+Cap. n. 115 - Spese per l'amministrazione, la manutenzione e la custodia dei beni gia' facenti parte della dotazione della Corona, ecc. . . ." 265.000   
+Cap. n. 163-bis (di nuova istituzione) - Spese per la sistemazione e l'adattamento del Palazzo Reale di Napoli di residenza delle   
+LL.AA.RR. i Principi di Piemonte e altre spese, esclusi i premi di operosita' e rendimento, dipendenti o conseguenti dalla sistemazione medesima . . ." 2.000.000   
+Ministero dell'interno:   
+Cap. n. 80 - Spese per il servizio di investigazione politica . . ." 1.000.000   
+Ministero delle corporazioni:   
+Cap. n. 58-bis (di nuova istituzione, sotto la nuova rubrica "commercio estero") - Saldo di spese per la partecipazione dell'Italia alla Fiera di Budapest del 1930 . . ." 88.040   
+Totale . . . L. 7.793.630   
+Questo decreto sara' presentato al Parlamento per la sua convalidazione, restando il Ministro proponente autorizzato alla presentazione del relativo disegno di legge.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a San Rossore, addi' 24 settembre 1931 - Anno IX   
+  
+VITTORIO EMANUELE.   
+  
+  
+Mussolini - Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 3 ottobre 1931 - Anno IX   
+Atti del Governo, registro 313, foglio 6. - Mancini.   

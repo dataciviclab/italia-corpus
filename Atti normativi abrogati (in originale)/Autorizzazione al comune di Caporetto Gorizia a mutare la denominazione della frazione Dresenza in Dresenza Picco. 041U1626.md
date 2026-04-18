@@ -1,0 +1,48 @@
+REGIO DECRETO 14 novembre 1941 n. 1626
+
+
+REGIO DECRETO 14 novembre 1941 n. 1626
+======================================
+
+Autorizzazione al comune di Caporetto (Gorizia) a mutare la denominazione della frazione Dresenza in «Dresenza Picco». (041U1626)
+---------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/03/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduta l'istanza con la quale il podesta' di Caporetto, in esecuzione della propria deliberazione 25 maggio 1940-XVIII, n. 47, chiede che, a perpetuare la memoria del sottotenente Alberto Picco, caduto in combattimento sul Monte Nero il 16 giugno 1915, la denominazione della frazione Dresenza venga mutata in «Dresenza Picco»;   
+  
+Veduto il parere favorevole espresso dal Rettorato della provincia di Gorizia in seduta del 27 agosto 1940;   
+  
+Veduto l'art. 266 del testo unico della legge comunale e provinciale approvato con Nostro decreto 3 marzo 1934-XII, n. 383;   
+  
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il comune di Caporetto, in provincia di Gorizia, e' autorizzato a mutare la denominazione della frazione Dresenza in «Dresenza Picco».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 14 novembre 1941-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 20 febbraio 1942-XX   
+Atti del Governo, registro 442, foglio 60 - MANCINI   
+  
+  

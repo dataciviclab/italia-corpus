@@ -1,0 +1,46 @@
+REGIO DECRETO 09 maggio 1929 n. 843
+
+
+REGIO DECRETO 09 maggio 1929 n. 843
+===================================
+
+Approvazione della nuova tariffa per l'applicazione della tassa sul bestiame nei Comuni della provincia di Imperia. (029U0843)
+------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/06/1929
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione 14 febbraio 1929 con la quale la Giunta provinciale amministrativa di Imperia ha approvato la nuova tariffa per la tassa sul bestiame nei Comuni di quella Provincia;   
+  
+Veduto l'[art. 8 della legge 26 luglio 1868, n. 4513](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-07-26;4513~art8);   
+  
+Udito il parere del Consiglio di Stato;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvata la nuova tariffa per l'applicazione della tassa sul bestiame nei Comuni della provincia di Imperia, deliberata da quella Giunta proviuciale amministrativa in seduta 14 febbraio 1929.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 9 maggio 1929 - Anno VII   
+  
+VITTORIO EMANUELE.   
+  
+Mosconi.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 3 giugno 1929 - Anno VII   
+Atti del Governo, registro 285, foglio 7. - Mancini.   
+  

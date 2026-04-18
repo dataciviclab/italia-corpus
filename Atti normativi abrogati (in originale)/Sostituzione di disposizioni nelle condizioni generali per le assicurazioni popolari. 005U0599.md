@@ -1,0 +1,58 @@
+REGIO DECRETO 19 novembre 1905 n. 599
+
+
+REGIO DECRETO 19 novembre 1905 n. 599
+=====================================
+
+Sostituzione di disposizioni nelle condizioni generali per le assicurazioni popolari. (005U0599)
+------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/01/1906
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto l'art. 29 della legge ([testo unico) 28 luglio 1901, n. 387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:::1901-07-28;387), sulla Cassa nazionale di previdenza per la invalidita' e per la vecchiaia degli operai;
+
+Veduto il [R. decreto 22 dicembre 1901 n. 573](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1901-12-22;573), che autorizza la Cassa predetta ad esercitare assicurazioni popolari di rendite vitalizie;
+
+Veduto il [R. decreto 26 giugno 1904, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-06-26;383) che approva le tariffe e le condizioni generali di contratto per le assicurazioni popolari di rendite vitalizie;
+
+Veduta l'istanza presentata dal presidente della Cassa nazionale, con la quale domanda che l'art. 9 delle predette condizioni generali di contratto sia modificato, sopprimendovi la disposizione del primo capoverso;
+
+Vedute le deliberazioni 31 marzo 1903 del Consiglio d'amministrazione e 3 marzo 1905 del Comitato esecutivo della Cassa;
+
+Sentito il Consiglio della previdenza e delle assicurazioni sociali;
+
+Sentito il Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Alla disposizione dell'art. 9 delle condizioni generali di contratto per le assicurazioni popolari di rendite vitalizie compilate dalla Cassa nazionale di previdenza per la invalidita' e per la vecchiaia degli operai e approvate con [R. decreto dei 26 giugno 1904, n. 383](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1904-06-26;383) e' sostituita la seguente:   
+  
+«Art. 9. Chi abbia fatto versamenti a capitale riservato ha sempre la facolta' di chiedere, in quanto non vi si oppongano i diritti riconosciuti dalla Cassa a termini del presente articolo, che siano da quel momento liberati da ogni riserva a favore degli eredi, che siano cioe' trasformati in versamenti a capitale alienato».   
+  
+«Non e' invece consentito di trasformare i versamenti gia' fatti a capitale alienato in versamenti a capitale riservato».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Caserta, addi' 19 novembre 1905.   
+  
+VITTORIO EMANUELE   
+  
+Rava.   
+  
+Visto, Il guardasigilli: C. Finocchiaro-Aprile.   
+  

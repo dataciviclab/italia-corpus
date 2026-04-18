@@ -1,0 +1,40 @@
+LEGGE 13 luglio 1910 n. 448
+
+
+LEGGE 13 luglio 1910 n. 448
+===========================
+
+Autorizzazione di spesa per la prevenzione degli incendi nei locali dei RR. Musei di Torino. (010U0448)
+-------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/08/1910
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' autorizzata l'assegnazione straordinaria di L. 222,000 da inscriversi nel bilancio del Ministero della pubblica istruzione, in parti uguali, negli esercizi 1909-910 e 1910-911, al fine di provvedere alle opere di difesa dagli incendi nei locali della Pinacoteca e dei RR. musei Egizio e Romano, in Torino.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 13 luglio 1910.   
+  
+VITTORIO EMANUELE   
+  
+TEDESCO.   
+CREDARO.   
+  
+Visto, Il guardasigilli: FANI.   
+  

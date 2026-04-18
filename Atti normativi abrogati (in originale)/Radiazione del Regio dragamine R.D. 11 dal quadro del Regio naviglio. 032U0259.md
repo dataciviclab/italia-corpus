@@ -1,0 +1,33 @@
+REGIO DECRETO 01 febbraio 1932 n. 259
+
+
+REGIO DECRETO 01 febbraio 1932 n. 259
+=====================================
+
+Radiazione del Regio dragamine «R.D. 11» dal quadro del Regio naviglio. (032U0259)
+----------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/04/1932
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per la marina;   
+Abbiamo decretato e decretiamo:   
+Il Regio dragamine «R.D. 11» e' radiato dal quadro del naviglio da guerra dello Stato con la data del 9 gennaio 1932, perche' perduto in seguito ad incaglio a Punta Porto Palo (Sicilia) essendo in consegna alla Regia guardia di finanza, che lo gestiva per la vigilanza finanziaria.   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 1° febbraio 1932 - Anno X   
+  
+VITTORIO EMANUELE.   
+  
+Sirianni.   
+  
+Visto, il Guardasigilli: Rocco.   
+Registrato alla Corte dei conti, addi' 1° aprile 1932 - Anno X   
+Atti del Governo, registro 319, foglio 1. - Ferzi.   
+  

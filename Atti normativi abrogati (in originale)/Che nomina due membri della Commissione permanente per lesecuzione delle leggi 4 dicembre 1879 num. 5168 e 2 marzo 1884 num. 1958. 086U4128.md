@@ -1,0 +1,47 @@
+REGIO DECRETO 09 ottobre 1886 n. 4128
+
+
+REGIO DECRETO 09 ottobre 1886 n. 4128
+=====================================
+
+Che nomina due membri della Commissione permanente per l'esecuzione delle leggi 4 dicembre 1879, num. 5168, e 2 marzo 1884, num. 1958. (086U4128)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/11/1886
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge 4 dicembre 1879, n. 5168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-04;5168) (Serie 2ª);   
+  
+Vista la [legge 2 marzo 1884, n. 1958](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1884-03-02;1958), (Serie 3ª);   
+  
+Sulla proposta dei Ministri Segretari di Stato per gli affari delle Finanze, della Guerra e della Marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Jonni comm. Giambattista, consigliere della Corte dei conti;   
+  
+Borghi comm. Luigi, ispettore nel Corpo del genio navale, membro del Comitato dei disegni delle RR. navi,   
+  
+sono nominati membri della Commissione permanente per l'esecuzione delle [leggi 4 dicembre 1879, num. 5168](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1879-12-04;5168) (Serie 2ª), e 2 marzo 1884, num. 1958 (Serie 3ª), in sostituzione del comm. avv. Paolo Paternostro, consigliere della Corte dei conti, defunto, e del contrammiraglio comm. Michele Carpi, collocato in posizione di servizio ausiliario.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 9 ottobre 1886.   
+  
+UMBERTO.   
+  
+A. MAGLIANI.   
+B. BRIN.   
+RICOTTI.   
+  
+Visto, Il Guardasigilli: TAJANI.   
+  

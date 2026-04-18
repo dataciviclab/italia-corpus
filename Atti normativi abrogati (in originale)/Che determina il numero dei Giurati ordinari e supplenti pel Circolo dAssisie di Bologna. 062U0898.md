@@ -1,0 +1,50 @@
+REGIO DECRETO 19 ottobre 1862 n. 898
+
+
+REGIO DECRETO 19 ottobre 1862 n. 898
+====================================
+
+Che determina il numero dei Giurati ordinari e supplenti pel Circolo d'Assisie di Bologna. (062U0898)
+-----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/11/1862
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 4 della legge 27 ottobre 1860, n.° 4380;
+
+Visti gli articoli 69 e 70 della legge sull'ordinamento giudiziario del 13 novembre 1859, n.° 3781;
+
+Considerato che quando fu pubblicata nelle Romagne la legge giudiziaria succitata non fu in modo particolare determinato il numero dei Giurati pel Circolo d'Assisie di Bologna in ragione della popolazione e del numero degli affari del Circolo stesso;
+
+Sulla
+-----
+
+proposta del Presidente del Consiglio dei Ministri, reggente il Ministero di Grazia e Giustizia e dei Culti; Abbiamo ordinato ed ordiniamo:
+
+Articolo unico
+--------------
+
+Pel Circolo d'Assisie di Bologna la lista annuale dei Giurati ordinari sara' di 400, quella dei Giurati supplenti sara' di
+
+80. 
+  
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Torino addi' 19 ottobre 1862.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 24 ottobre 1862   
+  
+Reg.° 21 Atti dei Governo a c. 19. Wehrlin.   
+  
+Luogo del Sigillo. V. Il Guardasigilli U. Rattazzi.   
+  
+U. Rattazzi.

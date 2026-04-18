@@ -1,0 +1,36 @@
+LEGGE 06 agosto 1984 n. 432
+
+
+LEGGE 06 agosto 1984 n. 432
+===========================
+
+Integrazione per l'anno 1984 dei contributi straordinari concessi al Consiglio nazionale delle ricerche per l'attuazione di programmi spaziali nazionali.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+I contributi straordinari concessi al Consiglio nazionale delle ricerche per l'attuazione di programmi spaziali nazionali sono incrementati di 95 miliardi di lire per l'anno finanziario 1984.  
+All'onere derivante dall'attuazione della presente legge si provvede con corrispondente riduzione dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno finanziario 1984, all'uopo parzialmente utilizzando l'accantonamento "Fondo investimenti e occupazione".  
+Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Selva di Val Gardena, addi' 6 agosto 1984
+
+PERTINI CRAXI - GORIA - ROMITA - GRANELLI
+
+Visto, il Guardasigilli: MARTINAZZOLI

@@ -1,0 +1,61 @@
+REGIO DECRETO 04 marzo 1937 n. 564
+
+
+REGIO DECRETO 04 marzo 1937 n. 564
+==================================
+
+Approvazione della variante al piano regolatore di massima di Milano in corrispondenza a una parte del tronco di via Ferrante Aporti a nord del viale Brianza. (037U0564)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/05/1937
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Vista la [legge 19 febbraio 1934, n. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-19;433), con la quale fu approvato il piano regolatore di massima edilizio e d'ampliamento di Milano e le norme per la sua attuazione;   
+  
+Visto il R. decreto-legge 28 settembre 1934-XII, n. 1663, recante modificazioni alla legge anzidetta e convertito nella legge 17 dicembre 1934-XIII, n. 2118;   
+  
+Vista la domanda con la quale il podesta' di Milano, in base alla propria deliberazione n. 223711/50109 del 16 settembre 1935, ha chiesto che sia approvata la variante all'anzidetto piano di massima in corrispondenza a una parte del tronco di via Ferrante Aporti a nord del viale Brianza;   
+  
+Ritenuto che il procedimento seguito e' regolare e che durante le pubblicazioni non furono presentate opposizioni contro il progetto di variante in esame;   
+  
+Considerato che la variante proposta appare giustificata in quanto che l'intenso traffico della via Aporti all'altezza del viale Brianza si smista, e quindi per il tratto in esame e' sufficiente una minore larghezza;   
+  
+Considerato come sia opportuno, come anche ha ritenuto il Consiglio superiore dei lavori pubblici, portare tale larghezza a metri 20 per renderla eguale a quella del tratto in prosecuzione verso nord, che e' appunto di metri 20, cio' che potra' essere attuato in sede di relativo piano particolareggiato;   
+  
+Considerato che la detta variante puo' essere attuata nella durata del piano di massima;   
+  
+Visto il parere n. 143 del 29 gennaio 1937-XV del Consiglio superiore dei lavori pubblici (Assemblea generale);   
+  
+Vista la [legge 25 giugno 1865, n. 2359](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1865-06-25;2359);   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per i lavori pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Con le avvertenze di cui alle premesse del presente decreto ai sensi e per gli effetti della citata [legge 19 febbraio 1934, n. 433](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1934-02-19;433), e successive modificazioni, e' approvata la variante al piano regolatore di massima di Milano in corrispondenza a una parte del tronco di via Ferrante Aporti a nord del viale Brianza.   
+  
+Detta variante sara' vistata, d'ordine Nostro, dal Ministro proponente in una planimetria in iscala 1:5000 ed in una planimetria in iscala 1:2000, entrambe a firma del podesta'.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 4 marzo 1937 - Anno XV   
+  
+VITTORIO EMANUELE.   
+  
+COBOLLI-GIGLI.   
+  
+Visto, il Guardasigilli: SOLMI.   
+  
+Registrato alla Corte dei conti, addi' 4 marzo 1937 - Anno XV   
+  
+Atti del Governo, registro 385, foglio 24. - MANCINI.   

@@ -1,0 +1,17 @@
+REGIO DECRETO 27 giugno 1922 n. 942
+
+
+REGIO DECRETO 27 giugno 1922 n. 942
+===================================
+
+Modificazione di statuto. (022U0942)
+------------------------------------
+
+Entrata in vigore del provvedimento: 03/08/1922
+
+Art. 1
+------
+
+N.
+
+942. Regio decreto 27 giugno 1922, col quale, sulla proposta del ministro dell'istruzione pubblica, sono modificati gli articoli 1, 5, 6, 10 e 12 dello statuto della R. Deputazione veneto-tridentina di storia patria, con sede in Venezia, approvato con R. decreto 5 maggio 1892, n. CCCXLV (parte supplementare), modificato dai RR. decreti 20 febbraio 1908, n. CXIV (parte supplementare) e 11 agosto 1921, n. 1280).

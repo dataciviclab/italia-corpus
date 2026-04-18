@@ -1,0 +1,48 @@
+REGIO DECRETO 18 gennaio 1934 n. 187
+
+
+REGIO DECRETO 18 gennaio 1934 n. 187
+====================================
+
+Variazione nell'andamento generale della strada statale n. 48 delle Dolomiti, con la declassificazione del tratto Lavis-Castel di Fiemme bivio per Ora. (034U0187)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/03/1934
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto l'[art. 2 della legge 17 maggio 1928, n. 1094](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-05-17;1094~art2), istitutiva dell'Azienda autonoma della strada;   
+  
+Vista la [legge 24 giugno 1929, n. 1138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-24;1138)-1794;   
+  
+Ritenuta l'opportunita' di provvedere alla declassificazione del tratto Lavis-Castel di Fiemme bivio per Ora della strada statale 48 delle Dolomiti, di circa km. 46, e di classificare in sostituzione fra le strade statali il tronco di strada provinciale Ora-Castel di Fiemme fino all'innesto con la summentovata strada statale 48 delle Dolomiti, dell'estensione di circa 22 kilometri in provincia di Trento, il quale per il suo andamento piano altimetrico, per le pendenze non eccessive e per la sufficiente larghezza meglio risponde ai caratteri di strada di grande comunicazione;   
+  
+Visto il voto 28 luglio 1931, n. 799, del Consiglio di amministrazione dell'Azienda autonoma statale della strada;   
+  
+Visto il voto 20 giugno 1933, n. 1281, del Consiglio superiore dei lavori pubblici;   
+  
+Su proposta del Nostro Ministro Segretario di Stato peri lavori pubblici, di concerto con quello per le finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' approvato, con decorrenza odierna, la variazione nell'andamento generale della strada statale n. 48 delle Dolomiti, con la declassificazione del tratto Lavis-Castel di Fiemme bivio per Ora dell'estensione di circa 46 kilometri e con la classificazione, in sua vece, del tronco di strada provinciale Ora-Castel di Fiemme fino all'innesto con la predetta strada statale n. 48 dell'estensione di circa 22 kilometri, in provincia di Trento, giusta il tracciato risultante dall'unita planimetria, vista, d'ordine Nostro, dal Ministro proponente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 18 gennaio 1934 - Anno XII   
+  
+VITTORIO EMANUELE   
+  
+DI CROLLALANZA - JUNG   
+  
+Visto, il Guardasigilli: DE FRANCISCI.   
+  
+Registrato alla Corte dei conti, addi' 13 febbraio 1934 - Anno XII   
+Atti del Governo, registro 344, foglio 101. - MANCINI.   

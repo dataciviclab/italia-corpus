@@ -1,0 +1,17 @@
+DECRETO LUOGOTENENZIALE 24 gennaio 1918 n. 306
+
+
+DECRETO LUOGOTENENZIALE 24 gennaio 1918 n. 306
+==============================================
+
+Modificazione d'articolo di decreto. (018U0306)
+-----------------------------------------------
+
+Entrata in vigore del provvedimento: 06/04/1918
+
+Art. 1
+------
+
+N.
+
+306. Decreto Luogotenenziale 24 gennaio 1918, col quale, sulla proposta del ministro dell'industria, del commercio e del lavoro, e' modificato l'art. 3 del R. decreto 5 novembre 1908, n. CCCCLXXXI, che autorizza la Camera di commercio ed arti di Treviso a riscuotere una tassa annua sugli industriali e commercianti del proprio distretto, nel senso che l'aliquota della tassa stessa non possa mai oltrepassare L. 1,25 per ogni cento lire di reddito imponibile e che entro tale limite l'aliquota, deliberata ogni anno per quello successivo, debba essere approvata dal ministro dell'industria, commercio e lavoro.

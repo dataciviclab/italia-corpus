@@ -1,0 +1,34 @@
+REGIO DECRETO 24 marzo 1907 n. CII
+
+
+REGIO DECRETO 24 marzo 1907 n. CII
+==================================
+
+Autorizzazione a riscuotere dazi. (0700102R)
+--------------------------------------------
+
+Entrata in vigore del provvedimento: 16/05/1907
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro delle finanze:   
+  
+N. CII (Dato a Roma, il 24 marzo 1907), col quale:   
+  
+Il comune di Vigevano in provincia di Pavia e' autorizzato a riscuotere i seguenti dazi propri:   
+  
+1. Cristalli e vetri d'ogni specie, esclusi quelli tariffati a parte ed escluse le bottiglie di vetro ordinario nero o verde ed i fiaschi, quintale L. 1.   
+  
+2. Cristalli in lastre, porcellane, vetro molato, ed altrimenti lavorato, luci da specchio, quintale L. 2.   
+  
+3. Amido, quintale L. 3.   
+  
+4. Carta da scrivere e da stampa, bianca o colorata, libri in bianco, rigati o non, con o senza intestazione, quintale L. 2.   
+  
+5. Carta per imballaggio, involucri, carta da bachi, cartoni d'ogni specie, compresa la carta usata anche stampata, quintale L. 1.   
+  
+6. Registri legati, quintale L. 4.   
+  
+ANNOTAZIONE. - Sono esenti da dazio gli oggetti destinati esclusivamente in servizio dell'amministrazione governativa dei telegrafi, come apparecchi, bicchieri e reomotori per pile, la carta a striscie per gli uffici telegrafici, la carta di modulo speciale e gli stampati ad uso delle amministrazioni governative.   

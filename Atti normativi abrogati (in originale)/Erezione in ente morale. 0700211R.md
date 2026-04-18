@@ -1,0 +1,19 @@
+REGIO DECRETO 30 maggio 1907 n. CCXI
+
+
+REGIO DECRETO 30 maggio 1907 n. CCXI
+====================================
+
+Erezione in ente morale. (0700211R)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 05/07/1907
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro d'agricoltura, industria commercio   
+  
+N. CCXI (Dato a Roma, il 30 maggio 1907), col quale si erige in ente morale l'istituto medico-chirurgico-farmaceutico di mutuo soccorso, con sede in Padova, e se ne approva lo statuto organico.   
+  

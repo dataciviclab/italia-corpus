@@ -1,0 +1,48 @@
+REGIO DECRETO 17 dicembre 1908 n. 757
+
+
+REGIO DECRETO 17 dicembre 1908 n. 757
+=====================================
+
+che impone i nomi a talune navi in costruzione nei RR. Arsenali. (008U0757)
+---------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/01/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto 2 aprile 1905, n. 138](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1905-04-02;138);   
+  
+Sulla proposta del Nostro ministro della marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Alle due cannoniere lagunari di metri 38 in costruzione nel R. arsenale di Venezia sono imposti rispettivamente i nomi di Malghera e Brondolo;   
+  
+Al rimorchiatore da 26 metri in costruzione nel Regio arsenale di Taranto e' imposto il nome di Sant'Andrea;   
+  
+Alla cisterna d'uso locale della portata di 40 tonnellate in costruzione nel R. arsenale di Venezia e' imposto il nome di Piave;   
+  
+Ai due rimorchiatori da 16 metri in costruzione l'uno nel R. arsenale di Spezia, l'altro nel R. arsenale di Venezia sono imposte rispettivamente le caratteristiche n. 19 e n. 21.   
+  
+Con tali nomi e caratteristiche le anzidette navi saranno inscritte nel quadro del R. naviglio.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 17 dicembre 1908.   
+  
+VITTORIO EMANUELE.   
+  
+Mirabello.   
+  
+Visto, il guardasigilli: Orlando.   
+  
+VITTORIO EMANUELE   

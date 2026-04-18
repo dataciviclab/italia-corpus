@@ -1,0 +1,39 @@
+LEGGE 30 dicembre 1906 n. 644
+
+
+LEGGE 30 dicembre 1906 n. 644
+=============================
+
+Proroga dei termini assegnati dalla legge 14 luglio 1887, n. 4727 (serie 3ª), per la commutazione delle prestazioni fondiarie perpetue. (006U0644)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/01/1907
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+I termini assegnati dalla [legge 14 luglio 1887, n. 4727](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1887-07-14;4727) (serie 3ª), per la commutazione delle prestazioni perpetue, gia' prorogati con le [leggi 30 giugno 1901, n. 262, 24 dicembre 1903, n. 494, 22 dicembre 1904, n. 658, e 28 dicembre 1905, n. 597](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1905-12-28;597), sono nuovamente prorogati fino al 31 dicembre 1907.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 30 dicembre 1906.   
+  
+VITTORIO EMANUELE.   
+  
+Gallo.   
+  
+Visto, Il guardasigilli: Gallo.   
+  

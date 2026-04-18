@@ -1,0 +1,20 @@
+DECRETO LUOGOTENENZIALE 20 giugno 1915 n. 942
+
+
+DECRETO LUOGOTENENZIALE 20 giugno 1915 n. 942
+=============================================
+
+Dichiarazione di Comune di terza classe agli effetti del dazio consumo. (015U0942)
+----------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/07/1915
+
+Art. 1
+------
+
+  
+N. 942   
+  
+Decreto Luogotenenziale 20 giugno 1915, col quale, sulla proposta del ministro delle finanze, il comune di Porto Empedocle, in provincia di Girgenti, e' dichiarato di terza classe agli effetti del dazio consumo con decorrenza dal 12 giugno 1914, e dallo stesso giorno il relativo canone annuo e' aumentato da L. 24.107,78 a L.  
+26.659,16.   
+  

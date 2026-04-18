@@ -1,0 +1,51 @@
+REGIO DECRETO 27 aprile 1882 n. DXXX
+
+
+REGIO DECRETO 27 aprile 1882 n. DXXX
+====================================
+
+Concernente la tassa di famiglia nel comune di Catanzaro. (8200530R)
+--------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/06/1882
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il nostro decreto 14 luglio 1881 col quale venne autorizzato il comune di Catanzaro ad applicare, per quell'anno, la tassa di famiglia col massimo di L. 300;   
+  
+Vista la deliberazione 19 ottobre 1881 di quel consiglio comunale con cui si chiede di continuare pel quinquennio 1882-86 l'applicazione della tassa di famiglia col riparto adottato nel decorso anno;   
+  
+Vista la deliberazione 26 ottobre stesso anno della deputazione provinciale di Catanzaro che approva quella consigliare sopraccennata;   
+  
+Udito il parere del consiglio di Stato;   
+  
+Sulla proposta del ministro delle finanze;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Art. unico.   
+  
+E' autorizzato il comune di Catanzaro a mantenere pel quinquennio 1882-1886 il massimo della tassa famiglia in L. 300, come gli fu concessa, per il 1881, col nostro decreto sopracitato e di ripartirla in conformita' alla deliberazione consigliare 19 ottobre dello scorso anno.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 27 aprile 1882.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 30 maggio 1882.   
+  
+Reg. 120 Atti del Governo a f. 23 Pellizzoli.   
+  
+Luogo del Sigillo V. Il Guardasigilli G. Zanardelli.   
+  
+A. Magliani.   
+  

@@ -1,0 +1,40 @@
+LEGGE 17 maggio 1896 n. 130
+
+
+LEGGE 17 maggio 1896 n. 130
+===========================
+
+Approvazione di maggiore assegnazione e diminuzione di stanziamento su alcuni capitoli dello stato di previsione della spesa del Ministero della Guerra (esercizio finanziario 1895-96). (096U0130)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/06/1896
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' approvata la maggiore assegnazione di L.240,000 sul capitolo n. 1 - Ministero - Personale di ruolo - e la corrispondente diminuzione sullo stanziamento del capitolo n. 16 - Corpo del commissariato, compagnie di sussistenza e personali contabili pei servizi amministrativi - dello stato di previsione della spesa del Ministero della Guerra per l'esercizio finanziario 1895-96.   
+  
+Ordiniamo che la presente, munita del sigillo delle Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 17 maggio 1896.   
+  
+UMBERTO.   
+  
+G. COLOMBO.   
+RICOTTI.   
+  
+Visto, Il Guardasigilli: G. COSTA.   
+  

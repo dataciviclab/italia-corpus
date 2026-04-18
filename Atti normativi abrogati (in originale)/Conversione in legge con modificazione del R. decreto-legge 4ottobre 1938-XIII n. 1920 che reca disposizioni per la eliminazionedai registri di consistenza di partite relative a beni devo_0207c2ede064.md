@@ -1,0 +1,45 @@
+LEGGE 26 marzo 1936 n. 547
+
+
+LEGGE 26 marzo 1936 n. 547
+==========================
+
+Conversione in legge, con modificazione, del R. decreto-legge 4 
+ottobre 1938-XIII, n. 1920, che reca disposizioni per la eliminazione 
+dai registri di consistenza di partite relative a beni devoluti allo 
+Stato per debito di imposte e per il recupero delle contribuzioni 
+fondiarie indebitamente pagate su tali beni. (036U0547)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/04/1936
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il R. decreto-leghe 4 ottobre 1935-XIII, n. 1920, che reca disposizioni per la eliminazione dai registri di consistenza di partite relative ai beni devoluti allo Stato per debito di imposte e per il recupero delle contribuzioni fondiarie indebitamente pagate su tali beni, con la seguente modificazione:   
+  
+L'art. 2 e' sostituito dal seguente:   
+  
+«Per i beni devoluti per debito d'imposte entro il trentennio, che nel nuovo catasto non figurano piu' intestati al Demanio, qualora gli attuali possessori si dichiarassero disposti a rimborsare allo Stato stesso le imposte e le altre contribuzioni indebitamente pagate, le Intendenze di finanza, ove la riscossione del credito, dagli elementi a loro conoscenza, possa sembrare garantita ed ove ricorrano speciali motivi, potranno consentire dilazioni al pagamento estensibili sino ad un biennio, senza corresponsione l'interessi e senza particolare garanzia».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 26 marzo 1936 - Anno XIV   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel   
+  
+Visto, il Guardasigilli: Solmi.   

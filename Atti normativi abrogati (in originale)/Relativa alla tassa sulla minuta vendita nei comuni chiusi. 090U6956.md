@@ -1,0 +1,41 @@
+LEGGE 17 luglio 1890 n. 6956
+
+
+LEGGE 17 luglio 1890 n. 6956
+============================
+
+Relativa alla tassa sulla minuta vendita nei comuni chiusi. (090U6956)
+----------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/08/1890
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+I comuni dichiarati chiusi per gli effetti del dazio di consumo, che non vogliono valersi della tassa sulla minuta vendita, possono sopperire alla mancanza del relativo provento aumentando, anche oltre il limite consentito dall'[art. 11 della legge 11 agosto 1870, n. 5784](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1870-08-11;5784~art11), allegato L, la addizionale al dazio governativo sulle bevande all'introduzione nella linea daziaria.   
+  
+Tale aumento non potra' eccedere la misura occorrente per compensare il mancante provento della detta tassa; e la relativa deliberazione dovra' essere sottoposta all'approvazione del Governo.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque petti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 17 luglio 1890.   
+  
+UMBERTO.   
+  
+F. Seismit-Doda.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

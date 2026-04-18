@@ -1,0 +1,77 @@
+REGIO DECRETO 17 settembre 1868 n. 4612
+
+
+REGIO DECRETO 17 settembre 1868 n. 4612
+=======================================
+
+Portante la classificazione dei Comuni delle Provincie Venete e Mantovana nei rapporti del dazio di consumo. (068U4612)
+-----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/10/1868
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la [Legge 3 settembre 1868, n. 4576](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1868-09-03;4576), colla quale viene esteso alle Provincie Venete e di Mantova l'ordinamento daziario vigente nelle altre parti del Regno;
+
+Visto l'[articolo 5 della Legge 3 luglio 1864, n. 1827](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1864-07-03;1827~art5), sul dazio di consumo, non che l'articolo 3 del Legislativo Decreto 28 giugno 1866, n. 3018;
+
+Sulla
+-----
+
+proposta del Ministro delle Finanze; Abbiamo decretato e decretiamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+A datare, dal 1° gennaio 1869, nei rapporti del dazio di consumo, sono:   
+  
+Comuni chiusi di I classe:   
+  
+a) Venezia con Murano e Malamocco;   
+  
+b) Verona.   
+  
+Comuni chiusi di II classe:   
+  
+a) Mantova;   
+  
+b) Padova;   
+  
+c) Vicenza;   
+  
+d) Chioggia.   
+  
+Comuni chiusi di III classe:   
+  
+a) Treviso;   
+  
+b) Udine;   
+  
+c) Bassano.   
+  
+Comuni chiusi di IV classe:   
+  
+a) Rovigo.   
+  
+Tutti i Comuni delle Provincie Venete e di Mantova, non nominati nel presente Decreto, sono di IV classe ed aperti.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 17 settembre 1868.   
+  
+VITTORIO EMANUELE.   
+  
+Registrato alla Corte dei conti addi' 24 settembre 1868   
+Reg. 48 Atti del Governo a c. 182 Ayres.   
+Luogo del sigillo. V. Il Guardasigilli DE FILIPPO.   
+  
+L. G. CAMBRAY DIGNY.   
+  
+  

@@ -1,0 +1,201 @@
+REGIO DECRETO 03 dicembre 1914 n. 1437
+
+
+REGIO DECRETO 03 dicembre 1914 n. 1437
+======================================
+
+Col quale e' modificata la tabella annessa al R. decreto 11 agosto 1913, n. 1059, riguardante la destinazione degli uditori giudiziari nella qualita' di vice pretori. (014U1437)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/01/1915
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Visto il [R. decreto 11 agosto 1913, n. 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-11;1059), riguardante la destinazione degli uditori giudiziari nella qualita' di vice pretore, a termini dell'[art. 4 della legge 19 dicembre 1912, n. 1311](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-19;1311~art4);
+
+Visto l'[art. 12 del R. decreto 11 maggio 1913, numero 457](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-05-11;457~art12);
+
+Sulla proposta del Nostro guardasigilli, ministro segretario di Stato per gli affari di grazia e giustizia e dei culti;
+
+Sentito
+-------
+
+il Consiglio dei Ministri; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La tabella annessa al [R. decreto 11 agosto 1913, numero 1059](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1913-08-11;1059), e' modificata risultando nel suo complesso come segue:   
+  
+NOME DEL MANDAMENTO   
+  
+Albano 1   
+Alcamo 1   
+Alessandria (1° mand.) 1   
+Andria 1   
+Aquila 1   
+Arezzo 1   
+Asti (1° mand.) 1   
+Bari (3° id.) 1   
+Barletta 1   
+Bergamo (1° mand.) 1   
+Biella 1   
+Bologna (1° mand.) 1   
+Bologna (2° id.) 1   
+Bologna (pretura urbana) 1   
+Brescia (1° mand.) 1   
+Brindisi 1   
+Busto Arsizio 1   
+Cagliari (1° mand.) 1   
+Cagliari (2° id.) 1   
+Caltagirone 1   
+Caltanissetta 1   
+Carini 1   
+Carrara 2   
+Caserta 1   
+Castellammare del Golfo 1   
+Castellammare di Stabia 1   
+Castelvetrano 1   
+Castrogiovanni 1   
+Catania (1° mand.) 1   
+Catania (2° id.) 1   
+Catania (3° id.) 1   
+Catania (pretura urbana) 1   
+Catanzaro 1   
+Corignola 1   
+Cesena 1   
+Chieti 1   
+Cividale 1   
+Como (1° mand.) 1   
+Faenza 1   
+Ferrara (1° mand.) 1   
+Firenze (1° mand.) 1   
+Firenze (2° id.) 1   
+Firenze (pretura urbana) 2   
+Foggia 1   
+Foligno 1   
+Forli 1   
+Frascati 1   
+Galatina 1   
+Genova (1° mand.) 1   
+Genova (2° id.) 1   
+Genova (pretara urbana) 2   
+Girgenti 1   
+Iglesias 1   
+Imola 1   
+Lanciano 1   
+Lecce 1   
+Lecco 1   
+Lercara Friddi 1   
+Livorno (1° mand.) 1   
+Livorno (pretura urbana) 1   
+Lodi 1   
+Lucca 1   
+Lugo 1   
+Marsala 1   
+Messina (1° mand.) 1   
+Milano (1° mand.) 3   
+Milano (2° id.) 2   
+Milano (3° id.) 2   
+Milano (4° id.) 2   
+Milano (5° id.) 2   
+Milano (6° id.) 2   
+Milano (7° id.) 3   
+Milano (8° id.) 2   
+Milano (9° id.) 1   
+Milano (pretura urbana) 2   
+Monza 1   
+Napoli (1° mand.) 2   
+Napoli (2° id.) 2   
+Napoli (3° id.) 1   
+Napoli (4° id.) 1   
+Napoli (5° id.) 1   
+Napoli (6° id.) 1   
+Napoli (7° id.) 1   
+Napoli (8° id.) 3   
+Napoli (9° id.) 1   
+Napoli (10° id.) 2   
+Napoli (11° id.) 1   
+Napoli (12° id.) 1   
+Napoli (1ª pretura urbana) 2   
+Napoli (2ª id. id.) 2   
+Nola 1   
+Novara 2   
+Nuoro 1   
+Padova (2° mand.) 1   
+Palermo (1° mand.) 1   
+Palermo (2° id.) 1   
+Palermo (3° id.) 1   
+Palermo (4° id.) 1   
+Palermo (5° id.) 1   
+Palermo (pretura urbana) 1   
+Parma (1° mand.) 1   
+Partinico 1   
+Pavia 1   
+Piadenza 1   
+Pisa 1   
+Pozzuoli 1   
+Prato 1   
+Quartu Sant'Elena 1   
+Reggio Calabria 1   
+Reggio Emilia 1   
+Rimini 1   
+Roma (1° mand.) 1   
+Roma (2° id.) 2   
+Roma (3° id.) 2   
+Roma (4° id.) 2   
+Roma (5° id.) 1   
+Roma (6° id.) 2   
+Roma (1ª pretura urbana) 2   
+Roma (2ª id. id.) 2   
+Salerno 1   
+San Pier d'Arena 1   
+Sansevero 1   
+Sassari (2° mand.) 1   
+Savona 1   
+Siracusa 1   
+Spezia (1° mand.) 3   
+Taranto 1   
+Terni 2   
+Tivoli 1   
+Tolmezzo 1   
+Torino (1° mand.) 2   
+Torino (2° id.) 2   
+Torino (3° id.) 1   
+Torino (4° id.) 2   
+Torino (5° id.) 3   
+Torino (6° id.) 2   
+Torino (7° id.) 1   
+Torino (pretura urbana) 3   
+Torre Annunziata 1   
+Treviso (1° mand.) 1   
+Trapani 1   
+Udine (1° mand.) 1   
+Varese 1   
+Vasto 1   
+Velletri 1   
+Venezia (1° mand.) 1   
+Venezia (2° id.) 1   
+Venezia (3° id.) 1   
+Venezia (pretura urbana) 1   
+Vercelli 1   
+Verona (1° mand.) 1   
+Vittoria 1   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 3 dicembre 1914.   
+  
+VITTORIO EMANUELE.   
+  
+Salandra - Orlando - Carcano.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

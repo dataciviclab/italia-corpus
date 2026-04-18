@@ -1,0 +1,39 @@
+LEGGE 31 maggio 1943 n. 646
+
+
+LEGGE 31 maggio 1943 n. 646
+===========================
+
+Proroga a tutto il 1943-XXI, della efficacia della legge 26 marzo 1942-XX, n. 421, che autorizza il Ministro per la marina ad indire concorsi straordinari nel Corpo delle capitanerie di porto. (043U0646)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/08/1943
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+L'efficacia della legge 26 marzo 1942-XX, n. 421, che autorizza il Ministro per la marina ad indire, per l'anno 1942, concorsi straordinari nel Corpo delle capitanerie di porto e delle relative norme esecutive e' prorogata a tutto l'anno 1943-XXI.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserita nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge delle Stato.   
+  
+Data a Roma, addi' 31 maggio 1943-XXI   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - ACERBO - CINI   
+  
+Visto, il Guardasigilli: DE MARSICO   

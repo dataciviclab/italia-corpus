@@ -1,0 +1,52 @@
+REGIO DECRETO 28 settembre 1933 n. 1541
+
+
+REGIO DECRETO 28 settembre 1933 n. 1541
+=======================================
+
+Modifiche alla legge 5 maggio 1907, n. 257, e seguenti, relative al Magistrato alle acque in Venezia. (033U1541)
+----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/12/1933
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vista la [legge 5 maggio 1907, n. 257](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-05-05;257), che istituisce il Magistrato alle acque per le provincie Venete e di Mantova e le successive modificazioni di cui alla [legge 13 luglio 1911, n. 774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774), ed al [R. decreto 31 dicembre 1923, n. 3228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3228);
+
+Ritenuta l'opportunita' di abolire le disposizioni di legge che creano speciali poteri al Magistrato alle acque per le provincie Venete e di Mantova in materia di personale;
+
+Visto l'[art. 1, n. 3, della legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art1-num3);
+
+Udito il Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per i lavori pubblici, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Sono soppressi i [comma 3](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-05-05;257~art7-com3) e [4 dell'art. 7 della legge 5 maggio 1907, n. 257](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1907-05-05;257~art7-com4), il comma aggiunto all'articolo stesso in base al [R. decreto 31 dicembre 1923, n. 3228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-12-31;3228), il secondo periodo del primo comma ed i comma 2 e 3 dell'art. 8 e l'art. 9 della stessa legge quale risulta modificata in base alle disposizioni dell'[art. 46 della legge 13 luglio 1911, n. 774](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1911-07-13;774~art46).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 28 settembre 1933 - Anno XI   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini - Di Crollalanza - Jung.   
+  
+Visto, il Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 23 novembre 1933 - Anno XII   
+Atti del Governo, registro 341, foglio 15. - Mancini.   

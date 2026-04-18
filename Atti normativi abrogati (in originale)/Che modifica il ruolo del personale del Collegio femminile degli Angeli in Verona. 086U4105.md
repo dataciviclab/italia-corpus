@@ -1,0 +1,41 @@
+REGIO DECRETO 05 settembre 1886 n. 4105
+
+
+REGIO DECRETO 05 settembre 1886 n. 4105
+=======================================
+
+Che modifica il ruolo del personale del Collegio femminile degli Angeli in Verona. (086U4105)
+---------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/10/1886
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il ruolo del personale del Collegio femminile degli Angeli in Verona, approvato con Mostro decreto del 25 dicembre 1885;   
+  
+Veduto che, incorso errore nella disposizione degli stipendi assegnati al segretario economo ed al cassiere, dovendo al primo essere attribuito lo stipendio di lire 2200 ed al secondo quello di lire 1000;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il ruolo suddetto e' modificato nel senso che al segretario economo e' attribuito lo stipendio di lire 2200 (lire duemiladuecento) ed al cassiere quello di lire 1000 (lire mille), e tale modificazione s'intende fatta con decorrenza dalla data del ruolo stesso.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 5 settembre 1886.   
+  
+UMBERTO.   
+  
+COPPINO.   
+  
+Visto, Il Guardasigilli: TAJANI.   
+  

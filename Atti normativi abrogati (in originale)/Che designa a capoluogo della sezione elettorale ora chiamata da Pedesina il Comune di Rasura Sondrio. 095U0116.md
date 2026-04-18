@@ -1,0 +1,43 @@
+REGIO DECRETO 11 aprile 1895 n. 116
+
+
+REGIO DECRETO 11 aprile 1895 n. 116
+===================================
+
+Che designa a capoluogo della sezione elettorale, ora chiamata da Pedesina, il Comune di Rasura (Sondrio). (095U0116)
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/05/1895
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Vista la domanda della Commissione elettorale comunale di Rasura, perche' quel Comune sia designato capoluogo della sezione elettorale che con Rasura comprende i comuni di Berna e di Pedesina del 1° collegio elettorale della provincia di Sondrio;   
+  
+Visti gli atti relativi;   
+  
+Visto l'art. 48 del testo unico della legge elettorale politica, approvato col decreto del 28 marzo 1895;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il Comune di Rasura e' designato capoluogo della sezione elettorale ora chiamata da Pedesina, e la sezione sara' denominata da Rasura.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 11 aprile 1895.   
+  
+UMBERTO.   
+  
+Crispi.   
+  
+Visto, Il Guardasigilli: V. Calenda Di Tavani.   
+  

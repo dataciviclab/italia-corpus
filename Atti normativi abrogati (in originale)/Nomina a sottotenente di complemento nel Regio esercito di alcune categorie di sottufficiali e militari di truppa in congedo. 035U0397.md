@@ -1,0 +1,53 @@
+LEGGE 01 aprile 1935 n. 397
+
+
+LEGGE 01 aprile 1935 n. 397
+===========================
+
+Nomina a sottotenente di complemento nel Regio esercito di alcune categorie di sottufficiali e militari di truppa in congedo. (035U0397)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/05/1935
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+L'[art. 2 della legge 27 giugno 1929, n. 1185](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1929-06-27;1185~art2), quale risulta modificato dal [R. decreto-legge 5 luglio 1934, n. 1200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1934-07-05;1200), e' sostituito dal seguente:   
+  
+« Le disposizioni relative alla nomina a sottotenente di' complemento di cui al [R. decreto-legge 26 luglio 1927, numero 1743](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-26;1743), sono applicabili anche alle seguenti categorie di militari di truppa e sottufficiali, i quali pero' non possono essere nominati che sottotenenti di complemento nell'arma di fanteria:   
+  
+a) militari di truppa e sottufficiali dei carabinieri Reali che non abbiano i requisiti speciali per essere nominati sottotenenti di complemento nell'arma di provenienza;   
+  
+b) sottufficiali provenienti dal corpo Reali equipaggi transitati nella forza in congedo del Regio esercito;   
+  
+c) militari arruolati nell'ex battaglione aviatori (categoria piloti o motoristi o personale vario);   
+  
+d) militari di truppa e sottufficiali provenienti dalla Regia guardia di finanza;   
+  
+e) militari di truppa e sottufficiali incorporati nella sanita' o nei reparti automobilistici;   
+  
+f) militari di truppa e sottufficiali che durante il periodo di guerra 1915-1918 furono nominati cappellani militari, o coprirono comunque il grado di ufficiale, o furono considerati come rivestiti del relativo stato ».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale, delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 1° aprile 1935 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+  

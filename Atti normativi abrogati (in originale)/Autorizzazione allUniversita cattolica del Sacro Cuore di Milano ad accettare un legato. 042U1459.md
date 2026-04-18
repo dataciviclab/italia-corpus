@@ -1,0 +1,21 @@
+REGIO DECRETO 13 novembre 1942 n. 1459
+
+
+REGIO DECRETO 13 novembre 1942 n. 1459
+======================================
+
+Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare un legato. (042U1459)
+-----------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/01/1943
+
+Art. 1
+------
+
+N.
+
+1459. R. decreto 13 novembre 1942, col quale, sulla proposta del Ministero per l'educazione nazionale, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare il legato della somma di L. 2000, disposto in suo favore dal sig. Giovanni Bono fu Bernardo, con testamento olografo in data 15 novembre 1940-XIX, pubblicato agli atti del dott. Osvaldo Signoris, notaio in Codogno, con verbale in data 25 marzo 1941-XIX, n. 867/2189 di repertorio.   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 15 dicembre 1942-XXI

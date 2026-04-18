@@ -1,0 +1,52 @@
+REGIO DECRETO 26 settembre 1935 n. 1835
+
+
+REGIO DECRETO 26 settembre 1935 n. 1835
+=======================================
+
+Elevazione del limite prescritto per le aperture di credito a favore di funzionari delegati per il pagamento degli stipendi ed assegni al personale delle Regie Scuole e dei Regi Corsi secondari di avviamento professionale. (035U1835)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/11/1935
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visti i Regi decreti 18 novembre 1923-II, n. 2440, e 23 maggio 1924-II, n. 827, concernenti l'amministrazione del patrimonio e per la contabilita' generale dello Stato;
+
+Visto l'art. 1 n. 3 della legge 31 gennaio 1926-IV, n. 100, sulla facolta' del potere esecutivo di emanare norme giuridiche;
+
+Udito il Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Le aperture di credito per il pagamento degli stipendi, degli assegni e delle retribuzioni al personale delle Regie Scuole e dei Regi Corsi secondari di avviamento professionale che vengono effettuati per mezzo dei Regi Provveditori agli studi possono eccedere il limite di L. 250.000 fissate dagli articoli 56 e 284 rispettivamente dei Regi decreti 18 novembre 1923-II, n. 2440 e 23 maggio 1924-II, n. 827, fino alla concorrenza di L. 500.000.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 26 settembre 1935 - Anno XIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - De Vecchi di Val Cismon - Di Revel   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 23 ottobre 1935 - Anno XIII   
+Atti del Governo, registro 365, foglio 95. - Mancini.   
+  
+  

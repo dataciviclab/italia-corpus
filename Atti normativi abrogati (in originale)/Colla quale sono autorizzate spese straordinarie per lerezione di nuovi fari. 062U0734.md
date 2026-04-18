@@ -1,0 +1,40 @@
+LEGGE 03 agosto 1862 n. 734
+
+
+LEGGE 03 agosto 1862 n. 734
+===========================
+
+Colla quale sono autorizzate spese straordinarie per l'erezione di nuovi fari. (062U0734)
+-----------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/08/1862
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Sono autorizzate le straordinarie spese occorrenti nella complessiva somma di lire 1,093,480. 83 per la erezione di nuovi fari come in appresso, le quali verranno stanziate in tanti appositi e separati capitoli con corrispondente designazione nei bilanci del Ministero dei Lavori pubblici ripartitamente come segue:   
+  
+Parte di provvedimento in formato grafico  
+  
+Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti, di osservarla e di farla osservare come legge dello Stato.   
+  
+Dat. a Torino addi' 3 agosto 1862.   
+  
+VITTORIO EMANUELE   
+  
+Luogo del Sigillo. V. Il guardasigilli R. Conforti.   
+  
+Depretis.   

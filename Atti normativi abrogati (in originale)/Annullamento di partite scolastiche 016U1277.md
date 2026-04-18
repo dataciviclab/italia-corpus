@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 10 agosto 1916 n. 1277
+
+
+DECRETO LUOGOTENENZIALE 10 agosto 1916 n. 1277
+==============================================
+
+Annullamento di partite scolastiche (016U1277)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 29/10/1916
+
+Art. 1
+------
+
+  
+N. 1277   
+  
+Decreto Luogotenenziale 10 agosto 1916, col quale, sulla proposta del ministro dell'istruzione pubblica, di concerto dal ministro del tesoro, in seguito all'autonomia scolastica concessa ai comuni di Mignanego, Crocefieschi, Propata e Busalla, della provincia di Genova, nell'elenco annesso al decreto Reale 17 gennaio 1915, n. 214, sono annullate le partite relative ai Comuni suddetti a datare dall'1 settembre 1916.   
+  

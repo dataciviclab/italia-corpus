@@ -1,0 +1,39 @@
+REGIO DECRETO 08 marzo 1923 n. 520
+
+
+REGIO DECRETO 08 marzo 1923 n. 520
+==================================
+
+Con cui si provvede alla nomina del direttore generale del Debito pubblico presso il Ministero delle finanze. (023U0520)
+------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/04/1923
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro segretario di Stato per le finanze;   
+  
+Udito il Consiglio dei ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+D'Arienzo grand'uff. Olindo, direttore generale nel Ministero delle finanze, e' nominato direttore generale del Debito pubblico a decorrere dal 1° aprile 1923, e dalla stessa data resta revocato il Nostro decreto 8 febbraio 1923 per quanto riguarda la reggenza della Direzione generale del Debito pubblico affidata all'ispettore generale grand'uff. dott. Valerico Caputo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 8 marzo 1923.   
+  
+VITTORIO EMANUELE.   
+  
+MUSSOLINI - DE STEFANI.   
+  
+Visto, il guardasigilli: OVIGLIO.   
+  

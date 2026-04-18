@@ -1,0 +1,53 @@
+REGIO DECRETO 18 marzo 1923 n. 647
+
+
+REGIO DECRETO 18 marzo 1923 n. 647
+==================================
+
+Riguardante le tariffe per la trasmissione fonica dei telegrammi destinati agli abbonati al telefono. (023U0647)
+----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/04/1923
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+In virtu' della delegazione dei poteri conferiti al Governo con la [legge del 3 dicembre 1922, n. 1601](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1922-12-03;1601);
+
+Veduto l'art. 34 delle norme speciali pel servizio telegrafico approvato col [R. decreto n. 637 del 20 giugno 1909](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1909-06-20;637);
+
+Visto il [R. decreto n. 1079 del 23 agosto 1912](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1912-08-23;1079), col quale fu istituito, in via di esperimento, presso alcune reti, il servizio della trasmissione fonica dei telegrammi da e per il domicilio degli abbonati;
+
+Riconosciuta la necessita' di aumentare le tariffe stabilite con lo stesso R. decreto del 23 agosto 1912, allo scopo di eliminare o quanto meno ridurre la passivita' derivante al bilancio per effetto del predetto servizio;
+
+Udito il Consiglio dei ministri;
+
+Su proposta del Nostro Ministro segretario di Stato per le poste e per i telegrafi, di concerto col Ministro delle finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Dal 1° aprile 1923 le tariffe per la trasmissione fonica dei telegrammi destinati agli abbonati al telefono e da essi spediti e' stabilita come segue:   
+  
+L. 0,30 per ogni telegramma di 20 parole o frazione di 20 parole e L. 0.20, per ogni serie successiva di 20 parole o frazione di serie.   
+  
+E' dovuto inoltre un diritto fisso di L. 15 da versarsi all'atto della domanda.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno l'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 18 marzo 1923.   
+  
+VITTORIO EMANUELE.   
+  
+MUSSOLINI.   
+COLONNA DI CESARO'.   
+DE STEFANI.   
+  
+Visto il Guardasigilli: OVIGLIO.   
+  

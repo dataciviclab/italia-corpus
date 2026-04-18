@@ -1,0 +1,17 @@
+REGIO DECRETO 29 gennaio 1922 n. 239
+
+
+REGIO DECRETO 29 gennaio 1922 n. 239
+====================================
+
+Erezione in Ente morale. (022U0239)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 11/04/1922
+
+Art. 1
+------
+
+R.
+
+239. Regio decreto 29 gennaio 1922, col quale, sulla proposta del ministro per l'industria ed il commercio, l'Istituto autonomo per le case popolari di Mestre, viene eretto in Ente morale ed approvato lo statuto organico relativo.

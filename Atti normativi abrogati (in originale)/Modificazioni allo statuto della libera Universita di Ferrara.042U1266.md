@@ -1,0 +1,56 @@
+REGIO DECRETO 05 settembre 1942 n. 1266
+
+
+REGIO DECRETO 05 settembre 1942 n. 1266
+=======================================
+
+Modificazioni allo statuto della libera Universita' di Ferrara. 
+(042U1266)
+---------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/11/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+per grazia di dio e per volonta' della nazione   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduto lo statuto della libera Universita' di Ferrara, approvato con il R. decreto 13 ottobre 1927-V, n. 2255, e modificato con i Regi decreti 15 novembre 1928-VII, n. 2606, 31 ottobre 1929-VIII, n. 2400; 1° ottobre 1931-IX, n. 1372, 27 ottobre 1932-X, n. 2062 ; 27 dicembre 1934-XIII, n. 2448; 27 ottobre 1936-XIV, n. 2457; 27 marzo 1939-XVII, n. 1296; 9 maggio 1939-XVII, m. 1469 ; 26 ottobre 1940-XVIII, n. 2065, o 27 aprile 1942-XX, n. 470;   
+  
+Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con il R. decreto 31 agosto 1933-XI, n. 1592;   
+  
+Veduto il R. decreto-legge 20 giugno 1935-XIII, n. 1071;   
+  
+Veduti i Regi decreti,28 novembre 1935-XIV, n.2044 ; 7 maggio 1936-XIV, n. 882; 30 settembre 1938-XVI, n. 1652; 5 ottobre 1939-XVII, n. 1745; 1° luglio 1940-XVIII, n. 992; 2 ottobre 1940-XVIII, n. 1526; 10 ottobre 1941-XIX, n. 1173, e 24 ottobre 1941-XIX, n. 1375;   
+  
+Vedute le proposte relative allo statuto dell'Universita' anzidetta;   
+  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Lo statuto della libera Universita' di Ferrara, approvato e modificato con i Regi decreti sopraindicati, e' cosi' ulteriormente modificato:   
+  
+« Art. 23. - Agl'insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti i seguenti « semeiotica medica », « radiologia ».   
+  
+Ordiniamo che il presente decreto, munito del sigillo della Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a S. Anna di Valdieri, addi' 5 settembre 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+BOTTAI   
+  
+Visto, il Guardasigilli: Grandi   
+  
+Registrato alla Corte dei conti, addi' 5 novembre 1942-XXI   
+  
+Atti del Governo, registro 451, foglio 10. - MANCINI   

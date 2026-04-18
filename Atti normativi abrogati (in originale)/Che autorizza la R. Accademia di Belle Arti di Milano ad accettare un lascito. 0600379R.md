@@ -1,0 +1,41 @@
+REGIO DECRETO 21 settembre 1906 n. CCCLXXIX
+
+
+REGIO DECRETO 21 settembre 1906 n. CCCLXXIX
+===========================================
+
+Che autorizza la R. Accademia di Belle Arti di Milano ad accettare un lascito. (0600379R)
+-----------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 13/11/1906
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduta la domanda del presidente della R. Accademia di Belle Arti di Milano, diretta ad ottenere l'autorizzazione ad accettare un lascito di L. 1000, disposto dalla signora Caterina Pirola, vedova Fripp, a favore del migliore alunno della scuola di scultura nell'anno 1904;   
+  
+Sentito il parere del Consiglio di Stato;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il presidente della R. Accademia di Belle Arti di Milano e' autorizzato ad accettare il lascito della somma di lire mille (L. 1000), disposto dalla signora Caterina Pirola, vedova Fripp, per essere erogata al migliore alunno della scuola di scultura dell'Accademia dell'anno 1904.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 21 settembre 1906.   
+  
+VITTORIO EMANUELE.   
+  
+RAVA.   
+  
+Visto, Il guardasigilli: GALLO.   
+  

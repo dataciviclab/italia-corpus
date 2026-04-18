@@ -1,0 +1,42 @@
+LEGGE 17 novembre 1950 n. 1095
+
+
+LEGGE 17 novembre 1950 n. 1095
+==============================
+
+Inclusione della Cassa di risparmio di Calabria tra gli istituti abilitati a compiere operazioni di credito agrario di miglioramento con contributo statale nel pagamento degli interessi e fruenti di speciali agevolazioni fiscali.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno
+----------------------------------------------------------
+
+approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+Agli [articoli 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509~art13), [21](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509~art21) e [22 del regio decreto-legge 29 luglio 1927, n. 1509](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1927-07-29;1509~art22), convertito, con modificazioni, nella [legge 5 luglio 1928, n.   
+1760](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1928-07-05;1760), sono apportate le seguenti modificazioni:   
+Nel penultimo comma dell'art. 13, modificato con [legge 7 aprile 1938, n. 378](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-07;378), dopo le parole: "La Banca nazionale di agricoltura" sono inserite le seguenti: "La Cassa di risparmio di Calabria".   
+L'ultimo comma dello stesso art. 13, aggiunto con la [legge 7 aprile 1938, n. 378](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1938-04-07;378), resta modificato come segue: "La Banca nazionale dell'agricoltura e la Cassa di risparmio di Calabria potranno compiere operazioni di credito agrario di miglioramento con le modalita' ed entro il limite massimo di somma che saranno stabiliti dall'organo di vigilanza sulle aziende di credito".   
+Nel secondo comma dell'art. 21, modificato dal [regio decreto-legge 3 febbraio 1936, n. 287](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1936-02-03;287), alle parole: "la Banca nazionale del lavoro e la Banca nazionale dell'agricoltura" sono sostituite le seguenti: "la Banca nazionale del lavoro, la Banca nazionale dell'agricoltura e la Cassa di risparmio di Calabria".   
+Nel secondo comma dell'art. 22 dopo le parole: "dalla Banca nazionale dell'agricoltura", sono inserite le seguenti: "dalla Cassa di risparmio di Calabria".   
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 17 novembre 1950
+
+EINAUDI DE GASPERI - PELLA - SEGNI - VANONI
+
+Visto, il Guardasigilli: SEGNI

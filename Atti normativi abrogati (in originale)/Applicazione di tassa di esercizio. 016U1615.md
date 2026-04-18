@@ -1,0 +1,18 @@
+DECRETO LUOGOTENENZIALE 09 novembre 1916 n. 1615
+
+
+DECRETO LUOGOTENENZIALE 09 novembre 1916 n. 1615
+================================================
+
+Applicazione di tassa di esercizio. (016U1615)
+----------------------------------------------
+
+Entrata in vigore del provvedimento: 26/12/1916
+
+Art. 1
+------
+
+  
+N. 1615   
+  
+Decreto Luogotenenziale 9 novembre 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Bergamo di applicare la tassa di esercizio nella misura massima di. L. 2000 dal 1° gennaio 1916 al 31 dicembre dell'anno in cui cessera' la guerra.   

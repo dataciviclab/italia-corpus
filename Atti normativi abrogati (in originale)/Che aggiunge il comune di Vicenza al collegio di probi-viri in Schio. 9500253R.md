@@ -1,0 +1,48 @@
+REGIO DECRETO 20 ottobre 1895 n. CCLIII
+
+
+REGIO DECRETO 20 ottobre 1895 n. CCLIII
+=======================================
+
+Che aggiunge il comune di Vicenza al collegio di probi-viri in Schio. (9500253R)
+--------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/11/1895
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduto il regio decreto del 24 agosto u. s., n. CCXIII (parte supplementare), che istituisce un collegio di probiviri per l'industria della lana, con sede in Schio;   
+  
+Veduta la domanda della camera di commercio di Vicenza del 21 settembre 1895, n. 1395;   
+  
+Sulla proposta dei Nostri ministri di grazia e giustizia e dei culti e di agricoltura, industria e commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+Il collegio di probi-viri per l'industria della lana, con sede in Schio e giurisdizione sui comuni di Schio, Torrebelvicino, Piovene, Valdagno, Thiene, Sarcedo, Carre' e Zugliano, esercitera' pure la sua giurisdizione su tutto il territorio del comune di Vicenza.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 20 ottobre 1895.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 7 novembre 1895.   
+  
+Reg. 200. Atti da Governo a f. 173. G. Cappiello.   
+  
+Luogo da Sigillo. V. Il Guardasigilli V. CALENDA.   
+  
+A. Barazzuoli.   
+Calenda.   
+  

@@ -1,0 +1,225 @@
+REGIO DECRETO 24 ottobre 1942 n. 1595
+
+
+REGIO DECRETO 24 ottobre 1942 n. 1595
+=====================================
+
+Modificazioni allo statuto della Regia universita' di Bologna. (042U1595)
+-------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/01/1943
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Veduto lo statuto della Regia universita' di Bologna, approvato con il R. decreto 14 ottobre 1926-IV, n. 2170, e modificato con i Regi decreti 13 ottobre 1927-V, n. 2227; 4 settembre 1930-VIII, n. 1312; 1° ottobre 1931-IX, n. 1778 ; 27 ottobre 1932-X, n. 2092; 6 dicembre 1934-XIII, n. 2394; 1° ottobre 1936-XIV, n. 2502 ; 27 ottobre 1937-XV, n. 2102; 12 maggio 1939-XVII, n. 1315; 5 ottobre 1939-XVII, n. 1644; 26 ottobre 1940-XVIII, n. 2070; 11 luglio 1941-XIX, n. 848; 11 luglio 1942-XX, n. 928;
+
+Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con il R. decreto 31 agosto 1933-XI, n. 1592;
+
+Veduto il R. decreto-legge 20 giugno 1935-XIII. n. 1071;
+
+Veduti i Regi decreti 28 novembre 1935-XIV, n. 2044; 7 maggio 1936-XIV, n. 882; 30 settembre 1938-XVI, n. 1652; 5 ottobre 1939-XVII, n. 1745; 1° luglio 1940-XVIII, n. 992; 2 ottobre 1940-XVIII, n. 1526; 10 ottobre 1941-XIX, n. 1173; 24 ottobre 1941-XIX, n. 1375, e 5 settembre 1942-XX, n. 1319;
+
+Vedute le proposte relative allo statuto dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale;
+
+Abbiamo decretato e decretiamo:
+
+Lo statuto della Regia universita' di Bologna, approvato e modificato con i Regi decreti sopraindicati, e' cosi' ulteriormente modificato:
+
+Art. 38. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti: economia dei trasporti », « diritto industriale ».
+
+Art. 44. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto il seguente: « una lingua e letteratura straniera moderna a scelta ».
+
+Art. 67. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di « paleontologia umana ».
+
+Art. 94. Agli insegnamenti complementari comuni a tutte le sezioni di ingegneria sono aggiunti i seguenti : « artiglieria », « protezione antiaerea, applicata alle opere d'ingegneria ».
+
+Art. 146. - E' sostituito dal seguente:
+
+« Alla Facolta' di scienze matematiche, fisiche e naturali e' annesso:
+
+l'istituto matematico ;
+
+i corsi di perfezionamento in singole discipline;
+
+il corso di perfezionamento in matematica e fisica ».
+
+Gli articoli da 151 a 156 riguardanti il corso di perfezionamento in radiocomunicazioni sono soppressi.
+
+In conseguenza di tale soppressione e' modificata la numerazione degli articoli successivi e dei loro riferimenti.
+
+Dopo l'art. 163 (gia' 169) sono aggiunti i seguenti concernenti il corso di perfezionamento in radiocomunicazioni:
+
+« II. - Corso di perfezionamento in radiocomunicazioni.
+
+Art. 164. - Il corso di perfezionamento in radiocomunicazioni conferisce un attestato di specialista in radiocomunicazioni.
+
+Art. 165. - Il corso ha la durata di un anno.
+
+Art. 166. - Possono essere iscritti al corso i laureati in fisica e in ingegneria.
+
+E' data tuttavia facolta' al Consiglio del corso di ammettere anche quei laureati in corsi di laurea affini ai precedenti, i quali, a suo insindacabile giudizio, diano sicuri affidamenti della necessaria preparazione scientifica e tecnica.
+
+Art. 167. - Le materie obbligatorie per il conseguimento dell'attestato di specialista in radiocomunicazioni sono le seguenti:
+
+1. Complementi di analisi matematica;
+
+2. Complementi di elettrotecnica;
+
+3. Radiotecnica generale;
+
+4. Onde elettromagnetiche, e loro propagazione e penetrazione;
+
+5.Teoria dei tubi elettronici;
+
+6. Tecnico, degli impianti radiotrasmittenti;
+
+7. Tecnica degli impianti radioriceventi ;
+
+8. Tecnica delle trasmissioni su filo;
+
+9. Misure radiotecniche;
+
+10. Esercitazioni di radiotecnica.
+
+Tali insegnamenti potranno essere integrati con altri a carattere monografico o con conferenze su argomenti speciali, da affidare a tecnici di chiara fama.
+
+Art. 168. - Il corso di perfezionamento in radiocomunicazioni viene tenuto nell'Istituto di elettrotecnica e delle comunicazioni elettriche.
+
+Art. 169. - Per il conseguimento dell'attestato di specialista gli allievi, dopo aver frequentato regolarmente le esercitazioni e le lezioni, debbono aver sostenuto con esito favorevole l'esame di profitto relativo a ciascuno degli insegnamenti elencati nell'art.
+
+167.
+
+L'attestato si rilascia agli allievi che, superati tutti gli esami, sostengono con esito favorevole un colloquio in cui discutono una dissertazione scritta su argomento speciale.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a San Rossore, addi' 24 ottobre 1942-XX
+
+VITTORIO EMANUELE
+
+BOTTAI
+
+Visto, il Guardasigilli: GRANDI
+
+Registrato
+----------
+
+alla Corte dei conti, acidi 14 gennaio 1943-XXI Atti del Governo, registro 453, foglio 56 - MANCINI
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduto lo statuto della Regia universita' di Bologna, approvato con il R. decreto 14 ottobre 1926-IV, n. 2170, e modificato con i Regi decreti 13 ottobre 1927-V, n. 2227; 4 settembre 1930-VIII, n. 1312; 1° ottobre 1931-IX, n. 1778 ; 27 ottobre 1932-X, n. 2092; 6 dicembre 1934-XIII, n. 2394; 1° ottobre 1936-XIV, n. 2502 ; 27 ottobre 1937-XV, n. 2102; 12 maggio 1939-XVII, n. 1315; 5 ottobre 1939-XVII, n. 1644; 26 ottobre 1940-XVIII, n. 2070; 11 luglio 1941-XIX, n. 848; 11 luglio 1942-XX, n. 928;   
+  
+Veduto il testo unico delle leggi sull'istruzione universitaria, approvato con il R. decreto 31 agosto 1933-XI, n. 1592;   
+  
+Veduto il R. decreto-legge 20 giugno 1935-XIII. n. 1071;   
+  
+Veduti i Regi decreti 28 novembre 1935-XIV, n. 2044; 7 maggio 1936-XIV, n. 882; 30 settembre 1938-XVI, n. 1652; 5 ottobre 1939-XVII, n. 1745; 1° luglio 1940-XVIII, n. 992; 2 ottobre 1940-XVIII, n. 1526; 10 ottobre 1941-XIX, n. 1173; 24 ottobre 1941-XIX, n. 1375, e 5 settembre 1942-XX, n. 1319;   
+  
+Vedute le proposte relative allo statuto dell'Universita' anzidetta;   
+  
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Lo statuto della Regia universita' di Bologna, approvato e modificato con i Regi decreti sopraindicati, e' cosi' ulteriormente modificato:   
+  
+Art. 38. - Agli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti: economia dei trasporti », « diritto industriale ».   
+  
+Art. 44. - Agli insegnamenti complementari del corso di laurea in filosofia e' aggiunto il seguente: « una lingua e letteratura straniera moderna a scelta ».   
+  
+Art. 67. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di « paleontologia umana ».   
+  
+Art. 94. Agli insegnamenti complementari comuni a tutte le sezioni di ingegneria sono aggiunti i seguenti : « artiglieria », « protezione antiaerea, applicata alle opere d'ingegneria ».   
+  
+Art. 146. - E' sostituito dal seguente:   
+  
+« Alla Facolta' di scienze matematiche, fisiche e naturali e' annesso:   
+  
+l'istituto matematico ;   
+  
+i corsi di perfezionamento in singole discipline;   
+  
+il corso di perfezionamento in matematica e fisica ».   
+  
+Gli articoli da 151 a 156 riguardanti il corso di perfezionamento in radiocomunicazioni sono soppressi.   
+  
+In conseguenza di tale soppressione e' modificata la numerazione degli articoli successivi e dei loro riferimenti.   
+  
+Dopo l'art. 163 (gia' 169) sono aggiunti i seguenti concernenti il corso di perfezionamento in radiocomunicazioni:   
+  
+« II. - Corso di perfezionamento in radiocomunicazioni.   
+  
+Art. 164. - Il corso di perfezionamento in radiocomunicazioni conferisce un attestato di specialista in radiocomunicazioni.   
+  
+Art. 165. - Il corso ha la durata di un anno.   
+  
+Art. 166. - Possono essere iscritti al corso i laureati in fisica e in ingegneria.   
+  
+E' data tuttavia facolta' al Consiglio del corso di ammettere anche quei laureati in corsi di laurea affini ai precedenti, i quali, a suo insindacabile giudizio, diano sicuri affidamenti della necessaria preparazione scientifica e tecnica.   
+  
+Art. 167. - Le materie obbligatorie per il conseguimento dell'attestato di specialista in radiocomunicazioni sono le seguenti:   
+  
+1. Complementi di analisi matematica;   
+  
+2. Complementi di elettrotecnica;   
+  
+3. Radiotecnica generale;   
+  
+4. Onde elettromagnetiche, e loro propagazione e penetrazione;   
+  
+5.Teoria dei tubi elettronici;   
+  
+6. Tecnico, degli impianti radiotrasmittenti;   
+  
+7. Tecnica degli impianti radioriceventi ;   
+  
+8. Tecnica delle trasmissioni su filo;   
+  
+9. Misure radiotecniche;   
+  
+10. Esercitazioni di radiotecnica.   
+  
+Tali insegnamenti potranno essere integrati con altri a carattere monografico o con conferenze su argomenti speciali, da affidare a tecnici di chiara fama.   
+  
+Art. 168. - Il corso di perfezionamento in radiocomunicazioni viene tenuto nell'Istituto di elettrotecnica e delle comunicazioni elettriche.   
+  
+Art. 169. - Per il conseguimento dell'attestato di specialista gli allievi, dopo aver frequentato regolarmente le esercitazioni e le lezioni, debbono aver sostenuto con esito favorevole l'esame di profitto relativo a ciascuno degli insegnamenti elencati nell'art.  
+167.   
+  
+L'attestato si rilascia agli allievi che, superati tutti gli esami, sostengono con esito favorevole un colloquio in cui discutono una dissertazione scritta su argomento speciale.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 24 ottobre 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+BOTTAI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, acidi 14 gennaio 1943-XXI   
+Atti del Governo, registro 453, foglio 56 - MANCINI   

@@ -1,0 +1,39 @@
+REGIO DECRETO 08 aprile 1923 n. 934
+
+
+REGIO DECRETO 08 aprile 1923 n. 934
+===================================
+
+Che radia dal quadro del Regio naviglio il rimorchiatore «Alicudi». (023U0934)
+------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/05/1923
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il decreto-legge in data 21 dicembre 1922, numuro 1800;   
+  
+Sulla proposta del Nostro Ministro segretario di Stato per la Marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il rimorchiatore Alicudi e' radiato dal quadro del R. naviglio.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 8 aprile 1923.   
+  
+VITTORIO EMANUELE.   
+  
+THAON DI REVEL.   
+  
+Visto, il guardasigilli: OVIGLIO.   
+  

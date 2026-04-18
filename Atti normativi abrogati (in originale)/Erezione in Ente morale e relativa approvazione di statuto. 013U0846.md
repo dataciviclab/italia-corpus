@@ -1,0 +1,19 @@
+REGIO DECRETO 26 giugno 1913 n. 846
+
+
+REGIO DECRETO 26 giugno 1913 n. 846
+===================================
+
+Erezione in Ente morale e relativa approvazione di statuto. (013U0846)
+----------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/08/1913
+
+Art. 1
+------
+
+  
+N. 846   
+  
+Regio Decreto 26 giugno 1913, col quale, sulla proposta del ministro dell'interno, la Stazione sperimentale per la lotta contro le malattie infettive del bestiame, avente sede in Torino, viene costituita in ente morale e ne e' approvato lo statuto.   
+  

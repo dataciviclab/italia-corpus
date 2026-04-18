@@ -1,0 +1,40 @@
+LEGGE 28 giugno 1892 n. 296
+
+
+LEGGE 28 giugno 1892 n. 296
+===========================
+
+Che autorizza il Governo del Re ad applicare una convenzione provvisoria di commercio e navigazione che potesse essere conclusa con la Spagna. (092U0296)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/07/1892
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei Deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Il Governo del Re e' autorizzato, sulla base della tariffa generale doganale e delle tariffe convenzionali annesse al trattato di commercio e navigazione sottoscritti il 26 febbraio 1888, il 6 dicembre 1891 e 19 aprile 1892, ad applicare, sino al 31 dicembre 1892, una convenzione provvisoria di commercio e navigazione che potesse essere conclusa con la Spagna.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Monza, il 28 giugno 1892.   
+  
+UMBERTO.   
+  
+Brin.   
+Giolitti.   
+Lacava.   
+  
+Visto, Il Guardasigilli: Bonacci.   

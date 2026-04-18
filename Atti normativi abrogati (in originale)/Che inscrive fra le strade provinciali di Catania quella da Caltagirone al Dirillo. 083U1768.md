@@ -1,0 +1,49 @@
+REGIO DECRETO 25 novembre 1883 n. 1768
+
+
+REGIO DECRETO 25 novembre 1883 n. 1768
+======================================
+
+Che inscrive fra le strade provinciali di Catania quella da Caltagirone al Dirillo. (083U1768)
+----------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/01/1884
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' dalla Nazione   
+  
+RE D'ITALIA   
+  
+Vista la deliberazione 1° aprile 1868, colla quale il Consiglio provinciale di Catania stabiliva di classificare fra le provinciali la strada da Caltagirone al Dirillo, da costruirsi a spese del comune di Caltagirone, col sussidio della provincia;   
+  
+Visti gli atti di seguita pubblicazione della deliberazione suddetta, contro la quale non vennero presentate opposizioni;   
+  
+Vista la nota 24 agosto scorso della Deputazione provinciale di Catania, la quale assicura che la strada essendo stata gia' costruita dal comune di Caltagirone, col consenso della provincia, vien tolta ogni condizione per la sua classificazione definitiva fra le strade provinciali;   
+  
+Visto l'art. 14 della legge sui lavori pubblici;   
+  
+Ritenuto che la strada da Caltagirone al Dirillo e' di molta importanza per le relazioni industriali e commerciali ed agricole della provincia di Catania, facendo la strada stessa capo ad una nazionale;   
+  
+Veduto il voto 10 novembre corrente del Consiglio superiore dei lavori pubblici;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici,   
+  
+Abbiamo decretato e decretiamo:   
+  
+La strada da Caltagirone al Dirillo e' inscritta nell' elenco delle strade provinciali di Catania.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Data a Roma, addi' 25 novembre 1883.   
+  
+UMBERTO.   
+  
+Genala.   
+  
+Visto, Il Guardasigilli: Savelli.   
+  

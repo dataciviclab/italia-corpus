@@ -1,0 +1,19 @@
+REGIO DECRETO 23 settembre 1907 n. CCCCXXVIII
+
+
+REGIO DECRETO 23 settembre 1907 n. CCCCXXVIII
+=============================================
+
+Approvazioni di regolamenti per applicazioni di tasse di famiglia e sul bestiame. (0700428R)
+--------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/11/1907
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro delle finanze:   
+  
+N. CCCCXXVIII (Dato a Racconigi, il 23 settembre 1907), col quale e' approvato il regolamento per l'applicazione delle tasse di famiglia e sul bestiame nei comuni della provincia di Campobasso deliberato da quella Giunta provinciale amministrativa, nelle adunanze del 27 dicembre 1906, 24 maggio e 11 giugno 1907, in sostituzione dei regolamenti approvati coi RR. decreti 4 dicembre 1902, n. 446, 1° maggio 1870, n. 2356, 5 giugno 1892, n. 420 e 16 agosto 1899, n. 266.   
+  

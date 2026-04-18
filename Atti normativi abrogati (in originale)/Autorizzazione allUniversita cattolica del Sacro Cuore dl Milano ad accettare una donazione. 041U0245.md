@@ -1,0 +1,25 @@
+REGIO DECRETO 11 febbraio 1941 n. 245
+
+
+REGIO DECRETO 11 febbraio 1941 n. 245
+=====================================
+
+Autorizzazione all'Universita' cattolica del Sacro Cuore dl Milano ad accettare una donazione. (041U0245)
+---------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/05/1941
+
+Art. 1
+------
+
+N.
+
+245. R. decreto 11 febbraio 1941, col quale, sulla proposta del Ministro per l'educazione nazionale, l'Universita' cattolica del Sacro Cuore di Milano e' autorizzata ad accettare la donazione di L. 40.000 nominali, in titoli del Debito pubblico italiano al 3,50 %, disposta in suo favore dalla signorina Ivaldi Luigia fu Pietro con atto pubblico in data 15 luglio 1940-XVIII, a rogito del dott. Luigi Cesare Besozzi, notaio in Vercelli.   
+  
+Visto:   
+  
+(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
+  
+MUSSOLINI   
+  
+Registrato alla Corte dei conti, addi' 18 aprile 1941-XIX

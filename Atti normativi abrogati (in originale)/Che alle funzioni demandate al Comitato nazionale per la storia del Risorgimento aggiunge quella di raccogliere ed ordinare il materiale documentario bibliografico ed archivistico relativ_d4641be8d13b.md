@@ -1,0 +1,46 @@
+REGIO DECRETO 09 ottobre 1919 n. 1985
+
+
+REGIO DECRETO 09 ottobre 1919 n. 1985
+=====================================
+
+Che alle funzioni demandate al Comitato nazionale per la storia del Risorgimento, aggiunge quella di raccogliere ed ordinare il materiale documentario, bibliografico ed archivistico relativo alla guerra 1915-1918. (019U1985)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/11/1919
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduti i Nostri decreti 17 maggio 1906, n. 212 e 22 novembre 1906, n. 730 con i quali si istituisce e disciplina il funzionamento di un Comitato nazionale per la storia del Risorgimento   
+  
+Considerata la grande importanza storica dell'ultima guerra combattuta e vinta per la liberazione di nobili regioni d'Italia;   
+  
+Riconosciuta l'opportunita' che di questa guerra si raccolgano i materiali documentari;   
+  
+Sentito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per la istruzione pubblica;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Alle funzioni demandate con l'[art. 1 del R. decreto 17 maggio 1906, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-05-17;212~art1), al Comitato nazionale per la storia del Risorgimento, si aggiunge quella di ricercare, raccogliere ed ordinare, per facilitarne lo studio e diffonderne la conoscenza, il materiale documentario, bibliografico ed archivistico riferentesi alla guerra 1915-1918, materiale che andra' a costituire un archivio, una biblioteca ed un museo centrali di guerra.   
+  
+Alla organizzazione, al coordinamento ed alla sistemazione scientifica di quegli Istituti costituenti la sezione contemporanea del Comitato, saranno preposti due delegati generali da nominarsi, su proposta della presidenza del Comitato stesso, a norma dell'[art. 4 del R. decreto 17 maggio 1906, n. 212](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1906-05-17;212~art4).   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 9 ottobre 1919.   
+  
+VITTORIO EMANUELE.   
+  
+Nitti - Baccelli.   
+  
+Visto, Il guardasigilli: Mortara.   

@@ -1,0 +1,57 @@
+DECRETO LUOGOTENENZIALE 19 settembre 1915 n. 1436
+
+
+DECRETO LUOGOTENENZIALE 19 settembre 1915 n. 1436
+=================================================
+
+Che autorizza la emissione di buoni del tesoro quinquennali per provvedere a spese relative alle ferrovie dello Stato. (015U1436)
+---------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/10/1915
+
+Art. 1
+------
+
+  
+TOMASO DI SAVOIA DUCA DI GENOVA   
+  
+Luogotenente Generale di Sua Maesta'   
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+In virtu' dell'autorita' a Noi delegata;   
+  
+Vista la [legge 22 maggio 1915, n. 671](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1915-05-22;671);   
+  
+Vista la [legge 21 marzo 1912, n. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-03-21;191), colla quale fu data facolta' al ministro del tesoro di emettere buoni quinquennali in sostituzione dei titoli di debito redimibile 3,50% e 3% netto autorizzati dalle [leggi 24 dicembre 1908, n. 731, e 15 maggio 1910, n. 228](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1910-05-15;228), per provvedere alle spese straordinarie occorrenti per le ferrovie esercitate dallo Stato, per le nuove costruzioni di strade ferrate e per i riscatti di ferrovie e di debiti redimibili onerosi;   
+  
+Viste le successive [leggi 29 dicembre 1912, n. 1352, e 4 gennaio 1914, n. 1](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1914-01-04;1);   
+  
+Ritenuto che per spese varie di carattere ferroviario, costruzioni, riscatti di ferrovie, aumenti patrimoniali per lavori e materiali ferroviari, autorizzate da leggi vigenti, nonche' per rimborso di certificati di credito 3,65% netto, e' stata dalla cassa del tesoro anticipata a tutt'oggi la somma di oltre 100 milioni;   
+  
+Ritenuto che per reintegrare la cassa della somma anticipata torna opportuno valersi, anziche' dei titoli redimibili 3,50 e 3%, dei buoni del tesoro quinquennali, creati con la citata [legge 21 marzo 1912, n. 191](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-03-21;191);   
+  
+Sentito il Consiglio dei ministri;   
+  
+Sulla proposta del ministro segretario di Stato per il tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' data facolta' al ministro del tesoro di emettere buoni quinquennali sino ad un massimo di 100 milioni di lire al fine di reintegrare la cassa del tesoro delle somme anticipate per spese di costruzione e di riscatti di ferrovie e, per altre spese straordinarie patrimoniali delle ferrovie di Stato dipendenti dal terremoto del 28 dicembre 1908, e per rimborso di certificati ferroviari di credito 3,65% netto.   
+  
+Ai buoni da emettersi a' sensi del presente decreto sono applicabili le disposizioni delle [leggi 21 marzo 1912, n. 191, e 29 dicembre 1912, n. 1352](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1912-12-29;1352).   
+  
+Ordiniamo che il presento decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 19 settembre 1915.   
+  
+TOMASO DI SAVOIA.   
+  
+SALANDRA - ARCANO.   
+  
+Visto, Il guardasigilli: ORLANDO.   
+  

@@ -1,0 +1,47 @@
+REGIO DECRETO 14 gennaio 1915 n. 94
+
+
+REGIO DECRETO 14 gennaio 1915 n. 94
+===================================
+
+Col quale viene revocata la delimitazione della zona malarica nel territorio del comune di Colli del Tronto. (015U0094)
+-----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/03/1915
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto l'[articolo 157 del testo unico delle leggi sanitarie](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1934-07-27;1265~art157) approvato con Nostro decreto 1° agosto 1907, n. 636, e il regolamento approvato con Nostro decreto 28 febbraio 1907, n. 61, che contengono disposizioni per diminuire le cause della malaria;   
+  
+Visto il Nostro decreto 29 settembre 1902, n. 442, col quale tra l'altro si provvedeva alla zona malarica nel territorio del comune di Colli del Tronto in provincia di Ascoli;   
+  
+Visto il rapporto col quale il prefetto della Provincia stessa ha inviato le proposte di quel medico provinciale per la revoca della anzidetta zona malarica;   
+  
+Veduto il voto del Consiglio provinciale di sanita' sulle anzidette proposte;   
+  
+Udito il Consiglio superiore di sanita';   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Viene revocata la delimitazione della zona malarica fatta col nostro decreto 29 settembre 1902, n. 442, per parte del territorio del comune di Colli del Tronto, il cui territorio deve pertanto Mettersi immune da infezione malarica.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 14 gennaio 1915.   
+  
+VITTORIO EMANUELE.   
+  
+SALANDRA.   
+  
+Visto, Il guardasigilli: ORLANDO.   
+  

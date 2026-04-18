@@ -1,0 +1,61 @@
+REGIO DECRETO 12 luglio 1934 n. 1190
+
+
+REGIO DECRETO 12 luglio 1934 n. 1190
+====================================
+
+Modificazione dell'art. 29 del regolamento per le gestioni affidate ai consegnatari cassieri delle Amministrazioni centrali. (034U1190)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/08/1934
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il [R. decreto 20 ottobre 1924, n. 1796](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-20;1796), che approva il regolamento per le gestioni affidate ai consegnatari cassieri delle Amministrazioni centrali, modificato con [R. decreto 13 giugno 1926, n. 1036](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-13;1036), e col [R. decreto 19 gennaio 1928, n. 195](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-19;195);
+
+Sentiti il Consiglio di Stato e la Corte dei conti;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+L'art. 29 del regolamento approvato col [R. decreto 20 ottobre 1924, n. 1796](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1924-10-20;1796), modificato con i [Regi decreti 13 giugno 1926, n. 1036](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1926-06-13;1036), e [19 gennaio 1928, n. 195](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1928-01-19;195), e' sostituito col seguente:   
+  
+« In ciascun Ministero non vi potra' essere che un solo consegnatario e un solo cassiere o un solo consegnatario cassiere.   
+  
+« Per la Presidenza del Consiglio dei Ministri e per il Ministero dell'interno vi potra' essere un unico consegnatario ed un unico cassiere od anche due distinti cassieri, uno per ciascuna delle due Amministrazioni.   
+  
+« Non sono ammesse istituzioni o nomine di delegati presso gli uffici dei Ministeri sotto la personale responsabilita' dei consegnatari cassieri.   
+  
+« Il Consiglio di Stato, la Corte dei conti, l'Avvocatura generale dello Stato, la Direzione generale del Fondo per il culto, la Direzione generale della Marina mercantile, i Servizi vaglia risparmi e conti correnti postali, la Direzione generale delle pensioni di guerra, il Comando generale della Regia guardia di finanza, la Direzione generale degli italiani all'estero, potranno avere un vice consegnatario cassiere, rispettivamente delegato dalla Presidenza del Consiglio e dai Ministeri dell'interno, delle comunicazioni, delle finanze e degli affari esteri.   
+  
+« In caso di istituzione di nuovi uffici, di trasformazione di quelli esistenti, oppure di trasferimento di alcuni uffici di un Ministero in altra sede, e' data facolta' al Ministro per le finanze di promuovere la nomina di nuovi vice consegnatari, oppure di vice consegnatari cassieri, oltre quelli sopranominati, di concerto col Ministro dal quale dipende l'ufficio interessato.   
+  
+« Per i casi di assenza o d'impedimento dei predetti funzionari, le singole Amministrazioni potranno nominare, con apposito decreto, di concerto col Ministro per le finanze, il funzionario o i funzionari incaricati di sostituirli, i quali dovranno essere dello stesso grado prescritto per i consegnatari ».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 12 luglio 1934 - Anno XII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Jung.   
+  
+Visto, il Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 25 luglio 1934 - Anno XII   
+  
+Atti del Governo, registro 349, foglio 130. - Mancini.   

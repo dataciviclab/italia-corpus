@@ -1,0 +1,45 @@
+REGIO DECRETO 09 agosto 1910 n. 631
+
+
+REGIO DECRETO 09 agosto 1910 n. 631
+===================================
+
+Che approva una sostituzione di data all'art. 43 del regolamento per la concessione di carte di libera circolazione sulle ferrovie. (010U0631)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/10/1910
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge 9 luglio 1908, n. 406](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1908-07-09;406), riguardante la concessione di carte di libera circolazione, di biglietti gratuiti ed a prezzo ridotto;   
+  
+Visto il regolamento per l'applicazione di detta legge, approvato col Nostro decreto 26 novembre 1908, n. 804;   
+  
+Udito il Consiglio d'amministrazione delle ferrovie dello Stato;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato pei lavori pubblici, di concerto col ministro del tesoro;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Nel comma 1° dell'art. 43 del regolamento, approvato col Nostro decreto 26 novembre 1908, n. 804, per la concessione di carte di libera circolazione e di biglietti gratuiti ed a prezzo ridotto, e' sostituita alla data 9 luglio 1908 l'altra 31 dicembre 1908, e conseguentemente sono ammessi a fruire della concessione ad personam di biglietti gratuiti, di cui al suddetto articolo, i funzionari dell'Amministrazione centrale dei lavori pubblici ed i funzionari, commessi ed agenti del Senato del Regno e della Camera dei deputati assunti in servizio fino a tutto l'anno 1908.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 9 agosto 1910.   
+  
+VITTORIO EMANUELE.   
+  
+LUZZATTI - SACCHI - TEDESCO.   
+  
+Visto, Il guardasigilli: FANI.   
+  

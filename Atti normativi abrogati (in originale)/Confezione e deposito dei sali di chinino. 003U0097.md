@@ -1,0 +1,48 @@
+REGIO DECRETO 25 febbraio 1903 n. 97
+
+
+REGIO DECRETO 25 febbraio 1903 n. 97
+====================================
+
+Confezione e deposito dei sali di chinino. (003U0097)
+-----------------------------------------------------
+
+Entrata in vigore del provvedimento: 19/04/1903
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge 2 novembre 1901, n. 460](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1901-11-02;460), modificata coll'altra 22 giugno 1902, n. 224;   
+  
+Visto il Regolamento per l'esecuzione della legge stessa, approvato con nostro decreto 30 marzo 1902, n. 111, e modificato con altro Nostro decreto del 16 novembre 1902, n. 516;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le Finanze, di concerto con quello per l'Interno;   
+  
+Udito il Consiglio Superiore di Sanita';   
+  
+Abbiamo decretato e decretiamo:   
+  
+I sali di chinino che lo Stato vendera' a prezzo di favore alle Congregazioni di Carita' ed ai Municipi delle zone malariche, per la distribuzione gratuita ai poveri, saranno confezionati in tavolette compresse da venti centigrammi ciascuna, ogni cinquanta o cento delle quali saranno contenute in apposite scatole di cartone, munite di un contrassegno del Consiglio Superiore di Sanita'.   
+  
+La somministrazione di detti medicinali alle Congregazioni di Carita' ed ai Municipi delle zone malariche, sara' fatta direttamente dalla Manifattura dei tabacchi di Roma, funzionante da deposito centrale dei sali di chinino.   
+  
+Il Ministro proponente e quello dell'Interno sono incaricati dell'esecuzione del presente decreto.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 febbraio 1903.   
+  
+VITTORIO EMANUELE.   
+  
+Carcano.   
+Giolitti.   
+  
+Visto, Il Guardasigilli: Cocco-Ortu.   
+  

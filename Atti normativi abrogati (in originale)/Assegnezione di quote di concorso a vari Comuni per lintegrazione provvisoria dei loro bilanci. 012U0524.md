@@ -1,0 +1,19 @@
+REGIO DECRETO 26 maggio 1912 n. 524
+
+
+REGIO DECRETO 26 maggio 1912 n. 524
+===================================
+
+Assegnezione di quote di concorso a vari Comuni per l'integrazione provvisoria dei loro bilanci. (012U0524)
+-----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/06/1912
+
+Art. 1
+------
+
+  
+N. 524   
+  
+Regio Decreto 26 maggio 1912, col quale, sulla proposta del ministro delle finanze, vengono assegnate a vari Comuni delle Provincie del Mezzogiorno continentale, della Sicilia e della Sardegna le quote di concorso governativo per gli anni 1907, 1908, 1909, 1910 e 1911 per l'integrazione provvisoria delle deficienze di bilancio causate dall'applicazione delle disposizioni sui tributi locali contenute nelle leggi 25 giugno e 15 luglio 1906, numeri 255 e 383.   
+  

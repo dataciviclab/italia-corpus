@@ -1,0 +1,40 @@
+LEGGE 12 giugno 1931 n. 988
+
+
+LEGGE 12 giugno 1931 n. 988
+===========================
+
+Conversione in legge del R. decreto-legge 26 febbraio 1931, n. 443, relativo all'approvazione della proroga al 10 maggio 1931 dell'Accordo provvisorio italo-persiano 25 giugno 11-24 luglio 1928. (031U0988)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 25/08/1931
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+  
+RE D'ITALIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il R. decreto-legge 26 febbraio 1931, n. 443, relativo all'approvazione della proroga fino al 10 maggio 1931 dell'Accordo provvisorio italo-persiano del 25 giugno 11-24 luglio 1928, conclusa mediante scambio di note avvenuto in Teheran tra il Regio Ministro d'Italia ed il Reggente il Ministero degli affari esteri persiano in data 10 novembre 1930.   
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella raccolta ufficiale delle leggi e dei decreti, del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+Data a San Rossore, addi' 12 giugno 1931 - Anno IX   
+  
+VITTORIO EMANUELE   
+  
+  
+Mussolini - Grandi - De Bono   
+  
+Rocco - Mosconi - Bottai   
+Visto, il Guardasigilli: Rocco.   
+  

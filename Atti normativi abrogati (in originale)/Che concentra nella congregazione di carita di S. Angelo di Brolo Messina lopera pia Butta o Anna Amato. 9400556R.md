@@ -1,0 +1,32 @@
+REGIO DECRETO 16 dicembre 1894 n. DLVI
+
+
+REGIO DECRETO 16 dicembre 1894 n. DLVI
+======================================
+
+Che concentra nella congregazione di carita' di S. Angelo di Brolo (Messina) l'opera pia Butta' o Anna Amato. (9400556R)
+------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/01/1895
+
+Articolo unico
+--------------
+
+  
+  
+L'opera pia Butta' o Anna Amato e' concentrata nella congregazione di carita' di S. Angelo di Brolo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 dicembre 1894.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 3 gennaio 1895.   
+  
+Reg. 197. Atti del Governo a f. 6. G. Cappiello.   
+  
+Luogo del Sigillo. V. Il Guardasigilli V. Calenda.   
+  
+F. Crispi.   
+  

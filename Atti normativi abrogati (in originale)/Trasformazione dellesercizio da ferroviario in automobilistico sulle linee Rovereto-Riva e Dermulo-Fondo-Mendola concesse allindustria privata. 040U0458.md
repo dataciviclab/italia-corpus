@@ -1,0 +1,41 @@
+LEGGE 18 aprile 1940 n. 458
+
+
+LEGGE 18 aprile 1940 n. 458
+===========================
+
+Trasformazione dell'esercizio da ferroviario in automobilistico sulle linee Rovereto-Riva e Dermulo-Fondo-Mendola concesse all'industria privata. (040U0458)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/06/1940
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Sono approvate le Convenzioni 12 dicembre e 13 dicembre 1939-XVIII stipulate tra i delegati dei Ministri per le comunicazioni e per le finanze, in rappresentanza dello Stato, ed i legali rappresentanti delle Societa' anonima Ferrovia Rovereto-Riva ed Anonima Ferrovia Elettrica Alta Anaunia, per la trasformazione dell'esercizio da ferroviario in automobilistico sulle linee Rovereto-Riva e Dermulo-Fondo-Mendola, concesse all'industria privata.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 18 aprile 1940-XVIII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Host Venturi - Di Revel   
+  
+Visto, il Guardasigilli: Grandi   
+  
+  

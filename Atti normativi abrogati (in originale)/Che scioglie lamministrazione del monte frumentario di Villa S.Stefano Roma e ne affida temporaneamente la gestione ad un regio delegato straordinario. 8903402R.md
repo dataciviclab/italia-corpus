@@ -1,0 +1,33 @@
+REGIO DECRETO 20 giugno 1889 n. MMMCCCCII
+
+
+REGIO DECRETO 20 giugno 1889 n. MMMCCCCII
+=========================================
+
+Che scioglie l'amministrazione del monte frumentario di Villa S. 
+Stefano (Roma), e ne affida temporaneamente la gestione ad un regio delegato straordinario. (8903402R)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/08/1889
+
+Articolo unico
+--------------
+
+  
+  
+L'amministrazione del monte frumentario di Villa San Stefano e' disciolta, e la sua temporanea gestione e' affidata ad un delegato straordinario, da nominarsi dal prefetto della provincia, con l'incarico di compiere tutti gli atti necessari pel riordinamento del pio istituto entro il termine piu' breve.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 20 giugno 1889.   
+  
+UMBERTO   
+  
+Registrato alla Corte dei conti addi' 5 luglio 1889.   
+  
+Reg. 169. Atti del Governo a f. 109. Mandillo.   
+  
+Luogo del Sigillo. V. Il Guardasigilli. G. Zanardelli.   
+  
+F. Crispi.   
+  

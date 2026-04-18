@@ -1,0 +1,48 @@
+REGIO DECRETO 17 giugno 1866 n. 3005
+
+
+REGIO DECRETO 17 giugno 1866 n. 3005
+====================================
+
+Che ordina la soppressione del posto d'Ispettore per le risaie nel lago o padule di Massaciuccoli. (066U3005)
+-------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/07/1866
+
+VITTORIO EMANUELE II
+--------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista l'ordinanza del Governatore Generale della Toscana del 12 settembre 1860 e Regolamento annesso;
+
+Vista la Legge sulle risaie del 12 giugno 1866, n° 2967;
+
+Sulla
+-----
+
+proposta del Ministro per l'Istruzione pubblica, reggente il Ministero di Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Il posto d'Ispettore per le risaie nel lago o padule di Massaciuccoli istituito con l'ordinanza del Governatore Generale della Toscana in data del 12 settembre 1860 e' soppresso a partire dal 1° luglio mille ottocento sessantasei.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 17 giugno 1866.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 28 giugno 1866   
+  
+Reg.º 36 Atti del Governo a. c. 123. Ayres.   
+  
+Luogo del Sigillo. V. Il Guardasigilli De Falco.   
+  
+Berti.   
+  

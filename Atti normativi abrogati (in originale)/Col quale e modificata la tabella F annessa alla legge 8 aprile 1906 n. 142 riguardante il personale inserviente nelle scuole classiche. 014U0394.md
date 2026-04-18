@@ -1,0 +1,50 @@
+REGIO DECRETO 16 aprile 1914 n. 394
+
+
+REGIO DECRETO 16 aprile 1914 n. 394
+===================================
+
+Col quale e' modificata la tabella F annessa alla legge 8 aprile 1906, n. 142, riguardante il personale inserviente nelle scuole classiche. (014U0394)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 06/06/1914
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduta la [legge 8 aprile 1906, n. 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142);
+
+Veduti i Nostri decreti 28 settembre 1913, con i quali fu provveduto con effetto dal 1° ottobre 1913 alla conversione in governativi dei ginnasi pareggiati di Cento, Cerignola ed Este;
+
+Udito il Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Alla tabella F annessa alla [legge 8 aprile 1906, numero 142](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;142), sono aggiunti dal 1° ottobre 1913 i seguenti posti:   
+  
+tre di bidello;   
+  
+tre di inserviente custode.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 aprile 1914.   
+  
+VITTORIO EMANUELE.   
+  
+Salandra - Daneo.   
+  
+Visto, Il guardasigilli: Dari.   
+  

@@ -1,0 +1,21 @@
+REGIO DECRETO 11 gennaio 1937 n. 499
+
+
+REGIO DECRETO 11 gennaio 1937 n. 499
+====================================
+
+Alienazione, a condizioni di favore, di area demaniale al Municipio di Bengasi. (037U0499)
+------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/05/1937
+
+Art. 1
+------
+
+N.
+
+499. R. decreto 11 gennaio 1937, col quale, sulla proposta del Ministro per le colonie, viene approvato e reso esecutivo il contratto n. 1701 di repertorio, in data 23 settembre 1936-XIV, per l'alienazione, a condizioni di favore, di area demaniale, destinata alla costruzione di un albergo, al Municipio di Bengasi.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 5 aprile 1937 - Anno XV

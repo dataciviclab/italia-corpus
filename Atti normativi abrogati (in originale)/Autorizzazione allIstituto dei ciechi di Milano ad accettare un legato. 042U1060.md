@@ -1,0 +1,21 @@
+REGIO DECRETO 24 luglio 1942 n. 1060
+
+
+REGIO DECRETO 24 luglio 1942 n. 1060
+====================================
+
+Autorizzazione all'Istituto dei ciechi di Milano ad accettare un legato. (042U1060)
+-----------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 08/10/1942
+
+Art. 1
+------
+
+N.
+
+1060. R. decreto 24 luglio 1942, col quale, sulla proposta del Ministro per l'educazione nazionale, l'Istituto dei ciechi di Milano viene autorizzato ad accettare il legato di circa 50.000 lire, rappresentato dal ricavato di n. 30 azioni della Vetreria milanese Lucchini Perego e C. di Milano, disposto in suo favore dalla fu signora Bonavia Giacinta.   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 10 settembre 1942-XX

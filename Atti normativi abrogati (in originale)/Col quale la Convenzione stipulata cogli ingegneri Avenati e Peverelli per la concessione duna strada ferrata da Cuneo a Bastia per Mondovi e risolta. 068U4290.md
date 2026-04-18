@@ -1,0 +1,50 @@
+REGIO DECRETO 05 marzo 1868 n. 4290
+
+
+REGIO DECRETO 05 marzo 1868 n. 4290
+===================================
+
+Col quale la Convenzione stipulata cogli ingegneri Avenati e Peverelli, per la concessione d'una strada ferrata da Cuneo a Bastia per Mondovi', e' risolta. (068U4290)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/04/1868
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il Nostro Decreto del 20 maggio 1866, col quale era approvata la Convenzione stipulata in data del 18 stesso mese fra il Nostro Ministro Segretario di Stato pei Lavori Pubblici, e gli ingegneri Avenati e Peverelli, per la concessione di una strada ferrata da Cuneo a Bastia per Mondovi';
+
+Ritenuta la domanda presentata dai concessionari per la rescissione della Convenzione sovracitata, in applicazione della riserva espressa nell'articolo 10 di detta Convenzione, per il caso che non si ottenesse la sottoscrizione di un numero di azioni corrispondente ad un capitale di 1,675,000 lire;
+
+Avuto il parere del Consiglio di Stato;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per i Lavori Pubblici; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La Convenzione stipulata in data del 18 maggio 1866 cogli ingegneri Avenati e Peverelli, per la concessione della ferrovia da Cuneo a Bastia per Mondovi, e' risolta.   
+  
+Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Firenze addi' 5 marzo 1868.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 23 marzo 1868   
+  
+Reg. 42 Atti del Governo a c. 136. Ayres.   
+  
+Luogo del sigillo. V. Il Guardasigilli De Filippo.   
+  
+G. Cantelli.   
+  

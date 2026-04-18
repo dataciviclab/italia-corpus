@@ -1,0 +1,59 @@
+REGIO DECRETO 16 febbraio 1888 n. 5251
+
+
+REGIO DECRETO 16 febbraio 1888 n. 5251
+======================================
+
+Che regola l'ammissione negli Istituti civili di P. I. degli allievi della R. Accademia navale di Livorno. (088U5251)
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 01/04/1888
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la legge 13 novembre 1859 sulla pubblica istruzione;   
+  
+Visto l'articolo 8 del Regolamento generale universitario approvato col [R. decreto 8 ottobre 1876, n. 3434](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-10-08;3434);   
+  
+Visto l'articolo 108 del Regolamento per gli istituti tecnici, approvato col R. decreto 21 giugno 1885;   
+  
+Visto l'ordinamento degli studi della Rª Accademia navale di Livorno;   
+  
+Sentito il Consiglio Superiore di Pubblica Istruzione;   
+  
+Sulla proposta dei Nostri Ministri, Segretari di Stato per la pubblica istruzione e per la marina;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+Gli allievi della Rª Accademia navale di Livorno, dipendente dal Ministero della Marina, i quali non intendano proseguirvi gli studi e desiderino continuarli negli istituti civili di pubblica istruzione, vi sono ammessi ai corsi rispettivamente indicati qui appresso:   
+  
+a) Gli allievi che hanno compiuto il primo corso della Regia Accademia navale e ne hanno superati gli esami, sono ammessi al quarto anno di corso degli istituti tecnici (sezione fisico-matematica);   
+  
+b) Cli allievi che hanno compiuto nell'Accademia il secondo corso e superati tutti gli esami, sono ammessi al primo anno del corso universitario di matematica per il diploma d'ingegnere.   
+  
+Lo stesso ha luogo per gli allievi che hanno compiuto il terzo corso e superati gli esami, non avendo gli studi fatti in esso corrispondenza equivalente con quelli degli istituti tecnici;   
+  
+c) Gli allievi che hanno compiuto il quarto anno dell'Accademia, e superati gli esami, sono ammessi al secondo anno del corso universitario di matematica, con l'obbligo di seguire il corso di chimica e darvi l'esame;   
+  
+d) Gli allievi che hanno compiuto il quinto corso dell'Accademia e superati gli esami, sono ammessi al primo anno di una Scuola di applicazione per gli ingegneri.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 febbraio 1888.   
+  
+UMBERTO.   
+  
+Coppino.   
+Brin.   
+  
+Visto, Il Guardasigilli: Zanardelli.   

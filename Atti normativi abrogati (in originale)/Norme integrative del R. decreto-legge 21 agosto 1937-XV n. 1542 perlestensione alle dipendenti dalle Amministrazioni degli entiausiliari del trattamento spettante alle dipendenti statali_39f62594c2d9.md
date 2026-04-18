@@ -1,0 +1,49 @@
+LEGGE 06 febbraio 1942 n. 173
+
+
+LEGGE 06 febbraio 1942 n. 173
+=============================
+
+Norme integrative del R. decreto-legge 21 agosto 1937-XV, n. 1542, per 
+l'estensione alle dipendenti dalle Amministrazioni degli enti 
+ausiliari del trattamento spettante alle dipendenti statali durante 
+la gravidanza ed il puerperio. (042U0173)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/04/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+Al Regio decreto-legge 21 agosto 1937-XV, n. 1542, convertito, con modificazioni, nella legge 3 gennaio 1939-XVII, n. 1, e' aggiunto il seguente capo:   
+  
+«Capo IV-bis. - Norme per la tutela del personale femminile dipendente dalle Amministrazioni degli enti ausiliari durante lo stato di gravidanza e di puerperio».   
+  
+«Art. 44-bis. - Per causa di gravidanza e puerperio il personale femminile dipendente dalle Amministrazioni comunali, provinciali, consorziali e delle Istituzioni pubbliche di assistenza e beneficenza ha diritto ad ottenere, in aggiunta al congedo ordinario previsto dai rispettivi regolamenti organici, un ulteriore periodo di congedo per la durata di un mese e mezzo, e conserva anche durante tale periodo, il supplemento di servizio attivo.   
+  
+«Al personale femminile non di ruolo dipendente da gli Enti di cui al precedente comma sono estese le disposizioni di cui all'art. 29.   
+« A tutto il personale femminile in servizio presso le Amministrazioni di cui al primo comma sono estese le disposizioni dell'art. 44».   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Vito dei Normanni, addi' 6 febbraio 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - DI REVEL   
+  
+Visto, il Guardasigilli: GRANDI   

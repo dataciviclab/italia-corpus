@@ -1,0 +1,360 @@
+LEGGE 29 giugno 1882 n. 829
+
+
+LEGGE 29 giugno 1882 n. 829
+===========================
+
+Portante modificazioni al testo unico della legge sul reclutamento. (082U0829)
+------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/07/1882
+
+Art. 1
+------
+
+  
+  
+Agli articoli 5, 8, 9, 10, 11, 18, 28, 43, 58, 60, 78, 80, 82, 86, 87, 89, 95, 96, 97, 101, 103, 111, 115, 116, 120, 121, 124, 125, 126, 128, 129, 130, 131, 133, 135, 136, 137, 138, 139, 140, 141, 144, 146, 147, 159, 160, 170, 173 e 174 del testo unico delle leggi sul reclutamento dell'esercito, approvato con [Regio decreto del 26 luglio 1876, n. 3260](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-07-26;3260) (Serie 2ª), sono rispettivamente sostituiti i seguenti:   
+  
+«Art. 5. Tutti i cittadini dello Stato sono soggetti alla leva.  
+Ciascuno fa parte della classe di leva dell'anno in cui nacque, e percio' ciascuna classe comprende tutti i maschi nati dal primo all'ultimo giorno di uno stesso anno.   
+  
+Nei tempi normali concorrono alla leva nell'anno in cui compiono il vigesimo della eta' loro.   
+  
+Possono esservi chiamati anche prima, quando lo esigano contingenze straordinarie.   
+  
+Art. 8. Il contingente di prima categoria che ciascuna leva deve somministrare all'esercito e' determinato con legge.   
+  
+Gli inscritti idonei alle armi che sopravanzino al contingente di prima categoria e che non abbiano diritto all'assegnazione alla terza, costituiscono la seconda categoria, la quale potra' essere divisa in due parti.   
+  
+In questo caso il contingente della prima parte della seconda categoria d'ogni classe sara' fissato con decreto Reale.   
+  
+Art. 9. Il ripartimento fra i circondari del continente di prima categoria e' fatto per decreto Reale, in proporzione del numero degli iscritti sulle liste di estrazione della classe chiamata.   
+  
+Il ripartimento del contingente della prima parte della seconda categoria e' fatto dal Ministro della Guerra fra i distretti militari, in proporzione degli uomini definitivamente ascritti alla stessa seconda categoria.   
+  
+Art. 10. Il contingente di prima categoria assegnato a ciascun circondario e' dal prefetto o sottoprefetto ripartito fra i mandamenti di cui esso si compone, in proporzione del numero degl'inscritti sulle liste di estrazione di ogni mandamento. Salvo la citta' di Napoli, tutte le altre che comprendono piu' mandamenti nel loro territorio sono considerate per la leva come costituenti un solo mandamento.   
+  
+Il contingente della prima parte di seconda categoria assegnato a ciascun distretto militare e' ripartito dal rispettivo comandante fra i vari mandamenti, in proporzione del numero degli arruolati nella seconda categoria dei mandamenti stessi.   
+  
+Art. 11. L'estrazione a sorte determina l'ordine numerico da seguirsi nella destinazione degli individui alla prima categoria, ovvero alla prima od alla seconda parte della seconda categoria.   
+  
+Art. 18. Contro le decisioni dei Consigli di leva e' ammesso il ricorso al Ministro della Guerra, osservate le prescrizioni del regolamento di cui all'art. 175.   
+  
+Il Ministro, sentito il parere di una Commissione composta di un ufficiale generale, di due consiglieri di Stato e di due ufficiali superiori, potra' annullare le dette decisioni.   
+  
+I ricorsi preaccennati non sospendono gli effetti delle decisioni dei Consigli di leva.   
+  
+Art. 28. Sulla lista di leva della prima classe a chiamarsi sono da aggiungere:   
+  
+1. Gli omessi inquisiti di essersi sottratti alla inscrizione ed assolti dai Tribunali ordinari;   
+  
+2. Gli omessi in leve anteriori, di cui all'art. 35, e quegli altri che siansi presentati spontanei per essere inscritti, prima o dopo che siasi scoperta la loro omissione.   
+  
+Art. 43. Nel caso che il numero delle schede rinchiuse nell'urna risulti minore di quello degli inscritti, i giovani eccedenti sono ammessi ad una estrazione suppletiva la quale si eseguisce rimettendo nell'urna altrettante schede quante erano quelle della prima estrazione.   
+  
+E per contro, se il numero delle schede risulti eccedente, le rimanenti nell'urna si hanno per nulle.   
+  
+Terminata l'estrazione, non puo' questa per qualunque motivo essere ripetuta, e ciascun inscritto riterra' il numero assegnatogli dalla sorte.   
+  
+Art. 58. All'esame personale degli inscritti sara' proceduto dal Consiglio di leva in presenza del sindaco per mezzo dei medici chiamati alla seduta.   
+  
+I casi di esenzione dal servizio di 1ª e di 2ª categoria sono giudicati sulla produzione di documenti autentici, ed in mancanza di documenti sopra la esibizione di certificato rilasciato dal sindaco sulla attestazione di tre padri di famiglia sottoscritti all'atto, domiciliati nello stesso comune e padri di figli che sieno soggetti alla leva nel comune medesimo.   
+  
+Nel caso che un inscritto non giustifichi il diritto invocato alla esenzione di cui sopra, il Consiglio provvede perche' sia immediatamente, se idoneo, arruolato in 1ª o in 2ª categoria, giusta il numero estratto, e gli concede dilazioni anche sino alla chiusura della sessione completiva per provare i suoi titoli ad essere assegnato alla 3ª.   
+  
+Art. 60. Il Consiglio di leva, tenute presenti le disposizioni dei precedenti articoli 8 e 11, assegnera' al contingente di 1ª categoria nell'ordine seguente:   
+  
+1. I capilista di cui al n. 2 ed all'ultimo capoverso dell'articolo 29; gli inscritti che si trovassero nei casi contemplati negli articoli 155 e 156; i volontari di un anno gia' ammessi sotto le armi o che abbiano ottenuto di ritardare l'anno di servizio, e gli inscritti di cui all'articolo 121;   
+  
+2. I capilista di cui ai nn. 1, 3 e 4 del citato articolo 29, e i renitenti assolti o condannati, sempreche' tanto gli uni quanto gli altri pel numero loro toccato in sorte nella estrazione della leva alla quale presero parte dovessero essere ascritti alla 1ª categoria;   
+  
+3. Gli inscritti della leva in corso nell'ordine in cui risultano nella lista di estrazione e fino al compimento del determinato contingente di 1ª categoria.   
+  
+Tutti i rimanenti capilista ed inscritti non compresi nella 1ª categoria saranno assegnati alla 2ª nell'ordine medesimo della lista di estrazione.   
+  
+I surrogati di fratello saranno assegnati a quella categoria cui per ragiono del loro numero d'estrazione dovrebbero appartenere i surroganti.   
+  
+Art. 78. Gli inscritti che risultino di debole costituzione od affetti da infermita' presunte sanabili col tempo sono rimandati alla sessione completiva della loro leva, e se in questa si riconoscano persistenti gli stessi motivi, sono rimandati alla prima ventura leva, e da questa, occorrendo, alla leva successiva, al qual tempo risultando tuttavia inabili sono riformati.   
+  
+Art. 80. Gli inscritti che abbiano o che superino la statura di un metro e cinquantaquattro centimetri, ma non raggiungano quella di un metro e centimetri cinquantasei, sono rimandati alla prima ventura leva, e da questa, occorrendo, alla leva successiva, e non avendola neppure in quel tempo raggiunta, debbono essere riformati dal Consiglio.   
+  
+Art. 82. Gli inscritti di cui all'articolo precedente, qualora siano idonei, devono presentarsi al Consiglio di leva prima che proceda alla chiusura delle sue operazioni.   
+  
+Quando siano dichiarati inabili, sono rimandati alla prima ventura leva, con obbligo di presentarsi all'esame del Consiglio, a meno che non siano affetti da taluna deformita' di cui all'articolo 47, nel qual caso il Consiglio potra' pronunziarne la riforma con le norme stabilite dal regolamento.   
+  
+Art. 86. Va esente dal servizio di prima e di seconda categoria ed e' assegnato alla terza l'inscritto che nel giorno stabilito pel suo arruolamento si trovi in una delle seguenti condizioni:   
+  
+1. Unico figlio di padre vivente;   
+  
+2. Figlio primogenito di padre che non abbia altro figlio maggiore di 12 anni o di padre entrato nel 70° anno di eta';   
+  
+3. Unico figlio o figlio primogenito di madre tuttora vedova;   
+  
+4. Nipote unico o primogenito di avolo entrato nel 70° anno di eta' e che non ha figli maschi;   
+  
+5. Nipote unico o primogenito di avola tuttora vedova e che non ha figli maschi;   
+  
+6. Primogenito di orfani di padre e madre od unico fratello di orfane nubili di padre e madre;   
+  
+7. Il maggiore nato di orfani di padre e madre se il primogenito suo fratello consanguineo si trovi in alcune delle condizioni prevedute dai numeri 1, 2 e 3 dell'art. 93;   
+  
+8. L'ultimo nato di orfani di padre e madre quando i fratelli e le sorelle maggiori si trovino in alcuna delle condizioni di cui al numero antecedente;   
+  
+9. Inscritto in una stessa lista di leva con un fratello nato nello stesso anno quando il fratello abbia estratto un numero minore e sia in condizione di prendere il servizio militare, salvo che all'uno fra costoro competa l'esenzione per altro titolo.   
+  
+Le esenzioni di cui ai numeri 1, 2, 3, 4, 5, 6, 7 e 8 devono essere richieste con atto autentico dai membri della famiglia, a favore dei quali e' accordata l'esenzione.   
+  
+I diritti per l'assegnazione alla terza categoria stabiliti dal presente articolo e dai successivi, e che non siano stati esposti dagli inscritti nel giorno del loro arruolamento, potranno tuttavia essere validamente invocati e comprovati avanti al Consiglio di leva sino alla chiusura della sessione completiva della leva alla quale essi concorrono.   
+  
+Art. 87. E' parimente esente dal servizio di prima e di seconda categoria ed e' assegnato alla terza l'inscritto che abbia un fratello consanguineo al servizio militare dello Stato, purche' quest'ultimo:   
+  
+1. Non sia ascritto alla seconda od alla terza categoria;   
+  
+2. Non risulti servire nella qualita' di volontario nel caso previsto dall'art. 115;   
+  
+3. Non sia arruolato nel corpo Reale equipaggi per leva straordinaria in tempo di pace.   
+  
+Art. 89. Le esenzioni dal servizio di 1ª e di 2ª categoria, di cui nei precedenti articoli 87 e 88, possono essere applicate nella stessa famiglia ad altrettanti inscritti, quanti sono i fratelli loro che si trovino nei casi ivi specificati, sotto deduzione delle esenzioni accordate, benche' per altro titolo, a fratelli viventi, la cui classe di leva e' tuttora obbligata al servizio militare.   
+  
+Art. 95. Il militare di 2ª categoria non procaccia al fratello il diritto all'esenzione dal servizio di 1ª o di 2ª categoria, ma egli stesso, in tempo di pace, fa passaggio alla 3ª, tostoche' il fratello arruolato nella 1ª o nella 2ª categoria sia definitivamente riconosciuto idoneo al militare servizio, o al corpo, o nel modo stabilito dal regolamento.   
+  
+In questo caso il passaggio alla 3ª categoria da lui ottenuto equivale all'assegnazione alla categoria stessa per l'applicazione dell'articolo 87.   
+  
+Art. 96. Il sottufficiale, caporale o soldato ascritto all'esercito ha diritto in tempo di pace al passaggio alla 3ª categoria, quando, posteriormente al suo arruolamento per modificazioni sopraggiunte nello stato di famiglia, anche a mente dell'articolo 93, sia egli venuto a trovarsi in uno di quei casi pei quali al momento della leva avrebbe avuto diritto alla assegnazione alla terza categoria, purche' pero' non abbia procurato l'esenzione dal servizio di prima e di seconda categoria ad un fratello tuttora vivente.   
+  
+Il passaggio alla 3ª categoria deve essere richiesto con atto autentico dai membri della famiglia a favore dei quali e' accordato.   
+  
+Il passaggio alla 3ª categoria ottenuto dal militare equivale ad assegnazione alla categoria stessa per l'applicazione dell'articolo 87.   
+  
+Si riterra' come avvenuta dopo l'arruolamento la circostanza determinante il diritto che si verificasse tra il giorno fissato per l'arruolamento del militare dinanzi al Consiglio di leva e quello in cui e' stato effettivamente arruolato, quando per cause non ad esso imputabili non sia stato arruolato nel giorno stabilito per lo esame definitivo del suo mandamento, e venga poi arruolato durante le operazioni della leva stessa.   
+  
+Gli ufficiali di complemento che dopo la loro nomina ad ufficiale siano venuti a trovarsi per una delle circostanze anzidette in uno dei casi sopraccennati, possono ottenere di far passaggio col loro grado alla milizia territoriale.   
+  
+Art. 97. L'esercizio del diritto derivante dagli articoli 95 e 96 della legge e' sospeso per i militari in congedo illimitato, quando la rispettiva classe sia chiamata sotto le armi, sia per esercitazioni che per qualunque altra causa.   
+  
+Sono esclusi dall'ottenere il passaggio alla 3ª categoria, di cui all'articolo 96, i militari che risultino nelle circostanze definite dall'articolo 100.   
+  
+Art. 101. Il surrogato di fratello deve:   
+  
+1. Essere cittadino dello Stato;   
+  
+2. Aver compiuto il 18° anno d'eta' e non aver ancora concorso alla leva;   
+  
+3. Provare di essere inscritto sulle liste di leva, e quando per eta' non lo sia stato ancora, produrre l'atto autentico di nascita;   
+  
+4. Non essere ammogliato ne' vedovo con prole;   
+  
+5. Presentare l'attestazione di buona condotta;   
+  
+6. Non avere incorso in condanna a pena criminale o correzionale pronunziata dai Tribunali ordinari per furto, per truffa, per abuso di confidenza, per attentato al buon costume, per associazione di malfattori o per vagabondaggio;   
+  
+7. Essere idoneo al servizio militare.   
+  
+L'attestazione di buona condotta deve essere spedita dal sindaco del comune in cui il surrogato ha domicilio, ovvero da quelli dei vari comuni in cui abbia dimorato durante gli ultimi dodici mesi che hanno preceduta la surrogazione e vidimata dal prefetto o dal sottoprefetto del circondario.   
+  
+Art. 103. Le surrogazioni di fratello posteriori all'arruolamento seguono normalmente presso il corpo in cui trovasi arruolato il surrogante.   
+  
+Qualora il fratello surrogato non abbia l'attitudine speciale per quel corpo, il Ministro della Guerra determinera' in quale altro corpo od arma debba aver luogo la surrogazione.   
+  
+Art. 111. I cittadini dello Stato possono essere ammessi a contrarre volontario arruolamento in un corpo di truppa prima che abbia luogo l'estrazione a sorte della leva della propria classe e quando soddisfacciano alle seguenti condizioni:   
+  
+1. Abbiano compiuto il diciottesimo anno di eta';   
+  
+2. Non siano ammogliati ne' vedovi con prole;   
+  
+3. Abbiano attitudine fisica a percorrere la ferma in servizio effettivo nel corpo in cui chiedono di essere arruolati;   
+  
+4. Non abbiano incorso in condanna a pena criminale o correzionale pronunziata dai Tribunali ordinari per furto, per truffa, per abuso di confidenza, per attentato al buon costume, per associazione di malfattori o per vagabondaggio;   
+  
+5. Producano l'attestazione di buona condotta di cui all'articolo 101;   
+  
+6. Facciano risultare dal consenso avuto dal padre, od in mancanza di esso dalla madre, ovvero in mancanza di entrambi dal tutore autorizzato dal consiglio di famiglia;   
+  
+7. Sappiano leggere e scrivere.   
+  
+I militari che domandino di essere ammessi nell'arma dei carabinieri Reali non devono avere oltrepassata l'eta' di 26 anni, se appartenenti alla 2ª o alla 3ª categoria, e l'eta' di anni 35 se provenienti dalla 1ª categoria.   
+  
+I giovani riformati alla leva possono essere ammessi all'arruolamento volontario, purche' sia cessata la causa che diede luogo alla riforma, e qualora non oltrepassino il 26° anno di eta', o il 32° se chiedono di arruolarsi nel personale di governo degli stabilimenti militari di pena, ossivvero come musicanti, maniscalchi, o vivandieri.   
+  
+I giovani ammessi negli Istituti militari possono essere arruolati compiuto il diciassettesimo anno di eta'.   
+  
+Art. 115. In tempo di guerra gli arruolamenti volontari possono anche essere contratti per la sola durata di essa, ed alla condizione soltanto di cui al n. 1 dell'art. 111. Potranno anche essere ammessi a prestar servizio, nelle suindicate condizioni, nei corpi dell'esercito permanente i militari di seconda e quelli di terza categoria appartenenti a classi tuttora in congedo illimitato.   
+  
+Art. 116. Oltre l'arruolamento volontario, di cui nei precedenti articoli, e' ammesso uno speciale arruolamento per la ferma temporanea, coll'obbligo di un solo anno di permanenza sotto le armi.   
+  
+Siffatto arruolamento puo' essere contratto nei vari corpi delle armi di fanteria, di cavalleria, di artiglieria, del genio e nelle compagnie di sanita' e di sussistenza.   
+  
+Per essere ammesso a questo arruolamento speciale il giovane deve avere compiuto il diciassettesimo anno di eta', e soddisfare alle condizioni espresse nei numeri 3, 4, 5 e 6 dell'articolo 111, ed inoltre:   
+  
+1. Dimostrare, con appositi esami, disposti dal Ministro della Guerra, di aver fatto con successo gli studi completi delle scuole elementari superiori;   
+  
+2. Pagare alla Cassa militare la somma che sara' ogni anno determinata con decreto Reale. Tale somma non potra' sorpassare lire 2000 per i volontari che prenderanno servizio nell'arma di cavalleria, e lire 1500 per gli altri.   
+  
+Art. 120. Gli studenti delle Universita' o degli Istituti assimilati, i quali pel numero estratto a sorte siano arruolati nella prima categoria, possono ottenere dal Ministro della Guerra che in tempo di pace sia ritardata la loro chiamata sotto le armi fino al 26° anno di eta'.   
+  
+Cessa per essi l'ottenuto benefizio compiuta che abbiano questa eta' od anche prima se abbiano terminato il corso degli studi intrapresi, ovvero non li continuino; eppero' sono obbligati ad imprendere il servizio militare con gli uomini di prima categoria della prima classe che sara' chiamata sotto le armi.   
+  
+Art. 121. Gli inscritti i quali precedentemente alla leva della loro classe siansi arruolati volontariamente nell'esercito o nell'armata di mare, o vi servano in virtu' di Regio decreto, sono considerati aver soddisfatto all'obbligo di leva e calcolati numericamente in deduzione del contingente di 1ª categoria del rispettivo mandamento.   
+  
+Spetta ai medesimi in ogni caso di compiere la ferma e gli altri obblighi di servizio prescritti dalle leggi; e qualora gli ufficiali dell'esercito permanente dispensati dalla effettivita' di servizio per dimissione volontaria non abbiano servito almeno due anni colla qualita' d'ufficiale o come militare di truppa, dovranno prestare un altr'anno di servizio come militare di truppa, compiuto il quale, saranno inscritti nel ruolo degli ufficiali di complemento.   
+  
+Art. 124. Contraggono la ferma permanente i capi armaiuoli, i musicanti e gli uomini di governo degli stabilimenti militari di pena ed i carabinieri Reali che siano promossi al grado di vicebrigadiere.   
+  
+Contraggono la ferma temporanea di nove anni gli uomini di prima categoria assegnati alla cavalleria, e coloro che si arruolano nell'arma dei carabinieri Reali; quella di 12 anni gli uomini di prima categoria destinati agli altri corpi dell'esercito.   
+  
+Art. 125. In tempo di pace gli uomini di prima categoria, che si arruolano nei carabinieri Reali, passano sotto le armi cinque anni; quelli assegnati alla cavalleria, quattro anni; quelli ascritti agli altri corpi, tre anni; i rimanenti anni sono passati in congedo illimitato.   
+  
+La chiamata sotto le armi dei militari di 1ª categoria deve aver luogo non piu' tardi del principio di gennaio di ciascun anno.   
+  
+Per una parte del contingente di 1ª categoria, da determinarsi nella legge annua di leva, la durata del servizio sotto le armi puo' essere limitata a due anni, in base al numero di estrazione a sorte.   
+  
+E' inoltre in facolta' del Ministro della Guerra:   
+  
+a) Di anticipare l'invio in congedo illimitato della classe anziana, dopo il compimento dell'ultimo periodo d'istruzione, tranne per l'artiglieria da campagna, in cui parte della classe anziana potra' essere congedata in principio del terzo periodo;   
+  
+b) D'inviare in congedo illimitato per anticipazione, dopo il secondo periodo d'istruzione, parte della classe destinata ad un servizio di tre anni.   
+  
+Art. 126. Gl'inscritti annoverati alla 2ª categoria sono obbligati al servizio militare nell'esercito permanente e nella milizia mobile per 12 anni, decorrenti dal 1° gennaio dell'anno in cui gli uomini della classe di leva alla quale appartengono compiono il 21° anno di eta'.   
+  
+In tempo di pace normalmente rimangono in congedo illimitato.   
+  
+Art. 128. I carabinieri Reali provenienti da un'altra arma, qualora avessero gia' prestato uno o piu' anni di servizio effettivo, dovranno passarne altri quattro nel corpo dei RR. carabinieri.   
+  
+Gli armaiuoli nell'essere ascritti ad un reggimento o corpo in qualita' di capiarmaiuoli, dovranno contrarre la ferma permanente, la quale cominciera' dal giorno dell'ammessione in tale qualita', cessando pero' l'obbligo di terminare quella in corso.   
+  
+Art. 129. I militari di 1ª categoria, nei tre o quattro ultimi anni della loro ferma temporanea, fanno passaggio alla milizia mobile, ad eccezione di quelli appartenenti ai RR. carabinieri, alla cavalleria, alle compagnie operai, i quali rimangono ascritti ai corpi dell'esercito permanente fino al termine della loro ferma.   
+  
+Fanno parimente passaggio alla milizia mobile gli uomini di 2ª categoria dopo 8 anni del loro obbligo al servizio, di cui nello articolo 126.   
+  
+Art. 130. Non e' computato nella ferma il tempo percorso dal militare in istato di diserzione, o scontando la pena inflittagli da Tribunali militari o da magistrati ordinari, ne' quello passato in aspettazione di giudizio, se questo fu seguito da condanna, ne' il tempo scorso a titolo di punizione in un corpo disciplinare.   
+  
+Nei casi di interruzione del servizio di cui sopra i militari con ferma permanente dovranno prestare sotto le armi tanto tempo di servizio quanto occorre per compiere la ferma intrapresa, ed i militari con ferma temporanea saranno trasferti di classe, computando come un anno intiero le frazioni di anno superiori a 5 mesi.   
+  
+Art. 131. I militari dell'esercito permanente e della milizia mobile in congedo illimitato, si' di 1ª che di 2ª categoria, possono con decreto Reale essere chiamati sotto le armi in totalita' ovvero in parte, per classi, per categoria, per arma o per corpo o per distretto militare, tanto per l'istruzione loro, quanto per rassegne o per eventualita' quando il Governo lo giudichi opportuno.   
+  
+Dovranno pero' ogni anno essere chiamati sotto le armi, per un periodo non maggiore di un mese, i militari ascritti alla 1ª categoria di una o piu' classi che si trovano in congedo illimitato od almeno quelli di essa che sono ascritti all'arma di fanteria ed all'artiglieria da campagna.   
+  
+Dovranno anche ogni anno essere chiamati per ricevere l'istruzione i militari della 1ª parte di 2ª categoria di una classe per un periodo di tempo da due a sei mesi, ripartibili in uno o piu' anni, ed i militari della 2ª parte della stessa 2ª categoria, per una durata non minore di quella istruzione che sara' data ai militari di 3ª categoria.   
+  
+Sono dispensati dalle chiamate di cui sopra i militari di 1ª e di 2ª categoria che trovansi in attivita' di servizio nelle guardie di finanza, nelle guardie di pubblica sicurezza o nelle guardie carcerarie.   
+  
+Art. 133. Terminata la ferma, i sottufficiali, caporali e soldati saranno passati alla milizia territoriale, a meno che non siano ammessi a contrarre la rafferma, ove si trovino nel caso previsto dall'articolo 137.   
+  
+I sottufficiali pero' vincolati con ferma permanente, prima di far passaggio da questa alla milizia territoriale, resteranno in congedo illimitato ascritti per due anni alla classe di 1ª categoria che passera' alla milizia mobile al termine dell'anno in cui cessano dal servizio sotto le armi.   
+  
+I sottufficiali dell'arma di cavalleria continuano a rimanere per due anni in congedo illimitato ascritti al treno.   
+  
+Qualora i sottufficiali, caporali e soldati abbiano gia' fatto passaggio alla milizia territoriale, non potranno piu' essere riammessi nell'esercito permanente se oltrepassano il trentesimoquinto anno di eta', se l'intervallo di tempo in cui fecero il suddetto passaggio e' maggiore di due anni, e se non contraggono una intera ferma per l'arma a cui si destinano.   
+  
+Faranno parimente passaggio alla milizia territoriale gli uomini di 2ª categoria dopo aver percorso nell'esercito permanente e nella milizia mobile il tempo determinato dall'art. 126.   
+  
+E' fatta facolta' al Ministro della Guerra di ritardare il passaggio alla milizia territoriale dei militari con ferma temporanea fino al 1° del mese di luglio successivo all'anno in cui compiono la ferma stessa.   
+  
+Art. 135. Il diritto di essere inviato in congedo illimitato e di ottenere il passaggio alla milizia mobile o territoriale, od il congedo assoluto, e' sospeso appena emanato l'ordine di mobilitazione.   
+  
+Art. 136. La rafferma e' della durata di un anno o di tre anni: la prima senza premio; la seconda con premio; l'una e l'altra sono concesse dal Ministro della Guerra.   
+  
+Art. 137. Alla rafferma senza premio possono essere ammessi i militari che hanno compiuta la ferma permanente.   
+  
+Alla rafferma con premio possono aspirare, purche' soddisfacciano alle condizioni di idoneita' fisica, di buona condotta e di istruzione, determinate da Regio decreto:   
+  
+1. I sottufficiali, caporali e soldati che abbiano compiuta la ferma permanente e non abbiano oltrepassata l'eta' di 36 anni;   
+  
+2. I carabinieri Reali, siano o non graduati, e qualunque sia la loro provenienza, che abbiano compiuti cinque anni di servizio sotto le armi e non abbiano oltrepassata l'eta' di 40 anni.   
+  
+Art. 138. Sempreche' riuniscano i requisiti di cui nell'articolo precedente, possono essere ammessi:   
+  
+1. A tre successive rafferme con premio i carabinieri Reali, siano o no graduati, ed i sottufficiali di tutte le altre armi, eccettuati i veterani e gli invalidi;   
+  
+2. A due rafferme con premio i caporali ed appuntati delle compagnie di disciplina e degli stabilimenti militari di pena, i caporali delle compagnie di sussistenza ed i manescalchi;   
+  
+3. Ad una rafferma con premio i soldati musicanti, trombettieri e sellai, non che gli appuntati e soldati delle compagnie di sussistenza.   
+  
+Compiuta una o piu' rafferme con premio, i carabinieri Reali ed i sottufficiali delle varie armi possono ottenere di continuare il servizio sotto le armi mediante successive rafferme di un anno senza premio.   
+  
+I sottufficiali delle varie armi che contino 12 anni di servizio effettivo e riuniscano le condizioni per essere nominati scrivani locali, possono rimanere sotto le armi con successive rafferme di un anno finche' possa avere luogo la loro nomina a scrivano locale ed essere cosi' in grado di concorrere agli impieghi di ufficiale d'ordine delle varie Amministrazioni dello Stato, secondo il diritto loro accordato dalla [legge 22 luglio 1881, n. 341](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1881-07-22;341). La rafferma in corso s'intendera' cessata il giorno stesso della loro nomina a scrivano locale.   
+  
+Art. 139. E' fatta facolta' al Ministro della Guerra di anticipare il godimento del premio di rafferma ai militari di cui al numero 1 dell'art. 137, facendolo incominciare dopo soli 6 anni passati sotto le armi, quando i mezzi della Cassa militare lo consentano e sempreche' fin da quel momento il militare si obblighi ad una rafferma di tre anni da percorrersi sotto le armi una volta ultimata la sua ferma d'obbligo.   
+  
+Art. 140. Il premio di ogni rafferma e' di lire 150 annue.   
+  
+Finche' rimane sotto le armi, sempre pero' appartenendo alla truppa, il militare raffermato godra' di altrettanti di questi premi quanto sono le rafferme contratte.   
+  
+I premi di rafferma sono pagati dalla Cassa militare.   
+  
+Finche' il militare raffermato rimane vincolato al servizio sotto le armi, il premio annuo di rafferma ed il capitale di cui allo articolo seguente non possono cedersi ne' sequestrarsi; eccetto il caso di debito verso lo Stato che sia dipendente dall'esercizio delle funzioni del militare o per causa di alimenti dovuti per legge.   
+  
+Art. 141. Il militare raffermato con premio che cessi dal servizio sotto le armi, venga promosso ufficiale o passato nel corpo invalidi e veterani dopo aver compiuto una o piu' rafferme con premio, ricevera' dalla Cassa militare un capitale in cartelle del Debito Pubblico, 5 per cento, la cui rendita sara' uguale ai quattro quinti dei premi di rafferma che percepiva.   
+  
+E' pero' data facolta' al Ministro della Guerra di concedere per gravi motivi al raffermato con premio che continui a rimanere sotto le armi la meta' o l'intiero capitale della rafferma o delle rafferme compiute. In questi casi cessa il diritto alla meta' od alla totalita' del premio annuale di cui all'articolo precedente.   
+  
+Art. 144. Perdono i benefizi inerenti alla rafferma in corso i militari che siano retrocessi di grado, assegnati alla classe di punizione, passati alle compagnie di disciplina, che si rendano disertori, che contraggano matrimonio senza autorizzazione, o che incorrano in condanne a pene criminali dai Tribunali ordinari od in qualunque condanna dai Tribunali militari. La retrocessione dal grado, l'assegnazione alla classe di punizione e il passaggio alle compagnie di disciplina devono essere preceduti da parere di una Commissione di disciplina.   
+  
+Perdono egualmente questi benefizi, in seguito a deliberazione di una Commissione di disciplina, i militari che abbiano cattiva condotta o commettano grave mancanza, o abbiano perduta la speciale qualita' per la quale ottennero la rafferma.   
+  
+In ciascuno dei casi preaccennati, il militare rimane sciolto dal solo obbligo di servizio sotto le armi contratto colla rafferma, rimanendogli pero' illesi i diritti, ove ne abbia, alla capitalizzazione dei premi delle rafferme con premio antecedenti.  
+Questi diritti gli vengono sospesi qualora egli si renda disertore, sia condannato a pena criminale, al carcere o alla reclusione militare, e non ne rientra in possesso, che dopo scontata la pena che gli fu inflitta.   
+  
+Pei carabinieri Reali la perdita del grado non trae seco come necessaria conseguenza la perdita della rafferma con premio, a meno che non venga pronunciata dalla Commissione di disciplina.   
+  
+Art. 146. Un caposaldo o premio speciale di annue lire 150 sara' corrisposto dalla Cassa militare ai sottufficiali con ferma permanente, eccettuati i sottufficiali musicanti ed armaiuoli e quelli del corpo invalidi e veterani.   
+  
+Art. 147. Questo caposaldo decorrera' dal giorno della promozione a sottufficiale e durera' sino a che il sottufficiale presti, come tale, servizio sotto le armi o non faccia passaggio in una delle posizioni menzionate nell'articolo precedente, o nel corpo invalidi e veterani.   
+  
+Art. 159. I renitenti arrestati sono puniti col carcere da uno a due anni; quelli che si presentano spontanei prima della scadenza di un anno, dal giorno della dichiarazione di renitenza, incorrono nella pena del carcere da due a sei mesi; e coloro che si presentano spontanei dopo questo limite di tempo vanno soggetti alla stessa pena del carcere da sei mesi ad un anno.   
+  
+I renitenti arrestati, giudicati inabili al servizio militare, sono puniti col carcere da un mese ad un anno. Sono puniti col carcere da uno a sei mesi se presentati spontaneamente dopo un anno dalla dichiarazione di renitenza; e col carcere estensibile a tre mesi se presentati spontaneamente infra l'anno.   
+  
+Le pene in questo articolo stabilite sono portate al doppio in tempo di guerra.   
+  
+Art. 160. I renitenti assolti e quelli che scontarono la pena a cui furono condannati sono esaminati dal Consiglio di leva, e qualora siano riconosciuti idonei al servizio sono arruolati ed assegnati alla categoria che per la sorte del numero sarebbe ad essi spettata al tempo della leva, e se alla 1ª, sono avviati subito sotto le armi.   
+  
+Qualora al tempo della loro leva avessero avuto diritto alla esenzione dal servizio di 1ª e di 2ª categoria, possono anche ottenere di essere assegnati alla 3ª categoria, purche' pero' non vi si opponga il fatto di altre esenzioni godute da fratelli, durante la loro renitenza.   
+  
+I renitenti condannati non godono il beneficio di poter essere assegnati alla 3ª categoria se non si trovano piu' nelle condizioni che sussistevano all'epoca della leva.   
+  
+Ove siano riconosciuti inabili al servizio militare, sono riformati.   
+  
+Art. 170. L'obbligo di servizio nella milizia mobile stabilito pei sottufficiali in congedo illimitato a senso dell'articolo 133, e' applicato ai sottufficiali che si trovino sotto le armi il primo luglio 1882.   
+  
+Il disposto dell'articolo 126 e quello del 2° capoverso dell'articolo 129 della presente legge e' applicato ai militari di 2ª categoria delle classi ascritte al 1° luglio 1882 all'esercito permanente; ed il disposto dell'articolo 126 e' applicato anche alle classi di 2ª categoria, ascritte alla data stessa alla milizia mobile, della quale continueranno a far parte fino al termine dell'obbligo di servizio dall'articolo stesso 126 stabilito.   
+  
+La riduzione del servizio sotto le armi a quattro anni per la cavalleria, stabilita dall'articolo 125 della presente legge, e' applicabile soltanto a coloro che vi saranno ascritti dopo la pubblicazione della presente legge.   
+  
+Art. 173. I militari riassoldati con premio che, terminata la ferma contratta, cessino dal servizio sotto le armi, o vengano promossi ufficiali, o passino nel corpo invalidi e veterani, rinunziando alla pensione vitalizia cui hanno diritto, riceveranno dalla Cassa militare un capitale in cartelle del Debito Pubblico 5 per cento, la cui rendita sia eguale ai due terzi della pensione stessa.   
+  
+La Cassa militare continuera' a provvedere al pagamento dei premi dei riassoldati secondo le [leggi del 7 luglio 1866, n. 3062, e del 6 febbraio 1872, n. 664](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1872-02-06;664), alle pensioni vitalizie, ovvero alla loro capitalizzazione.   
+  
+La disposizione contenuta nell'ultimo capoverso dell'art. 140 circa il divieto di cessione o di sequestro del premio dei riaffermati e' estesa ai riassoldati.   
+  
+E' pure esteso ai militari che, compiuta la ferma di riassoldato con premio, rimasero sotto le armi, il disposto dell'ultimo alinea dell'art. 141.   
+  
+Art. 174. Il caposoldo di cui all'art. 146 non puo' essere concesso a coloro che gia' godono del soprassoldo o della pensione di riassoldato con premio o di interesse di cartella di credito come assoldati, eccezione fatta per i sottufficiali dei carabinieri Reali.»   
+  
+
+Art. 2
+------
+
+  
+  
+L'articolo 50 del testo unico delle leggi sul reclutamento dell'esercito, approvato con [R. decreto del 26 luglio 1876, n. 3260](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1876-07-26;3260) (Serie 2ª), e' abrogato.   
+  
+
+Art. 3
+------
+
+  
+  
+Il Governo del Re e' autorizzato a pubblicare di nuovo il testo unico delle leggi sul reclutamento dell'esercito, coordinandolo con le disposizioni e modificazioni introdotte con la presente legge.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 29 giugno 1882.   
+  
+UMBERTO.   
+  
+Ferrero.   
+  
+Visto, il Guardasigilli: G. Zanardelli.   
+  

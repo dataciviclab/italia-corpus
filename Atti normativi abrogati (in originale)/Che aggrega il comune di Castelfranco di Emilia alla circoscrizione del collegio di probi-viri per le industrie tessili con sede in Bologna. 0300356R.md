@@ -1,0 +1,54 @@
+REGIO DECRETO 18 giugno 1903 n. CCCLVI
+
+
+REGIO DECRETO 18 giugno 1903 n. CCCLVI
+======================================
+
+Che aggrega il comune di Castelfranco di Emilia alla circoscrizione del collegio di probi-viri per le industrie tessili con sede in Bologna. (0300356R)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/10/1903
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduta la [legge del 15 giugno 1893, n. 295](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1893-06-15;295), sui collegi di probi-viri per le industrie;   
+  
+Veduto il regolamento per la esecuzione della legge stessa, approvato con [regio decreto 26 aprile 1894, n. 179](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1894-04-26;179);   
+  
+Veduto il regio decreto del 2 luglio 1896, n. CCXLVII, col quale fu istituito un collegio di probi-viri per le industrie tessili, con sede in Bologna, e giurisdizione nel comune stesso e su quelli di Casalecchio di Reno, Grizzana e Marzabotto;   
+  
+Visto il voto espresso dal comune di Castelfranco dell'Emilia che sia ad esso estesa la giurisdizione del detto collegio;   
+  
+Sentito l'avviso degli enti interessati, giusta l'art. 2 della legge predetta;   
+  
+Sulla proposta dei Nostri ministri segretari di Stato per la grazia, la giustizia e i culti e per l'agricoltura, l'industria e il commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+Il comune di Castelfranco dell'Emilia e' aggiunto alla circoscrizione del collegio di probi-viri per le industrie tessili con sede in Bologna, stabilita con regio decreto del 2 luglio 1896, n. CCXLVII.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 18 giugno 1903.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 18 settembre 1903.   
+  
+Reg. 12. Atti del Governo a f. 120. Pacini.   
+  
+Luogo del Sigillo. V. Il Guardasigilli F. COCCO-ORTU.   
+  
+G. Baccelli.   
+F. Cocco-Ortu.   
+  

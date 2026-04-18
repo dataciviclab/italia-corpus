@@ -1,0 +1,61 @@
+REGIO DECRETO 30 gennaio 1890 n. 6648
+
+
+REGIO DECRETO 30 gennaio 1890 n. 6648
+=====================================
+
+Che all'art. 18 del regolamento 28 febbraio 1886 sui consorzi d'irrigazione ne sostituisce un altro. (090U6648)
+---------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/03/1890
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il nostro decreto del 28 febbraio 1886, n. 3733 (Serie 3ª), con il quale e' stato approvato il regolamento per l'esecuzione delle due leggi riunite e coordinate in un testo unico, di quella del 25 dicembre 1883, n. 1790 (Serie 3ª) e dell'altra del 28 febbraio 1886, n. 3731 (Serie 3ª) sui consorzi d'irrigazione;   
+  
+Udito l'avviso del Consiglio di Stato;   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Sulla proposta dei Nostri Ministri dell'Agricoltura, Industria e Commercio, del Tesoro e dei Lavori Pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Articolo unico.   
+  
+All'art. 18 del regolamento 28 febbraio 1886 che da' esecuzione alla legge, testo unico, del 28 febbraio 1886, sui consorzi d'irrigazione, e' sostituito il seguente.   
+  
+Art. 18.   
+  
+Dalle decisioni della suddetta Commissione potra' ricorrersi in appello entro 60 giorni dalla data della notificazione delle decisioni medesime a domicilio dell'interessato, ad un'altra Commissione costituita da un deputato provinciale, dal presidente di uno dei comizi agrari della provincia, dall'ingegnere capo del Genio civile, dall'ingegnere capo dell'ufficio tecnico provinciale e dall'ingegnere capo dell'ufficio tecnico di finanza;   
+  
+La nomina del deputato provinciale e' fatta dalla deputazione provinciale, quella del presidente di uno dei Comizi agrari della provincia, dal prefetto; e qualora il territorio del consorzio si estenda al perimetro di due o piu' provincie, e' riservata al Ministero di Agricoltura e Commercio, sulle proposte relative delle deputazioni e dei prefetti, la nomina del deputato provinciale e del presidente del comizio agrario.   
+  
+Questa Commissione terra' le sue adunanze presso l'ufficio di prefettura.   
+  
+I ricorsi contro le decisioni della Commissione promotrice del consorzio saranno inviati al prefetto, il quale fissera' le adunanze della Commissione.   
+  
+Questa decidera', richiamati a se' i reclami presentati dai ricorrenti, e contro il suo giudizio, ove pure sia di conferma di quello di prima istanza, sara' ancora aperto l'adito di ricorrere, entro un mese dalla data della notificazione all'interessato della decisione della Commissione di appello, al Ministero di Agricoltura, il quale risolvera' in via amministrativa la questione.   
+  
+Le decisioni della Commissione saranno comunicate agli interessati a cura del presidente della Commissione e per mezzo dell'ufficio di prefettura.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 gennaio 1890.   
+  
+UMBERTO.   
+  
+L. Miceli.   
+Giolitti.   
+G. Finali.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

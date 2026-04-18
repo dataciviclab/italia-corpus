@@ -1,0 +1,45 @@
+REGIO DECRETO 24 gennaio 1929 n. 178
+
+
+REGIO DECRETO 24 gennaio 1929 n. 178
+====================================
+
+Autorizzazione al comune di Cazzimani a modificare la propria denominazione in «Borgo Littorio». (029U0178)
+-----------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 15/03/1929
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduta la domanda in data 31 agosto 1928 con cui il podesta' di Cazzimani, in esecuzione della propria deliberazione 11 giugno 1928, chiede l'autorizzazione a modificare la denominazione del comune in «Borgo Littorio»;   
+  
+Veduto il parere favorevole espresso dal commissario straordinario per la provvisoria amministrazione della provincia di Milano con la deliberazione 21 novembre 1928, adottata coi poteri del Consiglio;   
+  
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli fari dell'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il comune di Cazzimani, in provincia di Milano, e' autorizzato a modificare la propria denominazione in «Borgo Littorio».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 24 gennaio 1929 - Anno VII   
+  
+VITTORIO EMANUELE.   
+  
+Mussolini.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 23 febbraio 1929 - Anno VII   
+  
+Atti del Governo, registro 281, foglio 175. - Sirovich.   
+  

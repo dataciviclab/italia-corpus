@@ -1,0 +1,23 @@
+REGIO DECRETO 31 gennaio 1915 n. 154
+
+
+REGIO DECRETO 31 gennaio 1915 n. 154
+====================================
+
+Trasformazione di patrimoni pii a scopo elemosiniero. (015U0154)
+----------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/03/1915
+
+Art. 1
+------
+
+  
+N.154   
+  
+Regio Decreto 31 gennaio 1915, col quale, sulla proposta del ministro dell' intorno:   
+  
+a) il fine inerente al patrimonio delle confraternite di Cerreto di Spoleto denominate Confraternite riunite del Sacramento, del Rosario e del Purgatorio della frazione Rocchetta , del Sacramento e del Suffragio in Borgo Cerreto, del Sacramento e del Rosario in Nartosce ; della Misericordia, del Sacramento e Rosario in Cerreto, del Sacramento in Triponzo ; del Sacramento in Ponte ; del SS. Rosario in Ponte ; della Concezione in Cerreto e' trasformato a favore dei malati poveri a domicilio e degli individui temporaneamente inabili al lavoro;   
+  
+b) i patrimoni predetti sono concentrati nella congregazione di carita' del luogo.   
+  

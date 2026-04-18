@@ -1,0 +1,41 @@
+REGIO DECRETO 16 giugno 1921 n. 970
+
+
+REGIO DECRETO 16 giugno 1921 n. 970
+===================================
+
+Che ripristina le disposizioni, gia' temporaneamente sospese, degli articoli 19, 20, 22 e 23 del regolamento 5 agosto 1920 n. 1256, circa il decentramento di alcune attribuzioni dell'Amministrazione della istruzione pubblica, relative alle scuole medie e normali. (021U0970)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/08/1921
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il Nostro decreto 1° settembre 1920, n. 1469, che sospese per l'anno scolastico 1920-921, l'applicazione degli articoli 19, 20, 22 e 23 del regolamento approvato con Nostro decreto 5 agosto 1920, n. 1256, contenente il decentramento di alcune attribuzioni dell'Amministrazione dell'istruzione relative alle scuole medie e normali;   
+  
+Udito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+E' abrogato il Nostro decreto 1° settembre 1920, numero 1469, a decorrere dal 1° luglio 1921, e dalla stessa data hanno pieno vigore gli articoli 19, 20, 22 e 23 del regolamento approvato con Nostro decreto 5 agosto 1920, n. 1256.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 giugno 1921.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti - Croce.   
+  
+Visto, Il guardasigilli: Rodino'.   
+  

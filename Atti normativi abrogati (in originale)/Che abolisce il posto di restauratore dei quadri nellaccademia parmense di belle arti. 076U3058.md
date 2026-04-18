@@ -1,0 +1,39 @@
+REGIO DECRETO 30 marzo 1876 n. 3058
+
+
+REGIO DECRETO 30 marzo 1876 n. 3058
+===================================
+
+Che abolisce il posto di restauratore dei quadri nell'accademia parmense di belle arti. (076U3058)
+--------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/04/1876
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE II   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Veduto il Nostro decreto del 22 novembre 1868, n. 4727, concernente il ruolo dell'Accademia di Belle Arti di Parma;   
+  
+Veduto l'altro decreto del 2 maggio 1875, che modifico' il ruolo anzidetto;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione,   
+  
+Abbiamo decretato e decretiamo:   
+  
+Nel ruolo normale dell'Accademia di Belle Arti di Parma e' soppresso il posto di ristauratore dei quadri, collo stipendio annuo di lire milledugento.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 marzo 1876.   
+  
+VITTORIO EMANUELE.   
+  
+M. Coppino.   
+  

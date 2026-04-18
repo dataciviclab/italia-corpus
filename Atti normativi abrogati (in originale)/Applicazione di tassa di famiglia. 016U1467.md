@@ -1,0 +1,19 @@
+DECRETO LUOGOTENENZIALE 12 ottobre 1916 n. 1467
+
+
+DECRETO LUOGOTENENZIALE 12 ottobre 1916 n. 1467
+===============================================
+
+Applicazione di tassa di famiglia. (016U1467)
+---------------------------------------------
+
+Entrata in vigore del provvedimento: 25/11/1916
+
+Art. 1
+------
+
+  
+N. 1467   
+  
+Decreto Luogotenenziale 12 ottobre 1916, col quale, sulla proposta del ministro delle finanze, e' data facolta' al comune di Catignano (Ascoli Piceno) di applicare pel triennio 1916-1918, la tassa di famiglia col limite massimo di L. 300.   
+  

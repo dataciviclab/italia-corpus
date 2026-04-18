@@ -1,0 +1,43 @@
+REGIO DECRETO 08 novembre 1889 n. 6459
+
+
+REGIO DECRETO 08 novembre 1889 n. 6459
+======================================
+
+Che convoca per il giorno 25 novembre il Senato del Regno e la Camera dei deputati. (089U6459)
+----------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 26/11/1889
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Visto il Nostro decreto in data 20 luglio 1889, col quale e' stata chiusa la Sessione legislativa 1888-89 del Senato del Regno e della Camera dei Deputati;   
+  
+Visti l'art. 9 dello Statuto fondamentale del Regno;   
+  
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli Affari dell'Interno;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il Senato del Regno e la Camera dei Deputati sono riconvovati per il giorno 25 novembre corrente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Monza, addi' 8 novembre 1889.   
+  
+UMBERTO.   
+  
+Crispi.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

@@ -1,0 +1,17 @@
+REGIO DECRETO 16 gennaio 1921 n. 104
+
+
+REGIO DECRETO 16 gennaio 1921 n. 104
+====================================
+
+Trasformazione di rendite di Confraternita. (021U0104)
+------------------------------------------------------
+
+Entrata in vigore del provvedimento: 10/03/1921
+
+Art. 1
+------
+
+N.
+
+101. Regio decreto 16 gennaio 1921, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, il fine inerente al patrimonio della Confraternita del SS. Sacramento di Mondolfo (Pesaro) e' trasformato nel senso che le rendite della Confraternita medesima, fatta eccezione per la somma di L. 35,34 annue, da erogare in doti, sono destinate a favore dell'Ospedale Bartolini al quale il detto patrimonio e' intieramente devoluto.

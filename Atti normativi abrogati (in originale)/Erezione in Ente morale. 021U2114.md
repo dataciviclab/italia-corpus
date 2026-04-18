@@ -1,0 +1,17 @@
+REGIO DECRETO 11 dicembre 1921 n. 2114
+
+
+REGIO DECRETO 11 dicembre 1921 n. 2114
+======================================
+
+Erezione in Ente morale. (021U2114)
+-----------------------------------
+
+Entrata in vigore del provvedimento: 17/03/1922
+
+Art. 1
+------
+
+N.
+
+2114. Regio decreto 11 dicembre 1921, col quale, sulla proposta del ministro per l'industria ed il commercio, l'Istituto autonomo per le case popolari della regione Bolume, in Biella, viene eretto in Ente morale ed approvato lo statuto organico relativo.

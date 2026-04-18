@@ -1,0 +1,29 @@
+REGIO DECRETO 09 maggio 1926 n. 859
+
+
+REGIO DECRETO 09 maggio 1926 n. 859
+===================================
+
+Modificazione agli assegni annui da corrispondersi ad alcuni ufficiali consolari in talune residenze all'estero. (026U0859)
+---------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/06/1926
+
+Art. 1
+------
+
+N.
+
+859. R. decreto 9 maggio 1926, col quale, sulla proposta del Ministro per gli affari esteri, gli assegni annui da corrispondersi agli ufficiali consolari, nelle residenze sottoindicate, vengono fissati come segue con la decorrenza per ciascuna indicata:   
+  
+Londra, console generale, L. 28,000 dal 1° marzo 1926;   
+  
+Valparaiso, console, L. 16,000 dal 1° febbraio 1926;   
+  
+Tiflis, console generale, L. 30,000 dal 1° luglio 1925;   
+  
+Monaco di Baviera, console generale, L. 28,000 dal 1° settembre 1925.   
+  
+Visto, il Guardasigilli: Rocco.   
+  
+Registrato alla Corte dei conti, addi' 29 maggio 1926.

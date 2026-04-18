@@ -1,0 +1,41 @@
+REGIO DECRETO 10 marzo 1895 n. 89
+
+
+REGIO DECRETO 10 marzo 1895 n. 89
+=================================
+
+Che destina presso l'Ambasciata Italiana in Costantinopoli un Console aggiunto per le funzioni giudiziarie. (095U0089)
+----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/04/1895
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la legge consolare 28 gennaio 1866, n. 2804;   
+  
+Visto il Nostro decreto 24 febbraio 1895;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari Esteri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Presso la Nostra Ambasciata in Costantinopoli e' destinato un Console aggiunto per le funzioni giudiziarie, coll'annuo assegno locale di lire ottomila.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 10 marzo 1895.   
+  
+UMBERTO.   
+  
+A. Blanc.   
+  
+Visto, Il Guardasigilli: V. Calenda Di Tavani.   
+  

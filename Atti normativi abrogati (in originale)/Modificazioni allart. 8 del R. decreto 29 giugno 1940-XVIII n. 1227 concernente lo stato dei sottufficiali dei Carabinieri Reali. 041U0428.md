@@ -1,0 +1,71 @@
+REGIO DECRETO 27 marzo 1941 n. 428
+
+
+REGIO DECRETO 27 marzo 1941 n. 428
+==================================
+
+Modificazioni all'art. 8 del R. decreto 29 giugno 1940-XVIII, n. 1227, concernente lo stato dei sottufficiali dei Carabinieri Reali. (041U0428)
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/06/1941
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il R. decreto 29 giugno 1940-XVIII, n. 1227, contenente norme esecutive per l'applicazione del Regio decreto-legge 26 luglio 1929-VII, n. 1413, che apporta modificazioni alle disposizioni riguardanti lo stato dei sottufficiali dell'arma dei Carabinieri Reali, convertito in legge con la legge 23 dicembre 1929-VII, n. 2294;
+
+Visto l'art. 1, n. 1, della legge 31 gennaio 1926-IV, numero 100;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per la guerra, di concerto col Ministro per le finanze;
+
+Vista
+-----
+
+la delega in data 23 febbraio 1941-XIX, rilasciata al Sottosegretariato di Stato per il Ministero delle finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+L'art. 8 del R. decreto 29 giugno 1940-XVIII, n. 1227, contenente norme esecutive per l'applicazione del R. decreto-legge 26 luglio 1929 VII, n. 1413, che apporta modificazioni alle disposizioni riguardanti lo stato dei sottufficiali dell'arma dei CC. RR., convertito in legge con la legge 23 dicembre 1929-VII, n. 2294, e' sostituito dal seguente:   
+  
+« I sottufficiali vengono trasferiti in servizio territoriale col proprio grado e ove rivestano grado inferiore a quello di maresciallo maggiore, possono conseguire l'avanzamento ai gradi superiori.   
+  
+« Per l'idoneita' all'avanzamento non e' necessario che il sottufficiale del servizio territoriale possegga l'incondizionata idoneita' fisica, purche' dalle competenti autorita' di avanzamento sia giudicato atto a disimpegnare le funzioni della carica alla quale e' adibito.   
+  
+« Le promozioni dei brigadieri avranno luogo quando verranno promossi ad anzianita' i pari grado che li seguivano immediatamente nel ruolo del servizio attivo. I marescialli d'alloggio ordinari saranno promossi al compimento del biennio di grado. I marescialli capi potranno essere promossi quando lo saranno stati i pari grado che immediatamente li seguivano nel ruolo del servizio attivo e sempre quando vi siano le necessarie vacanze nel ruolo dei marescialli maggiori in servizio territoriale.   
+  
+« Tali vacanze saranno ricoperte alternando due immissioni di marescialli maggiori del servizio attivo aspiranti al passaggio nel servizio territoriale ed una promozione di maresciallo capo del servizio territoriale medesimo in condizione di promovibilita'.   
+  
+« Nella posizione di servizio territoriale non e' ammesso l'avanzamento a scelta e i marescialli capi non sostengono esami per la promozione al grado superiore ».   
+  
+Il presente decreto ha effetto dal 10 settembre 1940-XVIII.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e al farlo osservare.   
+  
+Dato a Roma, addi' 27 marzo 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - LISSIA   
+  
+Visto:   
+  
+(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
+  
+MUSSOLINI   
+  
+Registrato alla Corte del conti, addi' 30 maggio 1941-XIX   
+  
+Atti del Governo, registro 433, foglio 126. - MANCINI   

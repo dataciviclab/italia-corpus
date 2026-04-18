@@ -1,0 +1,19 @@
+REGIO DECRETO 06 aprile 1913 n. 400
+
+
+REGIO DECRETO 06 aprile 1913 n. 400
+===================================
+
+Modificazioni e rettifiche di tabelle organiche di RR. scuole tecniche. (013U0400)
+----------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/05/1913
+
+Art. 1
+------
+
+  
+N. 400   
+  
+Regio Decreto 6 aprile 1913, col quale, sulla proposta del ministro dell'istruzione pubblica, d'accordo col ministro del tesoro, dal 1° ottobre 1912 al 30 settembre 1913, vengono apportate alcune modificazioni e rettifiche alle tabelle organiche delle RR. scuole tecniche approvate con R. decreto del 24 ottobre 1912.   
+  

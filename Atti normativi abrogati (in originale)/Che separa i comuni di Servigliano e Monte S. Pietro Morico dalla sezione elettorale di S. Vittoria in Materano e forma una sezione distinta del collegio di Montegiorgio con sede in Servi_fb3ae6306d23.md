@@ -1,0 +1,51 @@
+REGIO DECRETO 07 marzo 1880 n. 5326
+
+
+REGIO DECRETO 07 marzo 1880 n. 5326
+===================================
+
+Che separa i comuni di Servigliano, e Monte S. Pietro Morico dalla sezione elettorale di S. Vittoria in Materano e forma una sezione distinta del collegio di Montegiorgio con sede in Servigliano. (080U5326)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 11/04/1880
+
+UMBERTO I
+---------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduti gli articoli 63, 64, 65 e 66 della legge elettorale 17 dicembre 1860, n. 4513, e la tabella annessavi della circoscrizione territoriale dei Collegi elettorali;
+
+Vedute le istanze dei comuni di Servigliano e Monte San Pietre Morico per essere costituiti sezione del Collegio elettorale di Montegiorgio, separatamente da quella del Collegio stesso, detta di S. Vittoria in Materano, cui furono sino ad ora uniti;
+
+Ritenuto che il comune di S. Vittoria in Materano dista 9 chilometri da Servigliano e 22 da Monte S. Pietro Morico, e che per tale distanza torna incomodo agli elettori recarsi alla sede della sezione;
+
+Ritenuto che i due comuni instanti contano 86 elettori, e cosi' oltre il doppio del numero prescritto per minimo dall'articolo 64 della legge elettorale;
+
+Considerando che costituendo in sezione elettorale i detti due comuni sara' reso piu' agevole agli elettori l'esercizio del loro diritto;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I comuni di Servigliano e Monte S. Pietro Morico sono separati dalla sezione elettorale di S. Vittoria in Materano, e formeranno una sezione distinta del Collegio di Montegiorgio, con sede in Servigliano.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 7 marzo 1880.   
+  
+UMBERTO.   
+  
+Depretis.   
+  
+Visto - Il Guardasigilli   
+T. Villa.   
+  

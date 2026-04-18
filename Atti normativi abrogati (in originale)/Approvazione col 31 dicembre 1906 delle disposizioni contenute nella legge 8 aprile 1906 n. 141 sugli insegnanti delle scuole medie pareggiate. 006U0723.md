@@ -1,0 +1,44 @@
+REGIO DECRETO 30 dicembre 1906 n. 723
+
+
+REGIO DECRETO 30 dicembre 1906 n. 723
+=====================================
+
+Approvazione col 31 dicembre 1906 delle disposizioni contenute nella legge 8 aprile 1906, n. 141, sugli insegnanti delle scuole medie pareggiate. (006U0723)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 27/02/1907
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D' ITALIA   
+  
+Veduto l'[art. 24 della legge 8 aprile 1906, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141~art24);   
+  
+Veduti i Nostri decreti 29 luglio 1906, n. 469, 28 agosto 1906, n. 512, e 21 ottobre 1906, n. 588, coi quali si ordinava l'entrata in vigore, dalla data dei decreti stessi, delle disposizioni riguardanti gl'insegnanti delle scuole medie pareggiate, e di quelle contenute negli articoli 7, 15, 16, 17 e 18 della predetta legge;   
+  
+Sentito il Consiglio dei ministri;   
+  
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Tutte le altre disposizioni contenute nella [legge 8 aprile 1906, n. 141](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1906-04-08;141), avranno vigore dal 31 dicembre 1906.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 dicembre 1906.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+Rava.   
+  
+Visto, Il guardasigilli: Gallo.   
+  

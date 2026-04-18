@@ -1,0 +1,56 @@
+REGIO DECRETO 08 gennaio 1942 n. 463
+
+
+REGIO DECRETO 08 gennaio 1942 n. 463
+====================================
+
+Modificazione delle tabelle organiche di Regi Istituti tecnici commerciali e per geometri, di Regi Istituti tecnici commerciali mercantili e di Regi Istituti tecnici interiori isolati. (042U0463)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 31/05/1942
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Veduta la legge 15 giugno 1931-IX, n. 889;
+
+Veduto il R. decreto 20 febbraio 1939-XVII, n. 583, che, a decorrere dal 16 ottobre 1937-XV, istituisce cattedre di ruolo e determina i posti di ruolo del personale direttivo ed insegnante di alcuni Regi istituti tecnici;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con il Ministro Segretario di Stato per le finanze; Abbiano decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+A decorrere dal 16 ottobre 1937-XV sono approvate le tabelle organiche dei Regi Istituti tecnici commerciali a indirizzo amministrativo e per geometri di Anagni, Arezzo, Avellino, Bolzano, Caltanissetta, Campobasso, Casale Monferrato, Cosenza, Cremona, Firenze, Foggia, Iesi, L'Aquila, Lecce, Lucca, Macerata, Mantova, Melfi, Modena, Modica, Napoli «Della Porta», Padova, Palermo «Parlatore», Ravenna, Reggio Calabria, Reggio Emilia, Rimini, Roma «Da Vinci», Salerno, Teramo, Terni, Torino «Sommeiller», Trapani, Udine, Velletri, Vibo Valentia; dei Regi Istituti tecnici commerciali a indirizzo amministrativo di Como, Genova «Vittorio Emanuele III», Imperia, Lovere, Lucera, Milano « Schiaparelli», Milano «Verri», Palermo «Crispi»; dei Regi Istituti tecnici commerciali a indirizzo mercantile di Ancona, Apuania-Carrara, Bari, Bologna, Brescia, Brindisi, Catania, Fano, Firenze, Foligno, Genova, Giarre-Riposto, Istonio, Milano «Moreschi», Napoli, Padova, Palermo, Roma «Luigi di Savoia Duca degli Abruzzi», Torino, Trieste, Viareggio, dei Regi Istituti tecnici inferiori isolati di Castelunovo di Garfagnana, Fiorenzuola d'Arda, Frosinone, Guastalla, Imola, Marcianise, Nizza Monferrato, Nola, Penne, Portici, Ragusa, S. Benedetto del Tronto, Termoli, Torre Annunziata, allegate al presente decreto, viste e firmate, d'ordine Nostro, dal Ministro per l'educazione nazionale.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 8 gennaio 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+BORRAI - DI REVEL   
+  
+Visto, il Guardasigilli GRANDI   
+  
+Registrato alla Corte dei conti, addi' 1° maggio 1942-XX   
+  
+Atti del Governo, registro 445, foglio 1. - MANCINI   
+
+Tabelle
+
+ TABELLE ORGANICHE   
+  
+[Parte di provvedimento in formato grafico](https://www.normattiva.it/do/atto/vediPdf?cdimg=042U046300100010110001&dgu=1942-05-16&art.dataPubblicazioneGazzetta=1942-05-16&art.codiceRedazionale=042U0463)
+  

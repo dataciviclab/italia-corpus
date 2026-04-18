@@ -1,0 +1,21 @@
+REGIO DECRETO 30 settembre 1937 n. 2582
+
+
+REGIO DECRETO 30 settembre 1937 n. 2582
+=======================================
+
+Trasformazione dell'Istituto autonomo antimalarico delle Venezie in Istituto interprovinciale per la lotta antimalarica nei territori delle provincie di Padova, Pola, Rovigo, Treviso, Trieste, Udine, Verona e Venezia. (037U2582)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/03/1938
+
+Art. 1
+------
+
+N.
+
+2582. R. decreto 30 settembre 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, l'Istituto autonomo antimalarico delle Venezie viene trasformato in Istituto interprovinciale per la lotta antimalarica nei territori delle provincie di Padova, Pola, Rovigo, Treviso, Trieste, Udine, Verona e Venezia.   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 16 febbraio 1938 - Anno XVI

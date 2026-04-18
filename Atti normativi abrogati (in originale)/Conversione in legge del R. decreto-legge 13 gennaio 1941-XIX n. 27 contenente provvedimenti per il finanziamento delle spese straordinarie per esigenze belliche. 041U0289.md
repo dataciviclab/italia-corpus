@@ -1,0 +1,43 @@
+LEGGE 11 aprile 1941 n. 289
+
+
+LEGGE 11 aprile 1941 n. 289
+===========================
+
+Conversione in legge del R. decreto-legge 13 gennaio 1941-XIX, n. 27, contenente provvedimenti per il finanziamento delle spese straordinarie per esigenze belliche. (041U0289)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/05/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il Regio decreto-legge 13 gennaio 1941-XIX, n. 27, contenente provvedimenti per il finanziamento delle spese straordinarie per esigenze belliche.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Dalla Zona di operazioni, addi' 11 aprile 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Di Revel   
+  
+Visto:   
+  
+(ai sensi del R. decreto 20 febbraio 1941-XIX, n. 76)   
+  
+MUSSOLINI   

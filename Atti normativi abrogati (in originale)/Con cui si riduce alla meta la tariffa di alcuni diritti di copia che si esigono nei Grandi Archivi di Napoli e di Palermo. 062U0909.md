@@ -1,0 +1,50 @@
+REGIO DECRETO 19 ottobre 1862 n. 909
+
+
+REGIO DECRETO 19 ottobre 1862 n. 909
+====================================
+
+Con cui si riduce alla meta' la tariffa di alcuni diritti di copia che si esigono nei Grandi Archivi di Napoli e di Palermo. (062U0909)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/11/1862
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONI
+
+RE D'ITALIA
+
+Veduti i regolamenti pel Grande Archivio di Napoli e per gli Archivi Provinciali di qua dal Faro, colla tariffa dei diritti da esigersi negli Archivi, approvati col Reale Decreto 12 novembre 1818;
+
+Veduto l'articolo 42 della legge organica pel Grande Archivio di Palermo e per gli Archivi Provinciali di Sicilia in data 1.° agosto 1843;
+
+Veduti i Sovrani Rescritti 23 marzo e 16 ottobre 1857, coi quali fu rispettivamente prorogata pei Grandi Archivi di Napoli e di Palermo ad un altro quinquennio la riduzione a meta' dei diritti di copia per gli atti indicati nei tre primi articoli della suddetta tariffa;
+
+Sulla
+-----
+
+proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+A cominciare dal giorno primo del prossimo novembre, e sino a contraria disposizione, il diritto di copia da esigersi nei Grandi Archivi di Napoli e di Palermo per gli atti e documenti indicati negli articoli 1, 2 e 3 della tariffa approvata col Reale Decreto 12 novembre 1818, e' ridotto alla meta' della somma rispettivamente stabilita.   
+  
+Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato in Torino addi' 19 ottobre 1862.   
+  
+VITTORIO EMANUELE   
+  
+Registrato alla Corte dei conti addi' 4 novembre 1862   
+  
+Reg.° 21 Atti del Governo a c. 51. Wehrlin.   
+  
+Luogo del Sigillo. V. Il Guardasigilli U. Rattazzi.   
+  
+U. Rattazzi.   
+  

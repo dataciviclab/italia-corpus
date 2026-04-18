@@ -1,0 +1,45 @@
+REGIO DECRETO 06 febbraio 1921 n. 304
+
+
+REGIO DECRETO 06 febbraio 1921 n. 304
+=====================================
+
+Che istituisce presso il R. Istituto superiore di studi commerciali in Venezia, alcuni corsi complementari. (021U0304)
+----------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 21/04/1921
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la [legge 20 marzo 1913, n. 268](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1913-03-20;268), sull'istruzione superiore commerciale e in special modo l'art. 13;   
+  
+Visto il regolamento generale approvato con [R. decreto del 18 agosto 1920, n. 1482](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1920-08-18;1482);   
+  
+Vista la proposta del Consiglio accademico del Regio Istituto superiore di studi commerciali di Venezia ratificata da quel Consiglio d'amministrazione;   
+  
+Sentito il parere del Consiglio Superiore dell'Istruzione commerciale (Sezione della istruzione superiore).   
+  
+Sulla proposta del Nostro ministro segretario di Stato, per l'industria e il commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Presso il R. Istituto superiore di studi commerciali di Venezia sono istituiti: un corso della Storia del diritto per la Sezione magistrale di economia-diritto ed un corso di glottologia romanzo-germanica per la Sezione magistrale di lingue straniere.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 6 febbraio 1921.   
+  
+VITTORIO EMANUELE.   
+  
+Alessio.   
+  
+Visto, Il guardasigilli: Fera.   
+  

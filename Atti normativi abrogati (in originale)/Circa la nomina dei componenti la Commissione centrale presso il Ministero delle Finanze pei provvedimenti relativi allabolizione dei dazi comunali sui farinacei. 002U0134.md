@@ -1,0 +1,80 @@
+REGIO DECRETO 10 aprile 1902 n. 134
+
+
+REGIO DECRETO 10 aprile 1902 n. 134
+===================================
+
+Circa la nomina dei componenti la Commissione centrale presso il Ministero delle Finanze pei provvedimenti relativi all'abolizione dei dazi comunali sui farinacei. (002U0134)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 16/05/1902
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto l'[articolo 20 della legge 23 gennaio 1902, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-01-23;25~art20), allegato A, che istituisce presso il Ministero delle Finanze una Commissione centrale col mandato:
+
+di rivedere e rendere definitive le annualita' proposte dalle Commissioni provinciali a favore dei Comuni come quota di concorso dello Stato all'abolizione del dazio sui farinacei;
+
+di rivedere e rendere definitive le proposte di assegnazione di sussidi ai Comuni che passano alla categoria degli aperti;
+
+di determinare l'epoca o le epoche da cui dovra' decorrere la cessazione o la riduzione dei dazi sui farinacei, nonche' le rispettive aliquote nei casi previsti dall'articolo 5 della detta legge;
+
+di dar parere su tutte le questioni che potranno sorgere sull'applicazione della legge medesima;
+
+Veduto l'articolo 7 del Regolamento, approvato con Nostro decreto del 9 marzo corrente anno, n. 90;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le Finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+La Commissione centrale, di cui all'articolo 20 della surriferita [legge 23 gennaio 1902, n. 25](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1902-01-23;25), allegato A, e' costituita nel modo seguente:   
+  
+Presidente:   
+  
+Saredo S. E. comm. prof. Giuseppe, Presidente del Consiglio di Stato;   
+  
+Membri:   
+  
+Guala comm. avv. Carlo, consigliere di Stato;   
+  
+Janigro comm. avv. Gio. Battista, consigliere di Corte di Cassazione;   
+  
+Martuscelli comm. avv. Enrico, consigliere alla Corte dei Conti;   
+  
+Baccarani comm. avv. Guglielmo, sostituto avvocato generale erariale;   
+  
+Schanzer comm. avv. prof. Carlo, direttore generale dell'Amministrazione civile al Ministero dell'Interno;   
+  
+Pizzo comm. ing. Vincenzo, vice-direttore generale delle Gabelle;   
+  
+Varvelli comm. ing. Giovanni, direttore capo di divisione nel Ministero delle Finanze;   
+  
+Raimoldi comm. avv. Arnaldo, direttore capo di divisione nel Ministero dell'Interno.   
+  
+Segretari:   
+  
+Troise cav. dott. Pasquale, segretario amministrativo nel Ministero delle Finanze;   
+  
+Gobbi Italo, segretario di ragioneria nel Ministero medesimo.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 10 aprile 1902.   
+  
+VITTORIO EMANUELE.   
+  
+Carcano.   
+  
+Visto, Il Guardasigilli: Cocco-Ortu.   
+  

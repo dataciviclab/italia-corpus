@@ -1,0 +1,55 @@
+LEGGE 08 giugno 1949 n. 605
+
+
+LEGGE 08 giugno 1949 n. 605
+===========================
+
+Composizione della Commissione permanente incaricata di dirigere il lavoro di revisione toponomastica della Carta d'Italia.
+---------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+  
+La Commissione permanente incaricata di dirigere il lavoro per la revisione toponomastica della Carta d'Italia, di cui al regio decreto 5 marzo 1911 e successive modificazioni, e' composta come segue:  
+Presidente:  
+il direttore dell'Istituto geografico militare.  
+Membri:  
+il presidente del Comitato nazionale per la geografia del Consiglio nazionale delle ricerche od un suo delegato;  
+il direttore dell'Istituto idrografico della marina od un suo delegato;  
+il presidente del Touring Club italiano od un suo delegato;  
+il presidente del Comitato scientifico del Club Alpino italiano od un suo delegato;  
+il presidente della Societa' geografica italiana od un suo delegato;  
+un rappresentante della Presidenza del Consiglio dei Ministri; un rappresentante del Ministero dell'interno.  
+Per la parte che riguarda la loro regione o provincia:  
+a) il presidente della Giunta provinciale di Bolzano od un suo delegato;  
+b) il presidente della Giunta provinciale di Trento od un suo delegato;  
+c) il capo dell'Amministrazione provinciale di Gorizia od un suo delegato;  
+d) il capo dell'Amministrazione provinciale di Udine od un suo delegato;  
+e) il presidente della Giunta regionale per la Valle d'Aosta od un suo delegato;  
+f) un rappresentante della Deputazione regionale di storia patria;  
+g) i direttori degli Istituti di geografia delle universita' o loro delegati;  
+h) i direttori di Centri studi regionali o loro delegati.  
+Segretario:  
+un funzionario od un ufficiale dell'Istituto geografico militare, di grado non superiore al settimo.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 8 giugno 1949
+
+EINAUDI DE GASPERI - PACCIARDI - SCELBA - PELLA - GONELLA
+
+Visto, il Guardasigilli: GRASSI

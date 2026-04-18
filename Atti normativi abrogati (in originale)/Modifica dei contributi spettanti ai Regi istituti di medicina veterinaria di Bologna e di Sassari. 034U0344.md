@@ -1,0 +1,68 @@
+REGIO DECRETO 05 febbraio 1934 n. 344
+
+
+REGIO DECRETO 05 febbraio 1934 n. 344
+=====================================
+
+Modifica dei contributi spettanti ai Regi istituti di medicina veterinaria di Bologna e di Sassari. (034U0344)
+--------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/03/1934
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto l'[art. 3, n. 1, della legge 31 gennaio 1926, n. 100](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1926-01-31;100~art3-num1);
+
+Veduto il [R. decreto 11 novembre 1923, n. 2395](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1923-11-11;2395);
+
+Veduto l'[art. 30 del R. decreto-legge 28 agosto 1931, n. 1227](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1931-08-28;1227~art30), convertito in legge e modificato con [legge 16 giugno 1932, n. 812](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1932-06-16;812);
+
+Veduta la tabella A annessa al testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592);
+
+Ritenuto che per effetto del collocamento a riposo di uno dei bidelli assegnati in soprannumero al Regio istituto superiore di medicina veterinaria di Bologna ai sensi dell'[art. 5 del R. decreto 22 dicembre 1927, n. 2678](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-22;2678~art5), la quota di contributo attribuita all'Istituto medesimo per il posto predetto deve essere dal 1° agosto 1933 assegnata all'Istituto superiore di medicina veterinaria di Sassari a norma del combinato disposto del citato [articolo 5 del R. decreto 22 dicembre 1927, n. 2678](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1927-12-22;2678~art5), e dell'[art. 2 del R. decreto 22 settembre 1932, n. 1450](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1932-09-22;1450~art2);
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:
+
+Art. 1
+------
+
+  
+  
+L'aumento del contributo di L. 228.055 e di L. 25.170 rispettivamente a favore dei Regi istituti superiori di medicina veterinaria di Bologna e di Sassari di cui alla tabella A. annessa al testo unico delle leggi sull'istruzione superiore approvato con [R. decreto 31 agosto 1933, n. 1592](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1933-08-31;1592), e' modificato nel modo seguente:   
+  
+  
+Regio istituto superiore di medicina veterinaria  
+di Bologna:  
+  
+dal 1° agosto 1933 al 30 giugno 1934 . . . . . . . . L. 219.052  
+dal 1° luglio 1934 . . . . . . . . . . . . . . » 218.233  
+  
+Regio istituto superiore di medicina veterinaria di Sassari:  
+  
+dal 1° agosto 1933 al 30 giugno 1934 . . . . . » 34.173  
+dal 1° luglio 1934 . . . . . . . . . . . . . . » 34.992   
+  
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 5 febbraio 1934 - Anno XII   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Jung - Ercole.   
+  
+Visto, il Guardasigilli: De Francisci.   
+  
+Registrato alla Corte dei conti, addi' 6 marzo 1934 - Anno XII   
+  
+Atti del Governo, registro 345, foglio 21. - Mancini.   

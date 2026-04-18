@@ -1,0 +1,26 @@
+DECRETO LUOGOTENENZIALE 25 luglio 1915 n. 1207
+
+
+DECRETO LUOGOTENENZIALE 25 luglio 1915 n. 1207
+==============================================
+
+Soppressioni ed istituzioni di posti di vice console, di addetto consolare e di interprete di 1a categoria (015U1207)
+---------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 29/08/1915
+
+Art. 1
+------
+
+  
+N. 1207   
+  
+Decreto Luogotenenziale 25 luglio 1915, col quale, sulla proposta del Ministro degli affari esteri, a datare dal 1° agosto 1915, sono soppressi:   
+  
+1° il posto di vice console di 1° categoria a Rio Janeiro con l'annuo assegno di L. 9000;   
+  
+2° il posto di vice console di 1a categoria a Salonicco, con l'annuo assegno di L. 4000;   
+  
+3° il posto di addetto consolare a Salonicco, con l'annuo assegno di L. 1800,   
+  
+ed e' istituito un secondo posto di vice console di 1a categoria presso il R. consolato in San Paolo, con l'annuo assegno di L. 9000.   

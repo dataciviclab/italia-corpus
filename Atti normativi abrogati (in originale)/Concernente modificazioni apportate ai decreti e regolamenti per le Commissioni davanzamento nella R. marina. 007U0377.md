@@ -1,0 +1,71 @@
+REGIO DECRETO 16 giugno 1907 n. 377
+
+
+REGIO DECRETO 16 giugno 1907 n. 377
+===================================
+
+Concernente modificazioni apportate ai decreti e regolamenti per le Commissioni d'avanzamento nella R. marina. (007U0377)
+-------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 17/07/1907
+
+VITTORIO EMANUELE III
+---------------------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Viste le [leggi 6 marzo 1898, n. 59, 11 febbraio 1900, n. 42, e 27 marzo 1904, n. 114](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1904-03-27;114), sull'avanzamento dei Corpi militari della R. marina;
+
+Visto il regolamento per l'esecuzione della [legge 6 marzo 1898, n. 59](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1898-03-06;59), approvato con [R. decreto 4 settembre 1898, n. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1898-09-04;444);
+
+Viste le modificazioni introdotte nel regolamento suddetto con i RR. decreti 11 marzo 1900, n. 96, 27 novembre 1902, n. 499, 17 marzo 1904, n. 132, 9 giugno 1904, n. 304, 26 giugno 1904, n. 310, 17 novembre 1904, n. 685, e 9 dicembre 1906, n. 684;
+
+Visto il R. decreto 10 febbraio 1907 col quale a coprire la carica di capo dell'ufficio di stato maggiore presso il Ministero della marina, e' stato destinato un vice ammiraglio col titolo di «Capo di stato maggiore della marina»;
+
+Sentito il parere del Consiglio superiore di marina;
+
+Sentito il parere del Consiglio di Stato;
+
+Previa deliberazione del Consiglio dei ministri;
+
+Sulla
+-----
+
+proposta del Nostro ministro della marina; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+Per quanto riguarda la composizione della Commissione ordinaria di avanzamento l'art. 108 del citato [regolamento 4 settembre 1898, n. 444](http://www.normattiva.it/uri-res/N2Ls?urn:nir::regolamento:1898-09-04;444), modificato con i RR. decreti 27 novembre 1902, n. 499, 26 giugno 1904, n. 310 e 9 dicembre 1906, n. 684, e' modificato come segue:   
+  
+«La Commissione ordinaria di avanzamento si compone:   
+  
+§ 6. Per la compilazione dei quadri di avanzamento degli ufficiali dello stato maggiore generale e del Corpo R. equipaggi;   
+  
+a) del presidente e degli ufficiali ammiragli membri ordinari del Consiglio superiore di marina;   
+  
+b) del direttore generale del personale e del servizio militare;   
+  
+c) e per gli ufficiali di cui all'art. 80 del regolamento, del direttore generale d'artiglieria e armamenti;   
+  
+§ 7. Per la compilazione dei quadri di avanzamento degli ufficiali del genio navale, del corpo sanitario e del corpo di commissariato:   
+  
+a) di tutti i membri indicati nel paragrafo 6;   
+  
+b) rispettivamente per ciascun Corpo dei membri indicati nel comma b, dei paragrafi 2, 3 e 4.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 16 giugno 1907.   
+  
+VITTORIO EMANUELE.   
+  
+G. Giolitti.   
+C. Mirabello.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

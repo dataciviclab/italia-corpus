@@ -1,0 +1,59 @@
+REGIO DECRETO 08 settembre 1876 n. 3324
+
+
+REGIO DECRETO 08 settembre 1876 n. 3324
+=======================================
+
+Che modifica due articoli del regolamento per la tassa sul macinato (076U3324)
+------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/09/1876
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il testo unico di legge per la tassa sulla macinazione dei cereali, approvato col [R. decreto 13 settembre 1874, numero 2056](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-09-13;2056) (Serie 2ª);
+
+Visto il regolamento per l'esecuzione di detta legge approvato col R. decreto della stessa data, n. 2057 (Serie 2ª);
+
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro delle Finanze,
+
+Udito il parere del Consiglio di Stato;
+
+Sentito
+-------
+
+il Consiglio dei Ministri, Abbiamo decretato e decretiamo quanto segue:
+
+Articolo unico
+--------------
+
+  
+  
+Agli articoli 51 e 52 del regolamento approvato col [R. decreto del 13 settembre 1874, n. 2057](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1874-09-13;2057) (Serie 2ª), sono sostituiti i seguenti:   
+  
+Art. 51. Il Comitato peritale costituito per un anno dura in funzione finche' il Comitato per l'anno successivo sia costituito, abbia divisa la provincia in zone, assegnato un perito a ogni zona e determinati i coefficienti meccanici da adottare nelle perizie a norma dell'articolo 10 della legge.   
+  
+I periti durano in carica finche' dura il Comitato del quale fanno parte e possono essere rieletti.   
+  
+Il perito che non sia rieletto deve trasmettere al suo successore i documenti relativi alle perizie che non avesse ancora iniziate e deve compiere e presentare, entro quindici giorni da quello in cui il nuovo Comitato e' entrato in funzioni, le perizie che avesse iniziate.   
+  
+Scorsi questi quindici giorni, il perito si ha per rinunziante e perde il diritto ad ottenere il pagamento delle competenze e spese relative alla perizia non compiuta e presentata in tempo.   
+  
+Art. 52 Costituito il Comitato, il presidente invita l'ingegnere provinciale del macinato ad intervenire all'adunanza per dividere la provincia in zone, assegnare un perito ad ogni zona, e determinare i coefficienti meccanici da adottare nelle perizie.   
+  
+Nelle perizie pero', per le quali fu presentato il ricorso avanti la determinazione dei coefficienti, il Comitato applica i coefficienti determinati dal Comitato precedente.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Montechiaro, addi' 8 settembre 1876.   
+  
+VITTORIO EMANUELE.   
+  
+Depretis.   
+  
+  

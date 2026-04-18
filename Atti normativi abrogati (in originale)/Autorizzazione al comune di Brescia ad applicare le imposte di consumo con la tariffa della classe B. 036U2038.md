@@ -1,0 +1,50 @@
+REGIO DECRETO 12 novembre 1936 n. 2038
+
+
+REGIO DECRETO 12 novembre 1936 n. 2038
+======================================
+
+Autorizzazione al comune di Brescia ad applicare le imposte di consumo con la tariffa della classe B. (036U2038)
+----------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 18/12/1936
+
+VITTORIO EMANUELE III
+---------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Visto l'art. 27 del testo unico per la Finanza locale, approvato con Nostro decreto 14 settembre 1931, n. 1175;
+
+Vita la domanda avanzata dal comune di Brescia per avvalersi della disposizione di cui al predetto articolo;
+
+Udito il parere della Commissione centrale per la finanza locale;
+
+Sulla
+-----
+
+proposta del Nostro Ministro Segretario di Stato per le finanze; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+- Il comune di Brescia e' autorizzato ad applicare fino al 31 dicembre 1938 le imposte di consumo entro i limiti stabiliti per i Comuni della classe B.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a San Rossore, addi' 12 novembre 1936 - Anno XV   
+  
+VITTORIO EMANUELE   
+  
+Di Revel   
+  
+Visto, il Guardasigilli: Solmi.   
+  
+Registrato alla Corte dei conti, addi' 1° dicembre 1936 - Anno XV   
+Atti del Governo, registro 380, foglio 2. - Mancini.   

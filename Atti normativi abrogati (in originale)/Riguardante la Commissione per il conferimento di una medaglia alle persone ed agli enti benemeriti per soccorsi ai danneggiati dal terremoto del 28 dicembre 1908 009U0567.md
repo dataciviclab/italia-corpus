@@ -1,0 +1,43 @@
+REGIO DECRETO 25 luglio 1909 n. 567
+
+
+REGIO DECRETO 25 luglio 1909 n. 567
+===================================
+
+Riguardante la Commissione per il conferimento di una medaglia alle persone ed agli enti benemeriti per soccorsi ai danneggiati dal terremoto del 28 dicembre 1908 (009U0567)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 05/09/1909
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il Nostro decreto 6 maggio 1909, col quale si e' istituita una medaglia per le persone e per gli enti che si resero maggiormente benemeriti nei soccorsi ai danneggiati dal terremoto del 28 dicembre 1908 affidando ad apposita Commissione l'esame ed il parere delle proposte relative;   
+  
+Ritenuto che dovendo l'opportunita' della concessione di una tale ricompensa essere esaminata anche nei riguardi di sudditi e di enti stranieri che concorsero all'opera di soccorso in favore delle popolazioni colpite dal disastro e' conveniente che a far parte della Commissione istituita coll'art. 4 del decreto predetto siano chiamati anche un rappresentante del Ministero degli affari esteri e il presidente della Croce Rossa Italiana;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per gli affari dell'interno, presidente del Consiglio dei ministri;   
+  
+Udito il Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A far parte della Commissione istituita con l'art. 4 del Nostro decreto predetto sono chiamati, oltre le persone ivi indicate, un funzionario del Ministero degli affari esteri avente grado di direttore generale, e il presidente della Croce Rossa italiana.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Racconigi, addi' 25 luglio 1909.   
+  
+VITTORIO EMANUELE.   
+  
+Giolitti.   
+  
+Visto, Il guardasigilli: Orlando.   
+  

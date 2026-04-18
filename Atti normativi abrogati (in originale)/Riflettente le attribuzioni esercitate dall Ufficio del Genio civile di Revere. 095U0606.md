@@ -1,0 +1,48 @@
+REGIO DECRETO 25 settembre 1895 n. 606
+
+
+REGIO DECRETO 25 settembre 1895 n. 606
+======================================
+
+Riflettente le attribuzioni esercitate dall' Ufficio del Genio civile di Revere. (095U0606)
+-------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/10/1895
+
+Art. 1
+------
+
+  
+UMBERTO I   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Vista la legge 15 giugno 1693 n. 294;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato pei Lavori Pubblici;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Con decorrenza dal 16 ottobre p. v. le attribuzioni ora esercitate dall'Ufficio del Genio civile in Revere saranno devolute rispettivamente agii Uffici ordinari del Genio civile aventi sede in Reggio Emilia e Modena secondo la ripartizione qui appresso indicata:   
+  
+Ufficio ordinario del Genio civile di Reggio Emilia.   
+  
+L'argine destro di Po dal confine Mantova-Reggio fino allo sbocco del Secchia e l'argine sinistro di questo fiume dallo sbocco predetto rimontando fino al confine con la provincia di Modena.   
+  
+Ufficio ordinario del Genio civile di Modena.   
+  
+L'argine destro del Secchia dal confine Mantova-Modena fino alla confluenza in Po; l'argine destro di Po della predetta confluenza sino al confine con la provincia di Ferrara, ed il tronco della strada Nazionale Lucca-Revere compreso fra il confine Mantova-Modena e l'abitato di Revere.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 25 settembre 1895.   
+  
+UMBERTO.   
+  
+G. Saracco.   
+  
+Visto, il Guardasigilli: V. Calenda di Tavani.   
+  
+  

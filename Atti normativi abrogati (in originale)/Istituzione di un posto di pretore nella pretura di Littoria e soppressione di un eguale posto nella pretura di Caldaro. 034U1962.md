@@ -1,0 +1,59 @@
+REGIO DECRETO 03 dicembre 1934 n. 1962
+
+
+REGIO DECRETO 03 dicembre 1934 n. 1962
+======================================
+
+Istituzione di un posto di pretore nella pretura di Littoria, e soppressione di un eguale posto nella pretura di Caldaro. (034U1962)
+------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/12/1934
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+Visto il [R. decreto 23 ottobre 1930, n. 1427](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-10-23;1427), che determina le piante organiche della magistratura negli uffici giudiziari;   
+Visto il [R. decreto-legge 28 settembre 1933, n. 1282](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto.legge:1933-09-28;1282), convertito nella [legge 28 dicembre 1933, n. 1849](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-12-28;1849), con cui viene, fra l'altro, istituita la pretura di Littoria;   
+Vista la tabella dei posti di uditore vice pretore annessa al [R. decreto 12 maggio 1930, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-12;663);   
+Visto l'[art. 26 della legge 5 giugno 1933, n. 557](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1933-06-05;557~art26);   
+Visto l'art. 2 del decreto 12 maggio 1930, n. 663;   
+Ritenuta la necessita' di istituire nella pretura di Littoria un posto di pretore (o pretore aggiunto), oltre il titolare, ed un posto di uditore vice pretore;   
+Ritenuto che possono corrispondentemente sopprimersi un posto di pretore nella pretura di Caldaro ed un posto di uditore vice pretore nella pretura di Napoli, rimanendo pertanto invariato il numero complessivo dei posti, sia di pretore e pretore aggiunto sia di uditore vice pretore;   
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;   
+Abbiamo decretato e decretiamo:   
+E' istituito nella pretura di Littoria un posto di pretore (o pretore aggiunto), ed e soppresso un eguale posto nella pretura di Caldaro, rimanendo cosi' modificate le rispettive piante:   
+CORTE DI APPELLO DI VENEZIA   
+  
+SEZIONE DI CORTE D'APPELLO DI TRENTO   
+  
+Tribunale di Bolzano   
+  
+  
+  
+  
+Pretori o pretori aggiunti   
+Caldaro . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1   
+CORTE DI APPELLO DI ROMA  
+  
+Tribunale di Velletri  
+  
+Pretori o pretori aggiunti   
+Littoria . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2   
+  
+  
+E' altresi' istituito nella pretura di Littoria un posto di uditore vice pretore ed e' soppresso un ugual posto nella pretura di Napoli, venendo in tal senso Modificata la tabella annessa al [R. decreto 12 maggio 1930, n. 663](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1930-05-12;663).   
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+Dato a Roma, addi' 3 dicembre 1934 - Anno XIII   
+VITTORIO EMANUELE   
+  
+DE FRANCISCI.   
+  
+Visto, il Guardasigilli: DE FRANCISCI.   
+Registrato alla Corte dei conti, addi' 11 dicembre 1934 - Anno XIII   
+Atti del Governo, registro 354, foglio 22. - Mancini.   

@@ -1,0 +1,21 @@
+REGIO DECRETO 22 maggio 1924 n. 960
+
+
+REGIO DECRETO 22 maggio 1924 n. 960
+===================================
+
+Soppressione del Regio consolato a Pireo e destinazione alla Regia legazione ad Atene di un Regio vice console di prima categoria. (024U0960)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/07/1924
+
+Art. 1
+------
+
+N.
+
+960. R. decreto 22 maggio 1924, col quale, sulla proposta del Ministro ad interim per gli affari esteri, dal 1° giugno 1924, il Regio consolato di seconda classe a Pireo viene soppresso; presso la Regia legazione ad Atene viene destinato un Regio vice console di prima categoria, con l'annuo assegno di L. 18.000 oltre la quota per ammontare massimo da ammettersi a rimborso per le spese di ufficio di L. 13,000 oro, e la giurisdizione consolare del Regio consolato al Pireo passa alla dipendenza della Regia legazione ad Atene.   
+  
+Visto, il Guardasigilli: Oviglio.   
+  
+Registrato alla Corte dei conti, addi' 20 giugno 1924.

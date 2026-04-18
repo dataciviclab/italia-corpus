@@ -1,0 +1,19 @@
+REGIO DECRETO 17 gennaio 1907 n. VIII
+
+
+REGIO DECRETO 17 gennaio 1907 n. VIII
+=====================================
+
+Applicazione della tassa di famiglia. (0700008R)
+------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/02/1907
+
+Art. 1
+------
+
+  
+Sulla proposta del ministro delle finanze.   
+  
+N. VIII (Dato a Roma, il 17 gennaio 1907), col quale e' data facolta' al comune di Bagni della Porretta di applicare, per l'anno 1906, la tassa di famiglia in base alla tariffa deliberata nell'adunanza consiliare del 7 ottobre 1906.   
+  

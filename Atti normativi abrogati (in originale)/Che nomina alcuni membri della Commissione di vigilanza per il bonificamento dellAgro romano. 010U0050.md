@@ -1,0 +1,44 @@
+REGIO DECRETO 30 gennaio 1910 n. 50
+
+
+REGIO DECRETO 30 gennaio 1910 n. 50
+===================================
+
+Che nomina alcuni membri della Commissione di vigilanza per il bonificamento dell'Agro romano. (010U0050)
+---------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/03/1910
+
+Art. 1
+------
+
+  
+VITTORIO EMANUELE III   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Veduto il [R. decreto 6 gennaio 1910, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-01-06;13);   
+  
+Udita la Commissione di vigilanza per il bonificamento dell'Agro romano;   
+  
+Sulla proposta del Nostro ministro, segretario di Stato per l'agricoltura, l'industria e il commercio;   
+  
+Abbiamo decretato e decretiamo:   
+  
+I Signori: principe D. Luigi Boncompagni-Ludovisi, on. prof. Angelo Celli, prof. dott. Luigi Amilcare Fracchia, cav. ing. Achille Somma e comm. Giov. Antonio Vanni, sono nominati, per il triennio 1910-1912, membri del Comitato permanente istituito nella Commissione di vigilanza per il bonificamento dell'Agro romano con [R. decreto 6 gennaio 1910, n. 13](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:regio.decreto:1910-01-06;13).   
+  
+Al Comitato predetto sono aggregati gli ispettori del bonificamento agrario e della colonizzazione: cav. ing. Giuseppe Zattini e prof.  
+Giulio Balduccini, il quale fungera' anche da segretario.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 30 gennaio 1910.   
+  
+VITTORIO EMANUELE.   
+  
+Luzzatti.   
+  
+Visto, Il guardasigilli: Scialoja.   
+  

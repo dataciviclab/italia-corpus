@@ -1,0 +1,39 @@
+LEGGE 08 giugno 1942 n. 785
+
+
+LEGGE 08 giugno 1942 n. 785
+===========================
+
+Conversione in legge del Regio decreto-legge 4 marzo 1942-XX, n. 320, concernente l'assunzione a carico dello Stato dell'onere derivante dal maggior costo del latte per l'approvvigionamento del comune di Napoli. (042U0785)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 20/07/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative, hanno approvato ;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il R. decreto-legge 4 marzo 1942-XX, n. 320, concernente l'assunzione a carico dello Stato dell'onere derivante dal maggior costo del latte per l'approvvigionamento del comune di Napoli.   
+  
+Ordiniamo che la presente, munita del Sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 8 giugno 1942-XX   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI - PARESCHI - DI REVEL   
+  
+Visto, il Guardasigilli: Grandi   

@@ -1,0 +1,47 @@
+REGIO DECRETO 08 febbraio 1939 n. 542
+
+
+REGIO DECRETO 08 febbraio 1939 n. 542
+=====================================
+
+Autorizzazione al comune di Roreto, in provincia di Torino, a modificare la sua denominazione e quella della frazione Roreto in «Roreto Chisone». (039U0542)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 23/04/1939
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Veduta la domanda in data 6 luglio 1938-XVI, con la quale il podesta' di Roreto chiede, in esecuzione di propria deliberazione in pari data, l'autorizzazione a modificare la denominazione del comune e della frazione Roreto in «Roreto Chisone»;   
+  
+Veduto il parere favorevole espresso dal Rettorato della provincia di Torino in adunanza del 23 dicembre 1938-XVII;   
+  
+Veduto l'articolo 266 del testo unico della legge comunale e provinciale, approvato con Nostro decreto 3 marzo 1934-XII, n. 383;   
+  
+Sulla proposta del DUCE, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli altri dell'interno;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Il comune di Roreto, in provincia di Torino, e' autorizzato a modificare la sua denominazione e quella della frazione Roreto in «Roreto Chisone».   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 8 febbraio 1939-XVII   
+  
+VITTORIO EMANUELE   
+  
+MUSSOLINI   
+  
+Visto, il Guardasigilli: Solmi   
+  
+Registrato alla Corte dei conti, addi' 6 aprile 1939-XVII   
+  
+Atti del Governo, registro 408, foglio 36. - Mancini.   

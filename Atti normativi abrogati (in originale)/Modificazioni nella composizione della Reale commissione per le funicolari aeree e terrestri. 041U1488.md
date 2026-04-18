@@ -1,0 +1,91 @@
+REGIO DECRETO 24 novembre 1941 n. 1488
+
+
+REGIO DECRETO 24 novembre 1941 n. 1488
+======================================
+
+Modificazioni nella composizione della Reale commissione per le funicolari aeree e terrestri. (041U1488)
+--------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/01/1942
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Visto il Nostro decreto 17 gennaio 1926-IV, registrato alla Corte dei conti il 10 febbraio stesso anno, al registro 2, foglio n. 764, con il quale venne istituita la Reale commissione per le funicolari aeree e terrestri;   
+  
+Ritenuta la necessita' di procedere ad alcune modifiche nella composizione della Commissione stessa;   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per le comunicazioni;   
+  
+Abbiamo decretato e decretiamo:   
+  
+A decorrere dalla data del presente decreto la Reale commissione per le funicolari aeree e terrestri, istituita col Nostro decreto 17 gennaio 1926-IV, rimane cosi' costituita:   
+  
+Presidente:   
+  
+Anastasi dott. ing. prof. comm. Anastasio, ordinario di macchine nella Facolta' di ingegneria civile e industriale della Regia universita' di Roma.   
+  
+Membri:   
+  
+Maffezzoli dott. ing. prof. cav. uff. Alfonso (Consigliere nazionale alla Camera dei Fasci e delle Corporazioni), ordinario di tecnica dei trasporti nella Facolta' di ingegneria della Regia universita' di Napoli;   
+  
+Croce dott. ing. prof. Luigi, incaricato di costruzioni di ponti nella Facolta' di ingegneria navale della Regia universita' di Genova;   
+  
+Gabioli dott. gr. uff. Federico, ispettore generale amministrativo dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+La Valle dott. ing. gr. uff. Ernesto, ispettore generale tecnico dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+Mauro dott. gr. uff. Benedetto, ispettore generale amministrativo dell'Ispettorato generale della motorizzazione civile e dai trasporti in concessione;   
+  
+Parducci dott. ing. comm. Ettore, ispettore generale tecnico dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+Fuortes dott. ing. comm. Giulio Cesare, ispettore generale tecnico dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+Tronconi dott. ing. comm. Giuseppe, ispettore capo superiore della Direzione generale delle ferrovie dello Stato;   
+  
+Talocci dott. comm. Filiberto, direttore capo divisione amministrativo dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+Rossi dott. comm. Donato Gastone, direttore capo divisione amministrativo dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+Vezzani dott. ing. prof. comm. Ferruccio, direttore compartimentale dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+Ceraso dott. ing. comm. Umberto, direttore compartimentale dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+Oberziner dott. ing. prof. Manlio, incaricato di tecnologia speciale nella Facolta' di ingegneria della Regia universita' di Roma;   
+  
+Carretto dott. ing. comm. Carlo (Consigliere nazionale alla Camera dei Fasci e delle Corporazioni), ispettore principale tecnico di 1ª classe dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+Ciccarese dott. ing. Antonio, tenente colonnello del Genio navale, comandato presso il Ministero delle corporazioni.   
+  
+Segreteria:   
+  
+Delli Paoli dott. cav. uff. Luigi (segretario capo), ispettore capo amministrativo dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+D'Armini dott. ing. cav. Pietro (segretario), primo ispettore tecnico dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+Armani dott. ing. Franco (segretario), ispettore tecnico dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione;   
+  
+Zanobbi dott. cav. Raffaele (segretario), sotto ispettore di 1ª classe di vigilanza dell'Ispettorato generale della motorizzazione civile e dei trasporti in concessione.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 24 novembre 1941-XX   
+  
+VITTORIO EMANUELE   
+  
+HOST VENTURI   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 11 gennaio 1942-XX   
+  
+Atti del Governo, registro 441, foglio 36. - MANCINI   

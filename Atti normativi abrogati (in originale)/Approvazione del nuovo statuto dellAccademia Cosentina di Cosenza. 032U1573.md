@@ -1,0 +1,20 @@
+REGIO DECRETO 20 ottobre 1932 n. 1573
+
+
+REGIO DECRETO 20 ottobre 1932 n. 1573
+=====================================
+
+Approvazione del nuovo statuto dell'Accademia Cosentina di Cosenza. (032U1573)
+------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 30/12/1932
+
+Art. 1
+------
+
+N.
+
+1573. R. decreto 20 ottobre 1932, col quale, sulla proposta del Ministro per l'educazione nazionale, viene approvato il nuovo statuto dell'Accademia Cosentina di Cosenza.   
+  
+Visto, il Guardasigilli: De Francisci.   
+Registrato alla Corte dei conti, addi' 6 dicembre 1932 - Anno XI

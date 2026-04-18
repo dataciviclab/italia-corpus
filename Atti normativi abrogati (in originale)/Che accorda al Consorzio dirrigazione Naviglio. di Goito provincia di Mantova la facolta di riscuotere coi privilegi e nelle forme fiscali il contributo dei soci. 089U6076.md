@@ -1,0 +1,48 @@
+REGIO DECRETO 28 aprile 1889 n. 6076
+
+
+REGIO DECRETO 28 aprile 1889 n. 6076
+====================================
+
+Che accorda al Consorzio d'irrigazione Naviglio. di Goito, provincia di Mantova, la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. (089U6076)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 09/06/1889
+
+UMBERTO I
+---------
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduta la domanda 24 marzo 1888 del Consorzio d'irrigazione Naviglio di Goito, provincia di Mantova, con cui si chiede la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci;
+
+Veduto lo Statuto consorziale e gli atti relativi;
+
+Vedute le deliberazioni dell'Assemblea generale dei soci, del 6 settembre 1888 e 25 febbraio 1889, con le quali sono accettate le modificazioni allo Statuto suggerite dal Ministero di Agricoltura, Industria e Commercio con Note 7 aprile 1888, N. 13139, e 3 gennaio 1889, N. 41200;
+
+Veduta la [legge 29 maggio 1873, N. 1387](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1873-05-29;1387), sui consorzi d'irrigazione;
+
+Sulla
+-----
+
+proposta del Nostro Ministro per l'Agricoltura, Industria e Commercio; Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+E' accordato al Consorzio d'irrigazione Naviglio di Goito, provincia di Mantova, la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 28 aprile 1889.   
+  
+UMBERTO.   
+  
+L. Miceli.   
+  
+Visto, Il Guardasigilli: Zanardelli.   
+  

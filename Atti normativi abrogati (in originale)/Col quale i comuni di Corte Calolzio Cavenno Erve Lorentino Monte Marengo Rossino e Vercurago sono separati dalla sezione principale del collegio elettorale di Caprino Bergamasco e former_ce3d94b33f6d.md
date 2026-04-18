@@ -1,0 +1,47 @@
+REGIO DECRETO 15 ottobre 1876 n. 3416
+
+
+REGIO DECRETO 15 ottobre 1876 n. 3416
+=====================================
+
+Col quale i comuni di Corte, Calolzio, Cavenno, Erve, Lorentino, Monte Marengo, Rossino e Vercurago sono separati dalla sezione principale del collegio elettorale di Caprino Bergamasco e formeranno una sezione distinta dello stesso collegio colla sede in Corte. (076U3416)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 04/11/1876
+
+VITTORIO EMANUELE II
+--------------------
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduti gli articoli 63, 64, 65 e 66 della legge per le elezioni politiche 17 dicembre 1860, num. 4513, e la tabella annessavi della circoscrizione territoriale dei Collegi elettorali;
+
+Vedute le istanze dei comuni di Corte, Calolzio, Carenno, Erve, Lorentino, Montemarengo, Rossino e Vercurago onde essere costituiti sezione elettorale di Caprino Bergamasco n. 59, separatamente da quella principale del Collegio stesso detta di Caprino, cui furono sino ad ora uniti;
+
+Noverandosi nei comuni stessi piu' di 40 elettori iscritti;
+
+Udito il Consiglio dei Ministri;
+
+Sulla
+-----
+
+proposta del Ministro Segretario di Stato per gli affari dell'Interno, Abbiamo decretato e decretiamo:
+
+Articolo unico
+--------------
+
+  
+  
+I comuni di Corte, Calolzio, Carenno, Erre, Lorentino, Montemarengo, Rossino e Vercurago sono separati dalla sezione principale del Collegio elettorale di Caprino Bergamasco e formeranno una sezione distinta dello stesso collegio, colla sede in Corte.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Pollenzo, addi' 15 ottobre 1876.   
+  
+VITTORIO EMANUELE.   
+  
+G. Nicotera.   
+  
+  

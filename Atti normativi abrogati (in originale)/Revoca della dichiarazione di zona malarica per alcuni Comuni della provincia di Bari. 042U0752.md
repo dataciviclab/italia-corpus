@@ -1,0 +1,21 @@
+REGIO DECRETO 19 aprile 1942 n. 752
+
+
+REGIO DECRETO 19 aprile 1942 n. 752
+===================================
+
+Revoca della dichiarazione di zona malarica per alcuni Comuni della provincia di Bari. (042U0752)
+-------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 28/07/1942
+
+Art. 1
+------
+
+N.
+
+752. R. decreto 19 aprile 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, vengono revocate le dichiarazioni di zona malarica dei comuni di Bari, Bisceglie, Noicattaro e Triggiano della provincia di Bari.   
+  
+Visto, il Guardasigilli: GRANDI   
+  
+Registrato alla Corte dei conti, addi' 27 giugno 1942-XX

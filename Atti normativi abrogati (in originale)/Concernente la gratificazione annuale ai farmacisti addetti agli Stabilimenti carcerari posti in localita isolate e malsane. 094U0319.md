@@ -1,0 +1,43 @@
+REGIO DECRETO 24 giugno 1894 n. 319
+
+
+REGIO DECRETO 24 giugno 1894 n. 319
+===================================
+
+Concernente la gratificazione annuale ai farmacisti addetti agli Stabilimenti carcerari posti in localita' isolate e malsane. (094U0319)
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/08/1894
+
+Art. 1
+------
+
+  
+UMBERTO I.   
+  
+per grazia di Dio e per volonta' della Nazione   
+  
+RE D'ITALIA   
+  
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri;   
+  
+Visti gli articoli 56 e 58 dell'Ordinamento del personale amministrativo ed aggregato degli Stabilimenti carcerari e dei Riformatorii governativi, approvato con decreto Reale 6 luglio 1890 n. 7010 (serie 3ª);   
+  
+Vista la tabella E annessa al detto Ordinamento;   
+  
+Sentito il Consiglio dei Ministri;   
+  
+Abbiamo decretato e decretiamo:   
+  
+Ai farmacisti addetti agli Stabilimenti posti in localita' isolate o malsane, e' assegnata, a decorrere dal 1° luglio 1894, una gratificazione annuale pari a quella determinata nella tabella E pei medici chirurghi.   
+  
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare.   
+  
+Dato a Roma, addi' 24 giugno 1894.   
+  
+UMBERTO.   
+  
+Crispi.   
+  
+Visto, Il Guardasigilli: V. Calenda di Tavani.   
+  
