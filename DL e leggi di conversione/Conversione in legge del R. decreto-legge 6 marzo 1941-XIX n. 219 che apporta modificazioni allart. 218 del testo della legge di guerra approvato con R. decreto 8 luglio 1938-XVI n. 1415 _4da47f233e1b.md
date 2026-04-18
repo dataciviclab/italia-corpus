@@ -1,0 +1,39 @@
+LEGGE 04 luglio 1941 n. 872
+
+
+LEGGE 04 luglio 1941 n. 872
+===========================
+
+Conversione in legge del R. decreto-legge 6 marzo 1941-XIX, n. 219, che apporta modificazioni all'art. 218 del testo della legge di guerra, approvato con R. decreto 8 luglio 1938-XVI, n. 1415, gia' modificato dall'art. 2, n. 6, della legge 16 dicembre 1940-XIX, n. 1902, concernente il Tribunale delle prede. (041U0872)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 02/09/1941
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA E DI ALBANIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei Fasci e delle Corporazioni, a mezzo delle loro Commissioni legislative hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il R. decreto-legge 6 marzo 1941-XIX, n. 219, che apporta modificazioni all'art. 218 del testo della legge di guerra, approvato con R. decreto 8 luglio 1938-XVI, n. 1415, gia' modificato dall'art. 2, n. 6, della legge 16 dicembre 1940 XIX, n. 1902, concernente il Tribunale delle prede.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a San Rossore, addi' 4 luglio 1941-XIX   
+  
+VITTORIO EMANUELE   
+  
+Mussolini Ciano - Teruzzi- Grandi- Di Revel - Host Venturi   
+  
+Visto, il Guardasigilli: GRANDI.   

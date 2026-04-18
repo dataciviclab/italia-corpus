@@ -1,0 +1,53 @@
+LEGGE 12 giugno 1993 n. 185
+
+
+LEGGE 12 giugno 1993 n. 185
+===========================
+
+Conversione in legge, con modificazioni, del decreto-legge 13 aprile 1993, n. 109, recante modifiche al decreto del Presidente della Repubblica 8 giugno 1982, n. 470, concernente attuazione della direttiva CEE n. 76/160, relativa alla qualita' delle acque di balneazione.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore della legge: 15-6-93
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. Il [decreto-legge 13 aprile 1993, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-04-13;109), recante modifiche al [decreto del Presidente della Repubblica 8 giugno 1982, n. 470](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1982-06-08;470), concernente attuazione della [direttiva CEE n. 76/160](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0160), relativa alla qualita' delle acque di balneazione, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 12 giugno 1993
+
+SCALFARO
+
+CIAMPI, Presidente del Consiglio dei Ministri
+
+GARAVAGLIA, Ministro della sanita'
+
+Visto, il Guardasigilli: CONSO
+
+AVVERTENZA:  
+Il [decreto-legge 13 aprile 1993, n. 109](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-04-13;109), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 87 del 15 aprile 1993.  
+A norma dell'[art. 15, comma 5, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art15-com5) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.  
+Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 17.
+
+Allegato
+
+ ALLEGATO   
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 13   
+APRILE 1993, N. 109.   
+All'articolo 1:   
+al comma 2, le parole: "dipenda esclusivamente da fenomeni di eutrofizzazione" sono sostituite dalle seguenti: "dipenda da fenomeni che non comportino danni per la salute umana";   
+e' aggiunto, in fine, il seguente comma:   
+"3- bis. I risultati dei programmi di sorveglianza di cui al comma 3 sono parte della relazione sullo stato delle acque di balneazione, di cui all'[articolo 13 della direttiva n. 76/160/CEE del Consiglio, dell'8 dicembre 1975](http://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:31976L0160), che il Ministro della sanita' presenta al Parlamento entro il 31 marzo di ciascun anno".   

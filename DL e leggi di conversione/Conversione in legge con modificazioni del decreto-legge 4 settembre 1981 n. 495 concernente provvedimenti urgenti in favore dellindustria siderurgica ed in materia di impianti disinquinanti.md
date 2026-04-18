@@ -1,0 +1,52 @@
+LEGGE 04 novembre 1981 n. 617
+
+
+LEGGE 04 novembre 1981 n. 617
+=============================
+
+Conversione in legge, con modificazioni, del decreto-legge 4 settembre 1981, n. 495, concernente provvedimenti urgenti in favore dell'industria siderurgica ed in materia di impianti disinquinanti.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Articolo unico
+--------------
+
+  
+E' convertito in legge il [decreto-legge 4 settembre 1981, n. 495](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1981-09-04;495), recante provvedimenti urgenti in favore dell'industria siderurgica ed in materia di impianti disinquinanti, con le seguenti modificazioni:  
+All'articolo 1:  
+al primo comma, dopo le parole: Tesoro dello Stato, sono aggiunte le parole: con decorrenza dalla data di entrata in vigore del presente decreto e;  
+al secondo comma, dopo le parole: o superiore, sono aggiunte le parole: su base annua;  
+dopo il terzo comma, e' aggiunto il seguente:  
+  
+Il Ministro del tesoro, di concerto con il Ministro dell'industria, del commercio e dell'artigianato, stabilira' con suo decreto le modalita' per l'applicazione delle norme contenute nei precedenti commi;  
+al quarto comma, sono soppresse le parole:  
+all'ENEL.  
+All'articolo 2 e' aggiunto, in fine, il seguente comma:  
+  
+La spesa concernente l'onere degli interessi posti a carico dello Stato, ai sensi del secondo comma, fara' carico sul capitolo 7807 dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1982 e sul corrispondente capitolo per l'esercizio finanziario 1983 e seguenti.  
+L'articolo 3 e' sostituito dal seguente:  
+  
+Le obbligazioni di cui all'articolo precedente, possono anche essere collocate dall'IRI mediante offerta al pubblico ed il relativo controvalore e' destinato alle aziende di cui al terzo comma del suddetto articolo.  
+Alle obbligazioni di cui al primo comma dell'articolo precedente e' accordata la garanzia dello Stato, per il rimborso del capitale, il pagamento degli interessi ed ogni altro onere e spesa. Il Tesoro dello Stato e' surrogato nei diritti del creditore verso il debitore in conseguenza della operativita' della garanzia statale.  
+La garanzia e' concessa altresi' alle operazioni di prefinanziamento che l'IRI e' autorizzato ad effettuare, fino alla concorrenza massima di 1.000 miliardi, in attesa ed a valere sulla emissione e sul collocamento delle obbligazioni di cui al presente articolo.  
+Il Ministro del tesoro e' autorizzato ad emanare provvedimenti relativi al rilascio delle garanzie dello Stato per le operazioni previste dal comma che precede.  
+Al titolo sono soppresse le parole: ed in materia di impianti disinquinanti.  
+  
+
+La presente legge, munita del sigillo dello Stato, sara' inserta nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 4 novembre 1981
+
+PERTINI SPADOLINI
+
+Visto, il Guardasigilli: DARIDA

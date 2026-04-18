@@ -1,0 +1,16 @@
+LEGGE 02 dicembre 1928 n. 2883
+
+
+LEGGE 02 dicembre 1928 n. 2883
+==============================
+
+Conversione in legge, con modificazione, del R. decreto-legge 3 agosto 1928, n. 1918, che proroga il termine per il riordinamento degli uffici e servizi e per l'epurazione del personale del comune di Brescia. (028U2883)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 03/01/1929
+
+Art. 1
+------
+
+((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
+CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))

@@ -1,0 +1,46 @@
+LEGGE 04 agosto 2015 n. 117
+
+
+LEGGE 04 agosto 2015 n. 117
+===========================
+
+Conversione in legge del decreto-legge 8 luglio 2015, n. 99, recante disposizioni urgenti per la partecipazione di personale militare all'operazione militare dell'Unione europea nel Mediterraneo centromeridionale denominata EUNAVFOR MED. (15G00133)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 07/08/2015
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Promulga
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. E' convertito in legge il [decreto-legge 8 luglio 2015, n. 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-07-08;99), recante disposizioni urgenti per la partecipazione di personale militare all'operazione militare dell'Unione europea nel Mediterraneo centromeridionale denominata EUNAVFOR MED.
+
+2. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 4 agosto 2015
+
+MATTARELLA
+
+Renzi, Presidente del Consiglio dei ministri
+
+Gentiloni Silveri, Ministro degli affari esteri e della cooperazione internazionale
+
+Pinotti, Ministro della difesa
+
+Visto, il Guardasigilli: Orlando
+
+Avvertenza:   
+Il [decreto-legge 8 luglio 2015, n. 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-07-08;99), e' stato pubblicato nella Gazzetta Ufficiale - Serie generale - n. 156 dell' 8 luglio 2015.   
+In questa stessa Gazzetta Ufficiale, alla pag. 15, e' ripubblicato il testo del [decreto-legge 8 luglio 2015, n. 99](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2015-07-08;99), corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con [decreto del Presidente della Repubblica 14 marzo 1986, n. 217](http://www.normattiva.it/uri-res/N2Ls?urn:nir:presidente.repubblica:decreto:1986-03-14;217).

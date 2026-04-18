@@ -1,0 +1,51 @@
+LEGGE 30 maggio 2003 n. 121
+
+
+LEGGE 30 maggio 2003 n. 121
+===========================
+
+Conversione in legge, con modificazioni, del decreto-legge 31 marzo 2003, n. 51, recante modifiche alla normativa in materia di qualita' delle acque di balneazione.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Promulga
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. Il [decreto-legge 31 marzo 2003, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-31;51), recante modifiche alla normativa in materia di qualita' delle acque di balneazione, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 30 maggio 2003
+
+CIAMPI
+
+Berlusconi, Presidente del Consiglio dei Ministri
+
+Sirchia, Ministro della salute
+
+Visto, il Guardasigilli: Castelli
+
+Avvertenza:  
+  
+Il [decreto-legge 31 marzo 2003, n. 51](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2003-03-31;51), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 76 del 1° aprile 2003.  
+A norma dell'[art. 15, comma 5, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art15-com5) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.  
+Il testo del decreto-legge coordinato con la legge di conversione e corredato delle relative note e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 20.
+
+Allegato
+
+ Allegato   
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 31 MARZO 2003, n. 51   
+All'articolo 1:   
+al comma 1, lettera b), capoverso, le parole: «dell'autorita' competente» sono sostituite dalle seguenti: «della regione», le parole: «nel mese precedente» sono sostituite dalle seguenti «iniziando dal mese precedente» ed e' aggiunto, in fine, il seguente periodo: «Nelle zone dichiarate nuovamente idonee alla balneazione devono essere effettuati campionamenti e analisi ogni dieci giorni per tutto il periodo di massimo affollamento, procedendo immediatamente alla revoca del provvedimento di idoneita' alla balneazione qualora siano rilevati almeno due campioni con esito non favorevole anche per uno solo dei parametri previsti nella tabella (allegato 1)».   

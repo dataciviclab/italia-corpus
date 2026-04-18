@@ -1,0 +1,52 @@
+LEGGE 24 luglio 1998 n. 245
+
+
+LEGGE 24 luglio 1998 n. 245
+===========================
+
+Conversione in legge, con modificazioni, del decreto-legge 27 maggio 1998, n. 158, recante misure urgenti per l'autotrasporto.
+------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore della legge: 26/7/1998
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Promulga
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. Il [decreto-legge 27 maggio 1998, n. 158](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1998-05-27;158), recante misure urgenti per l'autotrasporto, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 24 luglio 1998
+
+SCALFARO
+
+Prodi, Presidente del Consiglio dei Ministri
+
+Burlando, Ministro dei trasporti e della navigazione
+
+Visto, il Guardasigilli: Flick
+
+Allegato
+
+ Allegato   
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 27 MAGGIO 1998, N. 158.   
+All'articolo 1:   
+al comma 1, le parole: "sono confermate" sono sostituite dalle seguenti: "si applicano anche";   
+al comma 2, dopo le parole: "sono rideterminati" sono inserite le seguenti: "per il 1998".   
+All'articolo 2:   
+al comma 1, sono aggiunte, in fine, le parole: ", oltreche' per interventi per la sicurezza della circolazione, anche con riferimento all'utilizzo delle infrastrutture, da realizzare mediante apposite convenzioni con gli enti gestori delle stesse";   
+e' aggiunto, in fine, il seguente comma:   
+"1-bis. Il Ministro dei trasporti e della navigazione, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, emana direttive per l'utilizzazione, da parte del comitato centrale per l'Albo degli autotrasportatori, delle risorse assegnate con il presente articolo, in modo che almeno il 90 per cento delle medesime sia destinato agli interventi per la sicurezza della circolazione, tenendo conto dei criteri definiti con precedenti interventi legislativi in materia". 

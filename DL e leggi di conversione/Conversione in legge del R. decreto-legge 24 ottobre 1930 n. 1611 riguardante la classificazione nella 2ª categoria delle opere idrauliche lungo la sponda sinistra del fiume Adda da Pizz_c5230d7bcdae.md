@@ -1,0 +1,16 @@
+LEGGE 26 marzo 1931 n. 337
+
+
+LEGGE 26 marzo 1931 n. 337
+==========================
+
+Conversione in legge del R. decreto-legge 24 ottobre 1930, n. 1611, riguardante la classificazione nella 2ª categoria delle opere idrauliche lungo la sponda sinistra del fiume Adda, da Pizzighettone a Crotta d'Adda, nel territorio delle provincie di Cremona e di Milano. (031U0337)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 24/04/1931
+
+Art. 1
+------
+
+((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
+CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))

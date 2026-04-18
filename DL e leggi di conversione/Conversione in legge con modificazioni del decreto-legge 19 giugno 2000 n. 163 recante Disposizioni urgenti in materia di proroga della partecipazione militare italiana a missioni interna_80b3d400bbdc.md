@@ -1,0 +1,19 @@
+LEGGE 10 agosto 2000 n. 228
+
+
+LEGGE 10 agosto 2000 n. 228
+===========================
+
+Conversione in legge, con modificazioni, del decreto-legge 19 giugno 2000, n. 163, recante: "Disposizioni urgenti in materia di proroga della partecipazione militare italiana a missioni internazionali di pace".
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Art. 1
+------
+
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))
+
+Allegato
+
+ Allegato   
+
+((PROVVEDIMENTO ABROGATO DAL [D.LGS. 15 MARZO 2010, N. 66](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2010-03-15;66)))

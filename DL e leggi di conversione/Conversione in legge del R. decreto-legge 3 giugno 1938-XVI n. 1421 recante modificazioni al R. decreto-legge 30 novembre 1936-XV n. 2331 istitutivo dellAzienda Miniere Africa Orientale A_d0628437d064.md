@@ -1,0 +1,16 @@
+LEGGE 30 dicembre 1938 n. 2158
+
+
+LEGGE 30 dicembre 1938 n. 2158
+==============================
+
+Conversione in legge del R. decreto-legge 3 giugno 1938-XVI, n. 1421, recante modificazioni al R. decreto-legge 30 novembre 1936-XV, n. 2331, istitutivo dell'Azienda Miniere Africa Orientale (A.M.A.O.). (038U2158)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 14/02/1939
+
+Art. 1
+------
+
+((PROVVEDIMENTO ABROGATO DAL [D.L. 22 DICEMBRE 2008, N. 200](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-12-22;200),  
+CONVERTITO CON MODIFICAZIONI DALLA [L. 18 FEBBRAIO 2009, N. 9](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2009-02-18;9)))

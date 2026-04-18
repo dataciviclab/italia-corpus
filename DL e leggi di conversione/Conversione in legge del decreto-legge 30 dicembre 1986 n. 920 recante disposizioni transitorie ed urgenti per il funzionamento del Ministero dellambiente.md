@@ -1,0 +1,42 @@
+LEGGE 16 febbraio 1987 n. 39
+
+
+LEGGE 16 febbraio 1987 n. 39
+============================
+
+Conversione in legge del decreto-legge 30 dicembre 1986, n. 920, recante disposizioni transitorie ed urgenti per il funzionamento del Ministero dell'ambiente.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. E' convertito in legge il [decreto-legge 30 dicembre 1986, n. 920](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-12-30;920), recante disposizioni transitorie ed urgenti per il funzionamento del Ministero dell'ambiente.
+
+2. La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 16 febbraio 1987
+
+COSSIGA
+
+CRAXI, Presidente del Consiglio dei Ministri
+
+DE LORENZO, Ministro dell'ambiente
+
+Visto, il Guardasigilli: ROGNONI
+
+AVVERTENZA:  
+  
+Il [decreto-legge 30 dicembre 1986, n. 920](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1986-12-30;920), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 302 del 31 dicembre 1986.

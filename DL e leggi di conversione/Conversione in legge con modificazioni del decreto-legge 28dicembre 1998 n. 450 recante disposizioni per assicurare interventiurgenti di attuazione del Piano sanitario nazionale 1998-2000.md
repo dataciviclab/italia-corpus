@@ -1,0 +1,64 @@
+LEGGE 26 febbraio 1999 n. 39
+
+
+LEGGE 26 febbraio 1999 n. 39
+============================
+
+Conversione in legge, con modificazioni, del decreto-legge 28 
+dicembre 1998, n. 450, recante disposizioni per assicurare interventi 
+urgenti di attuazione del Piano sanitario nazionale 1998-2000.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore della legge: 28-2-1999
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Promulga
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. Il [decreto-legge 28 dicembre 1998, n. 450](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1998-12-28;450), recante disposizioni per assicurare interventi urgenti di attuazione del Piano sanitario nazionale 1998-2000, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+2. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 26 febbraio 1999
+
+SCALFARO
+
+D'Alema, Presidente del Consiglio dei Ministri
+
+Bindi, Ministro della sanita'
+
+Visto, il Guardasigilli: Diliberto
+
+Allegato
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 28   
+DICEMBRE 1998, N. 450.   
+All'articolo 1:   
+al comma 1,   
+la parola: "nazionale" e' sostituita dalle seguenti: "su base nazionale";   
+le parole: "almeno una struttura dedicata" sono sostituite dalle seguenti: "una o piu' strutture, ubicate nel territorio in modo da consentire un'agevole accessibilita' da parte dei pazienti e delle loro famiglie, dedicate";   
+le parole: "per i pazienti la cui patologia non risponde ai trattamenti disponibili e" sono sostituite dalle seguenti: "prioritariamente per i pazienti affetti da patologia neoplastica terminale";   
+alla fine del comma e' aggiunto il seguente periodo: "Le suddette strutture dovranno essere realizzate prioritariamente attraverso l'adeguamento e la riconversione di strutture, di proprieta' di aziende sanitarie locali o di aziende ospedaliere, inutilizzate anche parzialmente, ovvero di strutture che si siano rese disponibili in conseguenza della ristrutturazione della rete ospedaliera di cui all'[articolo 2, comma 5, della legge 28 dicembre 1995, n. 549](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1995-12-28;549~art2-com5), e successive modificazioni.";   
+al comma 2, sono aggiunte, in fine, le seguenti parole: "nonche' le modalita' di verifica dei risultati";   
+il comma 3 e' sostituito dal seguente:   
+"3. Le regioni e le province autonome presentano al Ministero della sanita', nei termini e con le modalita' previste nel decreto ministeriale di adozione del programma di cui al comma 1, i progetti per l'attivazione o la realizzazione delle strutture, conformi alle indicazioni del programma medesimo e tali da assicurare l'integrazione delle nuove strutture e dell'assistenza domiciliare con le altre attivita' di assistenza sanitaria erogate nell'ambito della regione o della provincia. A tali progetti deve essere allegato un piano della regione o della provincia autonoma che assicuri l'integrazione dell'attivita' delle strutture con le altre attivita' di assistenza ai pazienti indicati nel comma 1, erogate nell'ambito della regione o della provincia autonoma. Il contributo finanziario a carico del bilancio dello Stato per la realizzazione del programma di cui al comma 1 non puo' superare l'importo di lire 155.895 milioni per l'anno 1998, di lire 100.616 milioni per l'anno 1999 e di lire 53.532 milioni per l'anno 2000.";   
+il comma 4 e' sostituito dal seguente:   
+"4. Il Ministero della sanita' valuta i progetti di cui al comma 3 ed i piani ad essi allegati secondo i criteri stabiliti nel decreto di adozione del programma. La congruita' dei progetti e dei piani ai criteri stabiliti consente alla regione di accedere al finanziamento del Ministero della sanita' per il raggiungimento dell'obiettivo di cui al comma 1".   
+All'articolo 2, comma 1, e' aggiunto, in fine, il seguente periodo: "Tale fase di sperimentazione deve comunque concludersi entro il 30 giugno 2000".   
+All'articolo 3, comma 3, secondo periodo, dopo le parole: "delle somme impegnate" sono inserite le seguenti: ", con specifico riferimento agli obiettivi della programmazione sanitaria regionale conseguiti,".   
+All'articolo 4, al comma 2, sono soppresse le parole: "e le province autonome di Trento e di Bolzano".   
+Dopo l'articolo 4, e' inserito il seguente:   
+"Art. 4-bis. - 1. Per gli interventi di cui alla [lettera c) del comma 1 dell'articolo 50 della legge 23 dicembre 1998, n. 448](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1998-12-23;448~art50-com1-letc), la relativa autorizzazione di spesa e' incrementata di lire 135 miliardi per l'anno 2000 e di lire 200 miliardi per l'anno 2001.   
+2. All'onere di cui al comma 1 si provvede mediante corrispondente riduzione delle proiezioni dell'accantonamento iscritto, ai fini del bilancio triennale 1999-2001, nell'ambito dell'unita' previsionale di base di conto capitale ''Fondo speciale'' dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1999, allo scopo utilizzando l'accantonamento relativo al Ministero della sanita'".   

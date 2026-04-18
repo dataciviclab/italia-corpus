@@ -1,0 +1,54 @@
+LEGGE 20 giugno 1997 n. 174
+
+
+LEGGE 20 giugno 1997 n. 174
+===========================
+
+Conversione in legge, con modificazioni, del decreto-legge 24 aprile 1997, n. 108, recante partecipazione italiana alle iniziative internazionali in favore dell'Albania.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore della legge: 24-6-1997
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+Promulga
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. Il [decreto-legge 24 aprile 1997, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-04-24;108), recante partecipazione italiana alle iniziative internazionali in favore dell'Albania, e' convertito in legge con le modificazioni riportate in allegato alla presente legge.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 20 giugno 1997
+
+SCALFARO
+
+Prodi, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: Flick
+
+Avvertenza:  
+Il [decreto-legge 24 aprile 1997, n. 108](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1997-04-24;108), e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 95 del 24 aprile 1997.  
+A norma dell'[art. 15, comma 5, della legge 23 agosto 1988, n. 400](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1988-08-23;400~art15-com5) (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione.  
+Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 39. Detto testo sara' ripubblicato, corredato delle relative note, nella Gazzetta Ufficiale del giorno 12 luglio 1997.
+
+Allegato
+
+ Allegato   
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 24 APRILE 1997, N. 108.   
+
+((...))
+
+  
+Dopo l'articolo 6, e' inserito il seguente:   
+"Art. 6-bis (Provvedimenti a favore dei medici militari e della Polizia di Stato). - 1. Al fine di fronteggiare le esigenze connesse alla missione in atto in Albania, ai medici militari e della Polizia di Stato si applica l'[articolo 2 della legge 9 ottobre 1970, n. 740](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1970-10-09;740~art2), come modificato dall'[articolo 6, comma 1, del decreto-legge 14 giugno 1993, n. 187](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:1993-06-14;187~art6-com1), con vertito, con modificazioni, dalla [legge 12 agosto 1993, n. 296](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1993-08-12;296)".   
+
+((...))

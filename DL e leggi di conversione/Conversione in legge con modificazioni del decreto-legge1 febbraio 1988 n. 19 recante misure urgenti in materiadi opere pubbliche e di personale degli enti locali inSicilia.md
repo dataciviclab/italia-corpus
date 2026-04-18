@@ -1,0 +1,67 @@
+LEGGE 28 marzo 1988 n. 99
+
+
+LEGGE 28 marzo 1988 n. 99
+=========================
+
+Conversione in legge, con modificazioni, del decreto-legge 
+1° febbraio 1988, n. 19, recante misure urgenti in materia 
+di opere pubbliche e di personale degli enti locali in 
+Sicilia.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore della legge: 31/03/1988
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+
+IL PRESIDENTE DELLA REPUBBLICA
+------------------------------
+
+PROMULGA
+--------
+
+la seguente legge:
+
+Art. 1
+------
+
+1. Il decreto-legge 1› febbraio 1988, n. 19, recante misure urgenti in materia di opere pubbliche e di personale degli enti locali in Sicilia, e' convertito in legge con le seguenti modificazioni:  
+All'articolo 1:  
+dopo il comma 1 e' inserito il seguente:  
+"1-bis. Le disposizioni del presente articolo si applicano anche agli accordi di programma che il sindaco di Palermo e il sindaco di Catania unitamente al presidente della regione siciliana possono chiedere al Presidente del Consiglio dei Ministri per interventi di risanamento dei centri storici di Palermo e Catania";  
+al comma 5, e' aggiunto, in fine, il seguente periodo: "Restano in ogni caso fermi i vincoli previsti dalla legislazione in materia paesaggistica e ambientale";  
+al comma 6, ultimo periodo, la parola: "provvede" e' sostituita dalle seguenti: "puo' provvedere".  
+All'articolo 2, nel comma 1:  
+alla lettera a), dopo le parole: "per il risanamento" sono inserite le seguenti: "sociale, ambientale e";  
+alla lettera b), sono aggiunte, in fine, le seguenti parole: "e ambientale";  
+la lettera c) e' sostituita dalla seguente:  
+"c) gli interventi per l'urbanizzazione primaria e secondaria, per il risanamento dell'ambiente e del patrimonio edilizio esistente, per la realizzazione del parco dell'Oreto, per la sistemazione degli argini e per il disinquinamento delle acque nelle aree comprese nel bacino del fiume Oreto".  
+All'articolo 3:  
+al comma 2, le parole: "delle norme costituzionali, comunitarie e dei princi'pi generali dell'ordinamento" sono sostituite dalle seguenti: "dei princi'pi generali dell'ordinamento e delle norme comunitarie".  
+All'articolo 4:  
+al comma 1, dopo le parole: "ordinariamente competenti," sono inserite le seguenti: "nonche' quelle integrative erogate dallo Stato,".  
+All'articolo 5:  
+al comma 1, le parole: "su richiesta del consiglio comunale" sono sostituite dalle seguenti: "su richiesta del comune";  
+al comma 2, le parole: "due anni" sono sostituite dalle seguenti: "tre anni";  
+il comma 3 e' soppresso.  
+All'articolo 6:  
+al comma 2, le parole: "per le citta' di Palermo, Catania e Messina" sono soppresse;  
+al comma 3, il primo periodo e' sostituito dal seguente: "Resta salva la competenza della regione in materia di procedure concorsuali e loro accelerazione"; al secondo periodo, dopo le parole: "salva la" e' inserita la seguente: "eventuale".  
+Dopo l'articolo 6 e' inserito il seguente:  
+"Art. 6-bis. - 1. Il Presidente del Consiglio dei Ministri presenta al parlamento ogni dodici mesi una documentata relazione di tutte le attivita' svolte.  
+2. Le norme di cui al presente decreto hanno efficacia triennale a decorrere dalla loro entrata in vigore".
+
+2. La presente legge entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale.
+
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Data a Roma, addi' 28 marzo 1988
+
+COSSIGA
+
+GORIA, Presidente del Consiglio dei Ministri
+
+Visto, il Guardasigilli: VASSALLI AVVERTENZA:
+
+Il decreto-legge 1› febbraio 1988, n. 19, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 25 del 1› febbraio 1988. Il testo del decreto-legge coordinato con la legge di conversione sara' pubblicato nella Gazzetta Ufficiale del giorno 6 aprile 1988.

@@ -1,0 +1,16 @@
+LEGGE 21 ottobre 1940 n. 1518
+
+
+LEGGE 21 ottobre 1940 n. 1518
+=============================
+
+Conversione in legge, con modificazioni, del R. decreto-legge 21 giugno 1940-XVIII, n. 856, contenente le norme per la gestione patrimoniale e finanziaria dello Stato in periodo di guerra. (040U1518)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 12/11/1940
+
+Art. 1
+------
+
+((PROVVEDIMENTO ABROGATO DAL [D.L. 25 GIUGNO 2008, N. 112](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2008-06-25;112), CONVERTITO  
+CON MODIFICAZIONI DALLA [L. 6 AGOSTO 2008, N. 133](http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-08-06;133)))

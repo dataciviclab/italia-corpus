@@ -1,0 +1,51 @@
+LEGGE 17 maggio 1938 n. 776
+
+
+LEGGE 17 maggio 1938 n. 776
+===========================
+
+Conversione in legge, con modificazioni, del R. decreto-legge 1° 
+febbraio 1937-XV, n. 395, che reca varianti all'organico dei 
+cancellieri giudiziari militari e ad altre disposizioni vigenti sull'Amministrazione della giustizia penale militare. (038U0776)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Entrata in vigore del provvedimento: 22/06/1938
+
+Art. 1
+------
+
+ VITTORIO EMANUELE III   
+  
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE   
+  
+RE D'ITALIA   
+  
+IMPERATORE D'ETIOPIA   
+  
+Il Senato e la Camera dei deputati hanno approvato;   
+  
+Noi abbiamo sanzionato e promulghiamo quanto segue:   
+  
+Articolo unico.   
+  
+E' convertito in legge il Regio decreto-legge 1° febbraio 1937-XV, n. 395, che reca varianti all'organico dei cancellieri giudiziari militari e ad altre disposizioni vigenti sull'Amministrazione della giustizia penale militare, con le seguenti modificazioni:   
+  
+L'art. 4 diventa art. 5 e l'art. 5 diventa art. 4.   
+  
+Nel primo comma dell'art. 5, dopo le parole: «le seguenti modificazioni», e' introdotto il seguente numero:   
+  
+«1° all'art. 14, primo comma, nella categoria dei magistrati e' aggiunta la seguente lettera:   
+  
+«d) primi referendari e referendari del Consiglio di stato e della Corte dei conti che ne facciano domanda».   
+  
+I numeri 1°, 2°, 3° dell'art. 5 diventano rispettivamente 2°, 3° e 4°.   
+  
+Ordiniamo che la presente, munita del sigillo dello Stato, sia inserta nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarla e di farla osservare come legge dello Stato.   
+  
+Data a Roma, addi' 17 maggio 1938 - Anno XVI   
+  
+VITTORIO EMANUELE   
+  
+Mussolini - Solmi - Di Revel   
+  
+Visto, il Guardasigilli: Solmi   
